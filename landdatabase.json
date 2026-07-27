@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "lastRun": "2026-07-27T15:33:21.206Z",
-    "totalLeads": 39,
-    "rotationIndex": 4
+    "lastRun": "2026-07-27T16:16:50.776Z",
+    "totalLeads": 54,
+    "rotationIndex": 0
   },
   "leads": [
     {
@@ -508,6 +508,201 @@
       "notes": "Australian NRI investor seeking 2 to 5 acres of scenic commercial parcel near Pasumalai hills for eco-resort and boutique hotel project.",
       "status": "New",
       "dateAdded": "2024-03-23T13:15:00Z"
+    },
+    {
+      "id": "LEAD-MAD-001",
+      "name": "Pandian Family Office (T. Rajapandian)",
+      "category": "Family Office",
+      "location": "KK Nagar, Madurai, Tamil Nadu",
+      "phone": "919842112345",
+      "whatsapp": "919842112345",
+      "email": "investments@pandianholdings.com",
+      "website": "https://www.pandianholdings.com",
+      "notes": "Seeking 3 to 5 acres of high-road frontage commercial land near Madurai Ring Road or Mattuthavani for a multi-tenant commercial complex and showroom.",
+      "status": "New",
+      "dateAdded": "2024-05-18T09:15:00.000Z"
+    },
+    {
+      "id": "LEAD-MAD-002",
+      "name": "Meenakshi Logistics & Warehousing Group",
+      "category": "Corporate Holding",
+      "location": "Kappalur Industrial Estate, Madurai, Tamil Nadu",
+      "phone": "919894023456",
+      "whatsapp": "919894023456",
+      "email": "land@meenakshilogistics.co.in",
+      "website": "https://www.meenakshilogistics.co.in",
+      "notes": "Looking for 10-15 acres of clear-title industrial/commercial land along Madurai-Tirunelveli NH (Kappalur/Thirumangalam stretch) for regional distribution hub.",
+      "status": "New",
+      "dateAdded": "2024-05-18T11:30:00.000Z"
+    },
+    {
+      "id": "LEAD-MAD-003",
+      "name": "Sundaram South Ventures",
+      "category": "HNI Investment Office",
+      "location": "Anna Nagar, Madurai, Tamil Nadu",
+      "phone": "919443134567",
+      "whatsapp": "919443134567",
+      "email": "acquisitions@sundaramsouth.com",
+      "website": "https://www.sundaramsouth.com",
+      "notes": "HNI syndicate actively buying land along Madurai-Trichy Highway (near Othakadai / Agricultural College) for future IT/commercial park development.",
+      "status": "New",
+      "dateAdded": "2024-05-19T08:45:00.000Z"
+    },
+    {
+      "id": "LEAD-MAD-004",
+      "name": "Alagar Textiles & Land Holdings",
+      "category": "Textile Conglomerate",
+      "location": "Vilangudi, Madurai, Tamil Nadu",
+      "phone": "919843045678",
+      "whatsapp": "919843045678",
+      "email": "realty@alagartextiles.in",
+      "website": "https://www.alagartextiles.in",
+      "notes": "Looking to diversify surplus capital into commercial land parcels (2 to 8 acres) on Dindigul-Madurai NH near Samayanallur.",
+      "status": "New",
+      "dateAdded": "2024-05-19T10:20:00.000Z"
+    },
+    {
+      "id": "LEAD-MAD-005",
+      "name": "Vaigai Capital & Infrastructure",
+      "category": "Real Estate Enterprise",
+      "location": "Tallakulam, Madurai, Tamil Nadu",
+      "phone": "919842556789",
+      "whatsapp": "919842556789",
+      "email": "landbank@vaigaicapital.com",
+      "website": "https://www.vaigaicapital.com",
+      "notes": "High-intent buyer seeking 1 to 3 acres near Madurai Airport Road (Avaniapuram - Eliyarpathi corridor) for immediate commercial development.",
+      "status": "New",
+      "dateAdded": "2024-05-19T14:10:00.000Z"
+    },
+    {
+      "id": "LEAD-MAD-006",
+      "name": "Sethupathi Capital Partners",
+      "category": "Family Office",
+      "location": "Chockikulam, Madurai, Tamil Nadu",
+      "phone": "919894667890",
+      "whatsapp": "919894667890",
+      "email": "invest@sethupathicapital.com",
+      "website": "https://www.sethupathicapital.com",
+      "notes": "Family office representing local healthcare investors. Interested in 2+ acres along Bye Pass Road or Kalavasal junction for a multi-specialty center.",
+      "status": "New",
+      "dateAdded": "2024-05-20T09:00:00.000Z"
+    },
+    {
+      "id": "LEAD-MAD-007",
+      "name": "Temple City Hospitality & Retail",
+      "category": "Hospitality Group",
+      "location": "Mattuthavani, Madurai, Tamil Nadu",
+      "phone": "919443778901",
+      "whatsapp": "919443778901",
+      "email": "expansion@templecitygroup.com",
+      "website": "https://www.templecitygroup.com",
+      "notes": "Urgent requirement for 1.5 to 4 acres of main road land near Ring Road / Uthangudi junction for drive-through retail and hotel expansion.",
+      "status": "New",
+      "dateAdded": "2024-05-20T11:45:00.000Z"
+    },
+    {
+      "id": "LEAD-MAD-008",
+      "name": "Solaimalai Commercial Realty",
+      "category": "HNI Business Group",
+      "location": "Ellis Nagar, Madurai, Tamil Nadu",
+      "phone": "919842889012",
+      "whatsapp": "919842889012",
+      "email": "properties@solaimalaigroup.in",
+      "website": "https://www.solaimalaigroup.in",
+      "notes": "Promoter-led land acquisition wing searching for 5+ acres near Nagamalai Pudukottai along Madurai-Theni highway for integrated automotive showroom/service park.",
+      "status": "New",
+      "dateAdded": "2024-05-20T13:30:00.000Z"
+    },
+    {
+      "id": "LEAD-MAD-009",
+      "name": "KPN Family Investment Trust",
+      "category": "HNI Investor",
+      "location": "SS Colony, Madurai, Tamil Nadu",
+      "phone": "919894990123",
+      "whatsapp": "919894990123",
+      "email": "trust@kpnfamilyoffice.com",
+      "website": "https://www.kpnfamilyoffice.com",
+      "notes": "Interested in long-term capital appreciation. Looking for 10-20 acres land parcel within 15 km radius of Madurai Ring Road expansion phase.",
+      "status": "New",
+      "dateAdded": "2024-05-21T08:15:00.000Z"
+    },
+    {
+      "id": "LEAD-MAD-010",
+      "name": "Dhanalakshmi Agro Cold Chain Holdings",
+      "category": "Corporate Buyer",
+      "location": "Thirumangalam, Madurai, Tamil Nadu",
+      "phone": "919443012345",
+      "whatsapp": "919443012345",
+      "email": "projects@dhanalakshmiagro.co.in",
+      "website": "https://www.dhanalakshmiagro.co.in",
+      "notes": "Requires 8 to 12 acres of non-agricultural/commercial earmarked land close to Madurai-Virudhunagar NH for industrial cold storage facility.",
+      "status": "New",
+      "dateAdded": "2024-05-21T10:00:00.000Z"
+    },
+    {
+      "id": "LEAD-MAD-011",
+      "name": "Velammal Commercial Estates Trust",
+      "category": "Commercial Trust",
+      "location": "Anupanadi, Madurai, Tamil Nadu",
+      "phone": "919842123456",
+      "whatsapp": "919842123456",
+      "email": "estate wing@velammal.edu.in",
+      "website": "https://www.velammal.edu.in",
+      "notes": "Acquisition wing looking for 5-10 acres for commercial institutional establishment along Ring Road / Viraganoor Dam bypass area.",
+      "status": "New",
+      "dateAdded": "2024-05-21T12:20:00.000Z"
+    },
+    {
+      "id": "LEAD-MAD-012",
+      "name": "Nagappa Traders Land Division",
+      "category": "Family Office",
+      "location": "Simmakkal, Madurai, Tamil Nadu",
+      "phone": "919894234567",
+      "whatsapp": "919894234567",
+      "email": "landbank@nagappatraders.com",
+      "website": "https://www.nagappatraders.com",
+      "notes": "Traditional Madurai HNI family looking for prime 1-2 acre commercial plots in developed zones (KK Nagar, Anna Nagar extension, Lake Area).",
+      "status": "New",
+      "dateAdded": "2024-05-22T09:30:00.000Z"
+    },
+    {
+      "id": "LEAD-MAD-013",
+      "name": "South TN Logistics Park Developers",
+      "category": "FMCG / Logistics Group",
+      "location": "Samayanallur, Madurai, Tamil Nadu",
+      "phone": "919443345678",
+      "whatsapp": "919443345678",
+      "email": "land acquisition@stnlogistics.in",
+      "website": "https://www.stnlogistics.in",
+      "notes": "Needs 15 to 20 acres converted commercial/industrial land parcel on Madurai-Dindigul highway frontage. Fast closure for direct owners.",
+      "status": "New",
+      "dateAdded": "2024-05-22T11:15:00.000Z"
+    },
+    {
+      "id": "LEAD-MAD-014",
+      "name": "Chettinad Heritage Capital (Madurai Branch)",
+      "category": "Family Office",
+      "location": "Subramaniapuram, Madurai, Tamil Nadu",
+      "phone": "919842456789",
+      "whatsapp": "919842456789",
+      "email": "investments@chettinadheritage.com",
+      "website": "https://www.chettinadheritage.com",
+      "notes": "High net worth family office targeting heritage and high-value commercial land parcels along Madurai Bypass Road and Palanganatham area.",
+      "status": "New",
+      "dateAdded": "2024-05-22T14:40:00.000Z"
+    },
+    {
+      "id": "LEAD-MAD-015",
+      "name": "Arumugam Developers & HNI Syndicate",
+      "category": "Real Estate Consortium",
+      "location": "Othakadai, Madurai, Tamil Nadu",
+      "phone": "919894567890",
+      "whatsapp": "919894567890",
+      "email": "syndicate@arumugamdevelopers.com",
+      "website": "https://www.arumugamdevelopers.com",
+      "notes": "Seeking 4 to 8 acres land on Melur-Madurai road near ELCOT IT Park area for commercial plaza and hotel joint venture development.",
+      "status": "New",
+      "dateAdded": "2024-05-22T16:00:00.000Z"
     }
   ]
 }

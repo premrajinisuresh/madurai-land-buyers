@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "lastRun": "2026-07-27T15:02:43.507Z",
-    "totalLeads": 3,
-    "rotationIndex": 1
+    "lastRun": "2026-07-27T15:28:10.996Z",
+    "totalLeads": 15,
+    "rotationIndex": 2
   },
   "leads": [
     {
@@ -40,6 +40,162 @@
       "notes": "Seeking 8 to 15 acres of scenic, green-zone/hospitality land near Alagar Kovil foothills or Sirumalai access corridor near Madurai for a luxury wellness retreat and eco-resort project.",
       "status": "New",
       "dateAdded": "2025-05-20T14:45:00.000Z"
+    },
+    {
+      "id": "MAD-HOSP-001",
+      "name": "Aravind Eye Care System (Infrastructure Division)",
+      "category": "Ophthalmology Specialty Group",
+      "location": "Madurai Ring Road Corridor, Madurai",
+      "phone": "919842100101",
+      "whatsapp": "919842100101",
+      "email": "land.expansion@aravind.org",
+      "website": "https://www.aravind.org",
+      "notes": "Seeking 3.5 acres of commercial/institutional land along the Madurai-Airport Ring Road for a new pediatric ophthalmology and research wing expansion.",
+      "status": "New",
+      "dateAdded": "2024-03-15T09:30:00Z"
+    },
+    {
+      "id": "MAD-HOSP-002",
+      "name": "Kauvery Hospital Projects Team",
+      "category": "Multi-Specialty Hospital Chain",
+      "location": "Mattuthavani - Melur Road, Madurai",
+      "phone": "919842245678",
+      "whatsapp": "919842245678",
+      "email": "corporate.realestate@kauveryhospital.com",
+      "website": "https://www.kauveryhospital.com",
+      "notes": "High-intent buyer searching for 2.0 to 4.0 acres with main road frontage near Mattuthavani for a dedicated Oncology and Trauma Care Specialty Center.",
+      "status": "New",
+      "dateAdded": "2024-03-16T11:15:00Z"
+    },
+    {
+      "id": "MAD-HOSP-003",
+      "name": "Meenakshi Mission Hospital Real Estate Cell",
+      "category": "Healthcare Infrastructure Trust",
+      "location": "Lake Area - Othakadai Belt, Madurai",
+      "phone": "919842888910",
+      "whatsapp": "919842888910",
+      "email": "expansion@mmhrc.in",
+      "website": "https://www.meenakshimission.org",
+      "notes": "Looking to acquire 5 acres of clear-title commercial land suitable for a super-specialty rehabilitation and sports medicine institute.",
+      "status": "New",
+      "dateAdded": "2024-03-17T14:20:00Z"
+    },
+    {
+      "id": "MAD-HOSP-004",
+      "name": "Apollo Cancer Centres (South Expansion)",
+      "category": "Oncology Specialty Chain",
+      "location": "Thirumangalam Highway Bypass, Madurai",
+      "phone": "919843012345",
+      "whatsapp": "919843012345",
+      "email": "land.south@apollohospitals.com",
+      "website": "https://www.apollohospitals.com",
+      "notes": "Scouting for 2.5 acres land near Thirumangalam-Madurai bypass for an advanced Proton Therapy & Day-Care Radiation Clinic setup.",
+      "status": "New",
+      "dateAdded": "2024-03-18T10:00:00Z"
+    },
+    {
+      "id": "MAD-HOSP-005",
+      "name": "Velammal Medical Trust - Expansion Div",
+      "category": "Medical Educational & Specialty Trust",
+      "location": "Anuppanadi - Ring Road Junction, Madurai",
+      "phone": "919842577112",
+      "whatsapp": "919842577112",
+      "email": "projects@velammalmedicalcollege.edu.in",
+      "website": "https://www.velammalmedicalcollege.edu.in",
+      "notes": "Immediate requirement for 4 to 6 acres adjoining NH-44 ring road junction for setting up an organ transplant specialty clinic and staff housing.",
+      "status": "New",
+      "dateAdded": "2024-03-19T08:45:00Z"
+    },
+    {
+      "id": "MAD-HOSP-006",
+      "name": "Vasan Eye Care Projects",
+      "category": "Single-Specialty Clinic Chain",
+      "location": "KK Nagar Main Road Extension, Madurai",
+      "phone": "919842133445",
+      "whatsapp": "919842133445",
+      "email": "expansion@vasaneye.in",
+      "website": "https://www.vasaneye.in",
+      "notes": "Looking for 80 cents to 1.2 acres commercial plot with high visibility in KK Nagar / Anna Nagar extension zone for a standalone surgical clinic.",
+      "status": "New",
+      "dateAdded": "2024-03-20T12:10:00Z"
+    },
+    {
+      "id": "MAD-HOSP-007",
+      "name": "SIMS Hospitals BD South",
+      "category": "Multi-Specialty Healthcare Group",
+      "location": "Nagamalai Pudukottai Highway, Madurai",
+      "phone": "919843399887",
+      "whatsapp": "919843399887",
+      "email": "business.development@simshospitals.com",
+      "website": "https://www.simshospitals.com",
+      "notes": "Corporate buyer looking for 3.0 acres commercial land along Madurai-Theni road near MKU University for a specialized Neuro & Orthopedic center.",
+      "status": "New",
+      "dateAdded": "2024-03-21T15:30:00Z"
+    },
+    {
+      "id": "MAD-HOSP-008",
+      "name": "Dr. Mohan's Diabetes Specialities Centre",
+      "category": "Endocrine & Metabolic Clinic Chain",
+      "location": "Bypass Road Corridor, Madurai",
+      "phone": "919842911223",
+      "whatsapp": "919842911223",
+      "email": "realestate@drmohans.com",
+      "website": "https://www.drmohans.com",
+      "notes": "Seeking 1.0 to 1.5 acres land on main Madurai Bypass for expanding regional foot & vascular care specialty center with ample parking space.",
+      "status": "New",
+      "dateAdded": "2024-03-22T09:00:00Z"
+    },
+    {
+      "id": "MAD-HOSP-009",
+      "name": "Cloudnine Maternal & Child Care Projects",
+      "category": "Mother & Child Specialty Hospital",
+      "location": "Ellis Nagar / SS Colony Extension, Madurai",
+      "phone": "919843155667",
+      "whatsapp": "919843155667",
+      "email": "site-acquisition@cloudninehospitals.com",
+      "website": "https://www.cloudninehospitals.com",
+      "notes": "Requires 1.5 acres commercial land in urban or well-connected bypass corridor for setting up a luxury boutique mother & childcare unit.",
+      "status": "New",
+      "dateAdded": "2024-03-22T13:40:00Z"
+    },
+    {
+      "id": "MAD-HOSP-010",
+      "name": "Prashanth Fertility Research Centre",
+      "category": "Reproductive Medicine & IVF Clinic",
+      "location": "Melur Road - Surveyor Colony Belt, Madurai",
+      "phone": "919842744332",
+      "whatsapp": "919842744332",
+      "email": "projecthead@pfrc.in",
+      "website": "https://www.pfrc.in",
+      "notes": "Interested in purchasing 1 acre land near Melur Road with DTCP/CMDA equivalent permissions for institutional/commercial medical establishment.",
+      "status": "New",
+      "dateAdded": "2024-03-23T10:15:00Z"
+    },
+    {
+      "id": "MAD-HOSP-011",
+      "name": "GEM Hospital & Research Centre",
+      "category": "Gastroenterology Specialty Institute",
+      "location": "Vadipatti Highway Corridor (NH-44), Madurai",
+      "phone": "919843822110",
+      "whatsapp": "919843822110",
+      "email": "expansion.madurai@geminstitute.in",
+      "website": "https://www.gemhospitals.com",
+      "notes": "Urgently seeking 2 to 3 acres highway-facing land near Samayanallur/Vadipatti stretch for a specialized bariatric and digestive health facility.",
+      "status": "New",
+      "dateAdded": "2024-03-24T16:00:00Z"
+    },
+    {
+      "id": "MAD-HOSP-012",
+      "name": "Sundaram Medical Foundation Expansion Cell",
+      "category": "Multi-Specialty Community Trust",
+      "location": "Avaniyapuram - Airport Road, Madurai",
+      "phone": "919842066554",
+      "whatsapp": "919842066554",
+      "email": "infrastructure@smf.org.in",
+      "website": "https://www.smf.org.in",
+      "notes": "High priority search for 2.5 acres land close to Madurai Airport road for emergency trauma and cardiac response outpatient network expansion.",
+      "status": "New",
+      "dateAdded": "2024-03-25T11:50:00Z"
     }
   ]
 }

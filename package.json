@@ -1,0 +1,9 @@
+{
+  "name": "madurai-land-buyers",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Targeted land buyer intent discovery for Madurai commercial properties",
+  "dependencies": {
+    "@google/genai": "^0.1.1"
+  }
+}

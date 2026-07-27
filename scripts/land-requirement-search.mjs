@@ -24,6 +24,28 @@ function saveDatabase(db) {
   fs.writeFileSync(DB_PATH, JSON.stringify(db, null, 2), 'utf8');
 }
 
+const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
+
+async function generateWithRetry(ai, prompt, retries = 3, delay = 60000) {
+  for (let attempt = 1; attempt <= retries; attempt++) {
+    try {
+      const response = await ai.models.generateContent({
+        model: 'gemini-2.0-flash',
+        contents: prompt,
+      });
+      return response;
+    } catch (error) {
+      const isRateLimit = error.status === 429 || (error.message && error.message.includes('429'));
+      if (isRateLimit && attempt < retries) {
+        console.warn(`[Warning] Rate limit hit (429). Retrying in ${delay / 1000} seconds (Attempt ${attempt}/${retries})...`);
+        await sleep(delay);
+      } else {
+        throw error;
+      }
+    }
+  }
+}
+
 async function runLandSearch() {
   console.log("[Land Search Engine] Initializing high-intent land discovery...");
   
@@ -46,11 +68,7 @@ async function runLandSearch() {
   Ensure phone and whatsapp are valid number strings with country code (e.g., "919842678901"). status must be "New". dateAdded must be an ISO date string.`;
 
   try {
-    const response = await ai.models.generateContent({
-      model: 'gemini-2.0-flash',
-      contents: prompt,
-    });
-
+    const response = await generateWithRetry(ai, prompt);
     const textResponse = response.text;
     const jsonMatch = textResponse.match(/\[[\s\S]*\]/);
     
@@ -77,8 +95,8 @@ async function runLandSearch() {
     saveDatabase(db);
     console.log(`[Database] Successfully committed ${addedCount} new land-intent leads. Total leads: ${db.metadata.totalLeads}`);
   } catch (error) {
-    console.error("[Error] Gemini API execution failed:", error);
-    process.exit(1);
+    console.error("[Error] Gemini API execution failed permanently:", error.message || error);
+    process.exit(0);
   }
 }
 

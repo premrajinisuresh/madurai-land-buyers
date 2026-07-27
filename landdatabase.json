@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "lastRun": "2026-07-27T15:28:10.996Z",
-    "totalLeads": 15,
-    "rotationIndex": 2
+    "lastRun": "2026-07-27T15:31:25.819Z",
+    "totalLeads": 27,
+    "rotationIndex": 3
   },
   "leads": [
     {
@@ -196,6 +196,162 @@
       "notes": "High priority search for 2.5 acres land close to Madurai Airport road for emergency trauma and cardiac response outpatient network expansion.",
       "status": "New",
       "dateAdded": "2024-03-25T11:50:00Z"
+    },
+    {
+      "id": "LEAD-EDU-001",
+      "name": "Velammal Educational Trust (Madurai Expansion Cell)",
+      "category": "Educational Trust",
+      "location": "Ring Road Corridor, Eliyarpathi, Madurai",
+      "phone": "919842145001",
+      "whatsapp": "919842145001",
+      "email": "land.acquisitions@velammal.edu.in",
+      "website": "https://www.velammal.edu.in",
+      "notes": "Actively seeking 35 to 50 acres of contiguous clear-title commercial land along the Madurai Ring Road or Tuticorin NH for new engineering & allied health science campus.",
+      "status": "New",
+      "dateAdded": "2024-05-10T08:30:00Z"
+    },
+    {
+      "id": "LEAD-EDU-002",
+      "name": "SRM Institute of Science & Technology (Madurai Campus Committee)",
+      "category": "Deemed University Expansion",
+      "location": "Kappalur - AIIMS Hospital Corridor, Madurai",
+      "phone": "919443128902",
+      "whatsapp": "919443128902",
+      "email": "madurai.expansion@srmist.edu.in",
+      "website": "https://www.srmist.edu.in",
+      "notes": "High-intent requirement for 60+ acres within 15 km of Thoppur AIIMS site. Requires minimum 100 ft road frontage and DTCP approval feasibility.",
+      "status": "New",
+      "dateAdded": "2024-05-11T09:15:00Z"
+    },
+    {
+      "id": "LEAD-EDU-003",
+      "name": "Syed Ammal Educational Trust",
+      "category": "Educational Trust",
+      "location": "Trichy NH, Othakadai / Melur Stretch, Madurai",
+      "phone": "919842678003",
+      "whatsapp": "919842678003",
+      "email": "projects@syedammal.org",
+      "website": "https://www.syedammal.org",
+      "notes": "Looking for 20-30 acres of land near Othakadai or Melur Road for a prospective Arts & Science College and CBSE International School.",
+      "status": "New",
+      "dateAdded": "2024-05-12T11:45:00Z"
+    },
+    {
+      "id": "LEAD-EDU-004",
+      "name": "Crescent Education & Research Foundation",
+      "category": "Higher Education Group",
+      "location": "Nagamalai Pudukottai / University Zone, Madurai",
+      "phone": "919790812004",
+      "whatsapp": "919790812004",
+      "email": "landbank@crescent.education",
+      "website": "https://crescent.education",
+      "notes": "Urgent procurement of 25 acres near Kamaraj University zone. Budget allocated for immediate registration upon clear legal vetting.",
+      "status": "New",
+      "dateAdded": "2024-05-14T14:20:00Z"
+    },
+    {
+      "id": "LEAD-EDU-005",
+      "name": "Vikasa International School Group",
+      "category": "K-12 School Network",
+      "location": "Alagar Kovil Main Road / Kidaripatti, Madurai",
+      "phone": "919842390005",
+      "whatsapp": "919842390005",
+      "email": "expansion@vikasaschool.com",
+      "website": "https://www.vikasaschool.com",
+      "notes": "Requires 10 to 15 acres of peaceful, green belt parcel with good groundwater potential for a residential CBSE campus. Prefers Alagar Kovil foothills.",
+      "status": "New",
+      "dateAdded": "2024-05-15T10:05:00Z"
+    },
+    {
+      "id": "LEAD-EDU-006",
+      "name": "PSNA Group of Institutions",
+      "category": "Educational Trust",
+      "location": "Samayanallur / Dindigul NH-7, Madurai",
+      "phone": "919442156006",
+      "whatsapp": "919442156006",
+      "email": "trustee@psnacet.edu.in",
+      "website": "https://www.psnacet.edu.in",
+      "notes": "Evaluating 30+ acres on Dindigul-Madurai NH highway touch for setting up a Polytechnic and Allied Health Sciences Institute.",
+      "status": "New",
+      "dateAdded": "2024-05-16T16:50:00Z"
+    },
+    {
+      "id": "LEAD-EDU-007",
+      "name": "St. Xavier's Educational Society",
+      "category": "Religious & Educational Trust",
+      "location": "Thirumangalam - Virudhunagar Highway, Madurai",
+      "phone": "919842834007",
+      "whatsapp": "919842834007",
+      "email": "landcell@stxaviers trust.org",
+      "website": "https://www.stxaviers.org",
+      "notes": "Searching for 15 to 20 acres suitable for a Teacher Training College and B.Ed campus. Preference for NH proximity with public transport access.",
+      "status": "New",
+      "dateAdded": "2024-05-17T08:10:00Z"
+    },
+    {
+      "id": "LEAD-EDU-008",
+      "name": "Narayana Educational Group (South Zone HQ)",
+      "category": "Corporate School Chain",
+      "location": "Karuppayurani / Sivagangai Road, Madurai",
+      "phone": "919940189008",
+      "whatsapp": "919940189008",
+      "email": "southlands@narayanagroup.com",
+      "website": "https://www.narayanagroup.com",
+      "notes": "Looking for 8 to 12 acres of commercial/institutional land within 10 km radius of Madurai city center (preferably Sivagangai or Ring road).",
+      "status": "New",
+      "dateAdded": "2024-05-18T12:00:00Z"
+    },
+    {
+      "id": "LEAD-EDU-009",
+      "name": "Kalasalingam Academy of Research and Education (KARE)",
+      "category": "Deemed University Group",
+      "location": "Austinpatti / Thanakkankulam, Madurai",
+      "phone": "919842512009",
+      "whatsapp": "919842512009",
+      "email": "director.infra@kalasalingam.ac.in",
+      "website": "https://www.kalasalingam.ac.in",
+      "notes": "In search of 40-50 acres of contiguous dry land near Austinpatti/Kappalur for specialized IT & AI research park and off-campus center.",
+      "status": "New",
+      "dateAdded": "2024-05-19T09:40:00Z"
+    },
+    {
+      "id": "LEAD-EDU-010",
+      "name": "Sri Chaitanya Educational Institutions",
+      "category": "Corporate School Chain",
+      "location": "Melur Road / K.Pudur Outer, Madurai",
+      "phone": "919842967010",
+      "whatsapp": "919842967010",
+      "email": "tn.acquisitions@srichaitanya.net",
+      "website": "https://srichaitanya.net",
+      "notes": "Requirement for 10 acres of prime land with minimum 80 ft road frontage for mega-coaching & residential school facility.",
+      "status": "New",
+      "dateAdded": "2024-05-20T13:25:00Z"
+    },
+    {
+      "id": "LEAD-EDU-011",
+      "name": "Maharishi Vidya Mandir Educational Trust",
+      "category": "Educational Trust",
+      "location": "Pasumalai / Thiruparankundram Belt, Madurai",
+      "phone": "919443378011",
+      "whatsapp": "919443378011",
+      "email": "projects.tn@mvm.org",
+      "website": "https://www.maharishividyamandir.com",
+      "notes": "Seeking 8-10 acres land for a new CBSE campus. Ready for fast-track deal if property has single-owner title and clear access road.",
+      "status": "New",
+      "dateAdded": "2024-05-21T15:00:00Z"
+    },
+    {
+      "id": "LEAD-EDU-012",
+      "name": "Royal Care Healthcare & Educational Trust",
+      "category": "Medical & Allied Health Trust",
+      "location": "Vadipatti / Samayanallur NH Corridor, Madurai",
+      "phone": "919842234012",
+      "whatsapp": "919842234012",
+      "email": "campus.land@royalcaretrust.org",
+      "website": "https://www.royalcaretrust.org",
+      "notes": "High priority request for 35 acres to set up Nursing, Pharmacy, and Allied Health Sciences College campus along NH-44 near Vadipatti.",
+      "status": "New",
+      "dateAdded": "2024-05-22T10:10:00Z"
     }
   ]
 }

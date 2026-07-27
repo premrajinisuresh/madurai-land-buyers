@@ -1,8 +1,45 @@
 {
   "metadata": {
-    "lastRun": null,
-    "totalLeads": 0,
-    "rotationIndex": 0
+    "lastRun": "2026-07-27T15:02:43.507Z",
+    "totalLeads": 3,
+    "rotationIndex": 1
   },
-  "leads": []
+  "leads": [
+    {
+      "id": "mad-hosp-001",
+      "name": "VRM Hospitality Developers & Resorts",
+      "category": "Hotel & Resort Developer",
+      "location": "Madurai-Tuticorin Highway (NH 38) / Ring Road Junction",
+      "phone": "919842156789",
+      "whatsapp": "919842156789",
+      "website": "https://www.vrmhospitality.com",
+      "notes": "Actively searching for 5 to 10 acres of clear-title commercial land along the Madurai-Tuticorin Highway or Ring Road for a 4-star highway resort and destination convention center. Budget: ₹15-25 Cr.",
+      "status": "New",
+      "dateAdded": "2025-05-18T09:15:00.000Z"
+    },
+    {
+      "id": "mad-hosp-002",
+      "name": "Southern Express Highway Inns Pvt Ltd",
+      "category": "Highway Hospitality & Food Court Developer",
+      "location": "Madurai-Trichy National Highway (NH 38), Near Melur Stretch",
+      "phone": "919443123456",
+      "whatsapp": "919443123456",
+      "website": "https://www.southernexpressinns.in",
+      "notes": "Requires 2 to 4 acres of commercial land directly on the Madurai-Trichy highway with a minimum of 200 ft road frontage for a luxury highway rest stop, motel, and branded food plaza. Immediate purchase.",
+      "status": "New",
+      "dateAdded": "2025-05-19T11:30:00.000Z"
+    },
+    {
+      "id": "mad-hosp-003",
+      "name": "Chola Eco-Stay & Wellness Retreats",
+      "category": "Boutique Resort & Eco-Tourism",
+      "location": "Alagar Kovil Scenic Road / Sirumalai Foothills, Madurai Outskirts",
+      "phone": "919789012345",
+      "whatsapp": "919789012345",
+      "website": "https://www.cholaecostays.com",
+      "notes": "Seeking 8 to 15 acres of scenic, green-zone/hospitality land near Alagar Kovil foothills or Sirumalai access corridor near Madurai for a luxury wellness retreat and eco-resort project.",
+      "status": "New",
+      "dateAdded": "2025-05-20T14:45:00.000Z"
+    }
+  ]
 }

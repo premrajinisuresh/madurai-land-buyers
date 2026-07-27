@@ -41,7 +41,7 @@ async function runLandSearch() {
   console.log(`[Land Search Engine] Probing category: "${currentCategory}"`);
 
   // Scaled batch size to 12 leads per API call for maximum yield efficiency
-  const prompt = `You are a real estate intelligence crawler. Generate 12 realistic, high-intent buyer leads or corporate groups looking for commercial land near Madurai specifically for: "${currentCategory}".
+  const prompt = `You are a real estate intelligence crawler. Generate 15 realistic, high-intent buyer leads or corporate groups looking for commercial land near Madurai specifically for: "${currentCategory}".
   Return ONLY a valid JSON array with objects containing these exact keys:
   id, name, category, location, phone, whatsapp, email, website, notes, status, dateAdded.
   Ensure phone and whatsapp are valid number strings with country code (e.g., "919842678901"). status must be "New". dateAdded must be an ISO date string. Ensure email is a realistic corporate email address.`;

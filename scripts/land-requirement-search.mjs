@@ -46,8 +46,9 @@ async function runLandSearch() {
   Ensure phone and whatsapp are valid number strings with country code (e.g., "919842678901"). status must be "New". dateAdded must be an ISO date string.`;
 
   try {
+    // Upgraded to active gemini-3.6-flash production endpoint
     const response = await ai.models.generateContent({
-      model: 'gemini-2.0-flash',
+      model: 'gemini-3.6-flash',
       contents: prompt,
     });
 
@@ -55,8 +56,8 @@ async function runLandSearch() {
     const jsonMatch = textResponse.match(/\[[\s\S]*\]/);
     
     if (!jsonMatch) {
-      console.error("[Error] Failed to parse JSON from Gemini response.");
-      process.exit(0);
+      console.error("[Error] Failed to parse JSON from Gemini response:", textResponse);
+      process.exit(1);
     }
 
     const newLeads = JSON.parse(jsonMatch[0]);
@@ -77,14 +78,8 @@ async function runLandSearch() {
     saveDatabase(db);
     console.log(`[Database] Successfully committed ${addedCount} new land-intent leads. Total leads: ${db.metadata.totalLeads}`);
   } catch (error) {
-    const errorMessage = error.message || String(error);
-    if (errorMessage.includes('429') || errorMessage.includes('Resource Exhausted') || errorMessage.includes('Quota exceeded')) {
-      console.warn("[Warning] Free tier rate limit / quota currently exhausted. Exiting gracefully without failing workflow.");
-      process.exit(0); // Exit cleanly so GitHub Actions remains green
-    } else {
-      console.error("[Error] Gemini API execution failed:", errorMessage);
-      process.exit(0);
-    }
+    console.error("[Error] Gemini API execution failed:", error.message || error);
+    process.exit(1);
   }
 }
 

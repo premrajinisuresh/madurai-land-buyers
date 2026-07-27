@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "lastRun": "2026-07-27T15:31:25.819Z",
-    "totalLeads": 27,
-    "rotationIndex": 3
+    "lastRun": "2026-07-27T15:33:21.206Z",
+    "totalLeads": 39,
+    "rotationIndex": 4
   },
   "leads": [
     {
@@ -352,6 +352,162 @@
       "notes": "High priority request for 35 acres to set up Nursing, Pharmacy, and Allied Health Sciences College campus along NH-44 near Vadipatti.",
       "status": "New",
       "dateAdded": "2024-05-22T10:10:00Z"
+    },
+    {
+      "id": "LEAD-NRI-MAD-001",
+      "name": "Dr. K. Arulchelvan (Singapore Tamil CRE Syndicate)",
+      "category": "NRI Investor Syndicate",
+      "location": "Madurai Ring Road / Airport Corridor",
+      "phone": "6591234567",
+      "whatsapp": "6591234567",
+      "email": "k.arul@singaporetamilcre.sg",
+      "website": "https://www.singaporetamilcre.sg",
+      "notes": "Singapore-based Tamil doctor syndicate seeking 2-4 acres of commercial land along Madurai Ring Road near Airport for a modern multi-specialty day-care center & hotel development.",
+      "status": "New",
+      "dateAdded": "2024-03-18T08:30:00Z"
+    },
+    {
+      "id": "LEAD-NRI-MAD-002",
+      "name": "Gulf Tamil CRE Holdings (Mohamed Riyas)",
+      "category": "Corporate Commercial Group",
+      "location": "Mattuthavani Integrated Bus Terminal Area, Madurai",
+      "phone": "971501234567",
+      "whatsapp": "971501234567",
+      "email": "riyas@gulftamilcre.ae",
+      "website": "https://www.gulftamilcre.ae",
+      "notes": "Dubai-based investment group looking for 1.5 to 3 acres high-density commercial plot suitable for a retail mall, multiplex, or multi-tenant commercial complex.",
+      "status": "New",
+      "dateAdded": "2024-03-18T09:15:00Z"
+    },
+    {
+      "id": "LEAD-NRI-MAD-003",
+      "name": "USA-Madurai Tech Corridor Investors (Sundar Ramanathan)",
+      "category": "Technology Park Developer",
+      "location": "ELCOT IT Park / Vadapalanji Corridor, Madurai",
+      "phone": "14085550192",
+      "whatsapp": "14085550192",
+      "email": "sundar.r@usamaduraitech.com",
+      "website": "https://www.usamaduraitech.com",
+      "notes": "Silicon Valley Tamil tech executives pooling funds to acquire 5+ acres of commercial land near ELCOT IT park for plug-and-play tech office space creation.",
+      "status": "New",
+      "dateAdded": "2024-03-19T10:00:00Z"
+    },
+    {
+      "id": "LEAD-NRI-MAD-004",
+      "name": "Malaysia-India Logistics & Realty (Datuk M. Shanmugam)",
+      "category": "Logistics & Industrial Land",
+      "location": "Kappalur Industrial Estate / NH 44, Madurai",
+      "phone": "60123456789",
+      "whatsapp": "60123456789",
+      "email": "shanmugam@malaysiaindiarealestate.com.my",
+      "website": "https://www.malaysiaindiarealestate.com.my",
+      "notes": "Kuala Lumpur logistics fund looking for 8 to 15 acres parcel on NH 44 for cold storage, distribution hub, and commercial warehouse facility.",
+      "status": "New",
+      "dateAdded": "2024-03-19T11:45:00Z"
+    },
+    {
+      "id": "LEAD-NRI-MAD-005",
+      "name": "UK Tamil Healthcare Consortium (Dr. S. Meenakshisundaram)",
+      "category": "Healthcare Real Estate",
+      "location": "Dindigul Bypass Road / Samayanallur, Madurai",
+      "phone": "447911123456",
+      "whatsapp": "447911123456",
+      "email": "sundaram@ukhealthconsortium.co.uk",
+      "website": "https://www.ukhealthconsortium.co.uk",
+      "notes": "UK-based NRI group seeking 3 to 5 acres of main-road commercial land to establish a rehabilitation and wellness institute.",
+      "status": "New",
+      "dateAdded": "2024-03-20T07:20:00Z"
+    },
+    {
+      "id": "LEAD-NRI-MAD-006",
+      "name": "Emirates Apex Commercial Properties (Karthik Veeran)",
+      "category": "Retail & Showroom",
+      "location": "Melur Highway (NH 38) Corridor, Madurai",
+      "phone": "971569876543",
+      "whatsapp": "971569876543",
+      "email": "karthik@emiratesapex.com",
+      "website": "https://www.emiratesapex.com",
+      "notes": "Abu Dhabi NRI business group seeking 1 to 2 acres with high road frontage on Melur Highway for drive-thru retail outlets and automobile showrooms.",
+      "status": "New",
+      "dateAdded": "2024-03-20T09:00:00Z"
+    },
+    {
+      "id": "LEAD-NRI-MAD-007",
+      "name": "Qatar Real Estate Capital (Praveen Raj)",
+      "category": "Agri-Commercial & Cold Chain",
+      "location": "Thirumangalam / Madurai South, Madurai",
+      "phone": "97455123456",
+      "whatsapp": "97455123456",
+      "email": "praveen@qatarrecapital.qa",
+      "website": "https://www.qatarrecapital.qa",
+      "notes": "Doha-based Tamil investors searching for 10+ acres of commercial land near Thirumangalam bypass for agricultural export packaging and warehousing.",
+      "status": "New",
+      "dateAdded": "2024-03-21T12:10:00Z"
+    },
+    {
+      "id": "LEAD-NRI-MAD-008",
+      "name": "Kuwait Tamil Chamber Capital (Subramanian Palaniappan)",
+      "category": "Commercial Hospitality & Event Space",
+      "location": "Othakadai / Agricultural College Zone, Madurai",
+      "phone": "96599123456",
+      "whatsapp": "96599123456",
+      "email": "subbu@kuwaittamilchamber.org",
+      "website": "https://www.kuwaittamilchamber.org",
+      "notes": "Kuwait NRI syndicate interested in 2.5 to 4 acres of clear title land for a premium convention center, wedding hall, and executive stay facility.",
+      "status": "New",
+      "dateAdded": "2024-03-21T14:30:00Z"
+    },
+    {
+      "id": "LEAD-NRI-MAD-009",
+      "name": "Oman Tamil Investment Forum (Senthil Kumar)",
+      "category": "Mixed-Use Commercial",
+      "location": "Madurai-Thoothukudi Highway (NH 38)",
+      "phone": "96892123456",
+      "whatsapp": "96892123456",
+      "email": "senthil@omantamilinvest.om",
+      "website": "https://www.omantamilinvest.om",
+      "notes": "Muscat-based NRI group evaluating 5 to 10 acres of land along the Tuticorin Port connectivity highway for mixed commercial and fuel station hub.",
+      "status": "New",
+      "dateAdded": "2024-03-22T08:45:00Z"
+    },
+    {
+      "id": "LEAD-NRI-MAD-010",
+      "name": "San Jose Bay Area Tamil Group (Rajan Natarajan)",
+      "category": "Institutional & Commercial",
+      "location": "Nagamalai Pudukottai Road, Madurai",
+      "phone": "16505550143",
+      "whatsapp": "16505550143",
+      "email": "rajan@bayareatamilgroup.org",
+      "website": "https://www.bayareatamilgroup.org",
+      "notes": "US West Coast NRI collective seeking 4 to 6 acres for setting up an international vocational skill center and research commercial park.",
+      "status": "New",
+      "dateAdded": "2024-03-22T11:00:00Z"
+    },
+    {
+      "id": "LEAD-NRI-MAD-011",
+      "name": "London Commercial Land Fund (Anand Mohan)",
+      "category": "Automotive & Retail Showrooms",
+      "location": "Virudhunagar Highway / Sivarakottai, Madurai",
+      "phone": "447700900123",
+      "whatsapp": "447700900123",
+      "email": "anand@londoncommercialland.co.uk",
+      "website": "https://www.londoncommercialland.co.uk",
+      "notes": "London-based NRI private fund seeking 3 acres prime frontage land on NH 44 for leasing to EV auto dealerships and heavy vehicle service hubs.",
+      "status": "New",
+      "dateAdded": "2024-03-23T09:30:00Z"
+    },
+    {
+      "id": "LEAD-NRI-MAD-012",
+      "name": "Sydney Southern Capital (Muralidharan Chettiar)",
+      "category": "Resort & Heritage Commercial",
+      "location": "Thiruparankundram Bypass / Pasumalai, Madurai",
+      "phone": "61412345678",
+      "whatsapp": "61412345678",
+      "email": "murali@sydneysoutherncapital.com.au",
+      "website": "https://www.sydneysoutherncapital.com.au",
+      "notes": "Australian NRI investor seeking 2 to 5 acres of scenic commercial parcel near Pasumalai hills for eco-resort and boutique hotel project.",
+      "status": "New",
+      "dateAdded": "2024-03-23T13:15:00Z"
     }
   ]
 }

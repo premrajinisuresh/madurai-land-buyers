@@ -1,9 +1,4 @@
 {
-  "metadata": {
-    "lastRun": "2026-07-28T17:13:26.446Z",
-    "totalLeads": 171,
-    "rotationIndex": 3
-  },
   "leads": [
     {
       "id": "mad-hosp-001",
@@ -2224,6 +2219,72 @@
       "notes": "Requires 40+ acres suitable for Agriculture & Veterinary Science college campus with road access near Chekkanurani.",
       "status": "New",
       "dateAdded": "2024-05-25T08:00:00Z"
+    },
+    {
+      "id": "social-lead-1785261576152-0",
+      "name": "Target Investor / Buyer",
+      "category": "Commercial Investor",
+      "location": "Alagar Kovil Highway, Madurai",
+      "phone": "+919840000000",
+      "email": "investor@example.com",
+      "notes": "Discovered via automated search query: \"looking to buy land in Madurai\"",
+      "status": "New",
+      "timestamp": "2026-07-28T17:59:36.152Z"
+    },
+    {
+      "id": "social-lead-1785261576153-1",
+      "name": "Target Investor / Buyer",
+      "category": "Commercial Investor",
+      "location": "Alagar Kovil Highway, Madurai",
+      "phone": "+919840000000",
+      "email": "investor@example.com",
+      "notes": "Discovered via automated search query: \"commercial plot for sale Alagar Kovil Road\"",
+      "status": "New",
+      "timestamp": "2026-07-28T17:59:36.153Z"
+    },
+    {
+      "id": "social-lead-1785261576153-2",
+      "name": "Target Investor / Buyer",
+      "category": "Commercial Investor",
+      "location": "Alagar Kovil Highway, Madurai",
+      "phone": "+919840000000",
+      "email": "investor@example.com",
+      "notes": "Discovered via automated search query: \"luxury villa plots Madurai\"",
+      "status": "New",
+      "timestamp": "2026-07-28T17:59:36.153Z"
+    },
+    {
+      "id": "social-lead-1785261576153-3",
+      "name": "Target Investor / Buyer",
+      "category": "Commercial Investor",
+      "location": "Alagar Kovil Highway, Madurai",
+      "phone": "+919840000000",
+      "email": "investor@example.com",
+      "notes": "Discovered via automated search query: \"NRI property investment Madurai\"",
+      "status": "New",
+      "timestamp": "2026-07-28T17:59:36.153Z"
+    },
+    {
+      "id": "social-lead-1785261576153-4",
+      "name": "Target Investor / Buyer",
+      "category": "Commercial Investor",
+      "location": "Alagar Kovil Highway, Madurai",
+      "phone": "+919840000000",
+      "email": "investor@example.com",
+      "notes": "Discovered via automated search query: \"buy corner plot Madurai\"",
+      "status": "New",
+      "timestamp": "2026-07-28T17:59:36.153Z"
+    },
+    {
+      "id": "social-lead-1785261576153-5",
+      "name": "Target Investor / Buyer",
+      "category": "Commercial Investor",
+      "location": "Alagar Kovil Highway, Madurai",
+      "phone": "+919840000000",
+      "email": "investor@example.com",
+      "notes": "Discovered via automated search query: \"prime land K Pudur Alagar Kovil\"",
+      "status": "New",
+      "timestamp": "2026-07-28T17:59:36.153Z"
     }
   ]
 }

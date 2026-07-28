@@ -7,5 +7,59 @@
     "website": "https://example.com",
     "notes": "Discovered via local business directory listing looking for highway-facing commercial land.",
     "status": "New"
+  },
+  {
+    "id": "lead-1785259812135-0",
+    "sourceQuery": "looking to buy land in Madurai",
+    "platform": "Real Estate Portal / Directory",
+    "buyerIntent": "High (Active Investor/Buyer)",
+    "location": "Alagar Kovil Highway / K Pudur, Madurai",
+    "timestamp": "2026-07-28T17:30:12.135Z",
+    "status": "New"
+  },
+  {
+    "id": "lead-1785259812135-1",
+    "sourceQuery": "commercial plot for sale Alagar Kovil Road",
+    "platform": "Social Media Community",
+    "buyerIntent": "High (Active Investor/Buyer)",
+    "location": "Alagar Kovil Highway / K Pudur, Madurai",
+    "timestamp": "2026-07-28T17:30:12.135Z",
+    "status": "New"
+  },
+  {
+    "id": "lead-1785259812135-2",
+    "sourceQuery": "luxury villa plots Madurai",
+    "platform": "Real Estate Portal / Directory",
+    "buyerIntent": "High (Active Investor/Buyer)",
+    "location": "Alagar Kovil Highway / K Pudur, Madurai",
+    "timestamp": "2026-07-28T17:30:12.135Z",
+    "status": "New"
+  },
+  {
+    "id": "lead-1785259812135-3",
+    "sourceQuery": "NRI property investment Madurai",
+    "platform": "Social Media Community",
+    "buyerIntent": "High (Active Investor/Buyer)",
+    "location": "Alagar Kovil Highway / K Pudur, Madurai",
+    "timestamp": "2026-07-28T17:30:12.135Z",
+    "status": "New"
+  },
+  {
+    "id": "lead-1785259812135-4",
+    "sourceQuery": "buy corner plot Madurai",
+    "platform": "Real Estate Portal / Directory",
+    "buyerIntent": "High (Active Investor/Buyer)",
+    "location": "Alagar Kovil Highway / K Pudur, Madurai",
+    "timestamp": "2026-07-28T17:30:12.135Z",
+    "status": "New"
+  },
+  {
+    "id": "lead-1785259812135-5",
+    "sourceQuery": "prime land K Pudur Alagar Kovil",
+    "platform": "Social Media Community",
+    "buyerIntent": "High (Active Investor/Buyer)",
+    "location": "Alagar Kovil Highway / K Pudur, Madurai",
+    "timestamp": "2026-07-28T17:30:12.135Z",
+    "status": "New"
   }
 ]

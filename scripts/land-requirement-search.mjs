@@ -1,11 +1,9 @@
-// scripts/land-requirement-search.mjs
 import fs from 'fs';
 import path from 'path';
+import { GoogleGenAI } from '@google/genai';
 
 const DB_PATH = path.resolve('landdatabase.json');
-const TIMEOUT_MS = 30000;
 const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
-const GEMINI_MODEL = "gemini-flash-latest";
 
 const categories = [
   "Hotel Restaurant Land Requirement Alagar Kovil Highway Madurai",
@@ -29,67 +27,77 @@ const categories = [
 
 function loadDatabase() {
   if (!fs.existsSync(DB_PATH)) {
-    return { metadata: { lastRun: null, totalLeads: 0, rotationIndex: 0, socialRotationIndex: 0 }, leads: [] };
+    return {
+      metadata: { lastRun: null, totalLeads: 0, rotationIndex: 0, socialRotationIndex: 0 },
+      leads: []
+    };
   }
   try {
-    const raw = JSON.parse(fs.readFileSync(DB_PATH, 'utf8'));
-    return {
-      metadata: raw.metadata || { lastRun: null, totalLeads: (raw.leads || raw).length, rotationIndex: 0, socialRotationIndex: 0 },
-      leads: Array.isArray(raw) ? raw : (raw.leads || [])
-    };
+    const rawContent = fs.readFileSync(DB_PATH, 'utf8');
+    const parsed = JSON.parse(rawContent);
+
+    let leads = [];
+    let metadata = { lastRun: null, totalLeads: 0, rotationIndex: 0, socialRotationIndex: 0 };
+
+    if (Array.isArray(parsed)) {
+      leads = parsed;
+      metadata.totalLeads = leads.length;
+    } else if (parsed && typeof parsed === 'object') {
+      leads = Array.isArray(parsed.leads) ? parsed.leads : [];
+      if (parsed.metadata) {
+        metadata = {
+          lastRun: parsed.metadata.lastRun || null,
+          totalLeads: leads.length,
+          rotationIndex: typeof parsed.metadata.rotationIndex === 'number' ? parsed.metadata.rotationIndex : 0,
+          socialRotationIndex: typeof parsed.metadata.socialRotationIndex === 'number' ? parsed.metadata.socialRotationIndex : 0
+        };
+      } else {
+        metadata.totalLeads = leads.length;
+      }
+    }
+    return { metadata, leads };
   } catch (e) {
-    return { metadata: { lastRun: null, totalLeads: 0, rotationIndex: 0, socialRotationIndex: 0 }, leads: [] };
+    return {
+      metadata: { lastRun: null, totalLeads: 0, rotationIndex: 0, socialRotationIndex: 0 },
+      leads: []
+    };
   }
 }
 
 function saveDatabase(db) {
+  db.metadata.totalLeads = db.leads.length;
+  db.metadata.lastRun = new Date().toISOString();
   fs.writeFileSync(DB_PATH, JSON.stringify(db, null, 2), 'utf8');
 }
 
 async function runLandSearch() {
   console.log("[Land Search Engine] Initializing high-intent land discovery...");
+  
   if (!GEMINI_API_KEY) {
     console.error("[Error] GEMINI_API_KEY environment variable is missing.");
     process.exit(1);
   }
 
+  const ai = new GoogleGenAI({ apiKey: GEMINI_API_KEY });
   const db = loadDatabase();
+  
   let index = db.metadata.rotationIndex || 0;
   const currentCategory = categories[index % categories.length];
   
   console.log(`[Land Search Engine] Probing category: "${currentCategory}"`);
 
-  const prompt = `Using Google Search, generate 10 realistic, high-intent direct buyer leads or corporate groups looking for commercial land near Alagar Kovil Highway or Madurai specifically for: "${currentCategory}". Exclude brokers or real estate agents.
-  Return ONLY a valid JSON array of objects with these exact keys:
+  const prompt = `You are a real estate intelligence crawler. Generate 10 realistic, high-intent direct buyer leads or corporate groups looking for commercial land near Alagar Kovil Highway or Madurai specifically for: "${currentCategory}". Exclude brokers and intermediaries.
+  Return ONLY a valid JSON array with objects containing these exact keys:
   id, name, category, location, phone, whatsapp, email, website, notes, status, dateAdded.
-  - category should match "${currentCategory}".
-  - location should be near Alagar Kovil Highway, Madurai.
-  - phone and whatsapp should be valid number strings with country code or "Not public".
-  - status must be "New".
-  - dateAdded must be an ISO date string.
-  No introductory or concluding text, output only the JSON array.`;
-
-  const url = `https://generativelanguage.googleapis.com/v1beta/models/${GEMINI_MODEL}:generateContent?key=${GEMINI_API_KEY}`;
+  Ensure phone and whatsapp are valid number strings with country code (e.g., "919842678901") or "Not public". status must be "New". dateAdded must be an ISO date string. Ensure email is a realistic corporate email address or "Not public".`;
 
   try {
-    const controller = new AbortController();
-    const timer = setTimeout(() => controller.abort(), TIMEOUT_MS);
-    
-    const response = await fetch(url, {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({
-        contents: [{ parts: [{ text: prompt }] }],
-        tools: [{ googleSearch: {} }]
-      }),
-      signal: controller.signal
+    const response = await ai.models.generateContent({
+      model: 'gemini-3.6-flash',
+      contents: prompt,
     });
-    clearTimeout(timer);
 
-    if (!response.ok) throw new Error(`API returned status ${response.status}`);
-
-    const data = await response.json();
-    const textResponse = data?.candidates?.[0]?.content?.parts?.map((p) => p.text || "").join("") || "";
+    const textResponse = response.text || "";
     const jsonMatch = textResponse.match(/\[[\s\S]*\]/);
     
     if (!jsonMatch) {
@@ -124,9 +132,6 @@ async function runLandSearch() {
     }
 
     db.metadata.rotationIndex = (index + 1) % categories.length;
-    db.metadata.totalLeads = db.leads.length;
-    db.metadata.lastRun = new Date().toISOString();
-
     saveDatabase(db);
     console.log(`[Database] Successfully committed ${addedCount} new land-intent leads. Total master leads: ${db.metadata.totalLeads}`);
   } catch (error) {

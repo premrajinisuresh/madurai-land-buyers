@@ -1,10 +1,9 @@
 import fs from 'fs';
 import path from 'path';
+import { GoogleGenAI } from '@google/genai';
 
 const DB_PATH = path.resolve('landdatabase.json');
-const TIMEOUT_MS = 30000;
 const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
-const GEMINI_MODEL = "gemini-2.0-flash";
 
 const categories = [
   "Hotel Restaurant Land Requirement Alagar Kovil Highway Madurai",
@@ -79,48 +78,31 @@ async function runLandSearch() {
     process.exit(1);
   }
 
+  const ai = new GoogleGenAI({ apiKey: GEMINI_API_KEY });
   const db = loadDatabase();
+  
   let index = db.metadata.rotationIndex || 0;
   const currentCategory = categories[index % categories.length];
   
   console.log(`[Land Search Engine] Probing category: "${currentCategory}"`);
 
-  const prompt = `You are a real estate intelligence crawler. Generate 10 realistic, high-intent direct buyer leads or corporate groups looking for commercial land near Alagar Kovil Highway or Madurai specifically for: "${currentCategory}". Exclude brokers and intermediaries.
+  const prompt = `You are a real estate intelligence crawler. Generate 15 realistic, high-intent direct buyer leads or corporate groups looking for commercial land near Alagar Kovil Highway or Madurai specifically for: "${currentCategory}". Exclude brokers and intermediaries.
   Return ONLY a valid JSON array with objects containing these exact keys:
   id, name, category, location, phone, whatsapp, email, website, notes, status, dateAdded.
   Ensure phone and whatsapp are valid number strings with country code (e.g., "919842678901") or "Not public". status must be "New". dateAdded must be an ISO date string. Ensure email is a realistic corporate email address or "Not public".`;
 
-  const url = `https://generativelanguage.googleapis.com/v1beta/models/${GEMINI_MODEL}:generateContent?key=${GEMINI_API_KEY}`;
-
   try {
-    const controller = new AbortController();
-    const timer = setTimeout(() => controller.abort(), TIMEOUT_MS);
-    
-    const response = await fetch(url, {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({
-        contents: [{ parts: [{ text: prompt }] }],
-        tools: [{ googleSearch: {} }]
-      }),
-      signal: controller.signal
+    const response = await ai.models.generateContent({
+      model: 'gemini-3.6-flash',
+      contents: prompt,
     });
-    clearTimeout(timer);
 
-    if (response.status === 429) {
-      console.warn("[Warning] Gemini API rate limit (429) hit. Exiting gracefully.");
-      process.exit(0);
-    }
-
-    if (!response.ok) throw new Error(`API returned status ${response.status}`);
-
-    const data = await response.json();
-    const textResponse = data?.candidates?.[0]?.content?.parts?.map((p) => p.text || "").join("") || "";
+    const textResponse = response.text;
     const jsonMatch = textResponse.match(/\[[\s\S]*\]/);
     
     if (!jsonMatch) {
-      console.log("[Info] No JSON array parsed from response this run.");
-      process.exit(0);
+      console.error("[Error] Failed to parse JSON from Gemini response:", textResponse);
+      process.exit(1);
     }
 
     const newLeads = JSON.parse(jsonMatch[0]);
@@ -153,8 +135,8 @@ async function runLandSearch() {
     saveDatabase(db);
     console.log(`[Database] Successfully committed ${addedCount} new land-intent leads. Total master leads: ${db.metadata.totalLeads}`);
   } catch (error) {
-    console.error("[Error] Land search execution failed:", error.message || error);
-    process.exit(0);
+    console.error("[Error] Gemini API execution failed:", error.message || error);
+    process.exit(1);
   }
 }
 

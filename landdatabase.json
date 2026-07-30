@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "lastRun": "2026-07-30T08:14:55.536Z",
-    "totalLeads": 206,
+    "lastRun": "2026-07-30T08:44:54.611Z",
+    "totalLeads": 207,
     "rotationIndex": 3,
-    "socialRotationIndex": 0
+    "socialRotationIndex": 1
   },
   "leads": [
     {
@@ -2668,6 +2668,19 @@
       "notes": "Looking for 2 acres near Kadachanendal/Appanthirupathi stretch along Alagar Kovil Road for eco-friendly wedding venue with stay rooms.",
       "status": "New",
       "dateAdded": "2024-05-15T15:00:00Z"
+    },
+    {
+      "id": "social-lead-1785401094611-0",
+      "name": "Target Investor / Buyer",
+      "category": "Commercial Investor",
+      "location": "Alagar Kovil Highway, Madurai",
+      "phone": "+919840000000",
+      "whatsapp": "+919840000000",
+      "email": "investor@example.com",
+      "website": "Not public",
+      "notes": "Discovered via automated search query: \"hotel restaurant land buyer requirement Madurai MagicBricks Facebook group\"",
+      "status": "New",
+      "dateAdded": "2026-07-30T08:44:54.611Z"
     }
   ]
 }

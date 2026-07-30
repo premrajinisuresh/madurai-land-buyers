@@ -66,33 +66,42 @@
     async function loadData() {
       try {
         const response = await fetch('landdatabase.json?' + new Date().getTime());
-        const data = await response.json();
-        allLeads = data.leads || [];
+        if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
         
-        // Update stats
-        document.getElementById('statTotal').innerText = allLeads.length;
-        document.getElementById('statContacted').innerText = allLeads.filter(l => l.status === 'Contacted').length;
-        document.getElementById('statInterested').innerText = allLeads.filter(l => l.status === 'Interested').length;
+        const data = await response.json();
+        allLeads = data.leads || (Array.isArray(data) ? data : []);
+        
+        console.log("Successfully loaded leads schema:", allLeads);
 
-        // Populate category dropdown
-        const categories = [...new Set(allLeads.map(l => l.category))];
+        // Defensive status counting (case-insensitive check)
+        const contactedCount = allLeads.filter(l => l.status && l.status.toLowerCase() === 'contacted').length;
+        const interestedCount = allLeads.filter(l => l.status && l.status.toLowerCase() === 'interested').length;
+
+        // Update stats UI
+        document.getElementById('statTotal').innerText = allLeads.length;
+        document.getElementById('statContacted').innerText = contactedCount;
+        document.getElementById('statInterested').innerText = interestedCount;
+
+        // Populate category dropdown safely
+        const categories = [...new Set(allLeads.map(l => l.category).filter(Boolean))];
         const categoryFilter = document.getElementById('categoryFilter');
         categoryFilter.innerHTML = '<option value="">All Categories & Sectors</option>' + 
           categories.map(c => `<option value="${c}">${c}</option>`).join('');
 
         renderLeads(allLeads);
       } catch (err) {
-        console.error("Failed to load database:", err);
+        console.error("Critical error loading database:", err);
         document.getElementById('leadsContainer').innerHTML = `
-          <div class="bg-slate-900 border border-red-900/50 rounded-2xl p-6 text-center text-red-400 text-sm">
-            Failed to load lead database. Please ensure workflow has run successfully.
+          <div class="bg-slate-900 border border-red-900/50 rounded-2xl p-6 text-center text-red-400 text-sm space-y-2">
+            <p class="font-bold">Failed to load lead database.</p>
+            <p class="text-xs text-slate-400">${err.message}</p>
           </div>`;
       }
     }
 
     function renderLeads(leads) {
       const container = document.getElementById('leadsContainer');
-      if (leads.length === 0) {
+      if (!leads || leads.length === 0) {
         container.innerHTML = `
           <div class="bg-slate-900 border border-slate-800 rounded-2xl p-8 text-center text-slate-500 text-sm">
             No matching leads found.
@@ -101,36 +110,42 @@
       }
 
       container.innerHTML = leads.map(lead => {
+        const name = lead.name || 'Unnamed Prospect';
+        const category = lead.category || 'General Investment';
+        const location = lead.location || 'Madurai';
+        const notes = lead.notes || lead.requirement || 'High-intent commercial land seeker in Madurai.';
+        const phone = lead.phone || 'N/A';
+        const emailTo = lead.email || 'inquiry@madurailand.com';
+
         const waNumber = lead.whatsapp || lead.phone || '';
-        const waMessage = encodeURIComponent(`Hello ${lead.name}, regarding your requirement for ${lead.category} in Madurai, we have a prime 23.5-cent corner plot directly on Alagar Kovil Highway available. Would you like to review details?`);
+        const waMessage = encodeURIComponent(`Hello ${name}, regarding your requirement for ${category} in Madurai, we have a prime 23.5-cent corner plot directly on Alagar Kovil Highway available. Would you like to review details?`);
         const waLink = waNumber ? `https://wa.me/${waNumber.replace(/[^0-9]/g, '')}?text=${waMessage}` : '#';
 
-        const emailTo = lead.email || 'inquiry@madurailand.com';
         const emailSubject = encodeURIComponent(`Prime 23.5-Cent Commercial Land on Alagar Kovil Highway, Madurai`);
-        const emailBody = encodeURIComponent(`Dear ${lead.name},\n\nWe noted your active requirement for "${lead.category}" in Madurai. We are offering a prime 23.5-cent corner plot directly on Alagar Kovil Highway suited for your development.\n\nPlease let us know a convenient time to discuss.\n\nBest regards,\nLand Acquisition Team`);
+        const emailBody = encodeURIComponent(`Dear ${name},\n\nWe noted your active requirement for "${category}" in Madurai. We are offering a prime 23.5-cent corner plot directly on Alagar Kovil Highway suited for your development.\n\nPlease let us know a convenient time to discuss.\n\nBest regards,\nLand Acquisition Team`);
         const emailLink = `mailto:${emailTo}?subject=${emailSubject}&body=${emailBody}`;
 
         return `
           <div class="bg-slate-900 border border-slate-800 rounded-2xl p-5 shadow-xl space-y-4 transition hover:border-slate-700">
             <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-2">
               <div>
-                <h3 class="text-base sm:text-lg font-bold text-white">${lead.name}</h3>
+                <h3 class="text-base sm:text-lg font-bold text-white">${name}</h3>
                 <span class="inline-block bg-cyan-950/80 text-cyan-400 border border-cyan-800/60 text-[11px] px-2.5 py-0.5 rounded-full font-medium mt-1">
-                  ${lead.category}
+                  ${category}
                 </span>
               </div>
               <span class="text-xs text-slate-400 bg-slate-950 px-3 py-1 rounded-lg border border-slate-800 self-start sm:self-auto">
-                📍 ${lead.location}
+                📍 ${location}
               </span>
             </div>
 
             <p class="text-xs sm:text-sm text-slate-300 bg-slate-950/40 p-3 rounded-xl border border-slate-800/60">
-              ${lead.notes || 'High-intent commercial land seeker in Madurai.'}
+              ${notes}
             </p>
 
             <div class="flex flex-wrap items-center justify-between gap-3 pt-2 border-t border-slate-800/80 text-xs">
               <div class="text-slate-400 space-y-0.5">
-                <div>📞 Phone: <a href="tel:${lead.phone}" class="text-slate-200 hover:underline">${lead.phone}</a></div>
+                <div>📞 Phone: <a href="tel:${phone}" class="text-slate-200 hover:underline">${phone}</a></div>
                 <div>✉️ Email: <a href="${emailLink}" class="text-slate-200 hover:underline">${emailTo}</a></div>
               </div>
 
@@ -157,9 +172,11 @@
       const selectedCategory = document.getElementById('categoryFilter').value;
 
       const filtered = allLeads.filter(lead => {
-        const matchesQuery = lead.name.toLowerCase().includes(query) || 
-                             lead.category.toLowerCase().includes(query) || 
-                             lead.location.toLowerCase().includes(query);
+        const nameMatch = (lead.name || '').toLowerCase().includes(query);
+        const categoryMatch = (lead.category || '').toLowerCase().includes(query);
+        const locationMatch = (lead.location || '').toLowerCase().includes(query);
+        
+        const matchesQuery = nameMatch || categoryMatch || locationMatch;
         const matchesCategory = !selectedCategory || lead.category === selectedCategory;
         return matchesQuery && matchesCategory;
       });

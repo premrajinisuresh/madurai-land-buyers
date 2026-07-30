@@ -1,9 +1,10 @@
 import fs from 'fs';
 import path from 'path';
-import { GoogleGenAI } from '@google/genai';
 
 const DB_PATH = path.resolve('landdatabase.json');
+const TIMEOUT_MS = 30000;
 const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
+const GEMINI_MODEL = "gemini-1.5-flash";
 
 const SEARCH_QUERIES = [
   "hotel restaurant land buyer requirement Madurai MagicBricks Facebook group",
@@ -72,15 +73,12 @@ function saveDatabase(db) {
 
 async function runSocialSearch() {
   console.log("[Social Search Engine] Scanning property portals and groups for buyer posts...");
-  
   if (!GEMINI_API_KEY) {
     console.error("[Error] GEMINI_API_KEY environment variable is missing.");
     process.exit(1);
   }
 
-  const ai = new GoogleGenAI({ apiKey: GEMINI_API_KEY });
   const db = loadDatabase();
-  
   let queryIndex = (db.metadata.socialRotationIndex || 0) % SEARCH_QUERIES.length;
   const currentQuery = SEARCH_QUERIES[queryIndex];
 
@@ -95,18 +93,37 @@ async function runSocialSearch() {
   - dateAdded must be an ISO date string.
   No introductory text, output only the JSON array.`;
 
-  try {
-    const response = await ai.models.generateContent({
-      model: 'gemini-3.6-flash',
-      contents: prompt,
-    });
+  const url = `https://generativelanguage.googleapis.com/v1beta/models/${GEMINI_MODEL}:generateContent?key=${GEMINI_API_KEY}`;
 
-    const textResponse = response.text || "";
+  try {
+    const controller = new AbortController();
+    const timer = setTimeout(() => controller.abort(), TIMEOUT_MS);
+    
+    const response = await fetch(url, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({
+        contents: [{ parts: [{ text: prompt }] }],
+        tools: [{ googleSearch: {} }]
+      }),
+      signal: controller.signal
+    });
+    clearTimeout(timer);
+
+    if (response.status === 429) {
+      console.warn("[Warning] Gemini API rate limit (429) hit. Skipping gracefully.");
+      process.exit(0);
+    }
+
+    if (!response.ok) throw new Error(`API returned status ${response.status}`);
+
+    const data = await response.json();
+    const textResponse = data?.candidates?.[0]?.content?.parts?.map((p) => p.text || "").join("") || "";
     const jsonMatch = textResponse.match(/\[[\s\S]*\]/);
     
     if (!jsonMatch) {
       console.log("[Social Search] No new JSON array parsed from response, skipping addition.");
-      return;
+      process.exit(0);
     }
 
     const newLeads = JSON.parse(jsonMatch[0]);
@@ -140,7 +157,7 @@ async function runSocialSearch() {
     console.log(`[Database] Successfully committed ${addedCount} new social/portal leads. Total master leads: ${db.metadata.totalLeads}`);
   } catch (error) {
     console.error("[Error] Social search execution failed:", error.message || error);
-    process.exit(1);
+    process.exit(0);
   }
 }
 

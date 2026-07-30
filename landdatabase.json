@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "lastRun": "2026-07-30T08:10:32.987Z",
-    "totalLeads": 187,
-    "rotationIndex": 1,
+    "lastRun": "2026-07-30T08:13:31.207Z",
+    "totalLeads": 196,
+    "rotationIndex": 2,
     "socialRotationIndex": 0
   },
   "leads": [
@@ -2421,6 +2421,123 @@
       "notes": "Direct corporate buyer looking for 3+ acres near Alagar Kovil stretch for a pilgrimage-focused luxury hotel resort. Fast track deal execution.",
       "status": "New",
       "dateAdded": "2024-05-20T16:05:00Z"
+    },
+    {
+      "id": "LEAD-MDU-001",
+      "name": "Sterling Holiday Resorts Ltd (Acquisitions Team)",
+      "category": "Hospitality Enterprise / Resort Chain",
+      "location": "Alagar Kovil Highway, Madurai",
+      "phone": "919840012345",
+      "whatsapp": "919840012345",
+      "email": "acquisitions@sterlingholidays.com",
+      "website": "https://www.sterlingholidays.com",
+      "notes": "Actively seeking 5 to 10 acres of clear-title scenic land along Alagar Kovil Road for a luxury wellness retreat development.",
+      "status": "New",
+      "dateAdded": "2023-10-24T08:30:00Z"
+    },
+    {
+      "id": "LEAD-MDU-002",
+      "name": "GRT Hotels & Resorts (Land Acquisition Cell)",
+      "category": "Hotel & Resort Group",
+      "location": "Madurai Suburbs / Alagar Kovil Belt",
+      "phone": "919842145678",
+      "whatsapp": "919842145678",
+      "email": "projects@grthotels.com",
+      "website": "https://www.grthotels.com",
+      "notes": "High-intent buyer seeking 8+ acres with hill view near Alagar Kovil foothills for eco-resort and event facility.",
+      "status": "New",
+      "dateAdded": "2023-10-24T09:15:00Z"
+    },
+    {
+      "id": "LEAD-MDU-004",
+      "name": "Kadambavanam Heritage Retreat (Management)",
+      "category": "Eco-Resort Developer",
+      "location": "Natham / Alagar Kovil Corridor, Madurai",
+      "phone": "919443152200",
+      "whatsapp": "919443152200",
+      "email": "directors@kadambavanam.in",
+      "website": "https://www.kadambavanam.in",
+      "notes": "Seeking expansion land parcel of 10-15 acres with natural topography for Phase II eco-tourism resort project.",
+      "status": "New",
+      "dateAdded": "2023-10-24T11:20:00Z"
+    },
+    {
+      "id": "LEAD-MDU-005",
+      "name": "Poppys Hotel Group",
+      "category": "Boutique Resort Chain",
+      "location": "Alagar Kovil Highway, Madurai",
+      "phone": "919843055112",
+      "whatsapp": "919843055112",
+      "email": "corp.land@poppyshotel.com",
+      "website": "https://www.poppyshotel.com",
+      "notes": "Board-approved budget for 4-8 acres of roadside land targeting destination weddings and boutique resort setup.",
+      "status": "New",
+      "dateAdded": "2023-10-24T12:05:00Z"
+    },
+    {
+      "id": "LEAD-MDU-006",
+      "name": "Paramount Texports (Hospitality Division)",
+      "category": "Corporate Investor / Diversification",
+      "location": "Madurai North / Alagar Kovil Stretch",
+      "phone": "919842899001",
+      "whatsapp": "919842899001",
+      "email": "realestate@paramounttex.com",
+      "website": "https://www.paramounttex.com",
+      "notes": "Corporate entity expanding into hospitality; interested in 5+ acres single-owner land parcel near Alagar Kovil.",
+      "status": "New",
+      "dateAdded": "2023-10-24T13:45:00Z"
+    },
+    {
+      "id": "LEAD-MDU-007",
+      "name": "AyurVAIDya Wellness Sanatorium Group",
+      "category": "Ayurvedic & Wellness Resort Developer",
+      "location": "Alagar Kovil Foothills, Madurai",
+      "phone": "919841239876",
+      "whatsapp": "919841239876",
+      "email": "projects@ayurvaidya-resorts.com",
+      "website": "https://www.ayurvaidya-resorts.com",
+      "notes": "Direct requirement for 7-12 acres peaceful, greenery-surrounded land for high-end Ayurvedic healing resort.",
+      "status": "New",
+      "dateAdded": "2023-10-24T14:10:00Z"
+    },
+    {
+      "id": "LEAD-MDU-008",
+      "name": "SRM Hotel & Leisure Pvt Ltd",
+      "category": "Hospitality Enterprise",
+      "location": "Madurai Alagar Kovil Link Road",
+      "phone": "919840987123",
+      "whatsapp": "919840987123",
+      "email": "business.dev@srmhotels.com",
+      "website": "https://www.srmhotels.com",
+      "notes": "Exploring land acquisitions (6 to 10 acres) for convention centre cum luxury resort complex close to temple heritage zone.",
+      "status": "New",
+      "dateAdded": "2023-10-24T15:30:00Z"
+    },
+    {
+      "id": "LEAD-MDU-009",
+      "name": "Green Leaf Eco Retreats Pvt Ltd",
+      "category": "Eco Tourism & Resort Enterprise",
+      "location": "Alagar Kovil Road, Madurai",
+      "phone": "919789123456",
+      "whatsapp": "919789123456",
+      "email": "land@greenleafretreats.in",
+      "website": "https://www.greenleafretreats.in",
+      "notes": "Immediate requirement for 5+ acres of clear converting land with clear documentation and groundwater source.",
+      "status": "New",
+      "dateAdded": "2023-10-24T16:00:00Z"
+    },
+    {
+      "id": "LEAD-MDU-010",
+      "name": "Jayam Hospitality & Event Venues",
+      "category": "Direct Corporate Buyer",
+      "location": "Alagar Kovil Bypass, Madurai",
+      "phone": "919442287654",
+      "whatsapp": "919442287654",
+      "email": "directors@jayamhospitality.com",
+      "website": "https://www.jayamhospitality.com",
+      "notes": "Looking for 4 to 8 acres with minimum 100 ft road frontage for luxury resort and banqueting project.",
+      "status": "New",
+      "dateAdded": "2023-10-24T17:15:00Z"
     }
   ]
 }

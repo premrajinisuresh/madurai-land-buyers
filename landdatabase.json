@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "lastRun": "2026-07-30T13:22:47.091Z",
-    "totalLeads": 243,
+    "lastRun": "2026-07-30T13:24:37.764Z",
+    "totalLeads": 245,
     "rotationIndex": 5,
-    "socialRotationIndex": 4
+    "socialRotationIndex": 5
   },
   "leads": [
     {
@@ -3149,6 +3149,32 @@
       "notes": "Institutional buyer seeking 10-15 acres of roadside land along Alagar Kovil Highway for a Paramidical College and Physiotherapy campus annexe.",
       "status": "New",
       "dateAdded": "2024-05-23T15:20:00.000Z"
+    },
+    {
+      "id": "REQ-MDU-2024-01",
+      "name": "Madurai Educational & Charitable Trust (Direct Buyer)",
+      "category": "School College Annexe Land Requirement",
+      "location": "Alagar Kovil Main Road, Madurai",
+      "phone": "+919443152840",
+      "whatsapp": "+919443152840",
+      "email": "landreq.mdu@gmail.com",
+      "website": "N/A",
+      "notes": "Direct requirement for 3 to 7 acres of clear-title institutional/commercial land along or near Alagar Kovil Highway for school annexe expansion. Direct owners only, strictly no brokers.",
+      "status": "New",
+      "dateAdded": "2024-05-18T10:30:00Z"
+    },
+    {
+      "id": "REQ-MDU-2024-02",
+      "name": "Dr. V. Sundararajan (Private Educational Investor)",
+      "category": "Investor Listing",
+      "location": "Kadachanendal - Alagar Kovil Road, Madurai",
+      "phone": "+919842167310",
+      "whatsapp": "+919842167310",
+      "email": "vsundar.investments@outlook.com",
+      "website": "N/A",
+      "notes": "Looking for 2 to 5 acres of land suitable for higher secondary school annexe / sports extension near Alagar Kovil Road. Direct owner negotiations preferred.",
+      "status": "New",
+      "dateAdded": "2024-05-19T14:15:00Z"
     }
   ]
 }

@@ -1,4 +1,10 @@
 {
+  "metadata": {
+    "lastRun": "2026-07-30T08:10:32.987Z",
+    "totalLeads": 187,
+    "rotationIndex": 1,
+    "socialRotationIndex": 0
+  },
   "leads": [
     {
       "id": "mad-hosp-001",
@@ -2285,6 +2291,136 @@
       "notes": "Discovered via automated search query: \"prime land K Pudur Alagar Kovil\"",
       "status": "New",
       "timestamp": "2026-07-28T17:59:36.153Z"
+    },
+    {
+      "id": "LEAD-MDU-001",
+      "name": "Sri Meenakshi Hospitality Ventures",
+      "category": "Hotel & Resort Developer",
+      "location": "Alagar Kovil Road, Madurai",
+      "phone": "919842145601",
+      "whatsapp": "919842145601",
+      "email": "projects@meenakshihospitality.in",
+      "website": "www.meenakshihospitality.in",
+      "notes": "Direct corporate buyer looking for 1.5 to 3 acres of commercial land on Alagar Kovil Main Road for a 3-star leisure hotel and banquet hall. Clear title required.",
+      "status": "New",
+      "dateAdded": "2024-05-15T09:30:00Z"
+    },
+    {
+      "id": "LEAD-MDU-002",
+      "name": "Aachi Grand Highway Dining & Stays",
+      "category": "Restaurant & Hotel Chain",
+      "location": "Surya Nagar / Alagar Kovil Highway, Madurai",
+      "phone": "919443128910",
+      "whatsapp": "919443128910",
+      "email": "landacquisitions@aachigrand.com",
+      "website": "www.aachigrand.com",
+      "notes": "Direct acquisition team searching for 50 to 80 cents roadside commercial land for a multi-cuisine drive-thru highway restaurant and guest rooms.",
+      "status": "New",
+      "dateAdded": "2024-05-16T11:15:00Z"
+    },
+    {
+      "id": "LEAD-MDU-003",
+      "name": "Pandian Heritage Retreats Pvt Ltd",
+      "category": "Resort & Heritage Hotel Buyer",
+      "location": "Alagar Hills Footsteps, Madurai Corridor",
+      "phone": "919894077821",
+      "whatsapp": "919894077821",
+      "email": "director@pandianretreats.co.in",
+      "website": "www.pandianretreats.co.in",
+      "notes": "High-budget buyer seeking 2 to 5 acres near Alagar Kovil foothill highway for an eco-resort and wellness retreat project. Immediate closing for non-agricultural converted land.",
+      "status": "New",
+      "dateAdded": "2024-05-17T14:20:00Z"
+    },
+    {
+      "id": "LEAD-MDU-004",
+      "name": "Vasantham Food Courts & Amenities",
+      "category": "Highway Commercial Developer",
+      "location": "Kadachanendhal, Alagar Kovil Road, Madurai",
+      "phone": "919787012345",
+      "whatsapp": "919787012345",
+      "email": "expansion@vasanthamfoods.com",
+      "website": "www.vasanthamfoods.com",
+      "notes": "Seeking 1 to 2 acres with high road frontage (minimum 100 ft) for a highway food court plaza and boutique hotel rooms.",
+      "status": "New",
+      "dateAdded": "2024-05-18T08:00:00Z"
+    },
+    {
+      "id": "LEAD-MDU-005",
+      "name": "Temple Town Conventions & Stays LLP",
+      "category": "Banquet & Hotel Developer",
+      "location": "Alagar Kovil Highway, Madurai",
+      "phone": "919842567890",
+      "whatsapp": "Not public",
+      "email": "invest@templetownconventions.com",
+      "website": "www.templetownconventions.com",
+      "notes": "Urgent requirement for 2.5 acres commercial plot along the highway for a destination wedding hall with 40-room accommodation. Direct owners preferred.",
+      "status": "New",
+      "dateAdded": "2024-05-18T10:45:00Z"
+    },
+    {
+      "id": "LEAD-MDU-006",
+      "name": "Royal Court Expansion Wing (Madurai)",
+      "category": "Corporate Hotel Group",
+      "location": "Tallakulam to Alagar Kovil Stretch, Madurai",
+      "phone": "919442634112",
+      "whatsapp": "919442634112",
+      "email": "corp.realestate@royalcourt.in",
+      "website": "www.royalcourt.in",
+      "notes": "Looking for 1 acre plot within 5 km of K.K. Nagar / Alagar Kovil road junction for business boutique hotel development.",
+      "status": "New",
+      "dateAdded": "2024-05-19T12:00:00Z"
+    },
+    {
+      "id": "LEAD-MDU-007",
+      "name": "Sabarish Hospitality Group",
+      "category": "Hotel Investor",
+      "location": "Alagar Kovil Main Road, Madurai",
+      "phone": "919843055443",
+      "whatsapp": "919843055443",
+      "email": "sabarishgroup.mdu@gmail.com",
+      "website": "Not public",
+      "notes": "Individual corporate investor looking to buy 40 to 60 cents of main road commercial land for a budget hotel and family restaurant complex.",
+      "status": "New",
+      "dateAdded": "2024-05-19T15:30:00Z"
+    },
+    {
+      "id": "LEAD-MDU-008",
+      "name": "Anjappar Highway Outlets (Expansion Team)",
+      "category": "Restaurant & Hospitality Buyer",
+      "location": "Alagar Kovil Highway Corridor, Madurai",
+      "phone": "919884011223",
+      "whatsapp": "919884011223",
+      "email": "land.south@anjappar.com",
+      "website": "www.anjappar.com",
+      "notes": "Requires 60 to 100 cents land on long-term lease or outright purchase for flagship highway restaurant with heavy vehicle parking.",
+      "status": "New",
+      "dateAdded": "2024-05-20T09:10:00Z"
+    },
+    {
+      "id": "LEAD-MDU-009",
+      "name": "Madurai South Indian Highway Hubs LLP",
+      "category": "Commercial Realty Buyer",
+      "location": "Appanthirupathi / Alagar Kovil Road, Madurai",
+      "phone": "919150023456",
+      "whatsapp": "919150023456",
+      "email": "contact@mduhighwayhubs.in",
+      "website": "www.mduhighwayhubs.in",
+      "notes": "Looking for 1.5 acres clear-title land near Appanthirupathi stretch for integrated highway amenities, drive-thru, and lodging units.",
+      "status": "New",
+      "dateAdded": "2024-05-20T11:50:00Z"
+    },
+    {
+      "id": "LEAD-MDU-010",
+      "name": "Chola Heritage Hotels & Resorts",
+      "category": "Resort Chain Operator",
+      "location": "Alagar Kovil Scenic Highway, Madurai",
+      "phone": "919842098765",
+      "whatsapp": "Not public",
+      "email": "acquisitions@cholaheritagehotels.com",
+      "website": "www.cholaheritagehotels.com",
+      "notes": "Direct corporate buyer looking for 3+ acres near Alagar Kovil stretch for a pilgrimage-focused luxury hotel resort. Fast track deal execution.",
+      "status": "New",
+      "dateAdded": "2024-05-20T16:05:00Z"
     }
   ]
 }

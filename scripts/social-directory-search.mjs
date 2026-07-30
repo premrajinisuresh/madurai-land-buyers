@@ -1,11 +1,9 @@
-// scripts/social-directory-search.mjs
 import fs from 'fs';
 import path from 'path';
+import { GoogleGenAI } from '@google/genai';
 
 const DB_PATH = path.resolve('landdatabase.json');
-const TIMEOUT_MS = 30000;
 const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
-const GEMINI_MODEL = "gemini-flash-latest";
 
 const SEARCH_QUERIES = [
   "hotel restaurant land buyer requirement Madurai MagicBricks Facebook group",
@@ -29,66 +27,81 @@ const SEARCH_QUERIES = [
 
 function loadDatabase() {
   if (!fs.existsSync(DB_PATH)) {
-    return { metadata: { lastRun: null, totalLeads: 0, rotationIndex: 0, socialRotationIndex: 0 }, leads: [] };
+    return {
+      metadata: { lastRun: null, totalLeads: 0, rotationIndex: 0, socialRotationIndex: 0 },
+      leads: []
+    };
   }
   try {
-    const raw = JSON.parse(fs.readFileSync(DB_PATH, 'utf8'));
-    return {
-      metadata: raw.metadata || { lastRun: null, totalLeads: (raw.leads || raw).length, rotationIndex: 0, socialRotationIndex: 0 },
-      leads: Array.isArray(raw) ? raw : (raw.leads || [])
-    };
+    const rawContent = fs.readFileSync(DB_PATH, 'utf8');
+    const parsed = JSON.parse(rawContent);
+
+    let leads = [];
+    let metadata = { lastRun: null, totalLeads: 0, rotationIndex: 0, socialRotationIndex: 0 };
+
+    if (Array.isArray(parsed)) {
+      leads = parsed;
+      metadata.totalLeads = leads.length;
+    } else if (parsed && typeof parsed === 'object') {
+      leads = Array.isArray(parsed.leads) ? parsed.leads : [];
+      if (parsed.metadata) {
+        metadata = {
+          lastRun: parsed.metadata.lastRun || null,
+          totalLeads: leads.length,
+          rotationIndex: typeof parsed.metadata.rotationIndex === 'number' ? parsed.metadata.rotationIndex : 0,
+          socialRotationIndex: typeof parsed.metadata.socialRotationIndex === 'number' ? parsed.metadata.socialRotationIndex : 0
+        };
+      } else {
+        metadata.totalLeads = leads.length;
+      }
+    }
+    return { metadata, leads };
   } catch (e) {
-    return { metadata: { lastRun: null, totalLeads: 0, rotationIndex: 0, socialRotationIndex: 0 }, leads: [] };
+    return {
+      metadata: { lastRun: null, totalLeads: 0, rotationIndex: 0, socialRotationIndex: 0 },
+      leads: []
+    };
   }
 }
 
 function saveDatabase(db) {
+  db.metadata.totalLeads = db.leads.length;
+  db.metadata.lastRun = new Date().toISOString();
   fs.writeFileSync(DB_PATH, JSON.stringify(db, null, 2), 'utf8');
 }
 
 async function runSocialSearch() {
   console.log("[Social Search Engine] Scanning property portals and groups for buyer posts...");
+  
   if (!GEMINI_API_KEY) {
     console.error("[Error] GEMINI_API_KEY environment variable is missing.");
     process.exit(1);
   }
 
+  const ai = new GoogleGenAI({ apiKey: GEMINI_API_KEY });
   const db = loadDatabase();
+  
   let queryIndex = (db.metadata.socialRotationIndex || 0) % SEARCH_QUERIES.length;
   const currentQuery = SEARCH_QUERIES[queryIndex];
 
   console.log(`[Social Search Engine] Probing query: "${currentQuery}"`);
 
-  const prompt = `Using Google Search, find active direct buyer requirement posts, investor inquiries, or wanted listings on property portals (MagicBricks, Facebook groups, Justdial) matching: "${currentQuery}". Exclude brokers and intermediaries.
+  const prompt = `Find active direct buyer requirement posts or investor listings matching: "${currentQuery}". Exclude brokers.
   Return ONLY a valid JSON array of objects with these exact keys:
   id, name, category, location, phone, whatsapp, email, website, notes, status, dateAdded.
-  - category should be matched to the query type.
+  - category should match the query type.
   - location should be near Madurai / Alagar Kovil Highway.
   - status must be "New".
   - dateAdded must be an ISO date string.
-  No introductory or concluding text, output only the JSON array.`;
-
-  const url = `https://generativelanguage.googleapis.com/v1beta/models/${GEMINI_MODEL}:generateContent?key=${GEMINI_API_KEY}`;
+  No introductory text, output only the JSON array.`;
 
   try {
-    const controller = new AbortController();
-    const timer = setTimeout(() => controller.abort(), TIMEOUT_MS);
-    
-    const response = await fetch(url, {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({
-        contents: [{ parts: [{ text: prompt }] }],
-        tools: [{ googleSearch: {} }]
-      }),
-      signal: controller.signal
+    const response = await ai.models.generateContent({
+      model: 'gemini-3.6-flash',
+      contents: prompt,
     });
-    clearTimeout(timer);
 
-    if (!response.ok) throw new Error(`API returned status ${response.status}`);
-
-    const data = await response.json();
-    const textResponse = data?.candidates?.[0]?.content?.parts?.map((p) => p.text || "").join("") || "";
+    const textResponse = response.text || "";
     const jsonMatch = textResponse.match(/\[[\s\S]*\]/);
     
     if (!jsonMatch) {
@@ -123,9 +136,6 @@ async function runSocialSearch() {
     }
 
     db.metadata.socialRotationIndex = (queryIndex + 1) % SEARCH_QUERIES.length;
-    db.metadata.totalLeads = db.leads.length;
-    db.metadata.lastRun = new Date().toISOString();
-
     saveDatabase(db);
     console.log(`[Database] Successfully committed ${addedCount} new social/portal leads. Total master leads: ${db.metadata.totalLeads}`);
   } catch (error) {

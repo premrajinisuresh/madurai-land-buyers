@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "lastRun": "2026-07-30T09:07:59.993Z",
-    "totalLeads": 224,
+    "lastRun": "2026-07-30T09:09:34.453Z",
+    "totalLeads": 226,
     "rotationIndex": 4,
-    "socialRotationIndex": 2
+    "socialRotationIndex": 3
   },
   "leads": [
     {
@@ -2902,6 +2902,32 @@
       "notes": "Investor group seeking 3+ acres road-facing land near Alagar Kovil for boutique wellness resort expansion. Direct owners with clear legal documentation required.",
       "status": "New",
       "dateAdded": "2026-03-30T14:15:00Z"
+    },
+    {
+      "id": "REQ-MDU-001",
+      "name": "K. Rajendran",
+      "category": "Direct Buyer Requirement",
+      "location": "Alagar Kovil Main Road, Madurai",
+      "phone": "+91 98421 87654",
+      "whatsapp": "+91 98421 87654",
+      "email": "rajendran.constructions@gmail.com",
+      "website": "N/A",
+      "notes": "Direct buyer looking for 1.5 to 3 acres of clear title land suitable for a luxury Kalyana Mandapam (wedding hall) along Alagar Kovil Highway. Direct owners preferred, strictly no brokers.",
+      "status": "New",
+      "dateAdded": "2025-05-18T09:30:00Z"
+    },
+    {
+      "id": "REQ-MDU-002",
+      "name": "Meenakshi Hospitality Infrastructure Pvt Ltd",
+      "category": "Investor Requirement",
+      "location": "Kadachanendal, Alagar Kovil Highway, Madurai",
+      "phone": "+91 94431 52010",
+      "whatsapp": "+91 94431 52010",
+      "email": "acquisitions@meenakshihospitality.in",
+      "website": "https://www.meenakshihospitality.in",
+      "notes": "Institutional investor seeking 2+ acres main road frontage property on Alagar Kovil Highway for convention hall and marriage hall development. Budget up to 15 Cr. Direct deal only.",
+      "status": "New",
+      "dateAdded": "2025-05-19T14:15:00Z"
     }
   ]
 }

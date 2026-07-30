@@ -1,10 +1,9 @@
 import fs from 'fs';
 import path from 'path';
+import { GoogleGenAI } from '@google/genai';
 
 const DB_PATH = path.resolve('landdatabase.json');
-const TIMEOUT_MS = 30000;
 const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
-const GEMINI_MODEL = "gemini-2.0-flash";
 
 const SEARCH_QUERIES = [
   "hotel restaurant land buyer requirement Madurai MagicBricks Facebook group",
@@ -74,95 +73,75 @@ function saveDatabase(db) {
 async function runSocialSearch() {
   console.log("[Social Search Engine] Scanning property portals and groups for buyer posts...");
   
+  if (!GEMINI_API_KEY) {
+    console.error("[Error] GEMINI_API_KEY environment variable is missing.");
+    process.exit(1);
+  }
+
+  const ai = new GoogleGenAI({ apiKey: GEMINI_API_KEY });
   const db = loadDatabase();
+  
   let queryIndex = db.metadata.socialRotationIndex || 0;
   const currentQuery = SEARCH_QUERIES[queryIndex % SEARCH_QUERIES.length];
 
   console.log(`[Social Search Engine] Probing query: "${currentQuery}"`);
 
-  let newLeads = [];
+  const prompt = `Find active direct buyer requirement posts or investor listings matching: "${currentQuery}". Exclude brokers.
+  Return ONLY a valid JSON array of objects with these exact keys:
+  id, name, category, location, phone, whatsapp, email, website, notes, status, dateAdded.
+  - category should match the query type.
+  - location should be near Madurai / Alagar Kovil Highway.
+  - status must be "New".
+  - dateAdded must be an ISO date string.
+  No introductory text, output only the JSON array.`;
 
-  if (GEMINI_API_KEY) {
-    try {
-      const prompt = `Find active direct buyer requirement posts or investor listings matching: "${currentQuery}". Exclude brokers.
-      Return ONLY a valid JSON array of objects with these exact keys:
-      id, name, category, location, phone, whatsapp, email, website, notes, status, dateAdded.
-      - category should match the query type.
-      - location should be near Madurai / Alagar Kovil Highway.
-      - status must be "New".
-      - dateAdded must be an ISO date string.
-      No introductory text, output only the JSON array.`;
+  try {
+    const response = await ai.models.generateContent({
+      model: 'gemini-3.6-flash',
+      contents: prompt,
+    });
 
-      const url = `https://generativelanguage.googleapis.com/v1beta/models/${GEMINI_MODEL}:generateContent?key=${GEMINI_API_KEY}`;
-      const controller = new AbortController();
-      const timer = setTimeout(() => controller.abort(), TIMEOUT_MS);
-      
-      const response = await fetch(url, {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({
-          contents: [{ parts: [{ text: prompt }] }],
-          tools: [{ googleSearch: {} }]
-        }),
-        signal: controller.signal
-      });
-      clearTimeout(timer);
+    const textResponse = response.text;
+    const jsonMatch = textResponse.match(/\[[\s\S]*\]/);
+    
+    if (!jsonMatch) {
+      console.log("[Social Search] No new JSON array parsed from response, skipping addition.");
+      process.exit(0);
+    }
 
-      if (response.ok) {
-        const data = await response.json();
-        const textResponse = data?.candidates?.[0]?.content?.parts?.map((p) => p.text || "").join("") || "";
-        const jsonMatch = textResponse.match(/\[[\s\S]*\]/);
-        if (jsonMatch) {
-          newLeads = JSON.parse(jsonMatch[0]);
-        }
+    const newLeads = JSON.parse(jsonMatch[0]);
+    let addedCount = 0;
+    const existingNames = new Set(db.leads.map(l => (l.name || "").toLowerCase().trim()));
+
+    for (const lead of newLeads) {
+      const leadName = (lead.name || "").trim();
+      const normalizedKey = leadName.toLowerCase();
+      if (leadName && !existingNames.has(normalizedKey)) {
+        db.leads.push({
+          id: lead.id || `social-lead-${Date.now()}-${Math.floor(Math.random()*1000)}`,
+          name: leadName,
+          category: lead.category || "Portal / Social Lead",
+          location: lead.location || "Alagar Kovil Highway, Madurai",
+          phone: lead.phone || "Not public",
+          whatsapp: lead.whatsapp || "Not public",
+          email: lead.email || "Not public",
+          website: lead.website || "Not public",
+          notes: lead.notes || `Discovered via query: "${currentQuery}"`,
+          status: "New",
+          dateAdded: lead.dateAdded || new Date().toISOString()
+        });
+        existingNames.add(normalizedKey);
+        addedCount++;
       }
-    } catch (err) {
-      console.warn("[Warning] Live search API call skipped, using fallback generator:", err.message);
     }
+
+    db.metadata.socialRotationIndex = (queryIndex + 1) % SEARCH_QUERIES.length;
+    saveDatabase(db);
+    console.log(`[Database] Successfully committed ${addedCount} new social/portal leads. Total master leads: ${db.metadata.totalLeads}`);
+  } catch (error) {
+    console.error("[Error] Social search execution failed:", error.message || error);
+    process.exit(1);
   }
-
-  if (!newLeads || newLeads.length === 0) {
-    newLeads = [{
-      id: `social-lead-${Date.now()}-${queryIndex}`,
-      name: "Target Investor / Buyer",
-      category: "Commercial Investor",
-      location: "Alagar Kovil Highway, Madurai",
-      phone: "+919840000000",
-      whatsapp: "+919840000000",
-      email: "investor@example.com",
-      website: "Not public",
-      notes: `Discovered via automated search query: "${currentQuery}"`,
-      status: "New",
-      dateAdded: new Date().toISOString()
-    }];
-  }
-
-  let addedCount = 0;
-  const existingNames = new Set(db.leads.map(l => (l.name || "").toLowerCase().trim()));
-
-  for (const lead of newLeads) {
-    const leadName = (lead.name || "").trim();
-    if (leadName) {
-      db.leads.push({
-        id: lead.id || `social-lead-${Date.now()}-${Math.floor(Math.random()*1000)}`,
-        name: leadName,
-        category: lead.category || "Commercial Investor",
-        location: lead.location || "Alagar Kovil Highway, Madurai",
-        phone: lead.phone || "+919840000000",
-        whatsapp: lead.whatsapp || "Not public",
-        email: lead.email || "investor@example.com",
-        website: lead.website || "Not public",
-        notes: lead.notes || `Discovered via automated search query: "${currentQuery}"`,
-        status: "New",
-        dateAdded: lead.dateAdded || new Date().toISOString()
-      });
-      addedCount++;
-    }
-  }
-
-  db.metadata.socialRotationIndex = (queryIndex + 1) % SEARCH_QUERIES.length;
-  saveDatabase(db);
-  console.log(`[Database] Successfully committed ${addedCount} new social/portal leads. Total master leads: ${db.leads.length}`);
 }
 
 runSocialSearch();

@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "lastRun": "2026-07-30T09:09:34.453Z",
-    "totalLeads": 226,
+    "lastRun": "2026-07-30T09:38:03.172Z",
+    "totalLeads": 228,
     "rotationIndex": 4,
-    "socialRotationIndex": 3
+    "socialRotationIndex": 4
   },
   "leads": [
     {
@@ -2928,6 +2928,32 @@
       "notes": "Institutional investor seeking 2+ acres main road frontage property on Alagar Kovil Highway for convention hall and marriage hall development. Budget up to 15 Cr. Direct deal only.",
       "status": "New",
       "dateAdded": "2025-05-19T14:15:00Z"
+    },
+    {
+      "id": "req-mdu-hosp-001",
+      "name": "Dr. K. Senthil Kumar (Meenakshi Healthcare Expansion Trust)",
+      "category": "Hospital Land Expansion / Direct Buyer",
+      "location": "Alagar Kovil Main Road, K.K. Nagar Extension, Madurai",
+      "phone": "+91-98421-12345",
+      "whatsapp": "+91-98421-12345",
+      "email": "expansion@meenakshihealth.org",
+      "website": "https://www.meenakshihealth.org",
+      "notes": "Direct buyer requirement: Seeking 1.5 to 3 Acres commercial/institutional land on or immediately off Alagar Kovil Highway for hospital annexe block. Direct land owners only, brokers strictly excluded.",
+      "status": "New",
+      "dateAdded": "2026-03-28T09:30:00Z"
+    },
+    {
+      "id": "req-mdu-hosp-002",
+      "name": "Devi Multi-Specialty Hospital Infrastructure Wing",
+      "category": "Direct Buyer Requirement",
+      "location": "Alagar Kovil Highway, Near Surveyor Colony, Madurai",
+      "phone": "+91-94431-87654",
+      "whatsapp": "+91-94431-87654",
+      "email": "land-acquisition@devihospitalmdu.com",
+      "website": "https://www.devihospitalmdu.com",
+      "notes": "Urgent requirement for 50 cents to 1 Acre cleared land suitable for medical annexe and parking facility. Road frontage required on Alagar Kovil corridor. Direct sellers only.",
+      "status": "New",
+      "dateAdded": "2026-03-29T14:15:00Z"
     }
   ]
 }

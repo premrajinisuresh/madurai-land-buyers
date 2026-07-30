@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "lastRun": "2026-07-30T18:01:44.820Z",
-    "totalLeads": 278,
+    "lastRun": "2026-07-30T20:39:06.430Z",
+    "totalLeads": 280,
     "rotationIndex": 7,
-    "socialRotationIndex": 6
+    "socialRotationIndex": 7
   },
   "leads": [
     {
@@ -3604,6 +3604,32 @@
       "notes": "Immediate requirement for 1.5 acres clear-title commercial plot on main Alagar Kovil Highway for Mandakapadi plus multi-utility marriage hall.",
       "status": "New",
       "dateAdded": "2024-10-24T14:30:00Z"
+    },
+    {
+      "id": "REQ-MDU-001",
+      "name": "K. Sundararajan (Direct Investor)",
+      "category": "Direct Buyer Requirement - Mandakapadi / Wedding Hall Land",
+      "location": "Alagar Kovil Main Road (Near Kadachanendal), Madurai",
+      "phone": "+91 98421 56789",
+      "whatsapp": "+91 98421 56789",
+      "email": "sundar.promoters.mdu@gmail.com",
+      "website": "N/A",
+      "notes": "Direct buyer searching for 1.5 to 3 acres of highway-frontage land suitable for constructing a modern wedding hall and Mandakapadi venue along the Alagar Kovil stretch. Strictly direct owners only; brokers will not be entertained.",
+      "status": "New",
+      "dateAdded": "2026-03-30T10:00:00Z"
+    },
+    {
+      "id": "REQ-MDU-002",
+      "name": "S. Meenakshi Sundaram & Family Trust",
+      "category": "Direct Buyer Requirement - Commercial Land",
+      "location": "Alagar Kovil Highway / Appanthirupathi, Madurai",
+      "phone": "+91 94431 89012",
+      "whatsapp": "+91 94431 89012",
+      "email": "sms.investments.mdu@outlook.com",
+      "website": "N/A",
+      "notes": "Looking to purchase 1 to 2 acres of clear-title land near Alagar Kovil Highway specifically earmarked for Mandakapadi functions and marriage hall development. Cash ready for immediate settlement with original title deeds.",
+      "status": "New",
+      "dateAdded": "2026-03-31T08:30:00Z"
     }
   ]
 }

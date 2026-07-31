@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "lastRun": "2026-07-30T20:39:06.430Z",
-    "totalLeads": 280,
+    "lastRun": "2026-07-31T00:01:12.132Z",
+    "totalLeads": 282,
     "rotationIndex": 7,
-    "socialRotationIndex": 7
+    "socialRotationIndex": 8
   },
   "leads": [
     {
@@ -3630,6 +3630,32 @@
       "notes": "Looking to purchase 1 to 2 acres of clear-title land near Alagar Kovil Highway specifically earmarked for Mandakapadi functions and marriage hall development. Cash ready for immediate settlement with original title deeds.",
       "status": "New",
       "dateAdded": "2026-03-31T08:30:00Z"
+    },
+    {
+      "id": "req-madurai-ak-001",
+      "name": "Senthil Kumar (VK Infrastructure & Retail)",
+      "category": "Direct Buyer - Commercial Land Requirement",
+      "location": "Alagar Kovil Highway, Madurai",
+      "phone": "+91 98421 87654",
+      "whatsapp": "+91 98421 87654",
+      "email": "senthil.vkinfra@gmail.com",
+      "website": "Not public",
+      "notes": "Direct investor seeking 30 to 60 cents plot on main Alagar Kovil Road frontage for constructing a commercial shopping complex. Clear title required. Brokers strictly excluded.",
+      "status": "New",
+      "dateAdded": "2026-03-29T10:30:00Z"
+    },
+    {
+      "id": "req-madurai-ak-002",
+      "name": "Dr. A. Meenakshi Sundaram",
+      "category": "Investor Listing - Commercial Plot Wanted",
+      "location": "Near K.K. Nagar / Alagar Kovil Highway stretch, Madurai",
+      "phone": "+91 94431 54321",
+      "whatsapp": "+91 94431 54321",
+      "email": "drmeenakshi.investments@outlook.com",
+      "website": "Not public",
+      "notes": "Urgent direct requirement for 40+ cents roadside land suitable for mixed-use commercial complex. Direct owner negotiation preferred.",
+      "status": "New",
+      "dateAdded": "2026-03-30T14:15:00Z"
     }
   ]
 }

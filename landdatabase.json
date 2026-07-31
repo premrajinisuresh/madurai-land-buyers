@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "lastRun": "2026-07-31T12:01:57.091Z",
-    "totalLeads": 342,
-    "rotationIndex": 11
+    "lastRun": "2026-07-31T15:01:50.915Z",
+    "totalLeads": 357,
+    "rotationIndex": 12
   },
   "leads": [
     {
@@ -4435,6 +4435,201 @@
       "notes": "Australian NRI syndicate seeking 1.5 to 3 acres along Alagar Kovil Highway for mixed-use commercial office space and service apartments setup.",
       "status": "New",
       "dateAdded": "2025-02-19T18:15:00Z"
+    },
+    {
+      "id": "MAD-HNI-001",
+      "name": "Solaimalai Group Family Office",
+      "category": "Family Office",
+      "location": "KK Nagar, Madurai, Tamil Nadu",
+      "phone": "+91 452 253 1122",
+      "whatsapp": "+91 98421 21005",
+      "email": "investments@solaimalai.in",
+      "website": "https://www.solaimalai.in",
+      "notes": "Seeking 2.5 to 5 acres of commercial land along Alagar Kovil Highway for retail and automotive dealership expansion.",
+      "status": "New",
+      "dateAdded": "2024-05-10T09:30:00Z"
+    },
+    {
+      "id": "MAD-HNI-002",
+      "name": "Thangamayil Capital & Assets Division",
+      "category": "Corporate Land Bank",
+      "location": "Anna Nagar, Madurai, Tamil Nadu",
+      "phone": "+91 452 256 5500",
+      "whatsapp": "+91 98422 34011",
+      "email": "landbank@thangamayil.com",
+      "website": "https://www.thangamayil.com",
+      "notes": "Direct corporate buyer looking for high-visibility commercial frontage (min 100 ft) on Alagar Kovil Main Road.",
+      "status": "New",
+      "dateAdded": "2024-05-11T11:15:00Z"
+    },
+    {
+      "id": "MAD-HNI-003",
+      "name": "VAA Amirtham Family Holding",
+      "category": "HNI Investor",
+      "location": "Tallakulam, Madurai, Tamil Nadu",
+      "phone": "+91 452 253 4400",
+      "whatsapp": "+91 94430 55120",
+      "email": "holding@amirthamtextiles.com",
+      "website": "Not public",
+      "notes": "Local textile HNI looking to diversify into commercial land banking near Mattuthavani / Alagar Kovil corridor.",
+      "status": "New",
+      "dateAdded": "2024-05-12T14:20:00Z"
+    },
+    {
+      "id": "MAD-HNI-004",
+      "name": "Meenakshi Mission Land Trust",
+      "category": "Healthcare Trust",
+      "location": "Lake Area, Melur Road, Madurai, Tamil Nadu",
+      "phone": "+91 452 426 3000",
+      "whatsapp": "+91 98430 11982",
+      "email": "expansion@mmhrc.in",
+      "website": "https://www.meenakshimission.org",
+      "notes": "Direct healthcare expansion wing seeking 3 to 8 acres for allied medical facilities off Alagar Kovil Road.",
+      "status": "New",
+      "dateAdded": "2024-05-13T08:45:00Z"
+    },
+    {
+      "id": "MAD-HNI-005",
+      "name": "Velammal Educational & Infrastructure Trust",
+      "category": "Educational & Healthcare Trust",
+      "location": "Ring Road, Anuppanadi, Madurai, Tamil Nadu",
+      "phone": "+91 452 246 5289",
+      "whatsapp": "+91 97890 22100",
+      "email": "realestate@velammal.edu.in",
+      "website": "https://www.velammal.edu.in",
+      "notes": "Actively looking for 5+ acres of contiguous land near Othakadai / Alagar Kovil stretch for institutional and commercial usage.",
+      "status": "New",
+      "dateAdded": "2024-05-14T10:00:00Z"
+    },
+    {
+      "id": "MAD-HNI-006",
+      "name": "Hi-Tech Arai Private Investments",
+      "category": "Family Office",
+      "location": "K.K. Nagar, Madurai, Tamil Nadu",
+      "phone": "+91 452 258 1000",
+      "whatsapp": "+91 98421 88002",
+      "email": "treasury@hitecharai.com",
+      "website": "http://www.hitecharai.com",
+      "notes": "Industrial family office seeking commercial plots for mixed-use development near Tallakulam - Alagar Kovil axis.",
+      "status": "New",
+      "dateAdded": "2024-05-15T16:30:00Z"
+    },
+    {
+      "id": "MAD-HNI-007",
+      "name": "Milanem Infrastructure & Family Capital",
+      "category": "HNI Investor",
+      "location": "7th East Cross St, KK Nagar, Madurai, Tamil Nadu",
+      "phone": "+91 452 439 1100",
+      "whatsapp": "+91 98421 44500",
+      "email": "projects@milanem.com",
+      "website": "Not public",
+      "notes": "HNI group focused on premium commercial development; interested in clear-title plots along Alagar Kovil Highway.",
+      "status": "New",
+      "dateAdded": "2024-05-16T12:10:00Z"
+    },
+    {
+      "id": "MAD-HNI-008",
+      "name": "Sri Mookambika Real Estate Holdings",
+      "category": "Corporate Land Bank",
+      "location": "CID Colony, Tallakulam, Madurai, Tamil Nadu",
+      "phone": "+91 452 253 9000",
+      "whatsapp": "+91 94431 22900",
+      "email": "invest@mookambikainfotech.com",
+      "website": "https://www.mookambikainfotech.com",
+      "notes": "IT/Tech founder family office acquiring commercial land for future IT park / office complex along Alagar Kovil Rd.",
+      "status": "New",
+      "dateAdded": "2024-05-17T09:00:00Z"
+    },
+    {
+      "id": "MAD-HNI-009",
+      "name": "Fortune Pandiyan Asset Management",
+      "category": "Family Office",
+      "location": "Race Course Road, Madurai, Tamil Nadu",
+      "phone": "+91 452 253 7080",
+      "whatsapp": "+91 98421 11340",
+      "email": "corporate@fortunepandiyan.com",
+      "website": "Not public",
+      "notes": "Hospitality & real estate HNI portfolio looking for 1 to 3 acres suitable for boutique resort/convention center on Alagar Kovil Road.",
+      "status": "New",
+      "dateAdded": "2024-05-18T13:45:00Z"
+    },
+    {
+      "id": "MAD-HNI-010",
+      "name": "A.R.S. Silks & Commercial Holdings",
+      "category": "HNI Investor",
+      "location": "South Masi Street, Madurai, Tamil Nadu",
+      "phone": "+91 452 233 4100",
+      "whatsapp": "+91 98432 09800",
+      "email": "contact@arssilks.in",
+      "website": "Not public",
+      "notes": "Prominent Madurai retail business owners seeking direct purchase of commercial land for retail showroom expansion.",
+      "status": "New",
+      "dateAdded": "2024-05-19T10:15:00Z"
+    },
+    {
+      "id": "MAD-HNI-011",
+      "name": "Sethu Institute Land & Infrastructure Division",
+      "category": "Educational Trust",
+      "location": "Pulaiyur, Madurai, Tamil Nadu",
+      "phone": "+91 452 267 3300",
+      "whatsapp": "+91 94433 60710",
+      "email": "trust@sethu.ac.in",
+      "website": "https://www.sethu.ac.in",
+      "notes": "Trust investment wing looking to landbank 4+ acres near Kadachanendal / Alagar Kovil stretch.",
+      "status": "New",
+      "dateAdded": "2024-05-20T15:20:00Z"
+    },
+    {
+      "id": "MAD-HNI-012",
+      "name": "TVS Family Capital (Madurai Regional Office)",
+      "category": "Family Office",
+      "location": "West Veli Street, Madurai, Tamil Nadu",
+      "phone": "+91 452 234 0500",
+      "whatsapp": "+91 98421 99011",
+      "email": "regional.investments@tvs.in",
+      "website": "https://www.tvs.in",
+      "notes": "Looking for roadside commercial plots with quick access to Mattuthavani & Alagar Kovil Bypass for logistics/commercial hub.",
+      "status": "New",
+      "dateAdded": "2024-05-21T11:00:00Z"
+    },
+    {
+      "id": "MAD-HNI-013",
+      "name": "Pandyan Hotels Estates & Ventures",
+      "category": "HNI Investor",
+      "location": "TPK Road, Madurai, Tamil Nadu",
+      "phone": "+91 452 237 1380",
+      "whatsapp": "+91 98430 44210",
+      "email": "estates@hotelpandyan.com",
+      "website": "Not public",
+      "notes": "HNI hospitality group seeking land for banquet hall and eco-stay development towards Alagar Kovil foothills.",
+      "status": "New",
+      "dateAdded": "2024-05-22T14:00:00Z"
+    },
+    {
+      "id": "MAD-HNI-014",
+      "name": "Preethi Kitchen Appliances Founders Family Office",
+      "category": "Family Office",
+      "location": "K.K. Nagar, Madurai, Tamil Nadu",
+      "phone": "+91 452 258 4000",
+      "whatsapp": "+91 98421 66500",
+      "email": "familyoffice@preethiholdings.in",
+      "website": "Not public",
+      "notes": "Private HNI capital deploying into strategic commercial land parcels along high-growth corridors of North Madurai.",
+      "status": "New",
+      "dateAdded": "2024-05-23T10:30:00Z"
+    },
+    {
+      "id": "MAD-HNI-015",
+      "name": "DHAN Foundation Assets Trust",
+      "category": "Institutional Asset Wing",
+      "location": "T.B. Road, KK Nagar, Madurai, Tamil Nadu",
+      "phone": "+91 452 230 2500",
+      "whatsapp": "+91 94432 18830",
+      "email": "dhanfoundation@dhan.org",
+      "website": "https://www.dhan.org",
+      "notes": "Direct institutional buyer evaluating land parcels near Othakadai / Alagar Kovil Rd for administrative and training infrastructure.",
+      "status": "New",
+      "dateAdded": "2024-05-24T09:10:00Z"
     }
   ]
 }

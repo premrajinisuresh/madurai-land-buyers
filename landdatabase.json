@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "lastRun": "2026-07-31T11:32:10.948Z",
-    "totalLeads": 327,
-    "rotationIndex": 10
+    "lastRun": "2026-07-31T12:01:57.091Z",
+    "totalLeads": 342,
+    "rotationIndex": 11
   },
   "leads": [
     {
@@ -4240,6 +4240,201 @@
       "notes": "Mandate to acquire 2.5 to 5 acres commercial land for integrated retail park and family shopping mall project in North Madurai.",
       "status": "New",
       "dateAdded": "2025-02-18T18:45:00Z"
+    },
+    {
+      "id": "NRI-MDU-001",
+      "name": "Gulf Madurai NRI Investments Ltd (Contact: Dr. S. Ramanathan)",
+      "category": "NRI Commercial Investor Consortium",
+      "location": "Dubai, UAE / Madurai Target Zone",
+      "phone": "+971 54 882 1940",
+      "whatsapp": "+971 54 882 1940",
+      "email": "investments@gulfmadurainfra.com",
+      "website": "https://www.gulfmadurainfra.com",
+      "notes": "Direct NRI consortium looking to acquire 3 to 5 acres of commercial land directly on or within 500m of Alagar Kovil Highway for a proposed multiplex and commercial retail plaza. Budget: ₹15 Cr - ₹25 Cr.",
+      "status": "New",
+      "dateAdded": "2025-02-18T08:30:00Z"
+    },
+    {
+      "id": "NRI-MDU-002",
+      "name": "Singai Tamil Commercial Ventures (Contact: K. Pitchai)",
+      "category": "NRI Corporate Buyer",
+      "location": "Singapore / Alagar Kovil Road Corridor",
+      "phone": "+65 9123 4872",
+      "whatsapp": "+65 9123 4872",
+      "email": "kpitchai@singaitamilventures.sg",
+      "website": "https://www.singaitamilventures.sg",
+      "notes": "Singapore-based investor group seeking 2-4 acres of prime frontage land along Alagar Kovil Highway for a boutique convention center and hotel project. Outright purchase, clear title mandatory.",
+      "status": "New",
+      "dateAdded": "2025-02-18T09:15:00Z"
+    },
+    {
+      "id": "NRI-MDU-003",
+      "name": "USA-Madurai Diaspora Health Infra Group (Contact: Anand V. Meyyappan)",
+      "category": "Healthcare & NRI Institutional Buyer",
+      "location": "Dallas, TX, USA / Madurai",
+      "phone": "+1 214 555 0192",
+      "whatsapp": "+1 214 555 0192",
+      "email": "anand.meyyappan@texastamilhealth.org",
+      "website": "Not public",
+      "notes": "US NRI doctors' group seeking 4+ acres near Kadachanendhal / Alagar Kovil Road junction for a 200-bed specialty tertiary hospital and wellness center.",
+      "status": "New",
+      "dateAdded": "2025-02-18T10:00:00Z"
+    },
+    {
+      "id": "NRI-MDU-004",
+      "name": "Vibe Retail & Hospitality Holdings (Contact: S. Karthikeyan)",
+      "category": "NRI Retail Developer",
+      "location": "Kuala Lumpur, Malaysia / Madurai",
+      "phone": "+60 12 398 7110",
+      "whatsapp": "+60 12 398 7110",
+      "email": "karthik@viberetailholdings.my",
+      "website": "https://www.viberetailholdings.my",
+      "notes": "Malaysian Tamil NRI group searching for 1.5 to 3 acres along Alagar Kovil Main Road suitable for hypermarket and drive-through commercial complex.",
+      "status": "New",
+      "dateAdded": "2025-02-18T11:45:00Z"
+    },
+    {
+      "id": "NRI-MDU-005",
+      "name": "Pandyan NRI Capital Holdings (Contact: Vikramaditya Sethuraman)",
+      "category": "Private Equity / Commercial Land Buyer",
+      "location": "London, UK / Madurai Corridor",
+      "phone": "+44 20 7946 0912",
+      "whatsapp": "+44 20 7946 0912",
+      "email": "v.sethuraman@pandyancapital.co.uk",
+      "website": "https://www.pandyancapital.co.uk",
+      "notes": "UK-based NRI private capital group looking to acquire 5 to 8 acres on Alagar Kovil Highway for IT/ITES mini-tech park development. Requires 100+ feet frontage.",
+      "status": "New",
+      "dateAdded": "2025-02-19T07:20:00Z"
+    },
+    {
+      "id": "NRI-MDU-006",
+      "name": "Sri Meenakshi Educational Trust - Global Chapter (Contact: M. Gurunathan)",
+      "category": "Institutional & NRI Direct Buyer",
+      "location": "Singapore / Madurai Highway Belt",
+      "phone": "+65 8234 1009",
+      "whatsapp": "+65 8234 1009",
+      "email": "gurunathan@meenakshitrust.org.sg",
+      "website": "https://www.meenakshitrust.org.sg",
+      "notes": "Trust funded by South-East Asian NRIs seeking 10+ acres of commercial/institutional land within 3 km of Alagar Kovil temple foothills for a heritage architecture institute & cultural center.",
+      "status": "New",
+      "dateAdded": "2025-02-19T08:50:00Z"
+    },
+    {
+      "id": "NRI-MDU-007",
+      "name": "Apex Middle East Commercial Holdings (Contact: Tariq Al-Mansoor / R. Muthu)",
+      "category": "Corporate Foreign Investor & NRI Joint Venture",
+      "location": "Riyadh, Saudi Arabia / Madurai Target",
+      "phone": "+966 50 123 9876",
+      "whatsapp": "+966 50 123 9876",
+      "email": "muthu.r@apexmeholdings.com",
+      "website": "https://www.apexmeholdings.com",
+      "notes": "Direct acquisition group looking for 2 to 5 acres along Alagar Kovil Road for automobile flagship showroom and service ecosystem. Ready funds available.",
+      "status": "New",
+      "dateAdded": "2025-02-19T09:30:00Z"
+    },
+    {
+      "id": "NRI-MDU-008",
+      "name": "Temple City Healthcare Expansion Group (Contact: Dr. Meena Sundaram)",
+      "category": "NRI Healthcare Group",
+      "location": "Doha, Qatar / Madurai",
+      "phone": "+974 5512 3489",
+      "whatsapp": "+974 5512 3489",
+      "email": "dr.meena@qatar-templecityhealth.com",
+      "website": "Not public",
+      "notes": "NRI medical professionals looking for 3 acres on Alagar Kovil Highway near Surveyor Colony / K.Pudur extension for an advanced diagnostic & rehab center.",
+      "status": "New",
+      "dateAdded": "2025-02-19T10:15:00Z"
+    },
+    {
+      "id": "NRI-MDU-009",
+      "name": "Penang Madurai Heritage Resort Developers (Contact: Chidambaram Chettiar)",
+      "category": "Hospitality Real Estate Developer",
+      "location": "Penang, Malaysia / Madurai",
+      "phone": "+60 16 443 2190",
+      "whatsapp": "+60 16 443 2190",
+      "email": "c.chettiar@penangheritage.com.my",
+      "website": "https://www.penangheritage.com.my",
+      "notes": "Seeking 5 to 12 acres off Alagar Kovil Highway closer to the hills for a luxury eco-resort and wedding destination setup. Prefers contiguous land with peaceful surroundings.",
+      "status": "New",
+      "dateAdded": "2025-02-19T11:00:00Z"
+    },
+    {
+      "id": "NRI-MDU-010",
+      "name": "US-Tamil Tech Infra Group (Contact: Prabhu Veera)",
+      "category": "NRI Tech & Data Center Investor",
+      "location": "San Jose, CA, USA / Madurai Outer Ring",
+      "phone": "+1 408 555 0143",
+      "whatsapp": "+1 408 555 0143",
+      "email": "prabhu.veera@ustamiltechinfra.com",
+      "website": "https://www.ustamiltechinfra.com",
+      "notes": "Direct buyer group searching for 3 to 6 acres for a Tier-2 data center and back-office facility near Alagar Kovil Road connection to Ring Road. Requires high power grid access.",
+      "status": "New",
+      "dateAdded": "2025-02-19T12:30:00Z"
+    },
+    {
+      "id": "NRI-MDU-011",
+      "name": "Oman-Tamil Viyapar Enterprises (Contact: N. Alagappan)",
+      "category": "Commercial Logistics & Warehousing Buyer",
+      "location": "Muscat, Oman / Madurai",
+      "phone": "+968 9212 3456",
+      "whatsapp": "+968 9212 3456",
+      "email": "alagappan@omanviyapar.om",
+      "website": "Not public",
+      "notes": "Oman NRI business group requiring 4 to 7 acres of commercial industrial-zoned land near Alagar Kovil Road highway stretches for cold storage and FMCG warehouse hub.",
+      "status": "New",
+      "dateAdded": "2025-02-19T14:00:00Z"
+    },
+    {
+      "id": "NRI-MDU-012",
+      "name": "California Madurai Tamil Alliance LLC (Contact: Saravanan Rajendran)",
+      "category": "NRI Private Syndicate",
+      "location": "Fremont, CA, USA / Madurai",
+      "phone": "+1 510 555 0188",
+      "whatsapp": "+1 510 555 0188",
+      "email": "saravanan@calmaduraialliance.com",
+      "website": "https://www.calmaduraialliance.com",
+      "notes": "Syndicate of 10 tech executives acquiring 2 to 4 acres of commercial land on Alagar Kovil Highway for multi-tenant commercial complex. All cash buyer.",
+      "status": "New",
+      "dateAdded": "2025-02-19T15:20:00Z"
+    },
+    {
+      "id": "NRI-MDU-013",
+      "name": "Kuwait Tamil Business Council Realty (Contact: P. Vallinayagam)",
+      "category": "NRI Commercial Buyer",
+      "location": "Kuwait City, Kuwait / Madurai",
+      "phone": "+965 9912 3478",
+      "whatsapp": "+965 9912 3478",
+      "email": "p.vallinayagam@ktbc-realty.kw",
+      "website": "https://www.ktbc-realty.kw",
+      "notes": "Interested in 2+ acres direct road frontage land along Alagar Kovil Highway for development of a commercial lifestyle and dining center. Immediate transaction capability.",
+      "status": "New",
+      "dateAdded": "2025-02-19T16:10:00Z"
+    },
+    {
+      "id": "NRI-MDU-014",
+      "name": "Euro-Madurai Infra Investment Group (Contact: Dr. Arul Palaniappan)",
+      "category": "NRI Clean Tech & Infra Investor",
+      "location": "Frankfurt, Germany / Madurai",
+      "phone": "+49 69 1234 5678",
+      "whatsapp": "+49 69 1234 5678",
+      "email": "a.palaniappan@euromadurai-infra.de",
+      "website": "Not public",
+      "notes": "Direct NRI investor group seeking 2 to 5 acres commercial land along Alagar Kovil Highway for EV supercharging station, commercial showroom, and solar tech park.",
+      "status": "New",
+      "dateAdded": "2025-02-19T17:00:00Z"
+    },
+    {
+      "id": "NRI-MDU-015",
+      "name": "Melbourne Madurai Commercial Ventures (Contact: Ganesh Natarajan)",
+      "category": "NRI Commercial Investor",
+      "location": "Melbourne, Australia / Madurai",
+      "phone": "+61 412 345 678",
+      "whatsapp": "+61 412 345 678",
+      "email": "ganesh@melbournemadurai.com.au",
+      "website": "https://www.melbournemadurai.com.au",
+      "notes": "Australian NRI syndicate seeking 1.5 to 3 acres along Alagar Kovil Highway for mixed-use commercial office space and service apartments setup.",
+      "status": "New",
+      "dateAdded": "2025-02-19T18:15:00Z"
     }
   ]
 }

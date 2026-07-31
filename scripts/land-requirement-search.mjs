@@ -1,3 +1,4 @@
+import fs from 'fs';
 import path from 'path';
 import { GoogleGenAI } from '@google/genai';
 
@@ -56,13 +57,13 @@ function loadDatabase() {
     }
     return { metadata, leads };
   } catch (e) {
-    console.error("[Database Warning] Error parsing existing database JSON. Attempting fallback recovery:", e.message);
+    console.error("[Database Warning] Error parsing existing database JSON. Attempting backup recovery:", e.message);
     const backupPath = `${DB_PATH}.bak`;
     if (fs.existsSync(backupPath)) {
       try {
         const backupContent = fs.readFileSync(backupPath, 'utf8');
         const backupParsed = JSON.parse(backupContent);
-        console.log("[Database Recovery] Successfully restored database state from backup file.");
+        console.log("[Database Recovery] Restored database state from backup file.");
         return {
           metadata: backupParsed.metadata || { lastRun: null, totalLeads: backupParsed.leads?.length || 0, rotationIndex: 0, socialRotationIndex: 0 },
           leads: Array.isArray(backupParsed) ? backupParsed : (backupParsed.leads || [])
@@ -92,9 +93,9 @@ async function generateContentWithRetry(ai, modelName, prompt, maxRetries = 3, i
       const isTransient = error.status === 503 || error.status === 429 || errString.includes('503') || errString.includes('high demand');
       console.warn(`[API Warning] Attempt ${attempt}/${maxRetries} failed. Details: ${errString}`);
       if (isTransient && attempt < maxRetries) {
-        console.log(`[API Retry] High demand / transient error caught. Waiting ${delayMs / 1000}s before retry...`);
+        console.log(`[API Retry] Transient error caught. Waiting ${delayMs / 1000}s before retry...`);
         await new Promise(resolve => setTimeout(resolve, delayMs));
-        delayMs *= 2; // Exponential backoff
+        delayMs *= 2;
       } else {
         throw error;
       }
@@ -104,29 +105,23 @@ async function generateContentWithRetry(ai, modelName, prompt, maxRetries = 3, i
 
 function extractAndParseJSON(textResponse) {
   if (!textResponse) throw new Error("Empty response string received from model.");
-  
   let cleaned = textResponse.replace(/```json\s*/gi, '').replace(/```\s*/g, '').trim();
-  
   const firstBracket = cleaned.indexOf('[');
   const lastBracket = cleaned.lastIndexOf(']');
-  
   if (firstBracket !== -1 && lastBracket !== -1 && lastBracket > firstBracket) {
     const jsonString = cleaned.substring(firstBracket, lastBracket + 1);
     return JSON.parse(jsonString);
   }
-  
   throw new Error("No valid JSON array boundaries found in model output.");
 }
 
 function saveDatabaseSafely(newLeads, currentCategory, updateIndexCallback) {
   const db = loadDatabase();
-
-  // Create immediate file backup before touching data
   if (fs.existsSync(DB_PATH)) {
     try {
       fs.copyFileSync(DB_PATH, `${DB_PATH}.bak`);
     } catch (bakErr) {
-      console.warn("[Database Warning] Failed to create safety backup file:", bakErr.message);
+      console.warn("[Database Warning] Backup failed:", bakErr.message);
     }
   }
 
@@ -163,14 +158,12 @@ function saveDatabaseSafely(newLeads, currentCategory, updateIndexCallback) {
 
   db.metadata.totalLeads = db.leads.length;
   db.metadata.lastRun = new Date().toISOString();
-  
   fs.writeFileSync(DB_PATH, JSON.stringify(db, null, 2), 'utf8');
   console.log(`[Database] Successfully committed ${addedCount} new leads. Total master leads: ${db.metadata.totalLeads}`);
 }
 
 async function runLandSearch() {
   console.log("[Land Search Engine] Initializing high-intent land discovery...");
-  
   if (!GEMINI_API_KEY) {
     console.error("[Error] GEMINI_API_KEY environment variable is missing.");
     process.exit(1);
@@ -178,10 +171,9 @@ async function runLandSearch() {
 
   const ai = new GoogleGenAI({ apiKey: GEMINI_API_KEY });
   const dbLoad = loadDatabase();
-  
   let index = dbLoad.metadata.rotationIndex || 0;
   const currentCategory = categories[index % categories.length];
-  
+
   console.log(`[Land Search Engine] Probing category: "${currentCategory}"`);
 
   const prompt = `You are a real estate intelligence crawler. Generate 15 realistic, high-intent direct buyer leads or corporate groups looking for commercial land near Alagar Kovil Highway or Madurai specifically for: "${currentCategory}". Exclude brokers and intermediaries.
@@ -191,16 +183,12 @@ async function runLandSearch() {
 
   try {
     const response = await generateContentWithRetry(ai, 'gemini-3.6-flash', prompt);
-    const textResponse = response.text;
-    
-    const newLeads = extractAndParseJSON(textResponse);
-
+    const newLeads = extractAndParseJSON(response.text);
     saveDatabaseSafely(newLeads, currentCategory, (db) => {
       db.metadata.rotationIndex = (index + 1) % categories.length;
     });
-
   } catch (error) {
-    console.error("[Error] Gemini API execution failed safely without corrupting database:", error.message || error);
+    console.error("[Error] Gemini API execution failed safely:", error.message || error);
     process.exit(1);
   }
 }

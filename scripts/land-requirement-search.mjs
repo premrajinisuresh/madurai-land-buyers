@@ -5,7 +5,9 @@ import { GoogleGenAI } from '@google/genai';
 const DB_PATH = path.resolve('landdatabase.json');
 const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
 
-const categories = [
+// Combined 34 Queries (17 Targeted Land Categories + 17 Social / Portal Queries)
+const MASTER_QUERIES = [
+  // --- Category Batch 1: Targeted Land Requirements ---
   "Hotel Restaurant Land Requirement Alagar Kovil Highway Madurai",
   "Resort Land Requirement Madurai",
   "Wedding Hall Land Requirement Alagar Kovil Road Madurai",
@@ -22,13 +24,32 @@ const categories = [
   "Regional Gold and Textile Retail Flagship Showroom Land Madurai",
   "National and Private Bank Corporate Branch Plot Madurai",
   "Industrialist Family Office Commercial Land Investment Madurai",
-  "Branded Diagnostic Chain and Healthcare Hub Land Madurai"
+  "Branded Diagnostic Chain and Healthcare Hub Land Madurai",
+
+  // --- Category Batch 2: Social Portals & Direct Buyer Groups ---
+  "hotel restaurant land buyer requirement Madurai MagicBricks Facebook group",
+  "resort land wanted Madurai Alagar Kovil Road",
+  "wedding hall land requirement Madurai property portal",
+  "hospital annexe land expansion Madurai",
+  "school college annexe land requirement Madurai",
+  "service apartment developer land buyer Madurai",
+  "mandakapadi wedding hall land requirement Madurai",
+  "commercial complex plot wanted Alagar Kovil Highway Madurai",
+  "IT corporate office land requirement Madurai",
+  "shopping mall commercial plot buyer Madurai MagicBricks",
+  "NRI commercial real estate investors looking for land Madurai",
+  "local family office HNI commercial land buyers Madurai",
+  "automobile showroom dealership land requirement Madurai",
+  "gold jewelry textile retail brand land purchase Madurai",
+  "bank corporate branch head office plot requirement Madurai",
+  "industrialist family office land acquisition Madurai",
+  "diagnostic center healthcare chain land requirement Madurai"
 ];
 
 function loadDatabase() {
   if (!fs.existsSync(DB_PATH)) {
     return {
-      metadata: { lastRun: null, totalLeads: 0, rotationIndex: 0, socialRotationIndex: 0 },
+      metadata: { lastRun: null, totalLeads: 0, rotationIndex: 0 },
       leads: []
     };
   }
@@ -37,7 +58,7 @@ function loadDatabase() {
     const parsed = JSON.parse(rawContent);
 
     let leads = [];
-    let metadata = { lastRun: null, totalLeads: 0, rotationIndex: 0, socialRotationIndex: 0 };
+    let metadata = { lastRun: null, totalLeads: 0, rotationIndex: 0 };
 
     if (Array.isArray(parsed)) {
       leads = parsed;
@@ -48,8 +69,7 @@ function loadDatabase() {
         metadata = {
           lastRun: parsed.metadata.lastRun || null,
           totalLeads: leads.length,
-          rotationIndex: typeof parsed.metadata.rotationIndex === 'number' ? parsed.metadata.rotationIndex : 0,
-          socialRotationIndex: typeof parsed.metadata.socialRotationIndex === 'number' ? parsed.metadata.socialRotationIndex : 0
+          rotationIndex: typeof parsed.metadata.rotationIndex === 'number' ? parsed.metadata.rotationIndex : 0
         };
       } else {
         metadata.totalLeads = leads.length;
@@ -57,23 +77,23 @@ function loadDatabase() {
     }
     return { metadata, leads };
   } catch (e) {
-    console.error("[Database Warning] Error parsing existing database JSON. Attempting backup recovery:", e.message);
+    console.error("[Database Recovery Warning] JSON corruption detected. Restoring from .bak snapshot:", e.message);
     const backupPath = `${DB_PATH}.bak`;
     if (fs.existsSync(backupPath)) {
       try {
         const backupContent = fs.readFileSync(backupPath, 'utf8');
         const backupParsed = JSON.parse(backupContent);
-        console.log("[Database Recovery] Restored database state from backup file.");
+        console.log("[Database Recovery] Successfully restored state from backup file.");
         return {
-          metadata: backupParsed.metadata || { lastRun: null, totalLeads: backupParsed.leads?.length || 0, rotationIndex: 0, socialRotationIndex: 0 },
+          metadata: backupParsed.metadata || { lastRun: null, totalLeads: backupParsed.leads?.length || 0, rotationIndex: 0 },
           leads: Array.isArray(backupParsed) ? backupParsed : (backupParsed.leads || [])
         };
       } catch (backupEx) {
-        console.error("[Database Recovery] Backup file also invalid. Initializing clean state.");
+        console.error("[Database Recovery] Backup also invalid. Initializing clean database state.");
       }
     }
     return {
-      metadata: { lastRun: null, totalLeads: 0, rotationIndex: 0, socialRotationIndex: 0 },
+      metadata: { lastRun: null, totalLeads: 0, rotationIndex: 0 },
       leads: []
     };
   }
@@ -93,7 +113,7 @@ async function generateContentWithRetry(ai, modelName, prompt, maxRetries = 3, i
       const isTransient = error.status === 503 || error.status === 429 || errString.includes('503') || errString.includes('high demand');
       console.warn(`[API Warning] Attempt ${attempt}/${maxRetries} failed. Details: ${errString}`);
       if (isTransient && attempt < maxRetries) {
-        console.log(`[API Retry] Transient error caught. Waiting ${delayMs / 1000}s before retry...`);
+        console.log(`[API Retry] Transient high demand error caught. Waiting ${delayMs / 1000}s before retry...`);
         await new Promise(resolve => setTimeout(resolve, delayMs));
         delayMs *= 2;
       } else {
@@ -115,13 +135,14 @@ function extractAndParseJSON(textResponse) {
   throw new Error("No valid JSON array boundaries found in model output.");
 }
 
-function saveDatabaseSafely(newLeads, currentCategory, updateIndexCallback) {
+function saveDatabaseSafely(newLeads, currentQuery, updateIndexCallback) {
   const db = loadDatabase();
+  
   if (fs.existsSync(DB_PATH)) {
     try {
       fs.copyFileSync(DB_PATH, `${DB_PATH}.bak`);
     } catch (bakErr) {
-      console.warn("[Database Warning] Backup failed:", bakErr.message);
+      console.warn("[Database Warning] Failed to create .bak snapshot:", bakErr.message);
     }
   }
 
@@ -134,15 +155,15 @@ function saveDatabaseSafely(newLeads, currentCategory, updateIndexCallback) {
       const normalizedKey = leadName.toLowerCase();
       if (leadName && !existingNames.has(normalizedKey)) {
         db.leads.push({
-          id: lead.id || `land-lead-${Date.now()}-${Math.floor(Math.random()*1000)}`,
+          id: lead.id || `lead-${Date.now()}-${Math.floor(Math.random()*1000)}`,
           name: leadName,
-          category: lead.category || currentCategory,
+          category: lead.category || currentQuery,
           location: lead.location || "Alagar Kovil Highway, Madurai",
           phone: lead.phone || "Not public",
           whatsapp: lead.whatsapp || "Not public",
           email: lead.email || "Not public",
           website: lead.website || "Not public",
-          notes: lead.notes || `Discovered via targeted search for ${currentCategory}`,
+          notes: lead.notes || `Discovered via query: "${currentQuery}"`,
           status: lead.status || "New",
           dateAdded: lead.dateAdded || new Date().toISOString()
         });
@@ -158,12 +179,13 @@ function saveDatabaseSafely(newLeads, currentCategory, updateIndexCallback) {
 
   db.metadata.totalLeads = db.leads.length;
   db.metadata.lastRun = new Date().toISOString();
+  
   fs.writeFileSync(DB_PATH, JSON.stringify(db, null, 2), 'utf8');
-  console.log(`[Database] Successfully committed ${addedCount} new leads. Total master leads: ${db.metadata.totalLeads}`);
+  console.log(`[Database Atomic Write] Successfully committed ${addedCount} new leads. Total master inventory: ${db.metadata.totalLeads}`);
 }
 
-async function runLandSearch() {
-  console.log("[Land Search Engine] Initializing high-intent land discovery...");
+async function runMasterSearch() {
+  console.log("[Master Search Engine] Initializing single-thread atomic land buyer intelligence scan...");
   if (!GEMINI_API_KEY) {
     console.error("[Error] GEMINI_API_KEY environment variable is missing.");
     process.exit(1);
@@ -171,26 +193,29 @@ async function runLandSearch() {
 
   const ai = new GoogleGenAI({ apiKey: GEMINI_API_KEY });
   const dbLoad = loadDatabase();
-  let index = dbLoad.metadata.rotationIndex || 0;
-  const currentCategory = categories[index % categories.length];
+  
+  let currentIndex = dbLoad.metadata.rotationIndex || 0;
+  const currentQuery = MASTER_QUERIES[currentIndex % MASTER_QUERIES.length];
 
-  console.log(`[Land Search Engine] Probing category: "${currentCategory}"`);
+  console.log(`[Master Search Engine] Probing query index [${currentIndex}/${MASTER_QUERIES.length}]: "${currentQuery}"`);
 
-  const prompt = `You are a real estate intelligence crawler. Generate 15 realistic, high-intent direct buyer leads or corporate groups looking for commercial land near Alagar Kovil Highway or Madurai specifically for: "${currentCategory}". Exclude brokers and intermediaries.
+  const prompt = `You are a real estate intelligence crawler. Generate 15 realistic, high-intent direct buyer leads or corporate groups looking for commercial land near Alagar Kovil Highway or Madurai specifically for: "${currentQuery}". Exclude brokers and intermediaries.
   Return ONLY a valid JSON array with objects containing these exact keys:
   id, name, category, location, phone, whatsapp, email, website, notes, status, dateAdded.
-  Ensure phone and whatsapp are valid number strings with country code (e.g., "919842678901") or "Not public". status must be "New". dateAdded must be an ISO date string. Ensure email is a realistic corporate email address or "Not public".`;
+  Ensure phone and whatsapp are valid string numbers with country code or "Not public". status must be "New". dateAdded must be an ISO date string. Ensure email is a realistic corporate email address or "Not public".`;
 
   try {
     const response = await generateContentWithRetry(ai, 'gemini-3.6-flash', prompt);
     const newLeads = extractAndParseJSON(response.text);
-    saveDatabaseSafely(newLeads, currentCategory, (db) => {
-      db.metadata.rotationIndex = (index + 1) % categories.length;
+
+    saveDatabaseSafely(newLeads, currentQuery, (db) => {
+      db.metadata.rotationIndex = (currentIndex + 1) % MASTER_QUERIES.length;
     });
+
   } catch (error) {
-    console.error("[Error] Gemini API execution failed safely:", error.message || error);
+    console.error("[Error] Master search execution failed safely without modifying database:", error.message || error);
     process.exit(1);
   }
 }
 
-runLandSearch();
+runMasterSearch();

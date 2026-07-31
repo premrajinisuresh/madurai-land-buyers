@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "lastRun": "2026-07-31T06:01:39.876Z",
-    "totalLeads": 47,
+    "lastRun": "2026-07-31T08:01:08.550Z",
+    "totalLeads": 49,
     "rotationIndex": 3,
-    "socialRotationIndex": 1
+    "socialRotationIndex": 2
   },
   "leads": [
     {
@@ -616,6 +616,32 @@
       "notes": "Local business group acquiring 2 to 4 Acres land along Alagar Kovil Road for landmark wedding venue. Preferred land between Pudur and Kadachanendal.",
       "status": "New",
       "dateAdded": "2025-05-20T12:00:00Z"
+    },
+    {
+      "id": "REQ-MDU-001",
+      "name": "K. Rajendran (Eco Haven Resorts)",
+      "category": "Direct Buyer Requirement",
+      "location": "Alagar Kovil Road, Madurai, Tamil Nadu",
+      "phone": "+919842105678",
+      "whatsapp": "+919842105678",
+      "email": "rajendran@ecohavenresorts.in",
+      "website": "https://ecohavenresorts.in",
+      "notes": "Direct buyer looking for 3 to 10 acres of clear-title land near Alagar Kovil foothills/highway for eco-resort development. Strictly direct owners only, no brokers.",
+      "status": "New",
+      "dateAdded": "2026-03-28T09:15:00Z"
+    },
+    {
+      "id": "REQ-MDU-002",
+      "name": "Senthil Kumar (Temple City Capital)",
+      "category": "Investor Listing",
+      "location": "Alagar Kovil Main Road (Near Kadachanendhal), Madurai",
+      "phone": "+919789412345",
+      "whatsapp": "+919789412345",
+      "email": "senthil@templecitycapital.com",
+      "website": "https://templecitycapital.com",
+      "notes": "Private investor group seeking 2+ acres along Alagar Kovil Road frontage for boutique hotel / wellness resort project. Direct land owners please connect.",
+      "status": "New",
+      "dateAdded": "2026-03-30T14:30:00Z"
     }
   ]
 }

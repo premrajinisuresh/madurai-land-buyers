@@ -1,9 +1,16 @@
 {
   "metadata": {
+<<<<<<< Updated upstream
     "lastRun": "2026-07-31T00:01:12.132Z",
     "totalLeads": 282,
     "rotationIndex": 7,
     "socialRotationIndex": 8
+=======
+    "lastRun": "2026-07-31T00:01:51.355Z",
+    "totalLeads": 295,
+    "rotationIndex": 8,
+    "socialRotationIndex": 7
+>>>>>>> Stashed changes
   },
   "leads": [
     {
@@ -3632,6 +3639,7 @@
       "dateAdded": "2026-03-31T08:30:00Z"
     },
     {
+<<<<<<< Updated upstream
       "id": "req-madurai-ak-001",
       "name": "Senthil Kumar (VK Infrastructure & Retail)",
       "category": "Direct Buyer - Commercial Land Requirement",
@@ -3656,6 +3664,201 @@
       "notes": "Urgent direct requirement for 40+ cents roadside land suitable for mixed-use commercial complex. Direct owner negotiation preferred.",
       "status": "New",
       "dateAdded": "2026-03-30T14:15:00Z"
+=======
+      "id": "LEAD-AKM-001",
+      "name": "Avenue Supermarts Ltd (DMart) - South Expansion Division",
+      "category": "Retail Conglomerate",
+      "location": "Alagar Kovil Main Road (Between K.K. Nagar Arch & Surveyor Colony), Madurai",
+      "phone": "919840122341",
+      "whatsapp": "919840122341",
+      "email": "land.acquisition@dmartindia.com",
+      "website": "https://www.dmartindia.com",
+      "notes": "Direct corporate requirement: 1.8 to 2.5 acres of clear title land with minimum 120 ft road frontage for standalone retail commercial complex.",
+      "status": "New",
+      "dateAdded": "2025-05-18T10:15:00Z"
+    },
+    {
+      "id": "LEAD-AKM-002",
+      "name": "Kauvery Hospital Group - Infrastructure Cell",
+      "category": "Healthcare Conglomerate",
+      "location": "Alagar Kovil Highway (Near Outpost / Tallakulam stretch), Madurai",
+      "phone": "919790988712",
+      "whatsapp": "919790988712",
+      "email": "projects.expansion@kauveryhospital.com",
+      "website": "https://www.kauveryhospital.com",
+      "notes": "Seeking 2.5 to 4 acres plot for multi-specialty care hospital & integrated medical office commercial block. Direct corporate purchase.",
+      "status": "New",
+      "dateAdded": "2025-05-18T11:30:00Z"
+    },
+    {
+      "id": "LEAD-AKM-003",
+      "name": "Appaswamy Real Estates Ltd - Commercial Projects",
+      "category": "Commercial Real Estate Developer",
+      "location": "Alagar Kovil Road Corridor (Moondrumavadi to Kadachanendhal stretch), Madurai",
+      "phone": "919841054321",
+      "whatsapp": "919841054321",
+      "email": "landacquisitions@appaswamy.com",
+      "website": "https://www.appaswamy.com",
+      "notes": "Direct builder acquisition: 3 to 5 acres suitable for high-rise mixed-use commercial plaza & retail arcade. Joint Venture or outright purchase.",
+      "status": "New",
+      "dateAdded": "2025-05-19T08:45:00Z"
+    },
+    {
+      "id": "LEAD-AKM-004",
+      "name": "Saravana Stores Elite - Commercial Division",
+      "category": "Retail Megastore Group",
+      "location": "Alagar Kovil Main Road (Tallakulam / Pudur corridor), Madurai",
+      "phone": "919840899100",
+      "whatsapp": "919840899100",
+      "email": "expansion@saravanastores.in",
+      "website": "https://www.saravanastores.in",
+      "notes": "Looking for 2.0+ acres land directly on main road frontage for landmark commercial showroom facility.",
+      "status": "New",
+      "dateAdded": "2025-05-19T09:20:00Z"
+    },
+    {
+      "id": "LEAD-AKM-005",
+      "name": "GRT Hotels & Resorts Group",
+      "category": "Hospitality & Retail",
+      "location": "Alagar Kovil Road (Near Reserve Line / Race Course Junction), Madurai",
+      "phone": "919842144567",
+      "whatsapp": "919842144567",
+      "email": "projects@grthotels.com",
+      "website": "https://www.grthotels.com",
+      "notes": "High-intent buyer seeking 1.5 to 3 acres plot for boutique business hotel & convention/commercial complex.",
+      "status": "New",
+      "dateAdded": "2025-05-19T14:10:00Z"
+    },
+    {
+      "id": "LEAD-AKM-006",
+      "name": "Velammal Educational Trust - Commercial Assets Wing",
+      "category": "Institutional & Commercial Group",
+      "location": "Alagar Kovil Highway (Kadachanendhal / Appanthirupathi corridor), Madurai",
+      "phone": "919443381200",
+      "whatsapp": "919443381200",
+      "email": "commercial.projects@velammal.edu.in",
+      "website": "https://www.velammal.edu.in",
+      "notes": "Requires 3 to 6 acres for establishing an integrated educational-cum-commercial administrative complex.",
+      "status": "New",
+      "dateAdded": "2025-05-20T07:30:00Z"
+    },
+    {
+      "id": "LEAD-AKM-007",
+      "name": "Vasanth & Co Retail Infrastructure",
+      "category": "Consumer Electronics Retail",
+      "location": "Alagar Kovil Road (Surveyor Colony / Moondrumavadi), Madurai",
+      "phone": "919840033221",
+      "whatsapp": "919840033221",
+      "email": "property@vasanthandco.in",
+      "website": "https://www.vasanthandco.in",
+      "notes": "Direct buyer needing 1 to 1.8 acres land parcel for building a multi-level consumer retail flagship store and regional hub.",
+      "status": "New",
+      "dateAdded": "2025-05-20T09:00:00Z"
+    },
+    {
+      "id": "LEAD-AKM-008",
+      "name": "Meenakshi Mission Hospital (MMHRC Expansion Division)",
+      "category": "Healthcare & Life Sciences",
+      "location": "Alagar Kovil Highway (Near Melur-Alagar Kovil link area), Madurai",
+      "phone": "919842167890",
+      "whatsapp": "919842167890",
+      "email": "expansion@mmhrc.in",
+      "website": "https://www.meenakshimission.org",
+      "notes": "Searching for 4+ acres suitable for satellite healthcare commercial office complex and diagnostic hub.",
+      "status": "New",
+      "dateAdded": "2025-05-20T10:45:00Z"
+    },
+    {
+      "id": "LEAD-AKM-009",
+      "name": "PVR INOX Infrastructure & Development Team",
+      "category": "Entertainment & Retail Real Estate",
+      "location": "Alagar Kovil Highway (High traffic commercial zone), Madurai",
+      "phone": "919940188234",
+      "whatsapp": "Not public",
+      "email": "realestate.south@pvrcinemas.com",
+      "website": "https://www.pvrcinemas.com",
+      "notes": "Seeking 2.5 to 4 acres plot suitable for standalone entertainment hub, multiplex mall, and food court plaza.",
+      "status": "New",
+      "dateAdded": "2025-05-20T12:00:00Z"
+    },
+    {
+      "id": "LEAD-AKM-010",
+      "name": "Alliance Infrastructure Projects Ltd",
+      "category": "Commercial Property Developer",
+      "location": "Alagar Kovil Road (Tallakulam to Surveyor Colony stretch), Madurai",
+      "phone": "919840711990",
+      "whatsapp": "919840711990",
+      "email": "land.madurai@alliancein.com",
+      "website": "https://www.alliancein.com",
+      "notes": "Direct enterprise acquisition: 2 to 5 acres for grade-A office space and commercial shopping complex project.",
+      "status": "New",
+      "dateAdded": "2025-05-20T14:15:00Z"
+    },
+    {
+      "id": "LEAD-AKM-011",
+      "name": "TVS Mobility - Real Estate Holdings Cell",
+      "category": "Automotive & Commercial Holdings",
+      "location": "Alagar Kovil Highway (Outpost to Pudur stretch), Madurai",
+      "phone": "919840912345",
+      "whatsapp": "919840912345",
+      "email": "realestate@tvsmobility.com",
+      "website": "https://www.tvsmobility.com",
+      "notes": "Looking for 2.0 to 3.5 acres of road-facing commercial land for integrated auto showcase plaza and commercial administrative hub.",
+      "status": "New",
+      "dateAdded": "2025-05-21T08:10:00Z"
+    },
+    {
+      "id": "LEAD-AKM-012",
+      "name": "Prestige Estates Projects Ltd - South Commercial Wing",
+      "category": "Conglomerate Real Estate Developer",
+      "location": "Alagar Kovil Highway Main Road (Prime junction preferred), Madurai",
+      "phone": "919900012340",
+      "whatsapp": "Not public",
+      "email": "landacquisition@prestigeconstructions.com",
+      "website": "https://www.prestigeconstructions.com",
+      "notes": "Seeking 4 to 8 acres plot for landmark commercial center and high-street retail enclave.",
+      "status": "New",
+      "dateAdded": "2025-05-21T09:30:00Z"
+    },
+    {
+      "id": "LEAD-AKM-013",
+      "name": "Poppys Hotel & Commercial Ventures",
+      "category": "Hospitality & Commercial Services",
+      "location": "Alagar Kovil Road (Near Kadachanendhal stretch), Madurai",
+      "phone": "919442633800",
+      "whatsapp": "919442633800",
+      "email": "director@poppyshotels.com",
+      "website": "https://www.poppyshotels.com",
+      "notes": "Direct requirement: 1.5 to 2.5 acres main road commercial land for hotel-cum-commercial banquet arcade.",
+      "status": "New",
+      "dateAdded": "2025-05-21T11:00:00Z"
+    },
+    {
+      "id": "LEAD-AKM-014",
+      "name": "Sree Annapoorna Group - Expansion Division",
+      "category": "Hospitality & Retail Enterprise",
+      "location": "Alagar Kovil Highway (Moondrumavadi / Surveyor Colony), Madurai",
+      "phone": "919842211900",
+      "whatsapp": "919842211900",
+      "email": "expansion@annapoorna.in",
+      "website": "https://www.annapoorna.in",
+      "notes": "Direct requirement: 1 to 2 acres with high frontage for standalone highway commercial complex & dining center.",
+      "status": "New",
+      "dateAdded": "2025-05-21T13:45:00Z"
+    },
+    {
+      "id": "LEAD-AKM-015",
+      "name": "Kallal Group - Infrastructure & Retail Division",
+      "category": "Business Conglomerate",
+      "location": "Alagar Kovil Main Road (Tallakulam / K.K. Nagar Extension), Madurai",
+      "phone": "919840255678",
+      "whatsapp": "919840255678",
+      "email": "projects@kallalgroup.com",
+      "website": "https://www.kallalgroup.com",
+      "notes": "Looking for 2.0 to 4.0 acres direct land parcel for commercial multi-tenant business complex setup.",
+      "status": "New",
+      "dateAdded": "2025-05-21T15:20:00Z"
+>>>>>>> Stashed changes
     }
   ]
 }

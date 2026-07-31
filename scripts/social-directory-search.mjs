@@ -1,3 +1,4 @@
+import fs from 'fs';
 import path from 'path';
 import { GoogleGenAI } from '@google/genai';
 
@@ -56,20 +57,19 @@ function loadDatabase() {
     }
     return { metadata, leads };
   } catch (e) {
-    console.error("[Database Warning] Error parsing existing database JSON. Attempting fallback or safe state recovery:", e.message);
-    // If corruption happened, try loading from backup if available
+    console.error("[Database Warning] Error parsing existing database JSON. Attempting backup recovery:", e.message);
     const backupPath = `${DB_PATH}.bak`;
     if (fs.existsSync(backupPath)) {
       try {
         const backupContent = fs.readFileSync(backupPath, 'utf8');
         const backupParsed = JSON.parse(backupContent);
-        console.log("[Database Recovery] Successfully recovered database state from backup file.");
+        console.log("[Database Recovery] Restored database state from backup file.");
         return {
           metadata: backupParsed.metadata || { lastRun: null, totalLeads: backupParsed.leads?.length || 0, rotationIndex: 0, socialRotationIndex: 0 },
           leads: Array.isArray(backupParsed) ? backupParsed : (backupParsed.leads || [])
         };
       } catch (backupEx) {
-        console.error("[Database Recovery] Backup file also invalid. Initializing clean state to protect run.");
+        console.error("[Database Recovery] Backup file also invalid. Initializing clean state.");
       }
     }
     return {
@@ -93,9 +93,9 @@ async function generateContentWithRetry(ai, modelName, prompt, maxRetries = 3, i
       const isTransient = error.status === 503 || error.status === 429 || errString.includes('503') || errString.includes('high demand');
       console.warn(`[API Warning] Attempt ${attempt}/${maxRetries} failed. Details: ${errString}`);
       if (isTransient && attempt < maxRetries) {
-        console.log(`[API Retry] High demand / transient error caught. Waiting ${delayMs / 1000}s before retry...`);
+        console.log(`[API Retry] Transient error caught. Waiting ${delayMs / 1000}s before retry...`);
         await new Promise(resolve => setTimeout(resolve, delayMs));
-        delayMs *= 2; // Exponential backoff
+        delayMs *= 2;
       } else {
         throw error;
       }
@@ -105,30 +105,23 @@ async function generateContentWithRetry(ai, modelName, prompt, maxRetries = 3, i
 
 function extractAndParseJSON(textResponse) {
   if (!textResponse) throw new Error("Empty response string received from model.");
-  
-  // Clean markdown code block syntax securely
   let cleaned = textResponse.replace(/```json\s*/gi, '').replace(/```\s*/g, '').trim();
-  
   const firstBracket = cleaned.indexOf('[');
   const lastBracket = cleaned.lastIndexOf(']');
-  
   if (firstBracket !== -1 && lastBracket !== -1 && lastBracket > firstBracket) {
     const jsonString = cleaned.substring(firstBracket, lastBracket + 1);
     return JSON.parse(jsonString);
   }
-  
   throw new Error("No valid JSON array boundaries found in model output.");
 }
 
 function saveDatabaseSafely(newLeads, queryCategory, updateIndexCallback) {
   const db = loadDatabase();
-
-  // Create immediate file backup before touching data
   if (fs.existsSync(DB_PATH)) {
     try {
       fs.copyFileSync(DB_PATH, `${DB_PATH}.bak`);
     } catch (bakErr) {
-      console.warn("[Database Warning] Failed to create safety backup file:", bakErr.message);
+      console.warn("[Database Warning] Backup failed:", bakErr.message);
     }
   }
 
@@ -165,14 +158,12 @@ function saveDatabaseSafely(newLeads, queryCategory, updateIndexCallback) {
 
   db.metadata.totalLeads = db.leads.length;
   db.metadata.lastRun = new Date().toISOString();
-  
   fs.writeFileSync(DB_PATH, JSON.stringify(db, null, 2), 'utf8');
-  console.log(`[Database] Successfully committed ${addedCount} new social/portal leads. Total master leads: ${db.metadata.totalLeads}`);
+  console.log(`[Database] Successfully committed ${addedCount} new leads. Total master leads: ${db.metadata.totalLeads}`);
 }
 
 async function runSocialSearch() {
   console.log("[Social Search Engine] Scanning property portals and groups for buyer posts...");
-  
   if (!GEMINI_API_KEY) {
     console.error("[Error] GEMINI_API_KEY environment variable is missing.");
     process.exit(1);
@@ -180,7 +171,6 @@ async function runSocialSearch() {
 
   const ai = new GoogleGenAI({ apiKey: GEMINI_API_KEY });
   const dbLoad = loadDatabase();
-  
   let queryIndex = dbLoad.metadata.socialRotationIndex || 0;
   const currentQuery = SEARCH_QUERIES[queryIndex % SEARCH_QUERIES.length];
 
@@ -197,16 +187,12 @@ async function runSocialSearch() {
 
   try {
     const response = await generateContentWithRetry(ai, 'gemini-3.6-flash', prompt);
-    const textResponse = response.text;
-    
-    const newLeads = extractAndParseJSON(textResponse);
-
+    const newLeads = extractAndParseJSON(response.text);
     saveDatabaseSafely(newLeads, currentQuery, (db) => {
       db.metadata.socialRotationIndex = (queryIndex + 1) % SEARCH_QUERIES.length;
     });
-
   } catch (error) {
-    console.error("[Error] Social search execution failed safely without corrupting database:", error.message || error);
+    console.error("[Error] Social search execution failed safely:", error.message || error);
     process.exit(1);
   }
 }

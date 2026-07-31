@@ -3,7 +3,7 @@ name: land-intent-search
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 */6 * * *' # Runs every 6 hours (4 times a day)
+    - cron: '0 */3 * * *' # Runs every 3 hours (8 times a day)
 
 jobs:
   run-land-search:

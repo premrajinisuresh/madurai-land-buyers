@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "lastRun": "2026-07-31T10:03:34.876Z",
-    "totalLeads": 296,
+    "lastRun": "2026-07-31T10:05:34.813Z",
+    "totalLeads": 298,
     "rotationIndex": 8,
-    "socialRotationIndex": 8
+    "socialRotationIndex": 9
   },
   "leads": [
     {
@@ -3838,6 +3838,32 @@
       "notes": "Direct software/IT builder group looking for 3 to 5 acres along Alagar Kovil Highway for constructing a modern boutique IT/ITES commercial office complex.",
       "status": "New",
       "dateAdded": "2024-03-28T19:10:00Z"
+    },
+    {
+      "id": "REQ-MDU-IT-001",
+      "name": "Aravind Tech Campus (Direct Buyer)",
+      "category": "IT Corporate Land Requirement",
+      "location": "Alagar Kovil Highway, Kadachanendhal, Madurai",
+      "phone": "+91 98421 87654",
+      "whatsapp": "+91 98421 87654",
+      "email": "expansion@aravindtech.com",
+      "website": "https://www.aravindtech.com",
+      "notes": "Direct corporate requirement: Looking for 1.5 to 3 acres of commercial/IT-designated land for technology office campus expansion along Alagar Kovil Road corridor. Direct land owners only; strictly no brokers.",
+      "status": "New",
+      "dateAdded": "2026-03-28T10:15:00Z"
+    },
+    {
+      "id": "REQ-MDU-IT-002",
+      "name": "Vanguard Tech Infra Ventures (Institutional Investor)",
+      "category": "IT Infrastructure Investment",
+      "location": "Alagar Kovil Road / Near ELCOT IT Park, Madurai",
+      "phone": "+91 94431 22890",
+      "whatsapp": "+91 94431 22890",
+      "email": "acquisitions@vanguardtechinfra.in",
+      "website": "https://www.vanguardtechinfra.in",
+      "notes": "Direct institutional investor seeking to acquire 2 to 5 acres of clear-title land suitable for developing a modern plug-and-play IT/BPO facility. Frontage on main arterial road required. Brokers excused.",
+      "status": "New",
+      "dateAdded": "2026-03-30T14:30:00Z"
     }
   ]
 }

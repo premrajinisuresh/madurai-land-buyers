@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "lastRun": "2026-07-31T05:36:25.846Z",
-    "totalLeads": 30,
+    "lastRun": "2026-07-31T05:37:31.019Z",
+    "totalLeads": 32,
     "rotationIndex": 2,
-    "socialRotationIndex": 0
+    "socialRotationIndex": 1
   },
   "leads": [
     {
@@ -395,6 +395,32 @@
       "notes": "Corporate buyer interested in 6-10 acres land for nature wellness retreat center near Alagar Kovil. Immediate funds ready for unencumbered titles.",
       "status": "New",
       "dateAdded": "2025-05-18T18:20:00Z"
+    },
+    {
+      "id": "req-mdu-001",
+      "name": "Senthil Kumar",
+      "category": "Hotel / Restaurant Land Buyer Requirement",
+      "location": "Alagar Kovil Highway, Madurai",
+      "phone": "+91 98421 87654",
+      "whatsapp": "+91 98421 87654",
+      "email": "senthil.hospitality.mdu@gmail.com",
+      "website": "Not public",
+      "notes": "Direct buyer looking for 50 cents to 1 acre roadside land along Alagar Kovil Highway for highway restaurant and boutique stay. Strictly no brokers.",
+      "status": "New",
+      "dateAdded": "2026-03-30T10:15:00Z"
+    },
+    {
+      "id": "req-mdu-002",
+      "name": "Meenakshi Hospitality Ventures",
+      "category": "Hotel / Restaurant Land Buyer Requirement",
+      "location": "Near Alagar Kovil Main Road, Madurai",
+      "phone": "+91 97890 12345",
+      "whatsapp": "+91 97890 12345",
+      "email": "investments@meenakshihospitality.in",
+      "website": "https://meenakshihospitality.in",
+      "notes": "Investor group searching for 1 to 2 acres land near Alagar Kovil Highway suitable for multi-cuisine garden restaurant and resort unit. Direct owners only.",
+      "status": "New",
+      "dateAdded": "2026-03-31T08:30:00Z"
     }
   ]
 }

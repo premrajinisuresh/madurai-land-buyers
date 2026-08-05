@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "lastRun": "2026-08-05T09:01:54.254Z",
-    "totalLeads": 1142,
-    "rotationIndex": 32
+    "lastRun": "2026-08-05T11:12:34.521Z",
+    "totalLeads": 1157,
+    "rotationIndex": 33
   },
   "leads": [
     {
@@ -14835,6 +14835,201 @@
       "notes": "Federal Bank looking for direct purchase of 1.2 to 2 acres on Alagar Kovil Road to establish a dedicated Regional Office complex, SME loan processing hub, and main branch with ample parking facilities.",
       "status": "New",
       "dateAdded": "2025-02-22T14:30:00Z"
+    },
+    {
+      "id": "MAD-FO-001",
+      "name": "Thiagarajar Wealth Management & Family Office",
+      "category": "Family Office",
+      "location": "Kochadai / Alagar Kovil Highway Corridor, Madurai",
+      "phone": "+91 452 2301000",
+      "whatsapp": "+91 94431 52010",
+      "email": "investments@thiagarajar.com",
+      "website": "https://www.thiagarajar.com",
+      "notes": "Direct industrialist family office seeking 10-25 acres commercial/industrial land parcel along Alagar Kovil Road for warehousing and R&D facility expansion.",
+      "status": "New",
+      "dateAdded": "2024-02-18T09:15:00Z"
+    },
+    {
+      "id": "MAD-FO-002",
+      "name": "Solamalai Group Corporate Investments",
+      "category": "Industrial Conglomerate",
+      "location": "Alagar Kovil Main Road, Tallakulam, Madurai",
+      "phone": "+91 452 2532211",
+      "whatsapp": "+91 98421 11204",
+      "email": "land.acquisition@solamalai.in",
+      "website": "https://www.solamalai.in",
+      "notes": "Direct buyer acquiring 5-12 acres along Madurai-Alagar Kovil stretch for mixed-use commercial logistics and auto distribution hubs.",
+      "status": "New",
+      "dateAdded": "2024-02-18T10:00:00Z"
+    },
+    {
+      "id": "MAD-FO-003",
+      "name": "Hi-Tech Arai Private Wealth Trust",
+      "category": "Family Office",
+      "location": "K.Pudur / Alagar Kovil Road, Madurai",
+      "phone": "+91 452 2567800",
+      "whatsapp": "+91 99940 33881",
+      "email": "corp.projects@hitecharai.com",
+      "website": "https://www.hitecharai.com",
+      "notes": "Auto component industrialist wealth arm targeting 15+ acres industrial land near Alagar Kovil bypass for new manufacturing setup.",
+      "status": "New",
+      "dateAdded": "2024-02-19T11:20:00Z"
+    },
+    {
+      "id": "MAD-FO-004",
+      "name": "KLN Group Family Investment Office",
+      "category": "Family Office",
+      "location": "Madurai City / Melur-Alagar Kovil Junction",
+      "phone": "+91 452 2698900",
+      "whatsapp": "Not public",
+      "email": "wealth@kln.ac.in",
+      "website": "https://www.kln.ac.in",
+      "notes": "Direct family trust acquiring 8-20 acres near Alagar Kovil road for institutional research park and skill development center.",
+      "status": "New",
+      "dateAdded": "2024-02-20T14:45:00Z"
+    },
+    {
+      "id": "MAD-FO-005",
+      "name": "Pandyan Hotels & Logistics Infrastructure Group",
+      "category": "Corporate Buyer",
+      "location": "Race Course Road / Alagar Kovil Road, Madurai",
+      "phone": "+91 452 2530710",
+      "whatsapp": "+91 97890 22100",
+      "email": "assets@pandyanhotels.com",
+      "website": "https://www.pandyanhotels.com",
+      "notes": "Direct land acquisition team seeking 3-8 acres frontage property on Alagar Kovil Road for hospitality and commercial complex.",
+      "status": "New",
+      "dateAdded": "2024-02-21T08:10:00Z"
+    },
+    {
+      "id": "MAD-FO-006",
+      "name": "Jayabharath Industrial & Asset Management",
+      "category": "Family Office",
+      "location": "Mattuthavani / Alagar Kovil Road, Madurai",
+      "phone": "+91 452 2580100",
+      "whatsapp": "+91 98430 55670",
+      "email": "invest@jayabharath.com",
+      "website": "https://www.jayabharath.com",
+      "notes": "Direct wealth arm looking to buy clear-title industrial plot (10-30 acres) for cold storage and regional distribution center.",
+      "status": "New",
+      "dateAdded": "2024-02-21T11:00:00Z"
+    },
+    {
+      "id": "MAD-FO-007",
+      "name": "Napar Agro & Industrial Wealth Arm",
+      "category": "Family Office",
+      "location": "Appanthirupathi, Alagar Kovil Road, Madurai",
+      "phone": "+91 94421 88900",
+      "whatsapp": "+91 94421 88900",
+      "email": "land@naparagro.co.in",
+      "website": "Not public",
+      "notes": "Seeking 20+ acres agro-industrial process plant site near Kadachanendal/Appanthirupathi belt on Alagar Kovil Highway.",
+      "status": "New",
+      "dateAdded": "2024-02-22T09:30:00Z"
+    },
+    {
+      "id": "MAD-FO-008",
+      "name": "V.V. Mineral Capital & Holdings",
+      "category": "Industrial Conglomerate",
+      "location": "Madurai Regional Office, Melur-Alagar Kovil Belt",
+      "phone": "+91 452 2400500",
+      "whatsapp": "Not public",
+      "email": "realestate@vvgroup.com",
+      "website": "https://www.vvgroup.com",
+      "notes": "Corporate land bank expansion arm acquiring 25+ acres near Alagar Kovil industrial cluster for heavy processing facilities.",
+      "status": "New",
+      "dateAdded": "2024-02-22T13:15:00Z"
+    },
+    {
+      "id": "MAD-FO-009",
+      "name": "Aravind Health & Research Endowment Trust",
+      "category": "Institutional Trust",
+      "location": "Anna Nagar / Alagar Kovil Road Extension, Madurai",
+      "phone": "+91 452 4356500",
+      "whatsapp": "+91 94433 12055",
+      "email": "trust.expansion@aravind.org",
+      "website": "https://www.aravind.org",
+      "notes": "Direct institutional buyer seeking 10-15 acres off Alagar Kovil Highway for medical research facilities and housing project.",
+      "status": "New",
+      "dateAdded": "2024-02-23T10:00:00Z"
+    },
+    {
+      "id": "MAD-FO-010",
+      "name": "Sundaram-Clayton Regional Capital Trust",
+      "category": "Corporate Wealth Fund",
+      "location": "Madurai East / Alagar Kovil Highway Corridor",
+      "phone": "+91 44 28332115",
+      "whatsapp": "Not public",
+      "email": "landbanking@sundaramclayton.com",
+      "website": "https://www.sundaramclayton.com",
+      "notes": "High-intent buyer evaluating industrial grade land parcels (15-40 acres) along northern Madurai connectivity corridor.",
+      "status": "New",
+      "dateAdded": "2024-02-23T15:40:00Z"
+    },
+    {
+      "id": "MAD-FO-011",
+      "name": "Avishek Textiles Family Investment Vehicle",
+      "category": "Family Office",
+      "location": "Tallakulam, Madurai",
+      "phone": "+91 98421 44500",
+      "whatsapp": "+91 98421 44500",
+      "email": "avishekmills@gmail.com",
+      "website": "Not public",
+      "notes": "Textile industrialist family seeking 8-15 acres contiguous land parcel near Alagar Kovil road for eco-friendly processing setup.",
+      "status": "New",
+      "dateAdded": "2024-02-24T09:10:00Z"
+    },
+    {
+      "id": "MAD-FO-012",
+      "name": "Devadoss Multi-Specialty Infrastructure Arm",
+      "category": "Corporate Buyer",
+      "location": "Surveyor Colony / Alagar Kovil Road, Madurai",
+      "phone": "+91 452 2522100",
+      "whatsapp": "+91 99440 12345",
+      "email": "projects@devadoss-hospital.com",
+      "website": "https://www.devadosshospitals.com",
+      "notes": "Promoter family office looking for 5-10 acres for health-tech innovation park along Alagar Kovil main road.",
+      "status": "New",
+      "dateAdded": "2024-02-24T12:00:00Z"
+    },
+    {
+      "id": "MAD-FO-013",
+      "name": "Sri Mookambika Logistics & Infra Capital",
+      "category": "Corporate Buyer",
+      "location": "K.Pudur Industrial Area, Madurai",
+      "phone": "+91 452 2562233",
+      "whatsapp": "+91 98431 99001",
+      "email": "acquisitions@mookambikainfra.in",
+      "website": "https://www.mookambikainfra.in",
+      "notes": "Direct corporate entity looking for 12-25 acres commercial/industrial land with wide road access on Alagar Kovil Highway.",
+      "status": "New",
+      "dateAdded": "2024-02-25T08:45:00Z"
+    },
+    {
+      "id": "MAD-FO-014",
+      "name": "Raja Inamdar Family Wealth & Ventures",
+      "category": "Family Office",
+      "location": "KK Nagar / Alagar Kovil Road Axis, Madurai",
+      "phone": "+91 94430 77120",
+      "whatsapp": "+91 94430 77120",
+      "email": "office@rajainamdarwealth.com",
+      "website": "Not public",
+      "notes": "Private family trust looking to deploy capital in industrial land plots (₹20Cr–₹50Cr allocated) along Madurai-Alagar Kovil stretch.",
+      "status": "New",
+      "dateAdded": "2024-02-25T14:10:00Z"
+    },
+    {
+      "id": "MAD-FO-015",
+      "name": "Meenakshi Mission Strategic Development Arm",
+      "category": "Institutional Trust",
+      "location": "Lake Area, Near Mattuthavani / Alagar Kovil Road",
+      "phone": "+91 452 2580580",
+      "whatsapp": "+91 98421 58058",
+      "email": "estate@mmhrc.in",
+      "website": "https://www.meenakshimission.org",
+      "notes": "Direct institutional buyer seeking 15-30 acres for life sciences campus and allied commercial facilities along Alagar Kovil bypass.",
+      "status": "New",
+      "dateAdded": "2024-02-25T16:30:00Z"
     }
   ]
 }

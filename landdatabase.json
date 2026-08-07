@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "lastRun": "2026-08-07T21:01:47.205Z",
-    "totalLeads": 1617,
-    "rotationIndex": 31
+    "lastRun": "2026-08-07T21:29:17.492Z",
+    "totalLeads": 1631,
+    "rotationIndex": 32
   },
   "leads": [
     {
@@ -21010,6 +21010,188 @@
       "notes": "Direct brand buyer seeking 15,000-30,000 sq ft land plot with prominent frontage along Alagar Kovil Main Road, Madurai. Direct owners preferred.",
       "status": "New",
       "dateAdded": "2024-05-26T09:10:00Z"
+    },
+    {
+      "id": "MDU-BNK-001",
+      "name": "Tamilnad Mercantile Bank Ltd (TMB) - Estate & Premises Dept",
+      "category": "Scheduled Commercial Bank - Zonal Office",
+      "location": "Alagar Kovil Road (Near K.K. Nagar Junction), Madurai",
+      "phone": "+91 452 2532100",
+      "whatsapp": "+91 9442211005",
+      "email": "premises.mdu@tmbank.in",
+      "website": "https://www.tmb.in",
+      "notes": "Direct mandate for 1.5 to 2.5 acres of commercial plot along main Alagar Kovil Highway to construct Zonal Head Office & Regional Processing Centre. Requires minimum 120ft frontage, clear DTCP/LPA approval, and direct main road access.",
+      "status": "New",
+      "dateAdded": "2024-05-18T09:30:00.000Z"
+    },
+    {
+      "id": "MDU-BNK-002",
+      "name": "Federal Bank - Regional Administrative Infrastructure Board",
+      "category": "Private Sector Bank - Regional HQ",
+      "location": "Kadachanendal / Alagar Kovil Main Road, Madurai",
+      "phone": "+91 452 2300450",
+      "whatsapp": "+91 9840912344",
+      "email": "mdu_premises@federalbank.co.in",
+      "website": "https://www.federalbank.co.in",
+      "notes": "Looking for 1 to 2 acres of clear-title commercial land for regional administrative hub and currency chest facility. Location preference: Alagar Kovil stretch between K.Pudur and Othakadai.",
+      "status": "New",
+      "dateAdded": "2024-05-18T10:15:00.000Z"
+    },
+    {
+      "id": "MDU-BNK-003",
+      "name": "City Union Bank (CUB) - Regional Infrastructure Cell",
+      "category": "Private Sector Bank - Corporate Admin Office",
+      "location": "Tallakulam to Alagar Kovil Corridor, Madurai",
+      "phone": "+91 452 2538820",
+      "whatsapp": "Not public",
+      "email": "estate_mdu@cityunionbank.com",
+      "website": "https://www.cityunionbank.com",
+      "notes": "Seeking 40,000 sq ft to 1.2 acres commercial plot suitable for multi-storey Regional Head Office building. Must have minimum 80 ft frontage on 100ft+ road width. Direct institutional sellers preferred.",
+      "status": "New",
+      "dateAdded": "2024-05-19T08:45:00.000Z"
+    },
+    {
+      "id": "MDU-BNK-004",
+      "name": "Equitas Small Finance Bank - Southern TN Zonal Real Estate Division",
+      "category": "Small Finance Bank - Zonal Head Office",
+      "location": "Alagar Kovil Main Road (Near Appu Heights Corridor), Madurai",
+      "phone": "+91 44 42995000",
+      "whatsapp": "+91 9790922110",
+      "email": "premises@equitasbank.com",
+      "website": "https://www.equitasbank.com",
+      "notes": "Direct requirement for 1 acre commercial land plot for establishing Madurai Zonal Headquarters & Digital Banking Operations Center. High visibility site mandatory.",
+      "status": "New",
+      "dateAdded": "2024-05-19T11:20:00.000Z"
+    },
+    {
+      "id": "MDU-BNK-005",
+      "name": "South Indian Bank - Regional Facilities Management Wing",
+      "category": "Private Sector Bank - Regional Office Hub",
+      "location": "K.Pudur - Alagar Kovil Highway Stretch, Madurai",
+      "phone": "+91 452 2521190",
+      "whatsapp": "+91 9447788910",
+      "email": "ro1005@sib.co.in",
+      "website": "https://www.southindianbank.com",
+      "notes": "Urgent procurement request for 1.5 acres of contiguous commercial land to house regional back-office, training center, and corporate branch. Commercial classification required.",
+      "status": "New",
+      "dateAdded": "2024-05-19T14:00:00.000Z"
+    },
+    {
+      "id": "MDU-BNK-006",
+      "name": "Karur Vysya Bank (KVB) - Divisional Estate Cell",
+      "category": "Scheduled Commercial Bank - Divisional HQ",
+      "location": "Alagar Kovil Road / Mattuthavani Link Corridor, Madurai",
+      "phone": "+91 452 2530120",
+      "whatsapp": "Not public",
+      "email": "divisional_premises_mdu@kvbmail.com",
+      "website": "https://www.kvb.co.in",
+      "notes": "Direct buyer requirement for 2 to 3 acres plot along Alagar Kovil Road. Intended for Southern Districts Divisional Administrative Tower and Staff Training Institute.",
+      "status": "New",
+      "dateAdded": "2024-05-20T09:00:00.000Z"
+    },
+    {
+      "id": "MDU-BNK-007",
+      "name": "Tamil Nadu Grama Bank (TNGB) - Head Office Relocation Committee",
+      "category": "Regional Rural Bank - Head Office Plot",
+      "location": "Othakadai - Alagar Kovil Bypass Junction, Madurai",
+      "phone": "+91 452 2482310",
+      "whatsapp": "+91 9489200300",
+      "email": "ho_premises@tngb.co.in",
+      "website": "https://www.tamilnadugramabank.com",
+      "notes": "Government-backed financial entity searching for 2.5 to 4 acres of land plot for constructing integrated Head Office complex with staff amenities. Must be within 3 km of Ring Road / Alagar Kovil Road split.",
+      "status": "New",
+      "dateAdded": "2024-05-20T10:30:00.000Z"
+    },
+    {
+      "id": "MDU-BNK-008",
+      "name": "HDFC Bank Ltd - Corporate Infrastructure & Expansion Wing",
+      "category": "Private Sector Banking Giant - Regional Operations Hub",
+      "location": "Alagar Kovil Main Road (Near Surveyor Colony), Madurai",
+      "phone": "+91 452 6612000",
+      "whatsapp": "+91 9840800112",
+      "email": "regional_cre_south@hdfcbank.com",
+      "website": "https://www.hdfcbank.com",
+      "notes": "Requirement for 2 acres freehold land with direct Alagar Kovil Road access. Plot needed for Regional Operations Centre, Commercial Banking Division, and Wealth Management Tower.",
+      "status": "New",
+      "dateAdded": "2024-05-20T12:00:00.000Z"
+    },
+    {
+      "id": "MDU-BNK-009",
+      "name": "Repco Bank - Corporate Infrastructure Development Division",
+      "category": "Government-Promoted Bank - Regional Administrative Campus",
+      "location": "Alagar Kovil Road (Tallakulam / Pudur Area), Madurai",
+      "phone": "+91 44 28340715",
+      "whatsapp": "Not public",
+      "email": "estate@repcobank.com",
+      "website": "https://www.repcobank.com",
+      "notes": "Direct acquisition mandate for 1 to 1.8 acres commercial plot for constructing Repco Group's Madurai Zonal Headquarters & Repco Home Finance Regional Hub.",
+      "status": "New",
+      "dateAdded": "2024-05-21T08:15:00.000Z"
+    },
+    {
+      "id": "MDU-BNK-0010",
+      "name": "ICICI Bank - Commercial Real Estate & Premises Group",
+      "category": "Private Sector Bank - Regional Service & IT Support Hub",
+      "location": "Alagar Kovil Highway (Near IT Park / Ring Road Connect), Madurai",
+      "phone": "+91 452 4381000",
+      "whatsapp": "+91 9940122334",
+      "email": "premises.south@icicibank.com",
+      "website": "https://www.icicibank.com",
+      "notes": "Targeting 2 to 3.5 acres land procurement on Alagar Kovil Main Road. Requirement for regional central processing unit, regional corporate branch, and back-office operations campus.",
+      "status": "New",
+      "dateAdded": "2024-05-21T11:45:00.000Z"
+    },
+    {
+      "id": "MDU-BNK-012",
+      "name": "Axis Bank - Corporate Real Estate & Premises Directorate",
+      "category": "Private Sector Bank - Regional Administrative Hub",
+      "location": "Alagar Kovil Road Corridor, Madurai",
+      "phone": "+91 452 2529000",
+      "whatsapp": "+91 9894011223",
+      "email": "cre.south@axisbank.com",
+      "website": "https://www.axisbank.com",
+      "notes": "Direct requisition for 1 to 2 acres plot on 80ft+ road. Plot will accommodate Madurai Circle Office, SME Banking Hub, and Regional Data Recovery Center.",
+      "status": "New",
+      "dateAdded": "2024-05-22T09:20:00.000Z"
+    },
+    {
+      "id": "MDU-BNK-013",
+      "name": "Cholamandalam Investment & Finance Company - Infrastructure Procurement Cell",
+      "category": "NBFC / Corporate Financial Group - Regional Head Office",
+      "location": "Alagar Kovil Road (K.Pudur Junction Corridor), Madurai",
+      "phone": "+91 44 40907172",
+      "whatsapp": "+91 9840019283",
+      "email": "realestate@chola.murugappa.com",
+      "website": "https://www.cholamandalam.com",
+      "notes": "Murugappa Group finance arm looking for 1 to 1.5 acres commercial plot on Alagar Kovil Road for consolidating regional headquarters, vehicle finance hub, and MSME credit center.",
+      "status": "New",
+      "dateAdded": "2024-05-22T11:00:00.000Z"
+    },
+    {
+      "id": "MDU-BNK-014",
+      "name": "Sundaram Finance Group - Estate & Corporate Real Estate",
+      "category": "Non-Banking Financial Institution - Regional Administrative HQ",
+      "location": "Alagar Kovil Main Road (Near Reserve Line / Tallakulam), Madurai",
+      "phone": "+91 452 2532011",
+      "whatsapp": "Not public",
+      "email": "estate_mdu@sundaramfinance.in",
+      "website": "https://www.sundaramfinance.in",
+      "notes": "Looking for 1.2 to 2 acres clear title commercial land along Alagar Kovil Highway for regional head office campus housing group companies (Sundaram Home, Sundaram Mutual, Sundaram Finance).",
+      "status": "New",
+      "dateAdded": "2024-05-22T13:30:00.000Z"
+    },
+    {
+      "id": "MDU-BNK-015",
+      "name": "Indian Overseas Bank (IOB) - Central Zonal Premises Department",
+      "category": "Public Sector Bank - Zonal Office & Training Campus",
+      "location": "Alagar Kovil Highway (Kadachanendal Section), Madurai",
+      "phone": "+91 452 2533010",
+      "whatsapp": "+91 9443120980",
+      "email": "mduzoprem@iob.in",
+      "website": "https://www.iob.in",
+      "notes": "Requires 2.5 to 4 acres of clear-title commercial or institutional land for expansion of Zonal Administrative Office, Currency Chest, and Regional Staff College. Direct land owners only.",
+      "status": "New",
+      "dateAdded": "2024-05-22T15:00:00.000Z"
     }
   ]
 }

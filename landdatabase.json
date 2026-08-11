@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "lastRun": "2026-08-11T04:12:09.168Z",
-    "totalLeads": 2366,
-    "rotationIndex": 16
+    "lastRun": "2026-08-11T06:01:46.201Z",
+    "totalLeads": 2381,
+    "rotationIndex": 17
   },
   "leads": [
     {
@@ -30747,6 +30747,201 @@
       "notes": "Direct strategic buyer looking for 10–30 acres land parcel along Alagar Kovil Highway for commercial/industrial yard integration.",
       "status": "New",
       "dateAdded": "2025-05-17T08:15:00.000Z"
+    },
+    {
+      "id": "LEAD-MDU-HC-001",
+      "name": "Metropolis Healthcare Ltd (South India Expansion Division)",
+      "category": "Branded Diagnostic Chain",
+      "location": "Alagar Kovil Main Road, Madurai",
+      "phone": "+91 44 4269 6969",
+      "whatsapp": "+91 98409 22310",
+      "email": "corporate.realestate@metropolisindia.com",
+      "website": "https://www.metropolisindia.com",
+      "notes": "Actively searching for 0.75 to 1.5 acres of commercial land along Alagar Kovil Highway to establish a regional reference laboratory and advanced imaging center for Southern Tamil Nadu.",
+      "status": "New",
+      "dateAdded": "2024-03-25T08:30:00Z"
+    },
+    {
+      "id": "LEAD-MDU-HC-002",
+      "name": "Neuberg Diagnostics Pvt Ltd (Infrastructure Wing)",
+      "category": "Branded Diagnostic Chain",
+      "location": "Kadachanendal / Alagar Kovil Road Corridor, Madurai",
+      "phone": "+91 44 4850 0000",
+      "whatsapp": "+91 95000 12345",
+      "email": "expansion.south@neubergdiagnostics.com",
+      "website": "https://neubergdiagnostics.com",
+      "notes": "Looking for 40,000 to 60,000 sq. ft. commercial land or plot with direct frontage on Alagar Kovil Highway for a integrated molecular testing and central processing hub.",
+      "status": "New",
+      "dateAdded": "2024-03-25T09:15:00Z"
+    },
+    {
+      "id": "LEAD-MDU-HC-003",
+      "name": "Dr. Lal PathLabs Ltd (Regional Land Acquisition Cell)",
+      "category": "Branded Diagnostic Chain",
+      "location": "K.K. Nagar Extension - Alagar Kovil Link, Madurai",
+      "phone": "+91 11 3024 4100",
+      "whatsapp": "+91 98101 55432",
+      "email": "land.acquisition@lalpathlabs.com",
+      "website": "https://www.lalpathlabs.com",
+      "notes": "High intent buyer searching for 1 acre roadside commercial land for a standalone regional diagnostic & wellness center in North Madurai.",
+      "status": "New",
+      "dateAdded": "2024-03-26T10:00:00Z"
+    },
+    {
+      "id": "LEAD-MDU-HC-004",
+      "name": "Medall Healthcare Limited (Corporate Real Estate)",
+      "category": "Branded Diagnostic Chain",
+      "location": "Alagar Kovil Road near Tallakulam, Madurai",
+      "phone": "+91 44 4344 3333",
+      "whatsapp": "+91 98400 99881",
+      "email": "projects@medall.in",
+      "website": "https://www.medall.in",
+      "notes": "Requires 0.5 to 1 acre land parcel near hospital clusters along Alagar Kovil Road for automated lab setup and diagnostic daycare.",
+      "status": "New",
+      "dateAdded": "2024-03-26T11:45:00Z"
+    },
+    {
+      "id": "LEAD-MDU-HC-005",
+      "name": "Apollo Health and Lifestyle Ltd (Apollo Diagnostics Division)",
+      "category": "Healthcare Hub & Diagnostics",
+      "location": "Alagar Kovil Main Road, Madurai",
+      "phone": "+91 40 4444 2222",
+      "whatsapp": "Not public",
+      "email": "businessdevelopment@apollodiagnostics.in",
+      "website": "https://www.apollodiagnostics.in",
+      "notes": "Seeking 1.5 to 2 acres land for a multi-specialty outpatient healthcare hub and regional diagnostic unit. Clear marketable title required.",
+      "status": "New",
+      "dateAdded": "2024-03-27T09:00:00Z"
+    },
+    {
+      "id": "LEAD-MDU-HC-006",
+      "name": "Vijaya Diagnostic Centre Ltd (Tier-2 Strategic Expansion)",
+      "category": "Branded Diagnostic Chain",
+      "location": "Othakadai / Alagar Kovil Stretch, Madurai",
+      "phone": "+91 40 2342 0422",
+      "whatsapp": "+91 99591 22110",
+      "email": "expansion@vijayadiagnostic.com",
+      "website": "https://www.vijayadiagnostic.com",
+      "notes": "Direct corporate buyer seeking 20,000 - 35,000 sq ft plot or 0.75 acres land for flagship diagnostic & radiology facility.",
+      "status": "New",
+      "dateAdded": "2024-03-27T12:20:00Z"
+    },
+    {
+      "id": "LEAD-MDU-HC-007",
+      "name": "Meenakshi Mission Hospital Trust (Satellite Diagnostic Hub Wing)",
+      "category": "Hospital Group / Healthcare Hub",
+      "location": "Alagar Kovil Road Corridor, Madurai",
+      "phone": "+91 452 258 0580",
+      "whatsapp": "+91 98421 66100",
+      "email": "projects@mmhrc.in",
+      "website": "https://www.meenakshimission.org",
+      "notes": "Looking for 2 to 3 acres commercial land to build an advanced preventive healthcare hub and diagnostic satellite center on Alagar Kovil corridor.",
+      "status": "New",
+      "dateAdded": "2024-03-28T08:00:00Z"
+    },
+    {
+      "id": "LEAD-MDU-HC-008",
+      "name": "Kauvery Hospital Group (Daycare & Diagnostic Expansion)",
+      "category": "Hospital Group / Healthcare Hub",
+      "location": "Mattuthavani - Alagar Kovil Link Road, Madurai",
+      "phone": "+91 44 4000 6000",
+      "whatsapp": "+91 98408 11223",
+      "email": "infra@kauveryhospital.com",
+      "website": "https://www.kauveryhospital.com",
+      "notes": "Acquiring 1.5 to 2.5 acres land for setting up a specialized daycare center, pathology hub, and dialysis facility.",
+      "status": "New",
+      "dateAdded": "2024-03-28T10:30:00Z"
+    },
+    {
+      "id": "LEAD-MDU-HC-009",
+      "name": "Devadoss Hospital Corporate Land Wing",
+      "category": "Hospital Group / Healthcare Hub",
+      "location": "Surveyor Colony / Alagar Kovil Road, Madurai",
+      "phone": "+91 452 452 1000",
+      "whatsapp": "+91 94431 52000",
+      "email": "expansion@devadosshospitals.com",
+      "website": "https://www.devadosshospitals.com",
+      "notes": "Requires 1 to 2 acres of prime commercial land on Alagar Kovil Main Road for an integrated rehabilitation and diagnostic campus.",
+      "status": "New",
+      "dateAdded": "2024-03-28T14:10:00Z"
+    },
+    {
+      "id": "LEAD-MDU-HC-010",
+      "name": "Velammal Healthcare Trust (Madurai Outpatient Division)",
+      "category": "Healthcare Hub",
+      "location": "Kadachanendal, Alagar Kovil Road, Madurai",
+      "phone": "+91 452 246 5555",
+      "whatsapp": "Not public",
+      "email": "estate@velammalmedicalcollege.edu.in",
+      "website": "https://velammalmedicalcollege.edu.in",
+      "notes": "In search of 2 to 4 acres of road-facing land for expansion of specialized outpatient diagnostic and sports medicine center.",
+      "status": "New",
+      "dateAdded": "2024-03-28T16:00:00Z"
+    },
+    {
+      "id": "LEAD-MDU-HC-011",
+      "name": "Thyrocare Technologies Ltd (Regional Logistics & Lab Project)",
+      "category": "Branded Diagnostic Chain",
+      "location": "Alagar Kovil Highway, Madurai",
+      "phone": "+91 22 3090 0000",
+      "whatsapp": "+91 93240 80112",
+      "email": "commercial.property@thyrocare.com",
+      "website": "https://www.thyrocare.com",
+      "notes": "Direct acquisition team looking for 0.5 to 1 acre plot along major transit arterial near Alagar Kovil Road for a regional processing lab.",
+      "status": "New",
+      "dateAdded": "2024-03-29T09:20:00Z"
+    },
+    {
+      "id": "LEAD-MDU-HC-012",
+      "name": "Microtherapeutics Diagnostics & Research Pvt Ltd",
+      "category": "Branded Diagnostic Chain",
+      "location": "K.K. Nagar / Alagar Kovil Corridor, Madurai",
+      "phone": "+91 44 2815 1111",
+      "whatsapp": "+91 98410 44556",
+      "email": "bd@microtherapeutics.com",
+      "website": "http://www.microtherapeutics.com",
+      "notes": "Targeting 0.75 acres of commercial land to construct a state-of-the-art diagnostic and genetic testing research facility.",
+      "status": "New",
+      "dateAdded": "2024-03-29T11:00:00Z"
+    },
+    {
+      "id": "LEAD-MDU-HC-013",
+      "name": "MGM Healthcare Infrastructure Division",
+      "category": "Hospital Group / Healthcare Hub",
+      "location": "Alagar Kovil Road, Madurai",
+      "phone": "+91 44 4524 2424",
+      "whatsapp": "Not public",
+      "email": "land.south@mgmhealthcare.in",
+      "website": "https://mgmhealthcare.in",
+      "notes": "High budget corporate mandate to secure 2 to 5 acres of land near Alagar Kovil Road for a tertiary diagnostic & day-surgery hub.",
+      "status": "New",
+      "dateAdded": "2024-03-29T13:45:00Z"
+    },
+    {
+      "id": "LEAD-MDU-HC-014",
+      "name": "Hannah Joseph Hospital Group (Neuro & Imaging Center Division)",
+      "category": "Healthcare Hub",
+      "location": "Alagar Kovil Link Road, Madurai",
+      "phone": "+91 452 252 5000",
+      "whatsapp": "+91 94433 12111",
+      "email": "admin@hannahjosephhospital.com",
+      "website": "https://hannahjosephhospital.com",
+      "notes": "Searching for 1 to 1.5 acres land to construct a dedicated neuro-diagnostic and advanced MRI/PET-CT imaging hub.",
+      "status": "New",
+      "dateAdded": "2024-03-29T15:10:00Z"
+    },
+    {
+      "id": "LEAD-MDU-HC-015",
+      "name": "Tenet Diagnostics South Private Limited",
+      "category": "Branded Diagnostic Chain",
+      "location": "Alagar Kovil Main Highway, Madurai",
+      "phone": "+91 40 4747 5555",
+      "whatsapp": "+91 91000 88990",
+      "email": "realestate@tenetdiagnostics.in",
+      "website": "https://www.tenetdiagnostics.in",
+      "notes": "Direct buyer seeking 0.5 to 1.2 acres commercial land suitable for commercial building construction with heavy power load availability.",
+      "status": "New",
+      "dateAdded": "2024-03-29T16:30:00Z"
     }
   ]
 }

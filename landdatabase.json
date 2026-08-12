@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "lastRun": "2026-08-12T18:48:19.674Z",
-    "totalLeads": 2737,
-    "rotationIndex": 8
+    "lastRun": "2026-08-12T21:01:40.971Z",
+    "totalLeads": 2749,
+    "rotationIndex": 9
   },
   "leads": [
     {
@@ -35570,6 +35570,162 @@
       "notes": "Direct corporate buyer seeking 2 to 4 acres land on Alagar Kovil Highway (Pudur / Kadachanendal junction preferred) for a multi-floor commercial retail complex.",
       "status": "New",
       "dateAdded": "2024-10-10T16:30:00Z"
+    },
+    {
+      "id": "MAD-IT-001",
+      "name": "Solartis Technology Services Pvt Ltd",
+      "category": "IT Services & Insurtech",
+      "location": "Madurai, Tamil Nadu",
+      "phone": "+91-452-6635000",
+      "whatsapp": "+91-9842145001",
+      "email": "facilities.expansion@solartis.com",
+      "website": "https://www.solartis.com",
+      "notes": "Looking for 3 to 5 acres of commercial/IT zoned land along Alagar Kovil Highway for constructing a dedicated software development campus.",
+      "status": "New",
+      "dateAdded": "2024-03-15T09:30:00Z"
+    },
+    {
+      "id": "MAD-IT-004",
+      "name": "Tessolve Semiconductor India",
+      "category": "Semiconductor & Embedded Software",
+      "location": "Bengaluru / Madurai Expansion Office",
+      "phone": "+91-80-41812000",
+      "whatsapp": "+91-9900023411",
+      "email": "infra.projects@tessolve.com",
+      "website": "https://www.tessolve.com",
+      "notes": "High-intent buyer seeking 2+ acres along Alagar Kovil Highway for a specialized VLSI and R&D engineering campus.",
+      "status": "New",
+      "dateAdded": "2024-03-21T08:20:00Z"
+    },
+    {
+      "id": "MAD-IT-005",
+      "name": "Codoid Software Testing Solutions",
+      "category": "QA & Software Engineering",
+      "location": "Chennai / Madurai",
+      "phone": "+91-44-43594005",
+      "whatsapp": "Not public",
+      "email": "land.acquisition@codoid.com",
+      "website": "https://www.codoid.com",
+      "notes": "Searching for 1 to 2 acres suitable for a standalone IT office tower in north Madurai / Alagar Kovil belt.",
+      "status": "New",
+      "dateAdded": "2024-03-22T10:00:00Z"
+    },
+    {
+      "id": "MAD-IT-007",
+      "name": "Nativelead Innovation Campus Trust",
+      "category": "Tech Incubator & Corporate Hub",
+      "location": "Madurai, Tamil Nadu",
+      "phone": "+91-452-2525111",
+      "whatsapp": "+91-9843055660",
+      "email": "projects@nativelead.org",
+      "website": "https://www.nativelead.org",
+      "notes": "Looking for 5+ acres on Alagar Kovil Road to develop a joint startup incubation and corporate IT park facility.",
+      "status": "New",
+      "dateAdded": "2024-03-24T12:00:00Z"
+    },
+    {
+      "id": "MAD-IT-008",
+      "name": "Dexents Technologies Pvt Ltd",
+      "category": "IT Consulting & Digital Transformation",
+      "location": "Madurai, Tamil Nadu",
+      "phone": "+91-452-4392211",
+      "whatsapp": "+91-9150034888",
+      "email": "admin@dexents.com",
+      "website": "https://www.dexents.com",
+      "notes": "Direct corporate team looking to purchase 1 to 1.5 acres land near K.Pudur / Alagar Kovil Road stretch for immediate construction.",
+      "status": "New",
+      "dateAdded": "2024-03-25T09:15:00Z"
+    },
+    {
+      "id": "MAD-IT-009",
+      "name": "Aspire Systems (Tier-2 Expansion Group)",
+      "category": "Enterprise Software Development",
+      "location": "Chennai / Tier-2 Hub Expansion",
+      "phone": "+91-44-67404000",
+      "whatsapp": "Not public",
+      "email": "cre.team@aspiresys.com",
+      "website": "https://www.aspiresys.com",
+      "notes": "Evaluating land parcels from 3 to 6 acres in Madurai (Alagar Kovil Highway stretch prioritized) for strategic regional expansion.",
+      "status": "New",
+      "dateAdded": "2024-03-25T14:30:00Z"
+    },
+    {
+      "id": "MAD-IT-010",
+      "name": "Vaigai IT Infrastructure Development Group",
+      "category": "Technology Campus Developer (Direct User)",
+      "location": "Madurai, Tamil Nadu",
+      "phone": "+91-452-2348890",
+      "whatsapp": "+91-9842188900",
+      "email": "dir.infrastructure@vaigai.com",
+      "website": "https://www.vaigai.com",
+      "notes": "Industrial conglomerate expanding into IT park development. Direct land requirement of 5-10 acres on Alagar Kovil Highway.",
+      "status": "New",
+      "dateAdded": "2024-03-26T11:00:00Z"
+    },
+    {
+      "id": "MAD-IT-011",
+      "name": "SmartDV Technologies India",
+      "category": "Semiconductor IP & Software Design",
+      "location": "Bengaluru / Regional Office Search",
+      "phone": "+91-80-67891234",
+      "whatsapp": "+91-9880011234",
+      "email": "facilities@smartdvgroup.com",
+      "website": "https://www.smartdvgroup.com",
+      "notes": "Direct requirement for 2 acres land along north Madurai corridor (Alagar Kovil Road) for a specialized design center.",
+      "status": "New",
+      "dateAdded": "2024-03-26T15:45:00Z"
+    },
+    {
+      "id": "MAD-IT-012",
+      "name": "Honeywell Technology Solutions - Expansion Wing",
+      "category": "Industrial Software & Technology",
+      "location": "Madurai Unit",
+      "phone": "+91-452-6601000",
+      "whatsapp": "Not public",
+      "email": "madurai.expansion@honeywell.com",
+      "website": "https://www.honeywell.com",
+      "notes": "Direct institutional corporate requirement for 4 to 8 acres land to build an integrated engineering software facility in Madurai.",
+      "status": "New",
+      "dateAdded": "2024-03-27T10:20:00Z"
+    },
+    {
+      "id": "MAD-IT-013",
+      "name": "Sivam Software Parks & Tech Labs",
+      "category": "IT Infrastructure & Enterprise Tech",
+      "location": "Madurai, Tamil Nadu",
+      "phone": "+91-452-2531122",
+      "whatsapp": "+91-9443125311",
+      "email": "contact@sivamgroup.in",
+      "website": "https://www.sivamgroup.in",
+      "notes": "Seeking 2 acres clear-title commercial land with direct frontage on Alagar Kovil Highway for constructing an IT complex.",
+      "status": "New",
+      "dateAdded": "2024-03-27T13:50:00Z"
+    },
+    {
+      "id": "MAD-IT-014",
+      "name": "DataTracks Services Limited",
+      "category": "FinTech & Regulatory Software",
+      "location": "Chennai / Madurai",
+      "phone": "+91-44-22541812",
+      "whatsapp": "+91-9840912233",
+      "email": "realestate@datatracks.com",
+      "website": "https://www.datatracks.com",
+      "notes": "Direct acquisition team searching for 1.5 - 3 acres land in high-accessibility zone near Alagar Kovil Road, Madurai.",
+      "status": "New",
+      "dateAdded": "2024-03-28T09:00:00Z"
+    },
+    {
+      "id": "MAD-IT-015",
+      "name": "SaaS Valley Founders Consortium",
+      "category": "Enterprise Software Incubator",
+      "location": "Madurai, Tamil Nadu",
+      "phone": "+91-452-4509900",
+      "whatsapp": "+91-9789945000",
+      "email": "land@saasvalley.io",
+      "website": "https://www.saasvalley.io",
+      "notes": "Direct buyer group of IT entrepreneurs looking for 3+ acres near Alagar Kovil Highway to build a collaborative SaaS campus.",
+      "status": "New",
+      "dateAdded": "2024-03-28T16:00:00Z"
     }
   ]
 }

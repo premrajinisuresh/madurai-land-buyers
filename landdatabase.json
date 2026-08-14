@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "lastRun": "2026-08-14T15:42:05.655Z",
-    "totalLeads": 3154,
-    "rotationIndex": 4
+    "lastRun": "2026-08-14T18:01:37.848Z",
+    "totalLeads": 3167,
+    "rotationIndex": 5
   },
   "leads": [
     {
@@ -40991,6 +40991,175 @@
       "notes": "Direct institutional requirement: 3 to 5 acres along Alagar Kovil Highway for a specialized cardiac care and critical care annexe.",
       "status": "New",
       "dateAdded": "2024-03-28T17:45:00Z"
+    },
+    {
+      "id": "LEAD-MDU-002",
+      "name": "TVS Educational Society (Lakshmi School Infrastructure Division)",
+      "category": "Corporate Educational Society",
+      "location": "Alagar Kovil Highway Corridor, Madurai",
+      "phone": "+914522532100",
+      "whatsapp": "+919842154321",
+      "email": "projects@lakshmischool.edu.in",
+      "website": "https://lakshmischool.edu.in",
+      "notes": "Direct institutional buyer seeking 8+ acres clear-title land near Alagar Kovil Road for sports complex and junior campus expansion.",
+      "status": "New",
+      "dateAdded": "2024-05-15T09:15:00Z"
+    },
+    {
+      "id": "LEAD-MDU-003",
+      "name": "E&E Educational Society (Mahatma Schools Group)",
+      "category": "Private School Group",
+      "location": "Alagar Kovil Road, Madurai",
+      "phone": "+914522530876",
+      "whatsapp": "+919789012345",
+      "email": "admin@mahatmaschools.org",
+      "website": "https://mahatmaschools.org",
+      "notes": "Looking for 4 to 6 acres near Kadachanendal/Alagar Kovil Highway for dedicated primary campus annexe. Direct acquisition team.",
+      "status": "New",
+      "dateAdded": "2024-05-16T10:00:00Z"
+    },
+    {
+      "id": "LEAD-MDU-004",
+      "name": "Queen Mira Educational Foundation",
+      "category": "International School Infrastructure Group",
+      "location": "Madurai North / Alagar Kovil Road Zone",
+      "phone": "+914522090100",
+      "whatsapp": "+919944011223",
+      "email": "expansion@queenmira.com",
+      "website": "https://queenmira.com",
+      "notes": "Board-approved budget for direct purchase of 10+ acres along Alagar Kovil Highway for residential school annexe.",
+      "status": "New",
+      "dateAdded": "2024-05-16T11:45:00Z"
+    },
+    {
+      "id": "LEAD-MDU-005",
+      "name": "Subbalakshmi Lakshmipathy Foundation (SLF Land Wing)",
+      "category": "Higher Education Foundation",
+      "location": "Madurai - Alagar Kovil Suburbs",
+      "phone": "+914522692221",
+      "whatsapp": "Not public",
+      "email": "land-wing@rlins.edu.in",
+      "website": "https://slf.ac.in",
+      "notes": "Evaluating 12-15 acres contiguous commercial land on Alagar Kovil corridor for new allied health sciences campus.",
+      "status": "New",
+      "dateAdded": "2024-05-17T07:20:00Z"
+    },
+    {
+      "id": "LEAD-MDU-006",
+      "name": "KLN Educational Trust (Campus Expansion Wing)",
+      "category": "Educational Trust",
+      "location": "Alagar Kovil Main Road Corridor, Madurai",
+      "phone": "+914522090971",
+      "whatsapp": "+919842188990",
+      "email": "trust@klnce.edu",
+      "website": "https://klnce.edu",
+      "notes": "Direct buyer searching for 6-10 acres of roadside commercial/institutional land for vocational skill center annexe.",
+      "status": "New",
+      "dateAdded": "2024-05-17T09:10:00Z"
+    },
+    {
+      "id": "LEAD-MDU-008",
+      "name": "CEOA Educational Institutions Group",
+      "category": "Educational Chain",
+      "location": "Alagar Kovil Belt, Madurai",
+      "phone": "+914522539090",
+      "whatsapp": "+919442112233",
+      "email": "chairman@ceoa.in",
+      "website": "https://ceoa.in",
+      "notes": "Urgent requirement for 5-8 acres land with direct main road frontage for integrated residential hostel and training academy.",
+      "status": "New",
+      "dateAdded": "2024-05-18T08:00:00Z"
+    },
+    {
+      "id": "LEAD-MDU-009",
+      "name": "Vikaasa Educational Trust",
+      "category": "ICSE / International School Chain",
+      "location": "Madurai North / Alagar Kovil Sector",
+      "phone": "+914522602323",
+      "whatsapp": "Not public",
+      "email": "estates@vikaasaschool.com",
+      "website": "https://vikaasaschool.com",
+      "notes": "Direct buyer requesting 7-10 acres land package for secondary campus expansion. Requires clear DTCP/LPA zone classification.",
+      "status": "New",
+      "dateAdded": "2024-05-18T10:30:00Z"
+    },
+    {
+      "id": "LEAD-MDU-010",
+      "name": "Solamalai Institutions Infrastructure Wing",
+      "category": "Higher Education & Technical Group",
+      "location": "Alagar Kovil Highway, Madurai",
+      "phone": "+914522429280",
+      "whatsapp": "+919894012345",
+      "email": "campuslead@solamalai.edu.in",
+      "website": "https://solamalai.edu.in",
+      "notes": "Seeking 10+ acres institutional plot near Appanthirupathi for engineering college specialized research lab annexe.",
+      "status": "New",
+      "dateAdded": "2024-05-18T12:15:00Z"
+    },
+    {
+      "id": "LEAD-MDU-011",
+      "name": "Yadava Educational Association",
+      "category": "College Trust",
+      "location": "Alagar Kovil Road, Tiruppalai Zone",
+      "phone": "+914522680362",
+      "whatsapp": "Not public",
+      "email": "contact@yadavacollege.org",
+      "website": "https://yadavacollege.org",
+      "notes": "Allocated capital for 5 acres land adjacent or close to current campus for a women's empowerment center & college wing.",
+      "status": "New",
+      "dateAdded": "2024-05-19T06:50:00Z"
+    },
+    {
+      "id": "LEAD-MDU-012",
+      "name": "Sethu Educational Trust (Madurai Expansion Cell)",
+      "category": "Private University Infrastructure Wing",
+      "location": "Alagar Kovil Corridor, Madurai",
+      "phone": "+914522800123",
+      "whatsapp": "+919443312890",
+      "email": "projects@sethu.ac.in",
+      "website": "https://sethu.ac.in",
+      "notes": "Direct institutional mandate for 15+ acres contiguous land within 3 km of Alagar Kovil Highway for medical research wing.",
+      "status": "New",
+      "dateAdded": "2024-05-19T09:00:00Z"
+    },
+    {
+      "id": "LEAD-MDU-013",
+      "name": "Vigneshwar Educational & Charitable Trust",
+      "category": "K-12 School Developer",
+      "location": "Appanthirupathi / Alagar Kovil Road, Madurai",
+      "phone": "+914522588100",
+      "whatsapp": "+919842567890",
+      "email": "land@vigneshwar.edu.in",
+      "website": "Not public",
+      "notes": "Direct trust search for 3-5 acres clear land for early learning primary branch. Prefers direct deal with landowners.",
+      "status": "New",
+      "dateAdded": "2024-05-19T11:20:00Z"
+    },
+    {
+      "id": "LEAD-MDU-014",
+      "name": "VETRI Infrastructure & Education Trust",
+      "category": "Vocational & Skill Academy Trust",
+      "location": "Kadachanendal - Alagar Kovil Stretch, Madurai",
+      "phone": "+914522456789",
+      "whatsapp": "+919150012345",
+      "email": "director@vetri.edu.in",
+      "website": "https://vetri.edu.in",
+      "notes": "Immediate buyer for 4-6 acres of unencumbered commercial/institutional land for paramedical institute.",
+      "status": "New",
+      "dateAdded": "2024-05-20T08:10:00Z"
+    },
+    {
+      "id": "LEAD-MDU-015",
+      "name": "Amrita Vishwa Vidyapeetham (Madurai Campus Directorate)",
+      "category": "Deemed University Group",
+      "location": "Madurai North / Alagar Kovil Foothills Zone",
+      "phone": "+914522900800",
+      "whatsapp": "Not public",
+      "email": "landacquisitions@amrita.edu",
+      "website": "https://amrita.edu",
+      "notes": "High-budget mandate for 20+ acres land package near Alagar Kovil foothills for off-campus center and staff quarters.",
+      "status": "New",
+      "dateAdded": "2024-05-20T10:00:00Z"
     }
   ]
 }

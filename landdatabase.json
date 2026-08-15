@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "lastRun": "2026-08-14T21:16:36.819Z",
-    "totalLeads": 3208,
-    "rotationIndex": 8
+    "lastRun": "2026-08-15T00:01:33.950Z",
+    "totalLeads": 3222,
+    "rotationIndex": 9
   },
   "leads": [
     {
@@ -41693,6 +41693,188 @@
       "notes": "Direct buyer targeting 2 to 5 acres of commercial converted land along Alagar Kovil Highway for multi-story IT/commercial space construction.",
       "status": "New",
       "dateAdded": "2024-05-18T18:40:00Z"
+    },
+    {
+      "id": "lead-001",
+      "name": "Tessolve Semiconductor Pvt Ltd (Facilities Team)",
+      "category": "IT Corporate Office Land Buyer",
+      "location": "Alagar Kovil Road Corridor, Madurai",
+      "phone": "+914522698000",
+      "whatsapp": "+919840123982",
+      "email": "facilities.madurai@tessolve.com",
+      "website": "https://www.tessolve.com",
+      "notes": "Looking for 3 to 5 acres of commercial land near Alagar Kovil Highway for dedicated VLSI engineering facility expansion.",
+      "status": "New",
+      "dateAdded": "2024-05-10T09:15:00Z"
+    },
+    {
+      "id": "lead-003",
+      "name": "Neeyamo Enterprise Solutions (Infra Wing)",
+      "category": "IT Corporate Office Land Buyer",
+      "location": "Alagar Kovil Road / Kadachanendal Area, Madurai",
+      "phone": "+914466089000",
+      "whatsapp": "+919884019283",
+      "email": "expansion.land@neeyamo.com",
+      "website": "https://www.neeyamo.com",
+      "notes": "Direct buyer targeting 4-6 acres along Alagar Kovil main road for payroll tech R&D campus buildout.",
+      "status": "New",
+      "dateAdded": "2024-05-12T08:45:00Z"
+    },
+    {
+      "id": "lead-004",
+      "name": "Apptivo Software India Pvt Ltd",
+      "category": "IT Corporate Office Land Buyer",
+      "location": "Alagar Kovil Highway Zone, Madurai",
+      "phone": "+914522522000",
+      "whatsapp": "+919790012844",
+      "email": "admin.madurai@apptivo.com",
+      "website": "https://www.apptivo.com",
+      "notes": "Seeking 1.5 to 3 acres of clear-title commercial land with good connectivity to Alagar Kovil Road.",
+      "status": "New",
+      "dateAdded": "2024-05-13T14:20:00Z"
+    },
+    {
+      "id": "lead-005",
+      "name": "Softsquare Systems (Facilities Department)",
+      "category": "IT Corporate Office Land Buyer",
+      "location": "Alagar Kovil Main Road, Madurai",
+      "phone": "+914524391100",
+      "whatsapp": "+919488102938",
+      "email": "realestate@softsquare.biz",
+      "website": "https://www.softsquare.biz",
+      "notes": "Direct corporate inquiry for 2 acres suitable for a 500-seater standalone IT office campus.",
+      "status": "New",
+      "dateAdded": "2024-05-14T10:00:00Z"
+    },
+    {
+      "id": "lead-006",
+      "name": "Zoho Corporation (Regional Expansion Division)",
+      "category": "IT Corporate Office Land Buyer",
+      "location": "Madurai - Alagar Kovil Belt",
+      "phone": "+914467447070",
+      "whatsapp": "Not public",
+      "email": "land.acquisition@zohocorp.com",
+      "website": "https://www.zoho.com",
+      "notes": "Exploring 10-15 acres of land near Alagar Kovil Highway for rural/tier-2 tech campus expansion project.",
+      "status": "New",
+      "dateAdded": "2024-05-15T16:10:00Z"
+    },
+    {
+      "id": "lead-007",
+      "name": "Guvi Geek Network Pvt Ltd (IIT-M Incubated)",
+      "category": "IT Corporate Office Land Buyer",
+      "location": "Alagar Kovil Road, Madurai",
+      "phone": "+914466463720",
+      "whatsapp": "+919383301928",
+      "email": "operations@guvi.in",
+      "website": "https://www.guvi.in",
+      "notes": "Searching for 1 to 2 acres land for setting up an EdTech delivery & engineering hub in Madurai.",
+      "status": "New",
+      "dateAdded": "2024-05-16T09:05:00Z"
+    },
+    {
+      "id": "lead-008",
+      "name": "Sify Technologies (Data Infrastructure Group)",
+      "category": "IT Corporate Office Land Buyer",
+      "location": "Near Alagar Kovil Highway, Madurai",
+      "phone": "+914422540770",
+      "whatsapp": "+919840912384",
+      "email": "datacenters.land@sifycorp.com",
+      "website": "https://www.sifytechnologies.com",
+      "notes": "Looking for 3 to 5 acres of high-power grid accessible commercial land for edge data center and regional office.",
+      "status": "New",
+      "dateAdded": "2024-05-17T12:00:00Z"
+    },
+    {
+      "id": "lead-009",
+      "name": "SysCloud Technologies India Pvt Ltd",
+      "category": "IT Corporate Office Land Buyer",
+      "location": "Alagar Kovil Road Corridor, Madurai",
+      "phone": "+914522589010",
+      "whatsapp": "+919842109833",
+      "email": "infrastructure@syscloud.com",
+      "website": "https://www.syscloud.com",
+      "notes": "Searching for 2 acres land plot ready for commercial construction near Alagar Kovil road junction.",
+      "status": "New",
+      "dateAdded": "2024-05-18T13:40:00Z"
+    },
+    {
+      "id": "lead-010",
+      "name": "TechAffinity Global Solutions Pvt Ltd",
+      "category": "IT Corporate Office Land Buyer",
+      "location": "Alagar Kovil Main Road, Madurai",
+      "phone": "+914442638888",
+      "whatsapp": "+919791092831",
+      "email": "corp.infra@techaffinity.com",
+      "website": "https://www.techaffinity.com",
+      "notes": "Direct acquisition team seeking 2-4 acres for custom software product development center in Madurai.",
+      "status": "New",
+      "dateAdded": "2024-05-19T08:30:00Z"
+    },
+    {
+      "id": "lead-011",
+      "name": "Vuram (WNS Company) Facilities Division",
+      "category": "IT Corporate Office Land Buyer",
+      "location": "Alagar Kovil Highway Vicinity, Madurai",
+      "phone": "+914448550000",
+      "whatsapp": "+919884102938",
+      "email": "facilities@vuram.com",
+      "website": "https://www.vuram.com",
+      "notes": "Evaluating 3 acres land along Alagar Kovil stretch for enterprise hyperautomation delivery hub.",
+      "status": "New",
+      "dateAdded": "2024-05-20T11:15:00Z"
+    },
+    {
+      "id": "lead-012",
+      "name": "Aura Tech Solutions Private Limited",
+      "category": "IT Corporate Office Land Buyer",
+      "location": "Alagar Kovil Road, Madurai",
+      "phone": "+914522530100",
+      "whatsapp": "+919442183920",
+      "email": "admin@auratechsolutions.com",
+      "website": "https://www.auratechsolutions.com",
+      "notes": "Interested in 1.5 acres plot frontage on Alagar Kovil main road for self-owned corporate headquarters.",
+      "status": "New",
+      "dateAdded": "2024-05-21T15:50:00Z"
+    },
+    {
+      "id": "lead-013",
+      "name": "42Gears Mobility Systems (Expansion Team)",
+      "category": "IT Corporate Office Land Buyer",
+      "location": "Alagar Kovil Corridor, Madurai",
+      "phone": "+918041130800",
+      "whatsapp": "Not public",
+      "email": "realestate@42gears.com",
+      "website": "https://www.42gears.com",
+      "notes": "Corporate buyer looking for 2 to 4 acres of commercial land to establish a regional engineering office.",
+      "status": "New",
+      "dateAdded": "2024-05-22T10:25:00Z"
+    },
+    {
+      "id": "lead-014",
+      "name": "Datamites Tech Services Pvt Ltd",
+      "category": "IT Corporate Office Land Buyer",
+      "location": "Alagar Kovil Highway, Madurai",
+      "phone": "+918047185500",
+      "whatsapp": "+919880198234",
+      "email": "expansion@datamites.com",
+      "website": "https://datamites.com",
+      "notes": "Direct requirement for 1 acre commercial plot along Alagar Kovil Road for AI/ML training & delivery center.",
+      "status": "New",
+      "dateAdded": "2024-05-23T09:00:00Z"
+    },
+    {
+      "id": "lead-015",
+      "name": "HCLTech (Madurai Operations Land Wing)",
+      "category": "IT Corporate Office Land Buyer",
+      "location": "Alagar Kovil / ELCOT Link Zone, Madurai",
+      "phone": "+914522699000",
+      "whatsapp": "+919840019283",
+      "email": "madurai.campus@hcl.com",
+      "website": "https://www.hcltech.com",
+      "notes": "Direct corporate team exploring 5+ acres off Alagar Kovil Highway for secondary facility expansion.",
+      "status": "New",
+      "dateAdded": "2024-05-24T14:10:00Z"
     }
   ]
 }

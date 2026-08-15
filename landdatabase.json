@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "lastRun": "2026-08-15T18:01:40.495Z",
-    "totalLeads": 3396,
-    "rotationIndex": 21
+    "lastRun": "2026-08-15T18:14:53.600Z",
+    "totalLeads": 3405,
+    "rotationIndex": 22
   },
   "leads": [
     {
@@ -44137,6 +44137,123 @@
       "notes": "Direct corporate requirement for 2 to 4 acres commercial conversion land along Alagar Kovil Road for community health annexe project.",
       "status": "New",
       "dateAdded": "2024-05-23T14:40:00Z"
+    },
+    {
+      "id": "MDU-EDU-103",
+      "name": "Mahatma Schools (E.R.A. Educational Trust)",
+      "category": "Private K-12 Group",
+      "location": "KK Nagar / Alagar Kovil Corridor, Madurai",
+      "phone": "+91 452 2580520",
+      "whatsapp": "+91 98940 55111",
+      "email": "trustee@mahatmaschools.com",
+      "website": "https://www.mahatmaschools.com",
+      "notes": "Looking for 4-6 acres on Alagar Kovil Main Road within 12 km from K.K. Nagar for an exclusive primary wing annexe.",
+      "status": "New",
+      "dateAdded": "2025-05-12T11:00:00Z"
+    },
+    {
+      "id": "MDU-EDU-104",
+      "name": "Vikaasa Educational Trust (PNS Group)",
+      "category": "ICSE/CBSE Institution",
+      "location": "Madurai North, Tamil Nadu",
+      "phone": "+91 452 2603310",
+      "whatsapp": "+91 98430 45678",
+      "email": "management@vikaasaschool.org",
+      "website": "https://www.vikaasaschool.org",
+      "notes": "Requires 6-10 acres institutional land near Alagar Kovil stretch for residential school wing extension.",
+      "status": "New",
+      "dateAdded": "2025-05-12T14:20:00Z"
+    },
+    {
+      "id": "MDU-EDU-105",
+      "name": "SLS MAVMM Educational Trust",
+      "category": "Higher Education & Technical Institutions",
+      "location": "Alagar Kovil Road, Madurai",
+      "phone": "+91 452 2812233",
+      "whatsapp": "+91 94422 18900",
+      "email": "secretary@slsmavmm.edu.in",
+      "website": "http://www.slsmavmm.edu.in",
+      "notes": "Searching for contiguous 10+ acres adjacent to Alagar Kovil main stretch for Allied Health Sciences and Degree College annexe campus.",
+      "status": "New",
+      "dateAdded": "2025-05-13T10:05:00Z"
+    },
+    {
+      "id": "MDU-EDU-106",
+      "name": "Subbalakshmi Lakshmipathy Foundation (SLCS)",
+      "category": "Higher Education Trust",
+      "location": "TVR Nagar / Madurai Suburbs",
+      "phone": "+91 452 3918600",
+      "whatsapp": "+91 98421 88990",
+      "email": "landacquisition@slf.edu.in",
+      "website": "https://www.slcs.edu.in",
+      "notes": "Budget sanctioned for 10-15 acres of DTCP/Institutional approved land near Alagar Kovil Highway for new autonomous campus expansion.",
+      "status": "New",
+      "dateAdded": "2025-05-13T16:45:00Z"
+    },
+    {
+      "id": "MDU-EDU-108",
+      "name": "SACS MAVMM Engineering College Management",
+      "category": "Collegiate Group",
+      "location": "Alagar Kovil, Madurai",
+      "phone": "+91 452 2812255",
+      "whatsapp": "+91 98421 23344",
+      "email": "principal@sacsmavmm.ac.in",
+      "website": "http://www.sacsmavmm.ac.in",
+      "notes": "High priority request for 5-7 acres adjoining existing educational zone on Alagar Kovil Road for hostel complex and research park.",
+      "status": "New",
+      "dateAdded": "2025-05-14T12:00:00Z"
+    },
+    {
+      "id": "MDU-EDU-109",
+      "name": "Amrita Vidyalayam (Mata Amritanandamayi Math Trust)",
+      "category": "National K-12 Network",
+      "location": "Madurai Regional Office",
+      "phone": "+91 452 2459800",
+      "whatsapp": "Not public",
+      "email": "projects@amritavidyalayam.org",
+      "website": "https://www.amritavidyalayam.org",
+      "notes": "Exploring 5-8 acres clear-title land near Kadachanendal/Pudutamaraipatti/Alagar Kovil Road for relocating senior secondary branch.",
+      "status": "New",
+      "dateAdded": "2025-05-15T08:15:00Z"
+    },
+    {
+      "id": "MDU-EDU-113",
+      "name": "Akshara Vidya Mandir Management",
+      "category": "K-12 Educational Trust",
+      "location": "Madurai, Tamil Nadu",
+      "phone": "+91 452 2673322",
+      "whatsapp": "+91 98941 22334",
+      "email": "admin@aksharavidyamandir.in",
+      "website": "https://www.aksharavidyamandir.in",
+      "notes": "Requires 4-6 acres along Alagar Kovil main road corridor, prefer clear title land suitable for immediate institutional conversion.",
+      "status": "New",
+      "dateAdded": "2025-05-17T09:00:00Z"
+    },
+    {
+      "id": "MDU-EDU-114",
+      "name": "Seda International School Trust",
+      "category": "Private Education Society",
+      "location": "Madurai North",
+      "phone": "+91 452 2521100",
+      "whatsapp": "Not public",
+      "email": "trustee@sedaschools.in",
+      "website": "https://www.sedaschools.in",
+      "notes": "Looking for 5 acres land near Appanthirupathi / Alagar Kovil main road for eco-friendly primary school annexe campus.",
+      "status": "New",
+      "dateAdded": "2025-05-17T11:25:00Z"
+    },
+    {
+      "id": "MDU-EDU-115",
+      "name": "Savitri Vidyasala Educational Society",
+      "category": "Heritage Educational Trust",
+      "location": "Central & North Madurai",
+      "phone": "+91 452 2338811",
+      "whatsapp": "+91 94433 11223",
+      "email": "secretary@savitrividyasala.org",
+      "website": "http://www.savitrividyasala.org",
+      "notes": "Evaluating 8-12 acres land parcels along the Alagar Kovil Highway for a proposed Co-ed Higher Secondary expansion.",
+      "status": "New",
+      "dateAdded": "2025-05-18T08:00:00Z"
     }
   ]
 }

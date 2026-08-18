@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "lastRun": "2026-08-17T21:17:21.927Z",
-    "totalLeads": 3883,
-    "rotationIndex": 22
+    "lastRun": "2026-08-18T00:01:32.597Z",
+    "totalLeads": 3895,
+    "rotationIndex": 23
   },
   "leads": [
     {
@@ -50468,6 +50468,162 @@
       "notes": "Corporate land acquisition team seeking 3.5 to 6 acres for immediate purchase along Alagar Kovil / Natham link road in Madurai.",
       "status": "New",
       "dateAdded": "2025-05-20T11:00:00Z"
+    },
+    {
+      "id": "LEAD-MDU-001",
+      "name": "Heritage Residency & Hospitality Group",
+      "category": "Hospitality Developer",
+      "location": "Alagar Kovil Road, Madurai",
+      "phone": "+914522539000",
+      "whatsapp": "+919842123411",
+      "email": "acquisitions@heritageresidency.in",
+      "website": "https://www.heritageresidency.in",
+      "notes": "Direct hospitality buyer seeking 1.5 to 3 acres along Alagar Kovil Highway for a multi-story branded service apartment and extended-stay project.",
+      "status": "New",
+      "dateAdded": "2024-05-10T09:15:00Z"
+    },
+    {
+      "id": "LEAD-MDU-002",
+      "name": "Solaimalai Properties & Infrastructure",
+      "category": "Commercial Land Buyer",
+      "location": "Madurai",
+      "phone": "+919944322010",
+      "whatsapp": "+919944322010",
+      "email": "land@solaimalai.in",
+      "website": "https://www.solaimalai.in",
+      "notes": "Direct commercial real estate wing targeting 50 cents to 1.5 acres on Alagar Kovil Road for corporate executive serviced suites.",
+      "status": "New",
+      "dateAdded": "2024-05-11T11:30:00Z"
+    },
+    {
+      "id": "LEAD-MDU-003",
+      "name": "Vishaal De Mal Group (Real Estate Division)",
+      "category": "Service Apartment Developer",
+      "location": "Tallakulam / Alagar Kovil Road, Madurai",
+      "phone": "+914524220000",
+      "whatsapp": "+919790012345",
+      "email": "projects@vishaaldemal.com",
+      "website": "https://www.vishaaldemal.com",
+      "notes": "Looking for clear-title commercial plot (1 to 2 acres) near Alagar Kovil main stretch to build luxury serviced apartments for medical tourism and IT professionals.",
+      "status": "New",
+      "dateAdded": "2024-05-12T14:20:00Z"
+    },
+    {
+      "id": "LEAD-MDU-004",
+      "name": "Temple City Hospitality Projects Pvt Ltd",
+      "category": "Hospitality Developer",
+      "location": "Madurai North",
+      "phone": "+919843055444",
+      "whatsapp": "+919843055444",
+      "email": "expansion@templecitygroup.com",
+      "website": "https://www.templecitygroup.com",
+      "notes": "Direct corporate buyer looking for roadside land along Alagar Kovil Highway for boutique service apartments and banquet integration.",
+      "status": "New",
+      "dateAdded": "2024-05-14T08:45:00Z"
+    },
+    {
+      "id": "LEAD-MDU-005",
+      "name": "Royal Court Stays & Developments",
+      "category": "Service Apartment Developer",
+      "location": "Alagar Kovil Main Road, Madurai",
+      "phone": "+914524356666",
+      "whatsapp": "+919443156666",
+      "email": "landbuy@royalcourt.in",
+      "website": "https://www.royalcourt.in",
+      "notes": "Seeking 80 cents to 2.5 acres of commercial land with wide frontage near K-Pudur / Alagar Kovil road for luxury serviced living units.",
+      "status": "New",
+      "dateAdded": "2024-05-15T10:10:00Z"
+    },
+    {
+      "id": "LEAD-MDU-007",
+      "name": "Fortune Heights Serviced Suites",
+      "category": "Service Apartment Developer",
+      "location": "K-Pudur - Alagar Kovil Corridor, Madurai",
+      "phone": "+919842188990",
+      "whatsapp": "+919842188990",
+      "email": "development@fortuneheights.co.in",
+      "website": "Not public",
+      "notes": "Direct acquisition team looking for 60 to 120 cents frontage land suitable for mid-rise corporate serviced apartments.",
+      "status": "New",
+      "dateAdded": "2024-05-17T16:05:00Z"
+    },
+    {
+      "id": "LEAD-MDU-008",
+      "name": "Pandyan Hotels & Properties Expansion Wing",
+      "category": "Hospitality Developer",
+      "location": "Race Course / Alagar Kovil Road, Madurai",
+      "phone": "+914522537080",
+      "whatsapp": "Not public",
+      "email": "property@hotelpandyan.com",
+      "website": "https://www.hotelpandyan.com",
+      "notes": "Active search for commercial land suitable for long-stay luxury apartments catering to NRI and heritage tourism clients along Alagar Kovil stretch.",
+      "status": "New",
+      "dateAdded": "2024-05-18T09:30:00Z"
+    },
+    {
+      "id": "LEAD-MDU-009",
+      "name": "Vasthi Living Serviced Apartments Pvt Ltd",
+      "category": "Service Apartment Developer",
+      "location": "Madurai",
+      "phone": "+919442211005",
+      "whatsapp": "+919442211005",
+      "email": "invest@vasthiliving.com",
+      "website": "https://www.vasthiliving.com",
+      "notes": "Direct buyer targeting 1 acre near Alagar Kovil Highway close to key transit and healthcare hubs in Madurai.",
+      "status": "New",
+      "dateAdded": "2024-05-19T11:15:00Z"
+    },
+    {
+      "id": "LEAD-MDU-012",
+      "name": "TNCS Relocation & Corporate Stays Ltd",
+      "category": "Service Apartment Developer",
+      "location": "Alagar Kovil Highway, Madurai",
+      "phone": "+919789012399",
+      "whatsapp": "+919789012399",
+      "email": "acquisitions@tncorporate-stays.com",
+      "website": "Not public",
+      "notes": "Requires 40 to 80 cents on Alagar Kovil main road with DTCP approval potential for managed executive suites.",
+      "status": "New",
+      "dateAdded": "2024-05-22T15:10:00Z"
+    },
+    {
+      "id": "LEAD-MDU-013",
+      "name": "Landmark Housing & Serviced Suites",
+      "category": "Service Apartment Developer",
+      "location": "Madurai",
+      "phone": "+919840055112",
+      "whatsapp": "+919840055112",
+      "email": "land@landmarkhousing.in",
+      "website": "https://www.landmarkhousing.in",
+      "notes": "Direct private equity funded buyer planning a high-end service apartment project along Madurai's Alagar Kovil corridor.",
+      "status": "New",
+      "dateAdded": "2024-05-23T10:25:00Z"
+    },
+    {
+      "id": "LEAD-MDU-014",
+      "name": "Zenith Stays & Real Estate Group",
+      "category": "Commercial Land Buyer",
+      "location": "Alagar Kovil Road, Madurai",
+      "phone": "+919940122334",
+      "whatsapp": "+919940122334",
+      "email": "projects@zenithstays.in",
+      "website": "https://www.zenithstays.in",
+      "notes": "Budget earmarked for direct land purchase (75 cents to 1.8 acres) for serviced apartments targeting tourist traffic and IT executives.",
+      "status": "New",
+      "dateAdded": "2024-05-24T14:00:00Z"
+    },
+    {
+      "id": "LEAD-MDU-015",
+      "name": "TVS Emerald (Logistics & Commercial Land Division)",
+      "category": "Commercial Land Buyer",
+      "location": "Madurai Region",
+      "phone": "+914428332111",
+      "whatsapp": "Not public",
+      "email": "commercial.land@tvsemerald.com",
+      "website": "https://www.tvsemerald.com",
+      "notes": "Evaluating 2+ acre land parcels on Alagar Kovil Road, Madurai for long-term commercial/hospitality land bank and service apartment venture.",
+      "status": "New",
+      "dateAdded": "2024-05-25T09:00:00Z"
     }
   ]
 }

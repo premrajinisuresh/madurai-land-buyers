@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "lastRun": "2026-08-19T12:24:57.872Z",
-    "totalLeads": 4207,
-    "rotationIndex": 12
+    "lastRun": "2026-08-19T15:01:45.289Z",
+    "totalLeads": 4221,
+    "rotationIndex": 13
   },
   "leads": [
     {
@@ -54680,6 +54680,188 @@
       "notes": "Direct HNI buyer interested in acquiring commercial plots starting from 50 cents up to 2 acres strictly on Alagar Kovil Main Road with clear titles.",
       "status": "New",
       "dateAdded": "2025-02-25T09:30:00Z"
+    },
+    {
+      "id": "LEAD-MDU-AUTO-001",
+      "name": "TVS Mobility Private Limited (Network Expansion Division)",
+      "category": "Corporate Buyer",
+      "location": "Madurai, Tamil Nadu",
+      "phone": "+914522340501",
+      "whatsapp": "+919842123401",
+      "email": "realestate.expansion@tvsmobility.com",
+      "website": "https://www.tvsmobility.com",
+      "notes": "Direct corporate requirement: Looking for 2.5 to 4 acres of road-frontage commercial land along Alagar Kovil Road or K.Pudur stretch for a mega 3S (Sales, Service, Spares) passenger car facility. Requires minimum 150 ft frontage.",
+      "status": "New",
+      "dateAdded": "2024-03-15T09:30:00Z"
+    },
+    {
+      "id": "LEAD-MDU-AUTO-003",
+      "name": "Annamalai Motors Pvt Ltd",
+      "category": "OEM Dealership Group",
+      "location": "Madurai, Tamil Nadu",
+      "phone": "+914522567890",
+      "whatsapp": "+919842156789",
+      "email": "land.acquisition@annamalaimotors.com",
+      "website": "https://www.annamalaimotors.com",
+      "notes": "Searching for 2.0 to 3.5 acres of clear-title commercial plot near Alagar Kovil Highway / Tallakulam corridor for expanding multi-brand EV and SUV retail footprint with dedicated service bays.",
+      "status": "New",
+      "dateAdded": "2024-03-17T14:20:00Z"
+    },
+    {
+      "id": "LEAD-MDU-AUTO-004",
+      "name": "Ola Electric Mobility Ltd (Network Operations)",
+      "category": "EV Infrastructure Expansion",
+      "location": "Bengaluru / Madurai Hub",
+      "phone": "+918046331111",
+      "whatsapp": "+919880011223",
+      "email": "retail.realestate@olaelectric.com",
+      "website": "https://www.olaelectric.com",
+      "notes": "Direct acquisition group seeking 1.5 to 2.5 acres land near Alagar Kovil Road for an integrated Hyper Service & Experience Hub. Prefer plots with direct highway access and high electricity transformer load capability.",
+      "status": "New",
+      "dateAdded": "2024-03-18T10:05:00Z"
+    },
+    {
+      "id": "LEAD-MDU-AUTO-005",
+      "name": "Veejay Yoke Motors",
+      "category": "OEM Dealership Group",
+      "location": "Madurai, Tamil Nadu",
+      "phone": "+914522678123",
+      "whatsapp": "+919443123456",
+      "email": "corp@veejayyoke.com",
+      "website": "https://www.veejayyoke.com",
+      "notes": "Established regional automotive dealership looking for 2 acres near Mattuthavani - Alagar Kovil bypass/road for setting up a commercial vehicle 3S center.",
+      "status": "New",
+      "dateAdded": "2024-03-19T16:45:00Z"
+    },
+    {
+      "id": "LEAD-MDU-AUTO-006",
+      "name": "Ather Energy (Retail Infra & Expansion Team)",
+      "category": "EV Infrastructure Expansion",
+      "location": "Bengaluru / Tamil Nadu Regional Division",
+      "phone": "+918046808080",
+      "whatsapp": "Not public",
+      "email": "space.acquisition@atherenergy.com",
+      "website": "https://www.atherenergy.com",
+      "notes": "Looking to purchase or long-term lease 1.0 to 2.0 acres land on Alagar Kovil Highway for regional flagship experience center, fast-charging hub, and central southern TN service headquarters.",
+      "status": "New",
+      "dateAdded": "2024-03-20T08:50:00Z"
+    },
+    {
+      "id": "LEAD-MDU-AUTO-007",
+      "name": "SKS Auto Agencies Pvt Ltd",
+      "category": "OEM Dealership Group",
+      "location": "Madurai, Tamil Nadu",
+      "phone": "+914522489000",
+      "whatsapp": "+919843098765",
+      "email": "expansion@sksauto.in",
+      "website": "https://www.sksauto.in",
+      "notes": "High-intent buyer seeking 3 acres within 5 km of K.Pudur / Alagar Kovil stretch. Property must be suitable for commercial construction with high footfall for a luxury automobile showroom.",
+      "status": "New",
+      "dateAdded": "2024-03-21T12:00:00Z"
+    },
+    {
+      "id": "LEAD-MDU-AUTO-008",
+      "name": "BYD India Private Limited (South Network Expansion)",
+      "category": "Corporate Buyer",
+      "location": "Chennai / Regional Operations Madurai",
+      "phone": "+914467148888",
+      "whatsapp": "Not public",
+      "email": "dealer.expansion@byd.com",
+      "website": "https://www.bydauto.in",
+      "notes": "Direct OEM requirement for expansion in Tier-2 TN hubs. Need 2 to 3.5 acres land with minimum 120 ft road frontage on key arterial roads like Alagar Kovil Highway for a premium EV Experience & Workshop center.",
+      "status": "New",
+      "dateAdded": "2024-03-22T13:10:00Z"
+    },
+    {
+      "id": "LEAD-MDU-AUTO-009",
+      "name": "Aravind Auto Agencies",
+      "category": "Commercial Vehicle Dealer Group",
+      "location": "Madurai, Tamil Nadu",
+      "phone": "+914522334455",
+      "whatsapp": "+919842188776",
+      "email": "director@aravindauto.com",
+      "website": "https://www.aravindauto.com",
+      "notes": "Direct requirement for 3.0 to 5.0 acres of converted commercial land on the outskirts of Alagar Kovil Road / Outer Ring junction for heavy truck & LCV sales and service park.",
+      "status": "New",
+      "dateAdded": "2024-03-23T15:30:00Z"
+    },
+    {
+      "id": "LEAD-MDU-AUTO-010",
+      "name": "Mahindra Last Mile Mobility (Network Infrastructure)",
+      "category": "Corporate Buyer",
+      "location": "Chennai / Madurai Corridor",
+      "phone": "+914428110011",
+      "whatsapp": "Not public",
+      "email": "realestate.lmm@mahindra.com",
+      "website": "https://www.mahindra.com",
+      "notes": "Seeking 2 acres along major highway corridors in Madurai, specifically evaluating Alagar Kovil stretch, for setting up an electric 3-wheeler/4-wheeler commercial hub and regional service center.",
+      "status": "New",
+      "dateAdded": "2024-03-24T09:15:00Z"
+    },
+    {
+      "id": "LEAD-MDU-AUTO-011",
+      "name": "Garuda Auto Private Limited",
+      "category": "OEM Dealership Group",
+      "location": "Madurai, Tamil Nadu",
+      "phone": "+914522901122",
+      "whatsapp": "+919443355779",
+      "email": "contact@garudaauto.in",
+      "website": "https://www.garudaauto.in",
+      "notes": "Looking to acquire 2.5 acres of commercial land with clear titles near Alagar Kovil Main Road. Immediate funds available for purchasing land suited for a multi-storied passenger car showroom + body shop.",
+      "status": "New",
+      "dateAdded": "2024-03-25T11:40:00Z"
+    },
+    {
+      "id": "LEAD-MDU-AUTO-012",
+      "name": "Sivasakthi Motors & Services",
+      "category": "Regional Multi-Brand Auto Group",
+      "location": "Madurai, Tamil Nadu",
+      "phone": "+914522456123",
+      "whatsapp": "+919842145612",
+      "email": "admin@sivasakthimotors.co.in",
+      "website": "https://www.sivasakthimotors.co.in",
+      "notes": "Requires 1.5 to 2.5 acres on Alagar Kovil Road for establishing a multi-brand two-wheeler and EV service super-center. Preference for rectangular plots with good frontage.",
+      "status": "New",
+      "dateAdded": "2024-03-26T14:00:00Z"
+    },
+    {
+      "id": "LEAD-MDU-AUTO-013",
+      "name": "Kalyani Auto Division (Regional Expansion Unit)",
+      "category": "OEM Dealership Group",
+      "location": "Madurai / Coimbatore Regional Office",
+      "phone": "+914222511122",
+      "whatsapp": "+919894011223",
+      "email": "land@kalyaniauto.com",
+      "website": "https://www.kalyaniauto.com",
+      "notes": "Actively looking for 2 acres of land on main Alagar Kovil Road to expand NEXA/Arena scale auto retail dealership and quick service center.",
+      "status": "New",
+      "dateAdded": "2024-03-27T10:20:00Z"
+    },
+    {
+      "id": "LEAD-MDU-AUTO-014",
+      "name": "Southern Auto Retail Infra Group",
+      "category": "Corporate Investor / Auto Group",
+      "location": "Madurai, Tamil Nadu",
+      "phone": "+914522778899",
+      "whatsapp": "+919943088990",
+      "email": "investments@southernautogroup.in",
+      "website": "https://www.southernautogroup.in",
+      "notes": "Direct buyer group acquiring land assets specifically tailored for long-term lease to luxury auto brands (Mercedes/BMW/Audi showrooms). Requires 2.0+ acres on high-visibility Alagar Kovil Road.",
+      "status": "New",
+      "dateAdded": "2024-03-28T16:05:00Z"
+    },
+    {
+      "id": "LEAD-MDU-AUTO-015",
+      "name": "Nippon Motor Corporation (TN Expansion Cell)",
+      "category": "OEM Dealership Group",
+      "location": "Madurai / Kerala Network HQ",
+      "phone": "+914842800000",
+      "whatsapp": "+919847012345",
+      "email": "projects.tn@nippontoyota.com",
+      "website": "https://www.nippontoyota.com",
+      "notes": "Corporate real estate cell looking for 3.0 to 4.0 acres along Alagar Kovil Highway or adjacent major connectors to house an integrated Toyota sales, service, and certified used-car facility.",
+      "status": "New",
+      "dateAdded": "2024-03-29T08:30:00Z"
     }
   ]
 }

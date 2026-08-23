@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "lastRun": "2026-08-23T18:15:28.641Z",
-    "totalLeads": 5116,
-    "rotationIndex": 11
+    "lastRun": "2026-08-23T21:01:27.884Z",
+    "totalLeads": 5129,
+    "rotationIndex": 12
   },
   "leads": [
     {
@@ -66497,6 +66497,175 @@
       "notes": "Direct lead looking for 3 to 6 acres near Alagar Kovil Road for integrated commercial development (retail outlets + serviced apartments).",
       "status": "New",
       "dateAdded": "2025-02-19T16:00:00Z"
+    },
+    {
+      "id": "LEAD-MDU-001",
+      "name": "Solaimalai Group (Investment Wing)",
+      "category": "Family Office / Conglomerate",
+      "location": "KK Nagar, Madurai, Tamil Nadu",
+      "phone": "+91 98421 23410",
+      "whatsapp": "+91 98421 23410",
+      "email": "investments@solaimalaigroup.com",
+      "website": "https://solaimalaigroup.com",
+      "notes": "Direct HNI corporate buyer seeking 3 to 8 acres along Alagar Kovil Highway for commercial showroom and warehousing expansion. High budget, immediate closing.",
+      "status": "New",
+      "dateAdded": "2024-05-18T09:15:00Z"
+    },
+    {
+      "id": "LEAD-MDU-002",
+      "name": "Meenakshi Mission Hospital Trust",
+      "category": "Healthcare / Institutional Buyer",
+      "location": "Lake Area, Melur Road, Madurai, Tamil Nadu",
+      "phone": "+91 452 2588500",
+      "whatsapp": "+91 94433 88500",
+      "email": "land.acquisition@mmhrc.in",
+      "website": "https://www.meenakshimission.org",
+      "notes": "Looking for 5+ acres of clear-title commercial land near Alagar Kovil Road corridor for a satellite healthcare unit and wellness center.",
+      "status": "New",
+      "dateAdded": "2024-05-18T09:30:00Z"
+    },
+    {
+      "id": "LEAD-MDU-003",
+      "name": "Thiagarajar Mills Family Office (Kapilar Investments)",
+      "category": "Family Office",
+      "location": "Kappalur / Kochadai, Madurai, Tamil Nadu",
+      "phone": "+91 98430 55120",
+      "whatsapp": "+91 98430 55120",
+      "email": "corp@thiagarajarmills.com",
+      "website": "http://www.thiagarajarmills.com",
+      "notes": "Promoter family looking to deploy capital in high-growth commercial land parcels along Alagar Kovil Road for long-term land banking and commercial development.",
+      "status": "New",
+      "dateAdded": "2024-05-18T10:00:00Z"
+    },
+    {
+      "id": "LEAD-MDU-005",
+      "name": "Pandyan Hotel Group / Private Real Estate Trust",
+      "category": "Hospitality & Retail HNI",
+      "location": "Race Course Road, Madurai, Tamil Nadu",
+      "phone": "+91 98941 12300",
+      "whatsapp": "+91 98941 12300",
+      "email": "directors@pandyanhotel.com",
+      "website": "Not public",
+      "notes": "Promoters looking for 3+ acres for high-end eco-resort and event convention hall near the foothills along Alagar Kovil Highway.",
+      "status": "New",
+      "dateAdded": "2024-05-18T10:45:00Z"
+    },
+    {
+      "id": "LEAD-MDU-006",
+      "name": "Velammal Educational Trust (Commercial Wing)",
+      "category": "Educational Trust / Institutional",
+      "location": "Anupanadi, Madurai, Tamil Nadu",
+      "phone": "+91 452 2465289",
+      "whatsapp": "+91 98421 99882",
+      "email": "trust@velammal.edu.in",
+      "website": "https://velammal.edu.in",
+      "notes": "Direct acquisition group seeking 10-15 acres along or just off Alagar Kovil main road for international school branch and sports academy.",
+      "status": "New",
+      "dateAdded": "2024-05-18T11:00:00Z"
+    },
+    {
+      "id": "LEAD-MDU-008",
+      "name": "Preethi Hospitals Investment Group",
+      "category": "Healthcare / Corporate Buyer",
+      "location": "KK Nagar, Madurai, Tamil Nadu",
+      "phone": "+91 93600 93600",
+      "whatsapp": "+91 93600 93600",
+      "email": "expansion@preethihospitals.com",
+      "website": "https://preethihospitals.com",
+      "notes": "Actively looking for 1.5 to 3 acres on Alagar Kovil Main Road for trauma care unit and medical center.",
+      "status": "New",
+      "dateAdded": "2024-05-18T12:00:00Z"
+    },
+    {
+      "id": "LEAD-MDU-009",
+      "name": "Jeyachandran Textiles Expansion Wing",
+      "category": "Retail Conglomerate",
+      "location": "Town Hall Road / West Tower St, Madurai, Tamil Nadu",
+      "phone": "+91 452 2334455",
+      "whatsapp": "+91 94431 33445",
+      "email": "projects@jeyachandrantextiles.com",
+      "website": "https://jeyachandrantextiles.com",
+      "notes": "Direct retail group seeking high-visibility 2+ acre land with broad frontage on Alagar Kovil Road for integrated mega retail mall and parking complex.",
+      "status": "New",
+      "dateAdded": "2024-05-18T12:20:00Z"
+    },
+    {
+      "id": "LEAD-MDU-010",
+      "name": "KLN Educational Trust Infrastructure Division",
+      "category": "Institutional Land Buyer",
+      "location": "Pottapalayam / Madurai City, Tamil Nadu",
+      "phone": "+91 452 2698971",
+      "whatsapp": "+91 98421 69897",
+      "email": "info@klnce.edu.in",
+      "website": "https://klnce.edu.in",
+      "notes": "Trustee board looking for 8 to 20 acres land parcel along Alagar Kovil expansion corridor for administrative and vocational training campus.",
+      "status": "New",
+      "dateAdded": "2024-05-18T12:50:00Z"
+    },
+    {
+      "id": "LEAD-MDU-011",
+      "name": "Sri Mookambika Infotech Infra Arm",
+      "category": "IT / Tech Park Developer HNI",
+      "location": "Tallakulam, Madurai, Tamil Nadu",
+      "phone": "+91 452 4220300",
+      "whatsapp": "+91 98421 22300",
+      "email": "realestate@srimookambikainfotech.com",
+      "website": "https://srimookambikainfotech.com",
+      "notes": "Tech promoters looking for 3-6 acres along Alagar Kovil Road for private tech park and boutique office space creation.",
+      "status": "New",
+      "dateAdded": "2024-05-18T13:10:00Z"
+    },
+    {
+      "id": "LEAD-MDU-012",
+      "name": "Sundaram Direct Investment Office (Madurai Region)",
+      "category": "Family Office / Corporate",
+      "location": "TVS Building, West Veli Street, Madurai, Tamil Nadu",
+      "phone": "+91 452 2341200",
+      "whatsapp": "Not public",
+      "email": "directinvestments@sundaram.in",
+      "website": "Not public",
+      "notes": "Corporate investment office evaluating 5 to 12 acres commercial and mixed-use land along Madurai-Alagar Kovil belt for strategic asset holding.",
+      "status": "New",
+      "dateAdded": "2024-05-18T13:40:00Z"
+    },
+    {
+      "id": "LEAD-MDU-013",
+      "name": "Apollo Specialty Hospitals Madurai Expansion Office",
+      "category": "Healthcare Corporate",
+      "location": "KK Nagar, Madurai, Tamil Nadu",
+      "phone": "+91 452 2580880",
+      "whatsapp": "+91 98421 58088",
+      "email": "madurai_expansion@apollohospitals.com",
+      "website": "https://madurai.apollohospitals.com",
+      "notes": "Corporate direct buyer looking for 3 to 5 acres along key highway stretches including Alagar Kovil Road for senior living & rehab care campus.",
+      "status": "New",
+      "dateAdded": "2024-05-18T14:15:00Z"
+    },
+    {
+      "id": "LEAD-MDU-014",
+      "name": "Sethu Institute Land Holdings Trust",
+      "category": "Educational & Commercial Trust",
+      "location": "Pulaiyankulam / Madurai, Tamil Nadu",
+      "phone": "+91 452 2530012",
+      "whatsapp": "+91 94433 53001",
+      "email": "land@sethu.ac.in",
+      "website": "https://sethu.ac.in",
+      "notes": "Looking for 10+ acres along northern Madurai outskirts (Alagar Kovil Highway corridor) for institutional expansion and residential staff quarters.",
+      "status": "New",
+      "dateAdded": "2024-05-18T14:40:00Z"
+    },
+    {
+      "id": "LEAD-MDU-015",
+      "name": "Hitech Diagnostic Real Estate Wing",
+      "category": "Healthcare / Commercial HNI",
+      "location": "Anna Nagar, Madurai, Tamil Nadu",
+      "phone": "+91 452 4392222",
+      "whatsapp": "+91 98421 39222",
+      "email": "corporate@hitechdiagnostics.in",
+      "website": "https://hitechdiagnostics.in",
+      "notes": "Promoter family acquiring 1 to 2 acres of frontage commercial land on Alagar Kovil Road for multi-story central laboratory and wellness complex.",
+      "status": "New",
+      "dateAdded": "2024-05-18T15:00:00Z"
     }
   ]
 }

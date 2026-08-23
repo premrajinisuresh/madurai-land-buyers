@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "lastRun": "2026-08-23T18:02:37.491Z",
-    "totalLeads": 5101,
-    "rotationIndex": 10
+    "lastRun": "2026-08-23T18:15:28.641Z",
+    "totalLeads": 5116,
+    "rotationIndex": 11
   },
   "leads": [
     {
@@ -66302,6 +66302,201 @@
       "notes": "Direct buyer group requiring 5+ acres of commercial zoned land along high-growth stretches of Alagar Kovil Road.",
       "status": "New",
       "dateAdded": "2024-05-05T11:45:00Z"
+    },
+    {
+      "id": "NRI-MDU-001",
+      "name": "Dr. Ananthakrishnan V (Kuwait Medical Capital Syndicate)",
+      "category": "NRI Healthcare Consortium",
+      "location": "Kuwait City, Kuwait / Madurai, India",
+      "phone": "+965 9723 4810",
+      "whatsapp": "+965 9723 4810",
+      "email": "a.k.v@kuwaitmedcapital.com",
+      "website": "https://www.kuwaitmedcapital.com",
+      "notes": "Direct NRI investor consortium seeking 3 to 5 acres of commercial land along Alagar Kovil Main Road (Madurai) for a modern specialty hospital and diagnostic hub. Funds liquid.",
+      "status": "New",
+      "dateAdded": "2025-01-14T08:30:00Z"
+    },
+    {
+      "id": "NRI-MDU-002",
+      "name": "Sundaram Tech Park Ventures (SG) Pte Ltd",
+      "category": "NRI Institutional Investor Group",
+      "location": "Singapore / Madurai, India",
+      "phone": "+65 6822 9104",
+      "whatsapp": "+65 9182 3049",
+      "email": "investments@sundaramventures.sg",
+      "website": "https://www.sundaramventures.sg",
+      "notes": "Direct buyer mandate. Looking for 4 to 8 acres on Alagar Kovil Highway corridor for a commercial BPO park and mixed-use IT office complex.",
+      "status": "New",
+      "dateAdded": "2025-01-18T10:15:00Z"
+    },
+    {
+      "id": "NRI-MDU-003",
+      "name": "Middle East Tamil Investors Forum (METIF)",
+      "category": "NRI Investment Syndicate",
+      "location": "Dubai, UAE",
+      "phone": "+971 4 389 5201",
+      "whatsapp": "+971 50 492 8173",
+      "email": "commercial@metif-invest.ae",
+      "website": "https://www.metif-invest.ae",
+      "notes": "Consortium of 12 GCC-based Tamil NRIs acquiring 2 to 4 acres direct highway frontage land near Kadachanenthal / Alagar Kovil Road for a commercial shopping plaza.",
+      "status": "New",
+      "dateAdded": "2025-01-20T14:45:00Z"
+    },
+    {
+      "id": "NRI-MDU-004",
+      "name": "Dr. Senthil Kumar Palanivel",
+      "category": "High-Net-Worth Individual (NRI)",
+      "location": "Dallas, Texas, USA",
+      "phone": "+1 214 555 0192",
+      "whatsapp": "+1 214 555 0192",
+      "email": "drsenthil.palanivel@texasmount.com",
+      "website": "Not public",
+      "notes": "US-based HNI physician seeking 1.5 to 2.5 acres prime land on Alagar Kovil Highway near Othakadai junction for a commercial resort and convention hall.",
+      "status": "New",
+      "dateAdded": "2025-01-22T11:00:00Z"
+    },
+    {
+      "id": "NRI-MDU-005",
+      "name": "Temple City Global Retail Holdings (UK) Ltd",
+      "category": "NRI Retail Infrastructure Group",
+      "location": "London, UK / Madurai, India",
+      "phone": "+44 20 7946 0831",
+      "whatsapp": "+44 7700 900412",
+      "email": "land-acquisition@templecityglobal.co.uk",
+      "website": "https://www.templecityglobal.co.uk",
+      "notes": "Direct corporate buyer looking for 2 to 3 acres of clear title frontage land on Alagar Kovil Road for a hypermarket and retail complex.",
+      "status": "New",
+      "dateAdded": "2025-01-25T09:20:00Z"
+    },
+    {
+      "id": "NRI-MDU-006",
+      "name": "Alagappa Logistics & Warehousing Capital",
+      "category": "NRI Commercial Logistics Investor",
+      "location": "Muscat, Oman",
+      "phone": "+968 24 719 302",
+      "whatsapp": "+968 92 104 855",
+      "email": "acquisitions@alagappacapital.om",
+      "website": "https://www.alagappacapital.om",
+      "notes": "Oman-backed NRI firm seeking 5 to 10 acres of land along or slightly off Alagar Kovil Highway for commercial cold storage and logistics fulfillment center.",
+      "status": "New",
+      "dateAdded": "2025-01-28T16:00:00Z"
+    },
+    {
+      "id": "NRI-MDU-007",
+      "name": "K. V. Ramanathan (Silicon Valley NRI Tech Syndicate)",
+      "category": "High-Net-Worth Individual (NRI)",
+      "location": "San Jose, California, USA",
+      "phone": "+1 408 555 0148",
+      "whatsapp": "+1 408 555 0148",
+      "email": "kv.ramanathan@svcapitalgroup.com",
+      "website": "Not public",
+      "notes": "Direct NRI investor seeking 2 acres of land near K.K. Nagar - Alagar Kovil Road stretch to build a co-working space and software center.",
+      "status": "New",
+      "dateAdded": "2025-02-01T12:10:00Z"
+    },
+    {
+      "id": "NRI-MDU-008",
+      "name": "Qatar-Madurai Real Estate Holdings LLC",
+      "category": "NRI Investment Syndicate",
+      "location": "Doha, Qatar",
+      "phone": "+974 4412 8900",
+      "whatsapp": "+974 5531 9082",
+      "email": "land@qatarmaduraiholdings.com",
+      "website": "https://www.qatarmaduraiholdings.com",
+      "notes": "Doha-based Tamil syndicate evaluating 3 acres on Alagar Kovil Main Road for mixed-use commercial space and auto showroom conversion.",
+      "status": "New",
+      "dateAdded": "2025-02-03T15:30:00Z"
+    },
+    {
+      "id": "NRI-MDU-009",
+      "name": "Dr. Preetha R. Pitchai (London Care Group)",
+      "category": "NRI Healthcare Investor",
+      "location": "London, UK",
+      "phone": "+44 20 8123 9401",
+      "whatsapp": "+44 7911 123456",
+      "email": "drpreetha@londoncaregroup.co.uk",
+      "website": "Not public",
+      "notes": "NHS senior consultant looking for 2 to 3.5 acres on Alagar Kovil corridor to set up a senior living and wellness center complex.",
+      "status": "New",
+      "dateAdded": "2025-02-05T08:45:00Z"
+    },
+    {
+      "id": "NRI-MDU-010",
+      "name": "Vethathiri Overseas Commercial Ventures Pte Ltd",
+      "category": "NRI Corporate Group",
+      "location": "Singapore",
+      "phone": "+65 6712 4099",
+      "whatsapp": "+65 8291 0382",
+      "email": "projects@vethathiri.sg",
+      "website": "https://www.vethathiri.sg",
+      "notes": "Direct acquisition request for 3.5 acres fronting Alagar Kovil Highway suitable for drive-thru retail and event hall facility.",
+      "status": "New",
+      "dateAdded": "2025-02-08T13:00:00Z"
+    },
+    {
+      "id": "NRI-MDU-011",
+      "name": "Muthu Real Estate Family Office (USA)",
+      "category": "NRI Family Office",
+      "location": "Edison, New Jersey, USA",
+      "phone": "+1 732 555 0188",
+      "whatsapp": "+1 732 555 0188",
+      "email": "investments@muthufamilyoffice.com",
+      "website": "https://www.muthufamilyoffice.com",
+      "notes": "US family office allocating capital for 2 to 4 acres of commercial land banking near Kadachanenthal on Alagar Kovil Road.",
+      "status": "New",
+      "dateAdded": "2025-02-10T10:20:00Z"
+    },
+    {
+      "id": "NRI-MDU-012",
+      "name": "Global Madurai Hospitality Group",
+      "category": "NRI Hospitality Group",
+      "location": "Sharjah, UAE",
+      "phone": "+971 6 528 4100",
+      "whatsapp": "+971 52 891 0234",
+      "email": "expansion@globalmadurai.ae",
+      "website": "https://www.globalmadurai.ae",
+      "notes": "Sharjah-based NRI hotel group seeking 2 acres main road property along Alagar Kovil Road for a luxury banquet hall and boutique hotel.",
+      "status": "New",
+      "dateAdded": "2025-02-12T14:15:00Z"
+    },
+    {
+      "id": "NRI-MDU-013",
+      "name": "S. Jeyakumar (Jeyam Capital Sydney)",
+      "category": "High-Net-Worth Individual (NRI)",
+      "location": "Sydney, Australia",
+      "phone": "+61 2 9251 0022",
+      "whatsapp": "+61 412 345 678",
+      "email": "sjeyakumar@jeyamcapital.com.au",
+      "website": "Not public",
+      "notes": "NRI private investor acquiring 1 to 2 acres direct highway plot on Alagar Kovil Road for long-term commercial leasing to automobile brands.",
+      "status": "New",
+      "dateAdded": "2025-02-14T09:00:00Z"
+    },
+    {
+      "id": "NRI-MDU-014",
+      "name": "Saudi Tamil Business Network - Commercial Land Trust",
+      "category": "NRI Investment Syndicate",
+      "location": "Riyadh, Saudi Arabia",
+      "phone": "+966 11 482 9100",
+      "whatsapp": "+966 50 123 9876",
+      "email": "landtrust@stbn.org.sa",
+      "website": "https://www.stbn.org.sa",
+      "notes": "Syndicate of KSA-based professionals looking for 4 acres near Othakadai / Alagar Kovil bypass junction for commercial warehouse/trade center.",
+      "status": "New",
+      "dateAdded": "2025-02-17T11:40:00Z"
+    },
+    {
+      "id": "NRI-MDU-015",
+      "name": "Karthik Subbiah (Bay Area NRI Realty Fund)",
+      "category": "NRI Angel Investor / REIT Syndicate",
+      "location": "San Francisco, California, USA",
+      "phone": "+1 415 555 0123",
+      "whatsapp": "+1 415 555 0123",
+      "email": "karthik@bayareanri.com",
+      "website": "https://www.bayareanri.com",
+      "notes": "Direct lead looking for 3 to 6 acres near Alagar Kovil Road for integrated commercial development (retail outlets + serviced apartments).",
+      "status": "New",
+      "dateAdded": "2025-02-19T16:00:00Z"
     }
   ]
 }

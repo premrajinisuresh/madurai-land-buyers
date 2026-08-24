@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "lastRun": "2026-08-24T09:37:20.365Z",
-    "totalLeads": 5251,
-    "rotationIndex": 21
+    "lastRun": "2026-08-24T12:01:38.003Z",
+    "totalLeads": 5257,
+    "rotationIndex": 22
   },
   "leads": [
     {
@@ -68252,6 +68252,84 @@
       "notes": "Direct healthcare foundation looking to purchase 2 to 3.5 acres of commercial land along Alagar Kovil Road for a Multi-Specialty Outpatient & Diagnostic Complex.",
       "status": "New",
       "dateAdded": "2024-03-29T17:45:00Z"
+    },
+    {
+      "id": "LEAD-MDU-001",
+      "name": "Velammal Educational Trust (Madurai Infrastructure Dept)",
+      "category": "Educational Trust",
+      "location": "Alagar Kovil Main Road, Appanthirupathi, Madurai",
+      "phone": "+919443382100",
+      "whatsapp": "+919443382100",
+      "email": "landacquisition@velammal.edu.in",
+      "website": "https://www.velammal.edu.in",
+      "notes": "Direct requirement for 8-12 acres clear-title land near Alagar Kovil Highway for new CBSE school annexe and sports complex. Direct purchase only.",
+      "status": "New",
+      "dateAdded": "2024-05-10T08:30:00Z"
+    },
+    {
+      "id": "LEAD-MDU-006",
+      "name": "Subbalakshmi Lakshmipathy Educational Foundation (SLSF)",
+      "category": "Educational Foundation",
+      "location": "Alagar Kovil Road Expansion Zone, Madurai",
+      "phone": "+919843055523",
+      "whatsapp": "+919843055523",
+      "email": "president@slcf.ac.in",
+      "website": "https://www.rlins.edu.in",
+      "notes": "Requires 6-10 acres for health sciences / allied institute annexe. Prefers road width >40 feet near Alagar Kovil bypass / main road.",
+      "status": "New",
+      "dateAdded": "2024-05-14T16:45:00Z"
+    },
+    {
+      "id": "LEAD-MDU-007",
+      "name": "Vikaasa World School Infrastructure Directorate",
+      "category": "Private Educational Group",
+      "location": "Alagar Kovil Main Road, Madurai",
+      "phone": "+919940882211",
+      "whatsapp": "+919940882211",
+      "email": "expansion@vikaasaschool.com",
+      "website": "https://www.vikaasaschool.com",
+      "notes": "Direct requirement: 3 to 6 acres for day-boarding school wing near Alagar Kovil hills base. Immediate settlement for clear titles.",
+      "status": "New",
+      "dateAdded": "2024-05-15T09:30:00Z"
+    },
+    {
+      "id": "LEAD-MDU-008",
+      "name": "Maharishi Vidya Mandir Educational Trust (Madurai Branch)",
+      "category": "Educational Trust",
+      "location": "Kadachanendhal / Alagar Kovil Road, Madurai",
+      "phone": "+919442188330",
+      "whatsapp": "Not public",
+      "email": "mvm.maduraiexp@maharishividyamandir.com",
+      "website": "https://www.maharishividyamandir.com",
+      "notes": "Looking to acquire 4 acres plot with wide frontage along Alagar Kovil arterial road for new junior branch setup.",
+      "status": "New",
+      "dateAdded": "2024-05-15T13:10:00Z"
+    },
+    {
+      "id": "LEAD-MDU-010",
+      "name": "Mahatma Montessori School Management",
+      "category": "School Network",
+      "location": "Alagar Kovil Road / K.Pudur Extended, Madurai",
+      "phone": "+919842163400",
+      "whatsapp": "+919842163400",
+      "email": "office@mahatmaschools.org",
+      "website": "https://www.mahatmaschools.org",
+      "notes": "Urgent requirement for 2.5 to 5 acres institutional plot for sports wing and eco-campus annexe along Alagar Kovil stretch.",
+      "status": "New",
+      "dateAdded": "2024-05-16T15:20:00Z"
+    },
+    {
+      "id": "LEAD-MDU-015",
+      "name": "Vetri Vikas Educational Institutions (Madurai Campus Directorate)",
+      "category": "School & College Group",
+      "location": "Alagar Kovil Highway Corridor, Madurai",
+      "phone": "+919842728888",
+      "whatsapp": "+919842728888",
+      "email": "expansion@vvikas.ac.in",
+      "website": "https://www.vvikas.ac.in",
+      "notes": "Direct acquisition group seeking 5 to 10 acres contiguous plot within 3-5 km of Alagar Kovil temple access road for integrated campus.",
+      "status": "New",
+      "dateAdded": "2024-05-18T12:00:00Z"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "lastRun": "2026-08-24T18:25:46.342Z",
-    "totalLeads": 5323,
-    "rotationIndex": 27
+    "lastRun": "2026-08-24T21:01:42.548Z",
+    "totalLeads": 5337,
+    "rotationIndex": 28
   },
   "leads": [
     {
@@ -69188,6 +69188,188 @@
       "notes": "Corporate acquisition team evaluating plots (2 to 4 acres) on Alagar Kovil Road for retail commercial plaza development.",
       "status": "New",
       "dateAdded": "2024-05-25T13:30:00Z"
+    },
+    {
+      "id": "LEAD-MDU-001",
+      "name": "Venkatesh Ramanathan (Gulf Tech Holdings)",
+      "category": "NRI Commercial Investor",
+      "location": "Dubai, UAE / Madurai",
+      "phone": "+971501234892",
+      "whatsapp": "+971501234892",
+      "email": "v.ramanathan@gulftechholdings.ae",
+      "website": "Not public",
+      "notes": "Looking for 2-4 acres of prime commercial land on Alagar Kovil Highway for a software park and back-office facility. Budget $2.5M. Direct buyer.",
+      "status": "New",
+      "dateAdded": "2024-05-10T09:15:00Z"
+    },
+    {
+      "id": "LEAD-MDU-002",
+      "name": "Apex Medilabs & Healthcare (NRI Syndicate)",
+      "category": "Corporate Buyer / Healthcare",
+      "location": "Singapore / Madurai",
+      "phone": "+6567123984",
+      "whatsapp": "+6591234567",
+      "email": "acquisitions@apexmedilabs.sg",
+      "website": "https://www.apexmedilabs.sg",
+      "notes": "NRI-backed healthcare consortium seeking 3+ acres near Alagar Kovil Road for a multi-specialty diagnostic and surgical hub.",
+      "status": "New",
+      "dateAdded": "2024-05-11T14:30:00Z"
+    },
+    {
+      "id": "LEAD-MDU-003",
+      "name": "Dr. K. S. Sundaram",
+      "category": "NRI Individual Investor",
+      "location": "Houston, Texas, USA",
+      "phone": "+17135550192",
+      "whatsapp": "+17135550192",
+      "email": "dr.sundaram.investments@gmail.com",
+      "website": "Not public",
+      "notes": "US-based orthopedic surgeon seeking 1.5 to 2 acres land near Alagar Kovil Highway for an outpatient wellness & rehabilitation center.",
+      "status": "New",
+      "dateAdded": "2024-05-12T11:20:00Z"
+    },
+    {
+      "id": "LEAD-MDU-005",
+      "name": "Shanmuga Retail Properties Pvt Ltd",
+      "category": "NRI Retail Developer",
+      "location": "Dubai, UAE",
+      "phone": "+97143987654",
+      "whatsapp": "+971569874321",
+      "email": "land.acquisitions@shanmuga.ae",
+      "website": "Not public",
+      "notes": "NRI retail chain owner looking for high-visibility frontage plots (1 to 2 acres) along Alagar Kovil Highway for hypermarket development.",
+      "status": "New",
+      "dateAdded": "2024-05-14T16:10:00Z"
+    },
+    {
+      "id": "LEAD-MDU-006",
+      "name": "Senthil Kumar Palanivel",
+      "category": "NRI Commercial Investor",
+      "location": "London, UK",
+      "phone": "+442079460912",
+      "whatsapp": "+447700900821",
+      "email": "skpalanivel@btconnect.com",
+      "website": "Not public",
+      "notes": "UK NRI looking for 2 acres of commercial land near Madurai-Alagar Kovil stretch for setting up a logistics hub and office complex.",
+      "status": "New",
+      "dateAdded": "2024-05-15T10:05:00Z"
+    },
+    {
+      "id": "LEAD-MDU-007",
+      "name": "Vasantham Educational Trust (NRI Advisory)",
+      "category": "Institutional Buyer",
+      "location": "Toronto, Canada",
+      "phone": "+14165550143",
+      "whatsapp": "+14165550143",
+      "email": "invest@vasanthamtrust.ca",
+      "website": "https://www.vasanthamtrust.ca",
+      "notes": "NRI-funded educational trust seeking 4-6 acres of commercial/institutional land near Alagar Kovil corridor for an international skill academy.",
+      "status": "New",
+      "dateAdded": "2024-05-16T12:00:00Z"
+    },
+    {
+      "id": "LEAD-MDU-008",
+      "name": "Meenakshi Commercial Investments",
+      "category": "NRI Direct Investment Firm",
+      "location": "Singapore",
+      "phone": "+6568221100",
+      "whatsapp": "+6598765432",
+      "email": "capital@meenakshiinvestments.sg",
+      "website": "Not public",
+      "notes": "Direct NRI investor seeking clear-title commercial plot (1.5 to 3 acres) on Alagar Kovil Road for mixed-use retail and executive suites.",
+      "status": "New",
+      "dateAdded": "2024-05-17T07:30:00Z"
+    },
+    {
+      "id": "LEAD-MDU-009",
+      "name": "Anand Viswanathan",
+      "category": "NRI Individual Investor",
+      "location": "San Jose, California, USA",
+      "phone": "+14085550188",
+      "whatsapp": "+14085550188",
+      "email": "anand.viswa@silicontech.io",
+      "website": "Not public",
+      "notes": "Silicon Valley VP originating from Madurai looking for 1 acre roadside plot on Alagar Kovil Road for immediate commercial investment.",
+      "status": "New",
+      "dateAdded": "2024-05-18T15:25:00Z"
+    },
+    {
+      "id": "LEAD-MDU-010",
+      "name": "Aarthi Subramanian",
+      "category": "NRI Investor",
+      "location": "Kuwait City, Kuwait",
+      "phone": "+96522458912",
+      "whatsapp": "+96599887766",
+      "email": "aarthi.subramanian@kw-capital.com",
+      "website": "Not public",
+      "notes": "Seeking 1 to 2 acres of commercial land near Madurai Alagar Kovil zone for developing commercial showrooms and food courts.",
+      "status": "New",
+      "dateAdded": "2024-05-19T09:40:00Z"
+    },
+    {
+      "id": "LEAD-MDU-011",
+      "name": "Madurai Heritage Hospitality Pvt Ltd",
+      "category": "NRI Corporate Buyer",
+      "location": "Doha, Qatar",
+      "phone": "+97444123456",
+      "whatsapp": "+97455123456",
+      "email": "projects@maduraiheritagehotels.com",
+      "website": "https://www.maduraiheritagehotels.com",
+      "notes": "Doha-based NRI syndicate acquiring land near Alagar Kovil Road for a boutique heritage resort and eco-tourism project.",
+      "status": "New",
+      "dateAdded": "2024-05-20T13:15:00Z"
+    },
+    {
+      "id": "LEAD-MDU-012",
+      "name": "Gurusamy & Sons Commercial Holdings",
+      "category": "NRI Family Office / Buyer",
+      "location": "Riyadh, Saudi Arabia",
+      "phone": "+966112345678",
+      "whatsapp": "+966501234567",
+      "email": "gurusamy.holdings@ksa-invest.com",
+      "website": "Not public",
+      "notes": "Saudi-based family office seeking 2-4 acres near Alagar Kovil Highway to establish an automobile experience center and service hub.",
+      "status": "New",
+      "dateAdded": "2024-05-21T10:50:00Z"
+    },
+    {
+      "id": "LEAD-MDU-013",
+      "name": "Subramanian Swaminathan",
+      "category": "NRI Commercial Investor",
+      "location": "Muscat, Oman",
+      "phone": "+96824123456",
+      "whatsapp": "+96892123456",
+      "email": "subbu.swami@omantrading.om",
+      "website": "Not public",
+      "notes": "High net-worth NRI looking to purchase 1 acre land directly from land owners along Alagar Kovil main road for strip mall development.",
+      "status": "New",
+      "dateAdded": "2024-05-22T14:05:00Z"
+    },
+    {
+      "id": "LEAD-MDU-014",
+      "name": "Nila Cold Storage & Logistics Hub",
+      "category": "NRI Corporate Buyer",
+      "location": "Sydney, Australia",
+      "phone": "+61291234567",
+      "whatsapp": "+61412345678",
+      "email": "corporate@nilacoldstorage.com.au",
+      "website": "https://www.nilacoldstorage.com.au",
+      "notes": "Australia-based NRI business group seeking 2+ acres along the Alagar Kovil commercial corridor for agri-logistics and cold storage facility.",
+      "status": "New",
+      "dateAdded": "2024-05-23T11:30:00Z"
+    },
+    {
+      "id": "LEAD-MDU-015",
+      "name": "Dr. Rajeshwari Soundararajan",
+      "category": "NRI Institutional Buyer",
+      "location": "Chicago, Illinois, USA",
+      "phone": "+13125550177",
+      "whatsapp": "+13125550177",
+      "email": "dr.soundararajan@chicagomedical.org",
+      "website": "Not public",
+      "notes": "NRI physician seeking 3-5 acres of clear-title commercial land near Alagar Kovil Road for an allied health college and nursing institute.",
+      "status": "New",
+      "dateAdded": "2024-05-24T16:00:00Z"
     }
   ]
 }

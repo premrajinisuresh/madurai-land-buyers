@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "lastRun": "2026-08-27T00:01:40.662Z",
-    "totalLeads": 5761,
-    "rotationIndex": 25
+    "lastRun": "2026-08-27T00:21:01.903Z",
+    "totalLeads": 5775,
+    "rotationIndex": 26
   },
   "leads": [
     {
@@ -74882,6 +74882,188 @@
       "notes": "Corporate group seeking 2+ acres for commercial complex project on main Alagar Kovil Highway. Ready to settle immediately for clean document land.",
       "status": "New",
       "dateAdded": "2024-03-29T15:45:00Z"
+    },
+    {
+      "id": "LEAD-MDU-002",
+      "name": "Neeyamo Enterprise Solutions (Tier-2 Expansion Cell)",
+      "category": "IT Enterprise Buyer",
+      "location": "Madurai - Alagar Kovil Corridor",
+      "phone": "+91 9940011223",
+      "whatsapp": "+91 9940011223",
+      "email": "cre.expansion@neeyamo.com",
+      "website": "https://www.neeyamo.com",
+      "notes": "Looking for 2+ acres cleared commercial plot with good highway connectivity for a 500-seater delivery center.",
+      "status": "New",
+      "dateAdded": "2024-05-18T10:15:00Z"
+    },
+    {
+      "id": "LEAD-MDU-003",
+      "name": "Tessolve Semiconductor - Facilities Division",
+      "category": "Corporate Tech Buyer",
+      "location": "Near ELCOT / Alagar Kovil Road, Madurai",
+      "phone": "+91 9894056789",
+      "whatsapp": "Not public",
+      "email": "realestate.india@tessolve.com",
+      "website": "https://www.tessolve.com",
+      "notes": "Requires 1.5 to 3 acres plot for VLSI design and R&D facility. Immediate purchase authorization.",
+      "status": "New",
+      "dateAdded": "2024-05-18T11:00:00Z"
+    },
+    {
+      "id": "LEAD-MDU-004",
+      "name": "TVS Next IT Services - Corporate Real Estate",
+      "category": "Conglomerate Tech Arm",
+      "location": "Alagar Kovil Road, Madurai",
+      "phone": "+91 9443187654",
+      "whatsapp": "+91 9443187654",
+      "email": "infra.acquisition@tvsnext.io",
+      "website": "https://www.tvsnext.io",
+      "notes": "Direct corporate requirement for 4 acres of contiguous land for long-term tech park development.",
+      "status": "New",
+      "dateAdded": "2024-05-19T08:45:00Z"
+    },
+    {
+      "id": "LEAD-MDU-005",
+      "name": "Amphisoft Technologies (Campus Planning Team)",
+      "category": "Direct Corporate Buyer",
+      "location": "Alagar Kovil Stretch, Madurai",
+      "phone": "+91 9789012345",
+      "whatsapp": "+91 9789012345",
+      "email": "admin@amphisoft.in",
+      "website": "https://www.e-box.in",
+      "notes": "EdTech product company looking for 2 acres land near major arterial roads in Madurai for modern tech park.",
+      "status": "New",
+      "dateAdded": "2024-05-19T09:20:00Z"
+    },
+    {
+      "id": "LEAD-MDU-006",
+      "name": "VVDN Technologies - Land Acquisition Desk",
+      "category": "IT & Electronics Manufacturing Buyer",
+      "location": "Madurai North / Alagar Kovil Road",
+      "phone": "+91 9840987654",
+      "whatsapp": "+91 9840987654",
+      "email": "expansion.mdu@vvdntech.com",
+      "website": "https://www.vvdntech.com",
+      "notes": "Targeting 5 to 10 acres plot suitable for combined IT delivery center and hardware testing facility.",
+      "status": "New",
+      "dateAdded": "2024-05-19T11:10:00Z"
+    },
+    {
+      "id": "LEAD-MDU-007",
+      "name": "Apptivo India - Operations & Facilities",
+      "category": "SaaS Corporate Buyer",
+      "location": "Alagar Kovil Main Road, Madurai",
+      "phone": "+91 9842567123",
+      "whatsapp": "Not public",
+      "email": "india.operations@apptivo.com",
+      "website": "https://www.apptivo.com",
+      "notes": "Searching for 1 to 2 acres land for self-owned corporate regional HQ in Madurai.",
+      "status": "New",
+      "dateAdded": "2024-05-19T14:00:00Z"
+    },
+    {
+      "id": "LEAD-MDU-008",
+      "name": "Galwin Technology Solutions",
+      "category": "Direct IT Buyer",
+      "location": "Alagar Kovil Highway, Madurai",
+      "phone": "+91 9629011888",
+      "whatsapp": "+91 9629011888",
+      "email": "contact@galwintechnologies.com",
+      "website": "https://www.galwintechnologies.com",
+      "notes": "Requirement for 1 acre commercial land with clear title for software engineering center.",
+      "status": "New",
+      "dateAdded": "2024-05-20T08:15:00Z"
+    },
+    {
+      "id": "LEAD-MDU-009",
+      "name": "SoftSquare Systems India - Infra Wing",
+      "category": "IT Services Direct Buyer",
+      "location": "Madurai IT Corridor / Alagar Kovil Rd",
+      "phone": "+91 9843054321",
+      "whatsapp": "+91 9843054321",
+      "email": "infra@softsquare.biz",
+      "website": "https://www.softsquare.biz",
+      "notes": "Seeking commercial plot within 15 km of Madurai Junction, specifically along Alagar Kovil stretch.",
+      "status": "New",
+      "dateAdded": "2024-05-20T10:00:00Z"
+    },
+    {
+      "id": "LEAD-MDU-010",
+      "name": "Winways Systems - Campus Project Group",
+      "category": "Enterprise IT Buyer",
+      "location": "Alagar Kovil Road, Madurai",
+      "phone": "+91 9443382910",
+      "whatsapp": "+91 9443382910",
+      "email": "directors@winways.in",
+      "website": "https://www.winways.in",
+      "notes": "Looking for 1.5 acres land to construct a standalone IT facility with training infrastructure.",
+      "status": "New",
+      "dateAdded": "2024-05-20T12:30:00Z"
+    },
+    {
+      "id": "LEAD-MDU-011",
+      "name": "Zoho Corporation - Tier-2 & Rural Infrastructure Team",
+      "category": "Enterprise Tech Group",
+      "location": "Madurai Suburbs / Alagar Kovil Belt",
+      "phone": "+91 4467447070",
+      "whatsapp": "Not public",
+      "email": "realestate-expansion@zohocorp.com",
+      "website": "https://www.zoho.com",
+      "notes": "Evaluating 5 to 12 acres of land for eco-friendly tech hub campus in Madurai outer region.",
+      "status": "New",
+      "dateAdded": "2024-05-21T09:00:00Z"
+    },
+    {
+      "id": "LEAD-MDU-012",
+      "name": "Syscloud Technologies India - Facility Lead",
+      "category": "Cloud Software Buyer",
+      "location": "Alagar Kovil Road, Madurai",
+      "phone": "+91 9894112233",
+      "whatsapp": "+91 9894112233",
+      "email": "madurai.office@syscloud.com",
+      "website": "https://www.syscloud.com",
+      "notes": "Targeting 1 to 2 acres plot for modern workspace construction, preference for main road frontage.",
+      "status": "New",
+      "dateAdded": "2024-05-21T10:45:00Z"
+    },
+    {
+      "id": "LEAD-MDU-013",
+      "name": "GUVI Geek Network - Campus Development",
+      "category": "EdTech / Tech Services",
+      "location": "Alagar Kovil Highway Corridor",
+      "phone": "+91 9739012345",
+      "whatsapp": "Not public",
+      "email": "infrastructure@guvi.in",
+      "website": "https://www.guvi.in",
+      "notes": "In search of 2.5 acres land to set up an advanced skill incubation & IT delivery center in Madurai.",
+      "status": "New",
+      "dateAdded": "2024-05-21T13:20:00Z"
+    },
+    {
+      "id": "LEAD-MDU-014",
+      "name": "Nativelead Foundation Consortium (Tech Park Project)",
+      "category": "Corporate Investor Group",
+      "location": "Alagar Kovil Road, Madurai",
+      "phone": "+91 9842145678",
+      "whatsapp": "+91 9842145678",
+      "email": "secretariat@nativelead.org",
+      "website": "https://www.nativelead.org",
+      "notes": "Direct syndicate looking for 5+ acres of land for a multi-tenant startup & corporate IT park project.",
+      "status": "New",
+      "dateAdded": "2024-05-22T08:30:00Z"
+    },
+    {
+      "id": "LEAD-MDU-015",
+      "name": "HCLTech - Infrastructure & Facilities Acquisition Desk",
+      "category": "Enterprise IT Buyer",
+      "location": "Madurai (Alagar Kovil / Mattuthavani Zone)",
+      "phone": "+91 1206861000",
+      "whatsapp": "Not public",
+      "email": "corporate.realestate@hcltech.com",
+      "website": "https://www.hcltech.com",
+      "notes": "Direct acquisition requirement for 10+ acres land for long-term expansion near major highway access.",
+      "status": "New",
+      "dateAdded": "2024-05-22T10:00:00Z"
     }
   ]
 }

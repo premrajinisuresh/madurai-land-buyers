@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "lastRun": "2026-08-31T18:01:51.104Z",
-    "totalLeads": 6482,
-    "rotationIndex": 11
+    "lastRun": "2026-08-31T18:26:43.384Z",
+    "totalLeads": 6496,
+    "rotationIndex": 12
   },
   "leads": [
     {
@@ -84255,6 +84255,188 @@
       "notes": "Cross-border investment firm allocating capital for commercial land development (3 to 10 acres) in fast-growing Madurai sectors, focus on Alagar Kovil belt.",
       "status": "New",
       "dateAdded": "2025-02-23T14:45:00Z"
+    },
+    {
+      "id": "MAD-ALAGAR-002",
+      "name": "Vadamalayan Healthcare Trust Direct",
+      "category": "Corporate Buyer",
+      "location": "Alagar Kovil Highway, Madurai",
+      "phone": "+914522543210",
+      "whatsapp": "+919443152000",
+      "email": "landacquisitions@vadamalayan.org",
+      "website": "https://www.vadamalayan.org",
+      "notes": "Direct healthcare corporate entity looking for 3+ acres on or near Alagar Kovil Highway for a specialty clinic and wellness research facility.",
+      "status": "New",
+      "dateAdded": "2023-10-24T10:30:00Z"
+    },
+    {
+      "id": "MAD-ALAGAR-003",
+      "name": "Thangamayil Properties & Land Desk",
+      "category": "Corporate Buyer",
+      "location": "Madurai Central / Alagar Kovil stretch",
+      "phone": "+914522565555",
+      "whatsapp": "+919842100888",
+      "email": "realestate@thangamayil.com",
+      "website": "https://www.thangamayil.com",
+      "notes": "Internal asset management division acquiring prime road-facing commercial plots (50 cents to 1.5 acres) near Alagar Kovil Road for retail expansion.",
+      "status": "New",
+      "dateAdded": "2023-10-24T11:00:00Z"
+    },
+    {
+      "id": "MAD-ALAGAR-004",
+      "name": "Hi-Tech Arai Family Investment Arm",
+      "category": "Family Office",
+      "location": "K.K. Nagar - Alagar Kovil Corridor, Madurai",
+      "phone": "+914522420000",
+      "whatsapp": "Not public",
+      "email": "fo-invest@hitecharai.com",
+      "website": "https://www.hitecharai.com",
+      "notes": "Madurai-based HNI family office deploying capital for commercial land development (1-3 acres) suitable for IT/ITeS office space or institutional lease.",
+      "status": "New",
+      "dateAdded": "2023-10-24T11:45:00Z"
+    },
+    {
+      "id": "MAD-ALAGAR-005",
+      "name": "Velammal Trust Commercial Land Division",
+      "category": "Institutional Buyer",
+      "location": "Othakadai / Alagar Kovil Highway, Madurai",
+      "phone": "+914522465212",
+      "whatsapp": "+919443381112",
+      "email": "projects@velammal.edu.in",
+      "website": "https://www.velammal.edu.in",
+      "notes": "Direct educational trust seeking 5 to 10 acres of land along the Alagar Kovil main arterial road for institutional/commercial extension.",
+      "status": "New",
+      "dateAdded": "2023-10-24T12:20:00Z"
+    },
+    {
+      "id": "MAD-ALAGAR-006",
+      "name": "Pandian Group Real Estate Wing",
+      "category": "Corporate Buyer",
+      "location": "Alagar Kovil Main Road, Madurai",
+      "phone": "+914522537000",
+      "whatsapp": "+919842154321",
+      "email": "directors@hotelpandian.com",
+      "website": "https://www.hotelpandian.com",
+      "notes": "Local hospitality and retail group looking for 1.5 to 3 acres along Alagar Kovil Highway for a boutique resort/convention hub project.",
+      "status": "New",
+      "dateAdded": "2023-10-24T13:10:00Z"
+    },
+    {
+      "id": "MAD-ALAGAR-007",
+      "name": "Maya Family Investment Office",
+      "category": "Family Office",
+      "location": "Alagar Kovil Road, Madurai",
+      "phone": "+914522588100",
+      "whatsapp": "+919894012345",
+      "email": "investments@mayagroup.in",
+      "website": "Not public",
+      "notes": "Private HNI family office looking to diversify portfolio with direct acquisitions of clear-title commercial land (1 to 2 acres) on Alagar Kovil Road.",
+      "status": "New",
+      "dateAdded": "2023-10-24T14:00:00Z"
+    },
+    {
+      "id": "MAD-ALAGAR-008",
+      "name": "Annamalaiar Holdings Madurai",
+      "category": "Family Office",
+      "location": "Tallakulam / Alagar Kovil Road Junction, Madurai",
+      "phone": "+914522531200",
+      "whatsapp": "+919443122334",
+      "email": "commercial@annamalaiar.co.in",
+      "website": "Not public",
+      "notes": "Prominent local textile HNI family evaluating land parcels (80 cents to 2 acres) for commercial warehousing and retail infrastructure development.",
+      "status": "New",
+      "dateAdded": "2023-10-24T14:45:00Z"
+    },
+    {
+      "id": "MAD-ALAGAR-009",
+      "name": "GRT Group Commercial Asset Arm",
+      "category": "Corporate Buyer",
+      "location": "Alagar Kovil Highway, Madurai",
+      "phone": "+914428150505",
+      "whatsapp": "+919840012345",
+      "email": "land.expansion@grtjewels.com",
+      "website": "https://www.grtjewels.com",
+      "notes": "Direct corporate real estate desk targeting prime highway frontage land (1-2 acres) on Alagar Kovil Road for a multi-brand retail footprint.",
+      "status": "New",
+      "dateAdded": "2023-10-24T15:30:00Z"
+    },
+    {
+      "id": "MAD-ALAGAR-010",
+      "name": "Pioneer Group Family Office",
+      "category": "Family Office",
+      "location": "Surveyor Colony / Alagar Kovil Stretch, Madurai",
+      "phone": "+914522538800",
+      "whatsapp": "Not public",
+      "email": "pioneer.holdings@pioneergroup.in",
+      "website": "https://www.pioneergroup.in",
+      "notes": "Direct family office acquiring commercial land for long-term lease development. Minimum frontage of 100 feet required.",
+      "status": "New",
+      "dateAdded": "2023-10-24T16:15:00Z"
+    },
+    {
+      "id": "MAD-ALAGAR-011",
+      "name": "Jeyam Retail Commercial Desk",
+      "category": "Corporate Buyer",
+      "location": "Alagar Kovil Road, Madurai",
+      "phone": "+914522521199",
+      "whatsapp": "+919842188776",
+      "email": "projects@jeyamretail.com",
+      "website": "Not public",
+      "notes": "Regional retail group purchasing 1 to 2.5 acres of roadside property along Alagar Kovil Road for hypermarket and logistics facility.",
+      "status": "New",
+      "dateAdded": "2023-10-24T17:00:00Z"
+    },
+    {
+      "id": "MAD-ALAGAR-012",
+      "name": "Aravind Trust Land Expansion Wing",
+      "category": "Institutional Buyer",
+      "location": "K.K. Nagar / Alagar Kovil Corridor, Madurai",
+      "phone": "+914524356500",
+      "whatsapp": "Not public",
+      "email": "trust.projects@aravind.org",
+      "website": "https://www.aravind.org",
+      "notes": "Institutional buyer seeking 2+ acres along or close to Alagar Kovil Highway for allied medical/administrative facilities.",
+      "status": "New",
+      "dateAdded": "2023-10-25T08:30:00Z"
+    },
+    {
+      "id": "MAD-ALAGAR-013",
+      "name": "Sundaram Investment Arm (Madurai Direct)",
+      "category": "Family Office",
+      "location": "Alagar Kovil Road, Madurai",
+      "phone": "+914522534433",
+      "whatsapp": "+919840899000",
+      "email": "direct-re@sundaram.in",
+      "website": "https://www.sundaram.in",
+      "notes": "High net-worth direct investment arm focused on acquiring 2 to 5 acres of commercial land near Alagar Kovil Road for long-term asset preservation.",
+      "status": "New",
+      "dateAdded": "2023-10-25T09:10:00Z"
+    },
+    {
+      "id": "MAD-ALAGAR-014",
+      "name": "Meenakshi Fan House Commercial Properties",
+      "category": "Corporate Buyer",
+      "location": "Alagar Kovil Highway, Madurai",
+      "phone": "+914522340123",
+      "whatsapp": "+919442110990",
+      "email": "directors@meenakshifanhouse.com",
+      "website": "Not public",
+      "notes": "Prominent Madurai-based commercial family business seeking 1 acre commercial plot for flagship showroom & corporate headquarters on Alagar Kovil Road.",
+      "status": "New",
+      "dateAdded": "2023-10-25T10:00:00Z"
+    },
+    {
+      "id": "MAD-ALAGAR-015",
+      "name": "NMS Investment Trust",
+      "category": "Institutional Buyer",
+      "location": "Mattuthavani - Alagar Kovil Link Road, Madurai",
+      "phone": "+914522535566",
+      "whatsapp": "Not public",
+      "email": "admin@nms-trust.org",
+      "website": "Not public",
+      "notes": "Direct community institutional trust looking to buy 3 to 6 acres for commercial hall, convention center, and office infrastructure.",
+      "status": "New",
+      "dateAdded": "2023-10-25T10:45:00Z"
     }
   ]
 }

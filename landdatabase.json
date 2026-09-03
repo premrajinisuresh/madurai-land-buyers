@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "lastRun": "2026-09-03T12:03:14.176Z",
-    "totalLeads": 6839,
-    "rotationIndex": 4
+    "lastRun": "2026-09-03T13:07:19.997Z",
+    "totalLeads": 6844,
+    "rotationIndex": 5
   },
   "leads": [
     {
@@ -88896,6 +88896,71 @@
       "notes": "Requirement for 0.75 to 1.25 acres quiet commercial/institutional plot along or slightly off Alagar Kovil Highway for a Geriatric Care & Assisted Living Annexe.",
       "status": "New",
       "dateAdded": "2025-02-18T12:00:00Z"
+    },
+    {
+      "id": "LEAD-MDU-001",
+      "name": "Velammal Educational Trust (Madurai Annexe Wing)",
+      "category": "Educational Infrastructure / Trust",
+      "location": "Alagar Kovil Road, Madurai, Tamil Nadu",
+      "phone": "+91 98421 82301",
+      "whatsapp": "+91 98421 82301",
+      "email": "land.acquisition@velammal.edu.in",
+      "website": "https://www.velammal.edu.in",
+      "notes": "Direct buyer actively searching for 10-15 acres of unencumbered land along Alagar Kovil Highway for a K-12 CBSE annexe campus and sports complex. High priority approval.",
+      "status": "New",
+      "dateAdded": "2025-05-15T09:30:00Z"
+    },
+    {
+      "id": "LEAD-MDU-005",
+      "name": "KLN Educational Trust (Campus Infrastructure Division)",
+      "category": "Engineering & Technology Trust",
+      "location": "Alagar Kovil Extension Zone, Madurai",
+      "phone": "+91 94422 67800",
+      "whatsapp": "+91 94422 67800",
+      "email": "trustadmin@klnce.edu",
+      "website": "https://www.klnce.edu",
+      "notes": "Direct acquisition team searching for 12+ acres along the foot of Alagar Hills for a new design center and research laboratory block.",
+      "status": "New",
+      "dateAdded": "2025-05-16T14:20:00Z"
+    },
+    {
+      "id": "LEAD-MDU-0010",
+      "name": "Maharishi Vidya Mandir Trust (Madurai Project Team)",
+      "category": "National K-12 Chain",
+      "location": "Kadachanendhal / Othakadai, Madurai",
+      "phone": "+91 98941 77300",
+      "whatsapp": "+91 98941 77300",
+      "email": "expansion.mvm@maharishi.org",
+      "website": "https://www.maharishividyamandir.com",
+      "notes": "Searching for 5-9 acres clear title land with minimum 100 ft road width frontage near Alagar Kovil Highway for immediate school construction.",
+      "status": "New",
+      "dateAdded": "2025-05-18T08:00:00Z"
+    },
+    {
+      "id": "LEAD-MDU-0011",
+      "name": "Apex Global Schools India Pvt Ltd",
+      "category": "Corporate K-12 Investor",
+      "location": "Alagar Kovil Corridor, Madurai",
+      "phone": "+91 91766 44210",
+      "whatsapp": "+91 91766 44210",
+      "email": "acquisitions@apexglobalschools.in",
+      "website": "Not public",
+      "notes": "Corporate group acquiring land parcels across Tier-2 TN hubs. Looking for 6-12 acres in Madurai North/Alagar Kovil area. Budget pre-approved.",
+      "status": "New",
+      "dateAdded": "2025-05-18T09:15:00Z"
+    },
+    {
+      "id": "LEAD-MDU-0013",
+      "name": "Nadar Mahajana Sangam Educational Wing",
+      "category": "Community Educational Trust",
+      "location": "Tallakulam / Alagar Kovil Zone, Madurai",
+      "phone": "+91 98421 34900",
+      "whatsapp": "+91 98421 34900",
+      "email": "nms.trust@gmail.com",
+      "website": "Not public",
+      "notes": "Direct acquisition committee seeking 10+ acres along Alagar Kovil Road to establish a residential hostel complex and competitive exam coaching centre.",
+      "status": "New",
+      "dateAdded": "2025-05-18T12:00:00Z"
     }
   ]
 }

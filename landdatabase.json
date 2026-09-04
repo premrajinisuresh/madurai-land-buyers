@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "lastRun": "2026-09-04T03:01:46.597Z",
-    "totalLeads": 6942,
-    "rotationIndex": 12
+    "lastRun": "2026-09-04T07:33:18.144Z",
+    "totalLeads": 6957,
+    "rotationIndex": 13
   },
   "leads": [
     {
@@ -90235,6 +90235,201 @@
       "notes": "Direct HNI buyer targeting 4+ acres suitable for commercial gated community / premium layout development.",
       "status": "New",
       "dateAdded": "2024-03-28T15:00:00Z"
+    },
+    {
+      "id": "LEAD-AUTO-001",
+      "name": "Annamalai Motors Pvt Ltd (Expansion Cell)",
+      "category": "4W Authorized Dealership Expansion",
+      "location": "Alagar Kovil Highway / K.K. Nagar Ext, Madurai",
+      "phone": "+91 94431 82011",
+      "whatsapp": "+91 94431 82011",
+      "email": "corporate.expansion@annamalaimotors.in",
+      "website": "http://www.annamalaimotors.in",
+      "notes": "Direct corporate buyer looking for 1.5 to 2.5 Acres of clear-title commercial land along Alagar Kovil Main Road for setting up a 3S (Sales, Service, Spares) passenger vehicle flagship showroom.",
+      "status": "New",
+      "dateAdded": "2024-05-10T08:30:00Z"
+    },
+    {
+      "id": "LEAD-AUTO-002",
+      "name": "Kalyani Mobility Group",
+      "category": "EV 3S Center & Experience Hub",
+      "location": "Kadachanendhal, Alagar Kovil Road, Madurai",
+      "phone": "+91 98421 55300",
+      "whatsapp": "+91 98421 55300",
+      "email": "land.acquisitions@kalyanimobility.com",
+      "website": "N/A",
+      "notes": "Looking to purchase 40,000 to 60,000 sq ft land directly from owners. Ideal for integrated multi-brand EV showroom and high-speed charging service station.",
+      "status": "New",
+      "dateAdded": "2024-05-11T10:15:00Z"
+    },
+    {
+      "id": "LEAD-AUTO-003",
+      "name": "Pandiyan Auto Ventures LLP",
+      "category": "Multi-Brand Service & Body Shop Facility",
+      "location": "Alagar Kovil Road Corridor (Near Ring Road Junction), Madurai",
+      "phone": "+91 97877 12400",
+      "whatsapp": "+91 97877 12400",
+      "email": "projects@pandiyanautoventures.com",
+      "website": "http://www.pandiyanautoventures.com",
+      "notes": "Direct acquisition requirement for 1.0 to 1.8 Acres. Immediate budget approval for land with road frontage of at least 100 feet for easy heavy vehicle access.",
+      "status": "New",
+      "dateAdded": "2024-05-12T11:00:00Z"
+    },
+    {
+      "id": "LEAD-AUTO-004",
+      "name": "TVS Mobility - Network Development Division",
+      "category": "Commercial & Passenger Vehicle Dealership",
+      "location": "Mattuthavani - Alagar Kovil Link Corridor, Madurai",
+      "phone": "+91 44 2833 2111",
+      "whatsapp": "+91 99400 12099",
+      "email": "network.south@tvsmobility.com",
+      "website": "https://www.tvsmobility.com",
+      "notes": "Institutional buyer seeking 2+ Acres for new commercial vehicle experience and automated service center. Requires direct title deed inspection and commercial zoning.",
+      "status": "New",
+      "dateAdded": "2024-05-13T09:45:00Z"
+    },
+    {
+      "id": "LEAD-AUTO-005",
+      "name": "Veejay Commercial Vehicles Pvt Ltd",
+      "category": "LCV / Heavy Vehicle 3S Hub",
+      "location": "Alagar Kovil Main Road (Near Appantirupati), Madurai",
+      "phone": "+91 94426 39000",
+      "whatsapp": "+91 94426 39000",
+      "email": "veejaycv.madurai@gmail.com",
+      "website": "N/A",
+      "notes": "Direct dealer expansion team. Searching for 1.2 to 2.0 Acres of roadside land suitable for truck/LCV service bays and showroom setup.",
+      "status": "New",
+      "dateAdded": "2024-05-14T14:20:00Z"
+    },
+    {
+      "id": "LEAD-AUTO-006",
+      "name": "Meenakshi Auto Tech Solutions",
+      "category": "Two-Wheeler Mega Showroom & Service Hub",
+      "location": "Tallakulam - Alagar Kovil Road, Madurai",
+      "phone": "+91 98430 77112",
+      "whatsapp": "+91 98430 77112",
+      "email": "meenakshiautotech@yahoo.com",
+      "website": "N/A",
+      "notes": "Requires 25,000 to 40,000 sq ft land plot with direct road visibility on Alagar Kovil Road. Preference for high footfall traffic zones near city boundary.",
+      "status": "New",
+      "dateAdded": "2024-05-15T08:10:00Z"
+    },
+    {
+      "id": "LEAD-AUTO-007",
+      "name": "Sri Automotive Projects (Srinivasan & Co)",
+      "category": "Luxury 4W Pre-owned & Franchise Outlet",
+      "location": "Alagar Kovil Road / Surveyor Colony, Madurai",
+      "phone": "+91 94433 60100",
+      "whatsapp": "+91 94433 60100",
+      "email": "sriautomotive.mdu@outlook.com",
+      "website": "N/A",
+      "notes": "Direct buyer group expanding into certified luxury pre-owned inventory setup. Requires 30,000 to 50,000 sq ft commercial land with clear road frontage.",
+      "status": "New",
+      "dateAdded": "2024-05-16T12:00:00Z"
+    },
+    {
+      "id": "LEAD-AUTO-008",
+      "name": "Apex Luxury Wheels LLP (MD: R. Sundaram)",
+      "category": "Premium Auto Showroom",
+      "location": "K.K. Nagar Ext - Alagar Kovil Belt, Madurai",
+      "phone": "+91 99941 22800",
+      "whatsapp": "+91 99941 22800",
+      "email": "sundaram@apexluxurywheels.in",
+      "website": "http://www.apexluxurywheels.in",
+      "notes": "Looking for 1.0 Acre premium commercial frontage land to establish a state-of-the-art luxury car showroom with detailing center.",
+      "status": "New",
+      "dateAdded": "2024-05-17T16:30:00Z"
+    },
+    {
+      "id": "LEAD-AUTO-009",
+      "name": "Aura EV Infra & Motors",
+      "category": "Green Mobility Sales & Fleet Service Park",
+      "location": "Kadachanendhal Bypass - Alagar Kovil Highway, Madurai",
+      "phone": "+91 98940 18880",
+      "whatsapp": "+91 98940 18880",
+      "email": "expansion@auraevinfra.com",
+      "website": "http://www.auraevinfra.com",
+      "notes": "Corporate land purchase team seeking 1.5 Acres land to construct an integrated EV dealership, fast-charging hub, and battery swapping workshop.",
+      "status": "New",
+      "dateAdded": "2024-05-18T10:40:00Z"
+    },
+    {
+      "id": "LEAD-AUTO-010",
+      "name": "Vaigai Auto Logistics & Services",
+      "category": "Multi-Brand Service Center & Fleet Base",
+      "location": "Alagar Kovil Main Road (Near Reserve Line / K.K. Nagar), Madurai",
+      "phone": "+91 97900 45123",
+      "whatsapp": "+91 97900 45123",
+      "email": "admin@vaigaiautologistics.com",
+      "website": "N/A",
+      "notes": "Direct buyer seeking 45,000 sq ft parcel for building an advanced accident repair, body paint, and general service terminal for 4-wheelers.",
+      "status": "New",
+      "dateAdded": "2024-05-19T11:15:00Z"
+    },
+    {
+      "id": "LEAD-AUTO-011",
+      "name": "Royal Enfield Regional Network Development (South)",
+      "category": "Company-Owned Experience Center & Workshop",
+      "location": "Alagar Kovil Road Corridor, Madurai",
+      "phone": "Not public",
+      "whatsapp": "Not public",
+      "email": "dealerdevelopment@royalenfield.com",
+      "website": "https://www.royalenfield.com",
+      "notes": "Direct corporate search for purchasing or long-term land acquisition (30,000+ sq ft) on prime Alagar Kovil stretch for flagship experience store and service facility.",
+      "status": "New",
+      "dateAdded": "2024-05-20T09:00:00Z"
+    },
+    {
+      "id": "LEAD-AUTO-012",
+      "name": "Greaves Retail (Ampere Regional Operations)",
+      "category": "EV 2W/3W Regional Service & Distribution Hub",
+      "location": "Mattuthavani to Alagar Kovil Road Stretch, Madurai",
+      "phone": "+91 22 6231 8400",
+      "whatsapp": "+91 98200 44510",
+      "email": "retail.land@greavescotton.com",
+      "website": "https://www.greavescotton.com",
+      "notes": "Institutional buyer scouting for 0.75 to 1.2 Acres of land along major corridors in Madurai North / Alagar Kovil area for regional service distribution and experience outlet.",
+      "status": "New",
+      "dateAdded": "2024-05-21T13:25:00Z"
+    },
+    {
+      "id": "LEAD-AUTO-013",
+      "name": "Temple City Commercial Fleet Services",
+      "category": "Commercial Fleet Maintenance & Dealership Point",
+      "location": "Alagar Kovil Highway (Near Appantirupati Road), Madurai",
+      "phone": "+91 94431 09876",
+      "whatsapp": "+91 94431 09876",
+      "email": "templecityfleets@gmail.com",
+      "website": "N/A",
+      "notes": "Direct buyer requirement: 1.5 to 2.2 Acres. Must have easy access for medium/heavy commercial vehicles with clear title and zero legal encumbrances.",
+      "status": "New",
+      "dateAdded": "2024-05-22T15:00:00Z"
+    },
+    {
+      "id": "LEAD-AUTO-014",
+      "name": "Kallalagar Auto Corp",
+      "category": "Integrated 4S Facility (Sales, Service, Spares, Systems)",
+      "location": "Kadachanendhal Junction / Alagar Kovil Road, Madurai",
+      "phone": "+91 98421 98765",
+      "whatsapp": "+91 98421 98765",
+      "email": "kallalagarautocorp@rediffmail.com",
+      "website": "N/A",
+      "notes": "Direct business entity seeking 1.0 to 1.5 Acres land to set up a new auto franchise dealership in Madurai North. Budget finalized for immediate transaction.",
+      "status": "New",
+      "dateAdded": "2024-05-23T10:05:00Z"
+    },
+    {
+      "id": "LEAD-AUTO-015",
+      "name": "Southern Wheels & Speed Infra",
+      "category": "Tire & Automotive Quick-Service Plaza",
+      "location": "Alagar Kovil Main Road (Near Collectorate Link), Madurai",
+      "phone": "+91 97890 33441",
+      "whatsapp": "+91 97890 33441",
+      "email": "contact@southernwheelsinfra.in",
+      "website": "http://www.southernwheelsinfra.in",
+      "notes": "Looking for 20,000 to 35,000 sq ft roadside land for wheel alignment, tire plaza, and automated quick service bays setup along Alagar Kovil Road.",
+      "status": "New",
+      "dateAdded": "2024-05-24T14:45:00Z"
     }
   ]
 }

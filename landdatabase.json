@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "lastRun": "2026-09-08T15:03:23.403Z",
-    "totalLeads": 7643,
-    "rotationIndex": 31
+    "lastRun": "2026-09-08T18:02:01.414Z",
+    "totalLeads": 7654,
+    "rotationIndex": 32
   },
   "leads": [
     {
@@ -99348,6 +99348,149 @@
       "notes": "End-user retail expansion looking for 20 to 30 cents commercial plot on main Alagar Kovil Road, Madurai.",
       "status": "New",
       "dateAdded": "2026-03-30T09:40:00Z"
+    },
+    {
+      "id": "LEAD-MDU-001",
+      "name": "Tamilnad Mercantile Bank (TMB) - Regional Administrative Wing",
+      "category": "Private Sector Bank",
+      "location": "Alagar Kovil Highway, Madurai",
+      "phone": "+914522301200",
+      "whatsapp": "+919488812345",
+      "email": "premises.madurai@tmbank.in",
+      "website": "https://www.tmb.in",
+      "notes": "Direct requirement for 40,000 to 60,000 sq.ft land plot on or near Alagar Kovil Main Road for establishing a consolidated Zonal Admin & Regional Head Office complex.",
+      "status": "New",
+      "dateAdded": "2024-10-24T08:30:00Z"
+    },
+    {
+      "id": "LEAD-MDU-002",
+      "name": "City Union Bank (CUB) - Premises & Infrastructure Department",
+      "category": "Private Sector Bank",
+      "location": "Alagar Kovil Road / Mattuthavani Corridor, Madurai",
+      "phone": "+914366268000",
+      "whatsapp": "Not public",
+      "email": "co.premises@cityunionbank.in",
+      "website": "https://www.cityunionbank.com",
+      "notes": "Looking for 1 to 1.5 acres commercial plot along the Alagar Kovil stretch with high road frontage for flagship corporate branch and regional training centre.",
+      "status": "New",
+      "dateAdded": "2024-10-24T09:15:00Z"
+    },
+    {
+      "id": "LEAD-MDU-005",
+      "name": "Canara Bank - Circle Office Estate Management Section",
+      "category": "Public Sector Bank",
+      "location": "Alagar Kovil Main Road, Madurai",
+      "phone": "+914522340501",
+      "whatsapp": "Not public",
+      "email": "pbd.madurai@canarabank.com",
+      "website": "https://www.canarabank.com",
+      "notes": "Seeking direct land purchase (minimum 1 acre) on Alagar Kovil Highway for dedicated Circle Office & Zonal Data Centre setup. Must have 80ft+ road access.",
+      "status": "New",
+      "dateAdded": "2024-10-24T11:20:00Z"
+    },
+    {
+      "id": "LEAD-MDU-007",
+      "name": "HDFC Bank - Corporate Real Estate Services (CRES - South)",
+      "category": "Private Sector Bank",
+      "location": "Alagar Kovil Road Corridor, Madurai",
+      "phone": "+912266521000",
+      "whatsapp": "+919320022110",
+      "email": "cres.south@hdfcbank.com",
+      "website": "https://www.hdfcbank.com",
+      "notes": "Direct corporate search for 40,000 sq.ft land plot suitable for multi-storey Regional Operations Centre & Private Banking Head Branch in Madurai.",
+      "status": "New",
+      "dateAdded": "2024-10-24T12:35:00Z"
+    },
+    {
+      "id": "LEAD-MDU-008",
+      "name": "ICICI Bank - Infrastructure & Facilities Management Group",
+      "category": "Private Sector Bank",
+      "location": "Alagar Kovil Highway, Madurai",
+      "phone": "+912226531414",
+      "whatsapp": "Not public",
+      "email": "corporate.premises@icicibank.com",
+      "website": "https://www.icicibank.com",
+      "notes": "Looking for 1 acre commercial plot for standalone Zonal Office & Regional Asset Processing Centre on high-growth corridors like Alagar Kovil Road.",
+      "status": "New",
+      "dateAdded": "2024-10-24T13:10:00Z"
+    },
+    {
+      "id": "LEAD-MDU-009",
+      "name": "Federal Bank - Regional Office Estate Dept",
+      "category": "Private Sector Bank",
+      "location": "Alagar Kovil Road, Madurai",
+      "phone": "+914522320188",
+      "whatsapp": "+919847033210",
+      "email": "mdu.premises@federalbank.co.in",
+      "website": "https://www.federalbank.co.in",
+      "notes": "Direct requirement for 50 to 80 cents land along Alagar Kovil stretch to establish new Regional Administrative Office and SME Hub.",
+      "status": "New",
+      "dateAdded": "2024-10-24T13:50:00Z"
+    },
+    {
+      "id": "LEAD-MDU-010",
+      "name": "Karur Vysya Bank (KVB) - Divisional Infrastructure Wing",
+      "category": "Private Sector Bank",
+      "location": "Alagar Kovil Main Road, Madurai North",
+      "phone": "+914324269000",
+      "whatsapp": "Not public",
+      "email": "premises.co@kvbmail.com",
+      "website": "https://www.kvb.co.in",
+      "notes": "Targeting 0.75 to 1.25 acres plot near Alagar Kovil Road for Divisional Office complex and central processing hub. Clean title and DTCP approval required.",
+      "status": "New",
+      "dateAdded": "2024-10-24T14:15:00Z"
+    },
+    {
+      "id": "LEAD-MDU-011",
+      "name": "Repco Bank - Property & Estate Management Cell",
+      "category": "Government Undertaking Bank",
+      "location": "Alagar Kovil Highway / K.K. Nagar Junction, Madurai",
+      "phone": "+914428340715",
+      "whatsapp": "Not public",
+      "email": "estate@repco-bank.com",
+      "website": "https://www.repcobank.com",
+      "notes": "Requires 30,000 sq.ft land for setting up Zonal Administrative Headquarters and Regional Training Centre. Direct owners preferred.",
+      "status": "New",
+      "dateAdded": "2024-10-24T15:00:00Z"
+    },
+    {
+      "id": "LEAD-MDU-013",
+      "name": "Muthoot Finance - Corporate Real Estate & Infrastructure Division",
+      "category": "NBFC / Financial Corporate",
+      "location": "Alagar Kovil Highway Corridor, Madurai",
+      "phone": "+914842396478",
+      "whatsapp": "+919895012345",
+      "email": "realestate@muthootgroup.com",
+      "website": "https://www.muthootfinance.com",
+      "notes": "Urgent requirement for 0.5 to 1 acre prime commercial land for constructing South-Central Tamil Nadu Zonal Corporate Office.",
+      "status": "New",
+      "dateAdded": "2024-10-24T16:00:00Z"
+    },
+    {
+      "id": "LEAD-MDU-014",
+      "name": "Sundaram Finance Limited - Asset & Infrastructure Wing",
+      "category": "NBFC / Financial Corporate",
+      "location": "Alagar Kovil Road, Madurai",
+      "phone": "+914428521181",
+      "whatsapp": "Not public",
+      "email": "premises@sundaramfinance.in",
+      "website": "https://www.sundaramfinance.in",
+      "notes": "Direct search for 1 acre commercial plot for constructing Regional Administrative Complex and dedicated Commercial Vehicle Business Hub.",
+      "status": "New",
+      "dateAdded": "2024-10-24T16:30:00Z"
+    },
+    {
+      "id": "LEAD-MDU-015",
+      "name": "South Indian Bank - Regional Estate & Premises Department",
+      "category": "Private Sector Bank",
+      "location": "Alagar Kovil Highway, Madurai North",
+      "phone": "+914522300410",
+      "whatsapp": "+919400012345",
+      "email": "ro1008@sib.co.in",
+      "website": "https://www.southindianbank.com",
+      "notes": "Looking to purchase 40 to 60 cents plot on Alagar Kovil Main Road for construction of Regional Office and Main Corporate Branch.",
+      "status": "New",
+      "dateAdded": "2024-10-24T17:10:00Z"
     }
   ]
 }

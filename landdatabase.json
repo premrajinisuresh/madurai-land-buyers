@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "lastRun": "2026-09-09T13:16:57.088Z",
-    "totalLeads": 7772,
-    "rotationIndex": 8
+    "lastRun": "2026-09-09T15:01:38.601Z",
+    "totalLeads": 7782,
+    "rotationIndex": 9
   },
   "leads": [
     {
@@ -101025,6 +101025,136 @@
       "notes": "Direct corporate requirement for 1 to 2 acres of highway-facing commercial land on Alagar Kovil Road to establish a regional office + commercial complex hub.",
       "status": "New",
       "dateAdded": "2024-05-24T10:00:00Z"
+    },
+    {
+      "id": "MDU-IT-002",
+      "name": "Neeyamo Enterprise Solutions - Infrastructure Division",
+      "category": "HR Tech & Global Capability Center",
+      "location": "Near Othakadai / Alagar Kovil Belt, Madurai",
+      "phone": "+91 44 6608 5000",
+      "whatsapp": "Not public",
+      "email": "realestate.procurement@neeyamo.com",
+      "website": "https://www.neeyamo.com",
+      "notes": "Looking for 2-4 acres clear title land suitable for IT/ITeS corporate campus development with highway front access.",
+      "status": "New",
+      "dateAdded": "2024-03-28T10:30:00Z"
+    },
+    {
+      "id": "MDU-IT-003",
+      "name": "Tessolve Semiconductor R&D Hub Project",
+      "category": "Semiconductor & Embedded Software",
+      "location": "Alagar Kovil Road Corridor, Madurai",
+      "phone": "+91 80 4181 2626",
+      "whatsapp": "+91 98801 22340",
+      "email": "facilities.south@tessolve.com",
+      "website": "https://www.tessolve.com",
+      "notes": "Direct buyer group evaluating land parcels (1.5 - 3 acres) along main arterial roads connecting Mattuthavani to Alagar Kovil.",
+      "status": "New",
+      "dateAdded": "2024-03-28T11:45:00Z"
+    },
+    {
+      "id": "MDU-IT-004",
+      "name": "Dot Com Infoway (DCI) Corporate Real Estate",
+      "category": "Digital IT Services & App Development",
+      "location": "Kadachanendal / Alagar Kovil Highway, Madurai",
+      "phone": "+91 452 252 2251",
+      "whatsapp": "+91 98421 99123",
+      "email": "admin@dotcominfoway.com",
+      "website": "https://www.dotcominfoway.com",
+      "notes": "Planning consolidated software development center. High intent for 1.5 to 2.5 acres land parcels.",
+      "status": "New",
+      "dateAdded": "2024-03-29T08:10:00Z"
+    },
+    {
+      "id": "MDU-IT-006",
+      "name": "Caliber Interconnect Solutions Project Wing",
+      "category": "Hardware & Embedded Systems Engineering",
+      "location": "K.Pudur to Alagar Kovil Highway Corridor, Madurai",
+      "phone": "+91 422 434 8888",
+      "whatsapp": "Not public",
+      "email": "infrastructure@caliberinterconnect.com",
+      "website": "https://www.caliberinterconnect.com",
+      "notes": "Direct corporate team seeking commercial/IT-zoned land plot (2+ acres) with high power load feasibility.",
+      "status": "New",
+      "dateAdded": "2024-03-29T10:05:00Z"
+    },
+    {
+      "id": "MDU-IT-007",
+      "name": "VVDN Technologies - Product Engineering Wing",
+      "category": "Global Telecom & IT Product Engineering",
+      "location": "Alagar Kovil Main Road, Madurai",
+      "phone": "+91 124 461 5200",
+      "whatsapp": "+91 99100 45220",
+      "email": "land.acquisition@vvdntech.com",
+      "website": "https://www.vvdntech.com",
+      "notes": "Direct inquiry for 5-10 acres for integrated R&D campus near Madurai North / Alagar Kovil stretch.",
+      "status": "New",
+      "dateAdded": "2024-03-29T11:00:00Z"
+    },
+    {
+      "id": "MDU-IT-010",
+      "name": "Sakthi Software Solutions",
+      "category": "Custom Software & SaaS Solutions",
+      "location": "Othakadai - Alagar Kovil Link Road, Madurai",
+      "phone": "+91 452 258 7100",
+      "whatsapp": "Not public",
+      "email": "expansion@sakthisoftware.com",
+      "website": "https://www.sakthisoftware.com",
+      "notes": "Targeting 80 cents to 1.5 acres of commercial/IT land for new product delivery facility.",
+      "status": "New",
+      "dateAdded": "2024-03-29T15:40:00Z"
+    },
+    {
+      "id": "MDU-IT-011",
+      "name": "HCLTech Infrastructure & Expansion Group",
+      "category": "IT Services Enterprise",
+      "location": "Alagar Kovil Belt / North Madurai Corridor",
+      "phone": "+91 120 430 6000",
+      "whatsapp": "Not public",
+      "email": "cre.south@hcltech.com",
+      "website": "https://www.hcltech.com",
+      "notes": "Evaluating long-term land banks (5+ acres) outside primary ELCOT park for private tech campus development.",
+      "status": "New",
+      "dateAdded": "2024-03-30T08:00:00Z"
+    },
+    {
+      "id": "MDU-IT-013",
+      "name": "Aiswarya Technologies & R&D Labs",
+      "category": "IT Infrastructure & Embedded Labs",
+      "location": "Alagar Kovil Main Road, Madurai",
+      "phone": "+91 452 253 0112",
+      "whatsapp": "+91 94433 80112",
+      "email": "info@aiswaryatech.com",
+      "website": "https://www.aiswaryatech.com",
+      "notes": "Looking for clear-title roadside commercial plot (1 acre) for IT infrastructure deployment.",
+      "status": "New",
+      "dateAdded": "2024-03-30T10:45:00Z"
+    },
+    {
+      "id": "MDU-IT-014",
+      "name": "Zoho Corporation - Regional Campus Procurement",
+      "category": "SaaS & Enterprise Cloud Software",
+      "location": "Madurai North Rural / Alagar Kovil Highway",
+      "phone": "+91 44 6744 7070",
+      "whatsapp": "Not public",
+      "email": "land-acquisition@zohocorp.com",
+      "website": "https://www.zoho.com",
+      "notes": "Corporate real estate wing looking for 5 to 15 acres greenfield land for sustainable hub expansion.",
+      "status": "New",
+      "dateAdded": "2024-03-30T11:15:00Z"
+    },
+    {
+      "id": "MDU-IT-015",
+      "name": "Tech Mahindra Regional Facilities Wing",
+      "category": "Global Tech & BPO Services",
+      "location": "Alagar Kovil Road / K.Pudur Outer, Madurai",
+      "phone": "+91 20 6601 8100",
+      "whatsapp": "Not public",
+      "email": "mktg.south@techmahindra.com",
+      "website": "https://www.techmahindra.com",
+      "notes": "Requirement for 3 to 6 acres road-facing commercial land parcel for Tier-2 delivery hub.",
+      "status": "New",
+      "dateAdded": "2024-03-30T12:00:00Z"
     }
   ]
 }

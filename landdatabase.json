@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "lastRun": "2026-09-09T03:01:58.194Z",
-    "totalLeads": 7728,
-    "rotationIndex": 4
+    "lastRun": "2026-09-09T07:42:20.598Z",
+    "totalLeads": 7733,
+    "rotationIndex": 5
   },
   "leads": [
     {
@@ -100453,6 +100453,71 @@
       "notes": "Direct requirement for 1 acre roadside property suitable for a standalone laser surgery block and parking expansion.",
       "status": "New",
       "dateAdded": "2024-03-29T17:45:00Z"
+    },
+    {
+      "id": "LEAD-MDU-005",
+      "name": "Subbulakshmi Lakshmipathy Foundation (SLS Group)",
+      "category": "Educational & Research Foundation",
+      "location": "TVR Nagar, Aruppukottai Road, Madurai",
+      "phone": "+914523987800",
+      "whatsapp": "+919843055311",
+      "email": "estate.manager@slcs.edu.in",
+      "website": "https://slcs.edu.in",
+      "notes": "Institutional buyer planning a new Design and Media Technology campus wing along the Alagar Kovil growth corridor. Target area: 7 to 12 acres close to main highway.",
+      "status": "New",
+      "dateAdded": "2024-05-18T13:45:00Z"
+    },
+    {
+      "id": "LEAD-MDU-012",
+      "name": "Amrita Vishwa Vidyapeetham (TN Expansion Office)",
+      "category": "Deemed University System",
+      "location": "Regional Office - Madurai / Coimbatore HQ",
+      "phone": "+914222685000",
+      "whatsapp": "+919443000000",
+      "email": "campusdevelopment@amrita.edu",
+      "website": "https://amrita.edu",
+      "notes": "Targeting 20 to 30 acres in Madurai North / Alagar Kovil belt for off-campus center and specialized research park. Only direct land owners or primary corporate sellers required.",
+      "status": "New",
+      "dateAdded": "2024-05-20T09:30:00Z"
+    },
+    {
+      "id": "LEAD-MDU-013",
+      "name": "PSR Educational Trust",
+      "category": "Technical & Higher Education Group",
+      "location": "Sivakasi - Madurai Corridor",
+      "phone": "+914562239600",
+      "whatsapp": "+919443152288",
+      "email": "contact@psr.edu.in",
+      "website": "https://psr.edu.in",
+      "notes": "Evaluating 8-12 acres land parcels along Alagar Kovil Corridor for setting up an International Public School annexe. Prefers clear title converted yellow/institutional zone land.",
+      "status": "New",
+      "dateAdded": "2024-05-20T10:45:00Z"
+    },
+    {
+      "id": "LEAD-MDU-014",
+      "name": "Lakshmi School (TVS Educational Society)",
+      "category": "K-12 Educational Foundation",
+      "location": "Veerapanjan, Madurai",
+      "phone": "+914522429211",
+      "whatsapp": "+919842822100",
+      "email": "admin@lakshmischool.edu.in",
+      "website": "https://lakshmischool.edu.in",
+      "notes": "Looking for 5 to 8 acres land parcel within 10 km radius of Alagar Kovil stretch for a specialized primary school wing and sports turf complex. Direct purchase.",
+      "status": "New",
+      "dateAdded": "2024-05-20T11:20:00Z"
+    },
+    {
+      "id": "LEAD-MDU-015",
+      "name": "Pioneer Educational Trust Madurai",
+      "category": "K-12 & Vocational Training Group",
+      "location": "K.Pudur, Madurai",
+      "phone": "+914522560120",
+      "whatsapp": "+919344102030",
+      "email": "pioneertrust.mdu@gmail.com",
+      "website": "Not public",
+      "notes": "Requires 4 to 7 acres of commercial/institutional land along main Alagar Kovil Road for establishment of a new CBSE wing and hostel facility.",
+      "status": "New",
+      "dateAdded": "2024-05-20T12:00:00Z"
     }
   ]
 }

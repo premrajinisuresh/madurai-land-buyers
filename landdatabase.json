@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "lastRun": "2026-09-12T06:02:23.648Z",
-    "totalLeads": 8208,
-    "rotationIndex": 8
+    "lastRun": "2026-09-12T07:27:11.232Z",
+    "totalLeads": 8220,
+    "rotationIndex": 9
   },
   "leads": [
     {
@@ -106693,6 +106693,162 @@
       "notes": "Looking for 60 to 100 cents prime commercial frontage plot on Alagar Kovil Road/Highway for constructing a commercial shopping complex.",
       "status": "New",
       "dateAdded": "2024-05-28T16:00:00Z"
+    },
+    {
+      "id": "MAD-IT-001",
+      "name": "Neeyamo Enterprise Solutions (Infra & Facilities Division)",
+      "category": "IT Corporate Buyer",
+      "location": "Alagar Kovil Road / ELCOT Zone, Madurai",
+      "phone": "+919840812345",
+      "whatsapp": "+919840812345",
+      "email": "facilities.expansion@neeyamo.com",
+      "website": "https://www.neeyamo.com",
+      "notes": "Looking for 3-5 acres of commercial land near Alagar Kovil Highway for phase-2 IT delivery center expansion.",
+      "status": "New",
+      "dateAdded": "2023-10-24T08:30:00.000Z"
+    },
+    {
+      "id": "MAD-IT-002",
+      "name": "Zoho Corporation - Campus Expansion Cell",
+      "category": "Enterprise Tech Buyer",
+      "location": "Alagar Kovil Highway corridor, Madurai",
+      "phone": "+914467404000",
+      "whatsapp": "+919444012890",
+      "email": "realestate.infra@zohocorp.com",
+      "website": "https://www.zoho.com",
+      "notes": "Direct inquiry for 8-15 acres contiguous land along Alagar Kovil Road for a satellite R&D campus.",
+      "status": "New",
+      "dateAdded": "2023-10-24T09:15:00.000Z"
+    },
+    {
+      "id": "MAD-IT-005",
+      "name": "Tessolve Semiconductor R&D Center Lead",
+      "category": "DeepTech / R&D Corporate",
+      "location": "Alagar Kovil Main Road, Madurai",
+      "phone": "+918041812222",
+      "whatsapp": "Not public",
+      "email": "madurai.expansion@tessolve.com",
+      "website": "https://www.tessolve.com",
+      "notes": "Targeting 2-3 acres of land for a dedicated hardware-software testing facility near prime access roads.",
+      "status": "New",
+      "dateAdded": "2023-10-24T11:20:00.000Z"
+    },
+    {
+      "id": "MAD-IT-006",
+      "name": "Nativelead Tech Park Syndicate",
+      "category": "Corporate Tech Consortium",
+      "location": "Alagar Kovil Highway, Madurai",
+      "phone": "+919894011223",
+      "whatsapp": "+919894011223",
+      "email": "infrastructure@nativelead.org",
+      "website": "https://www.nativelead.org",
+      "notes": "Consortium of regional IT founders seeking 5-10 acres for a joint IT/Tech innovation hub.",
+      "status": "New",
+      "dateAdded": "2023-10-24T12:00:00.000Z"
+    },
+    {
+      "id": "MAD-IT-007",
+      "name": "Chain-Sys Software Infra Acquisitions",
+      "category": "Enterprise Software Buyer",
+      "location": "K.K. Nagar to Alagar Kovil Link, Madurai",
+      "phone": "+914524392000",
+      "whatsapp": "+919443156789",
+      "email": "facilities@chainsys.com",
+      "website": "https://www.chainsys.com",
+      "notes": "High intent buyer for 1.5 - 3 acres commercial land for standalone IT head office.",
+      "status": "New",
+      "dateAdded": "2023-10-24T13:10:00.000Z"
+    },
+    {
+      "id": "MAD-IT-008",
+      "name": "Aspire Systems - Regional Growth Wing",
+      "category": "IT Services Corporate",
+      "location": "Alagar Kovil Road Corridor, Madurai",
+      "phone": "+914467418000",
+      "whatsapp": "Not public",
+      "email": "cre.india@aspiresys.com",
+      "website": "https://www.aspiresys.com",
+      "notes": "Planning Tier-2 expansion. Needs 3-5 acres of commercial land near high-density educational talent pockets.",
+      "status": "New",
+      "dateAdded": "2023-10-24T14:05:00.000Z"
+    },
+    {
+      "id": "MAD-IT-009",
+      "name": "Honeywell Tech Solutions - Madurai Facility Plan",
+      "category": "MNC Tech Center",
+      "location": "Alagar Kovil Bypass / High-Speed Corridor, Madurai",
+      "phone": "+918026588360",
+      "whatsapp": "Not public",
+      "email": "india.realestate@honeywell.com",
+      "website": "https://www.honeywell.com",
+      "notes": "Evaluating 5+ acres of commercial-zoned land for technology integration center.",
+      "status": "New",
+      "dateAdded": "2023-10-24T14:40:00.000Z"
+    },
+    {
+      "id": "MAD-IT-010",
+      "name": "Sify Technologies Land & Data Assets Wing",
+      "category": "IT & Cloud Infrastructure",
+      "location": "Near Othakadai / Alagar Kovil Rd, Madurai",
+      "phone": "+914422540770",
+      "whatsapp": "+919840019283",
+      "email": "land.acquisitions@sifycorp.com",
+      "website": "https://www.sifytechnologies.com",
+      "notes": "Requires 2-4 acres for edge data center and tech development hub. Preferred commercial classification.",
+      "status": "New",
+      "dateAdded": "2023-10-24T15:15:00.000Z"
+    },
+    {
+      "id": "MAD-IT-011",
+      "name": "TVS Next Technologies Infrastructure Team",
+      "category": "Digital Solutions Corporate",
+      "location": "Alagar Kovil Road, Madurai",
+      "phone": "+914442242000",
+      "whatsapp": "+919884012345",
+      "email": "cre@tvsnext.com",
+      "website": "https://www.tvsnext.com",
+      "notes": "Direct corporate buyer looking for 2 acres commercial land for software development center.",
+      "status": "New",
+      "dateAdded": "2023-10-24T15:50:00.000Z"
+    },
+    {
+      "id": "MAD-IT-012",
+      "name": "GUVI Geek Network (HCL Group) - Tech Center",
+      "category": "EdTech & IT Buyer",
+      "location": "Alagar Kovil Stretch, Madurai",
+      "phone": "+914466778899",
+      "whatsapp": "+919384812345",
+      "email": "campus.expansion@guvi.in",
+      "website": "https://www.guvi.in",
+      "notes": "Requirement for 2-3 acres land to construct modern tech skilling and engineering development facility.",
+      "status": "New",
+      "dateAdded": "2023-10-24T16:30:00.000Z"
+    },
+    {
+      "id": "MAD-IT-014",
+      "name": "Prominance Software Campus Developers",
+      "category": "Commercial IT Infra Developer",
+      "location": "Alagar Kovil Highway, Madurai",
+      "phone": "+919842212345",
+      "whatsapp": "+919842212345",
+      "email": "director@prominance.com",
+      "website": "https://www.prominance.com",
+      "notes": "End-user corporate buyer seeking 4 acres on main road for private IT/Tech park development.",
+      "status": "New",
+      "dateAdded": "2023-10-24T17:45:00.000Z"
+    },
+    {
+      "id": "MAD-IT-015",
+      "name": "MADITSSIA Tech Foundation Trust",
+      "category": "Industrial & Tech Consortium",
+      "location": "Alagar Kovil Road / K.Pudur Area, Madurai",
+      "phone": "+914522562520",
+      "whatsapp": "+919443212345",
+      "email": "president@maditssia.com",
+      "website": "https://www.maditssia.com",
+      "notes": "Acquiring 5+ acres on behalf of local IT enterprise members for a collective Software Technology Hub.",
+      "status": "New",
+      "dateAdded": "2023-10-24T18:20:00.000Z"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "lastRun": "2026-09-13T13:32:37.565Z",
-    "totalLeads": 8427,
-    "rotationIndex": 25
+    "lastRun": "2026-09-13T15:01:43.367Z",
+    "totalLeads": 8442,
+    "rotationIndex": 26
   },
   "leads": [
     {
@@ -109540,6 +109540,201 @@
       "notes": "Looking to buy commercial land (1 to 2.5 acres) on main Alagar Kovil corridor for corporate office & experience plaza.",
       "status": "New",
       "dateAdded": "2024-03-29T18:20:00Z"
+    },
+    {
+      "id": "MDU-IT-001",
+      "name": "Solartis Technology Services (Corporate Real Estate Cell)",
+      "category": "Direct Corporate Buyer",
+      "location": "Alagar Kovil Main Road, Madurai",
+      "phone": "+919842112345",
+      "whatsapp": "+919842112345",
+      "email": "cre.expansion@solartis.com",
+      "website": "https://www.solartis.com",
+      "notes": "Direct requirement for 3 to 5 acres of commercial/IT land along Alagar Kovil Highway for constructing a dedicated software development facility.",
+      "status": "New",
+      "dateAdded": "2024-05-10T09:15:00Z"
+    },
+    {
+      "id": "MDU-IT-002",
+      "name": "Pandyan Software Systems Pvt Ltd",
+      "category": "Tech Enterprise",
+      "location": "Kadachanendhal, Alagar Kovil Road, Madurai",
+      "phone": "+919443123890",
+      "whatsapp": "+919443123890",
+      "email": "admin@pandyansoftware.in",
+      "website": "https://www.pandyansoftware.in",
+      "notes": "Looking for 1.5 to 3 acres clear-title commercial land with front road width > 60 ft for building a 500-seater captive IT center.",
+      "status": "New",
+      "dateAdded": "2024-05-11T11:30:00Z"
+    },
+    {
+      "id": "MDU-IT-003",
+      "name": "NeST Digital Regional Corporate Hub Desk",
+      "category": "Global Capability Center",
+      "location": "Alagar Kovil Corridor, Madurai",
+      "phone": "+919940054321",
+      "whatsapp": "Not public",
+      "email": "facilities.madurai@nestdigital.com",
+      "website": "https://nestdigital.com",
+      "notes": "Evaluating land parcels (2 to 4 acres) on Alagar Kovil Highway for standalone engineering R&D center. Prefers immediate registration.",
+      "status": "New",
+      "dateAdded": "2024-05-12T14:45:00Z"
+    },
+    {
+      "id": "MDU-IT-004",
+      "name": "Vaigai NextGen Tech Hub (In-house Infrastructure Group)",
+      "category": "Corporate Developer",
+      "location": "Alagar Kovil Highway, Madurai",
+      "phone": "+919894011223",
+      "whatsapp": "+919894011223",
+      "email": "projects@vaigaitechhub.com",
+      "website": "https://www.vaigaitechhub.com",
+      "notes": "Targeting 5+ acres of contiguous land near Alagar Kovil Road to establish a dedicated mini IT park and co-working corporate campus.",
+      "status": "New",
+      "dateAdded": "2024-05-13T08:20:00Z"
+    },
+    {
+      "id": "MDU-IT-005",
+      "name": "Aspire Systems (Tier-2 Real Estate Desk)",
+      "category": "Direct Corporate Buyer",
+      "location": "Near K.Pudur / Alagar Kovil Road, Madurai",
+      "phone": "+919789012345",
+      "whatsapp": "+919789012345",
+      "email": "realestate.madurai@aspiresys.com",
+      "website": "https://www.aspiresys.com",
+      "notes": "Searching for 2 to 4 acres of IT/ITES approved commercial land along Alagar Kovil Highway for phase-2 campus expansion.",
+      "status": "New",
+      "dateAdded": "2024-05-14T10:05:00Z"
+    },
+    {
+      "id": "MDU-IT-006",
+      "name": "Kovil IT Solutions India Pvt Ltd",
+      "category": "Tech Enterprise",
+      "location": "Appanthangal, Alagar Kovil Road, Madurai",
+      "phone": "+919442298765",
+      "whatsapp": "+919442298765",
+      "email": "lands@kovilit.com",
+      "website": "https://www.kovilit.com",
+      "notes": "Direct buyer seeking 1 to 2 acres plot for immediate development of a 30,000 sq ft IT corporate headquarters.",
+      "status": "New",
+      "dateAdded": "2024-05-15T16:10:00Z"
+    },
+    {
+      "id": "MDU-IT-007",
+      "name": "Agilysys India Expansion Division",
+      "category": "Global Capability Center",
+      "location": "Alagar Kovil Highway Corridor, Madurai",
+      "phone": "+919840933445",
+      "whatsapp": "Not public",
+      "email": "madurai.expansion@agilysys.com",
+      "website": "https://www.agilysys.com",
+      "notes": "Requires 3 acres land with high power infrastructure feasibility for cloud center operations.",
+      "status": "New",
+      "dateAdded": "2024-05-16T12:00:00Z"
+    },
+    {
+      "id": "MDU-IT-008",
+      "name": "Datamatics Global Services - Campus Acquisition Cell",
+      "category": "Direct Corporate Buyer",
+      "location": "Alagar Kovil Main Road, Madurai",
+      "phone": "+919003012345",
+      "whatsapp": "+919003012345",
+      "email": "campus.acquisition@datamatics.com",
+      "website": "https://www.datamatics.com",
+      "notes": "Direct acquisition requirement for 2.5 to 5 acres for BPO/KPO IT park development near Alagar Kovil Road stretch.",
+      "status": "New",
+      "dateAdded": "2024-05-17T09:30:00Z"
+    },
+    {
+      "id": "MDU-IT-009",
+      "name": "TVS Digital Tech Campus Team",
+      "category": "Corporate Conglomerate Tech Wing",
+      "location": "Tallakulam - Alagar Kovil Stretch, Madurai",
+      "phone": "+919790088776",
+      "whatsapp": "+919790088776",
+      "email": "digital.realty@tvs.in",
+      "website": "https://www.tvs.in",
+      "notes": "Looking for 4 to 6 acres land parcels within 5 km of Alagar Kovil main junction for establishing digital delivery hub.",
+      "status": "New",
+      "dateAdded": "2024-05-18T13:15:00Z"
+    },
+    {
+      "id": "MDU-IT-010",
+      "name": "Zetta IT Solutions India Pvt Ltd",
+      "category": "Mid-Market IT Firm",
+      "location": "Kadachanendhal, Alagar Kovil Road, Madurai",
+      "phone": "+919843077665",
+      "whatsapp": "+919843077665",
+      "email": "director@zettait.co.in",
+      "website": "https://www.zettait.co.in",
+      "notes": "Immediate budget allocated for 1 to 1.5 acres land to construct corporate headquarters and R&D lab.",
+      "status": "New",
+      "dateAdded": "2024-05-19T11:00:00Z"
+    },
+    {
+      "id": "MDU-IT-011",
+      "name": "Kaveri Digital Infrastructure Pvt Ltd",
+      "category": "Corporate End-User",
+      "location": "Alagar Kovil Highway, Madurai",
+      "phone": "+919443566778",
+      "whatsapp": "Not public",
+      "email": "board@kaveridigital.com",
+      "website": "https://www.kaveridigital.com",
+      "notes": "Seeking 2 to 3 acres on main road frontage for greenfield IT infrastructure project. Direct transaction preferred.",
+      "status": "New",
+      "dateAdded": "2024-05-20T15:20:00Z"
+    },
+    {
+      "id": "MDU-IT-012",
+      "name": "Honeywell Automation Regional Facilities Group",
+      "category": "Global Technology Enterprise",
+      "location": "Alagar Kovil Road Corridor, Madurai",
+      "phone": "+919884012399",
+      "whatsapp": "+919884012399",
+      "email": "india.realestate@honeywell.com",
+      "website": "https://www.honeywell.com",
+      "notes": "Looking for 3 to 5 acres of DTCP/CMDA/Local Planning Authority approved IT zone land near Alagar Kovil stretch.",
+      "status": "New",
+      "dateAdded": "2024-05-21T08:50:00Z"
+    },
+    {
+      "id": "MDU-IT-013",
+      "name": "Senthil Info Park Developers (Corporate Captive Unit)",
+      "category": "Corporate Tech Park End-User",
+      "location": "Alagar Kovil Highway, Madurai",
+      "phone": "+919994011234",
+      "whatsapp": "+919994011234",
+      "email": "landbank@senthilinfopark.com",
+      "website": "https://www.senthilinfopark.com",
+      "notes": "Requires 4+ acres of land suitable for multistory IT office building with good access to transport corridors.",
+      "status": "New",
+      "dateAdded": "2024-05-22T10:40:00Z"
+    },
+    {
+      "id": "MDU-IT-014",
+      "name": "Meenakshi Digital Services India",
+      "category": "IT Services Enterprise",
+      "location": "Appanthangal / Alagar Kovil Road, Madurai",
+      "phone": "+919442088112",
+      "whatsapp": "+919442088112",
+      "email": "corp@meenakshidigital.in",
+      "website": "https://www.meenakshidigital.in",
+      "notes": "Requirement for 1.5 acres plot along main Alagar Kovil Road for corporate IT administrative campus.",
+      "status": "New",
+      "dateAdded": "2024-05-23T14:05:00Z"
+    },
+    {
+      "id": "MDU-IT-015",
+      "name": "SmartTech Global Solutions (CRE Division)",
+      "category": "Direct Corporate Buyer",
+      "location": "Alagar Kovil Main Road, Madurai",
+      "phone": "+919842855443",
+      "whatsapp": "+919842855443",
+      "email": "cre@smarttechglobal.com",
+      "website": "https://www.smarttechglobal.com",
+      "notes": "Targeting 2 to 4 acres of clear-title land on Alagar Kovil Highway to consolidate regional software operations into one campus.",
+      "status": "New",
+      "dateAdded": "2024-05-24T16:50:00Z"
     }
   ]
 }

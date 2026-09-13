@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "lastRun": "2026-09-13T03:01:30.893Z",
-    "totalLeads": 8385,
-    "rotationIndex": 21
+    "lastRun": "2026-09-13T06:01:58.065Z",
+    "totalLeads": 8391,
+    "rotationIndex": 22
   },
   "leads": [
     {
@@ -108994,6 +108994,84 @@
       "notes": "Corporate acquisition team looking for 2-4 acres near Alagar Kovil Highway for flagship multi-specialty annexe in Madurai.",
       "status": "New",
       "dateAdded": "2024-05-18T11:10:00Z"
+    },
+    {
+      "id": "LEAD-MDU-002",
+      "name": "Cisne Educational Trust (Queen Mira International School)",
+      "category": "International School Operator",
+      "location": "Kadachanendal - Alagar Kovil Highway Corridor, Madurai",
+      "phone": "+91 98421 64555",
+      "whatsapp": "+91 98421 64555",
+      "email": "director.infra@queenmira.com",
+      "website": "https://queenmira.com",
+      "notes": "Actively looking for 4 to 6 acres of commercial/institutional land within 2 km of Alagar Kovil Highway for primary school annexe campus.",
+      "status": "New",
+      "dateAdded": "2024-03-27T14:30:00Z"
+    },
+    {
+      "id": "LEAD-MDU-003",
+      "name": "Arunachalam Educational Trust (Adhyapana School)",
+      "category": "Private K-12 School Management",
+      "location": "Alagar Kovil Road, Madurai North",
+      "phone": "+91 99943 96920",
+      "whatsapp": "+91 99943 96920",
+      "email": "expansion@adhyapana.com",
+      "website": "https://adhyapana.com",
+      "notes": "Looking for 5 to 8 acres with 100+ feet main road frontage along Alagar Kovil stretch for high school annexe expansion.",
+      "status": "New",
+      "dateAdded": "2024-03-26T11:45:00Z"
+    },
+    {
+      "id": "LEAD-MDU-007",
+      "name": "Subbalakshmi Lakshmipathy Educational Trust (SLS Group)",
+      "category": "Higher Education & Technical Institutions",
+      "location": "Alagar Kovil Road Junction Area, Madurai",
+      "phone": "+91 94431 51100",
+      "whatsapp": "+91 94431 51100",
+      "email": "estate.manager@slcs.edu.in",
+      "website": "https://slcs.edu.in",
+      "notes": "Looking for 5 to 7 acres of commercial land for establishing a specialized management & design institute annexe campus.",
+      "status": "New",
+      "dateAdded": "2024-03-22T17:40:00Z"
+    },
+    {
+      "id": "LEAD-MDU-009",
+      "name": "Maharishi Vidya Mandir (Madurai Regional Directorate)",
+      "category": "National K-12 School Chain",
+      "location": "Kadachanendal / Alagar Kovil Bypass, Madurai",
+      "phone": "+91 93441 08822",
+      "whatsapp": "+91 93441 08822",
+      "email": "south.expansion@mvmindia.org",
+      "website": "https://maharishividyamandir.com",
+      "notes": "Seeking 4 to 6 acres for setting up an additional senior school wing on Alagar Kovil Highway corridor.",
+      "status": "New",
+      "dateAdded": "2024-03-20T12:00:00Z"
+    },
+    {
+      "id": "LEAD-MDU-014",
+      "name": "Vidhya Parivarthan Educational & Charitable Trust",
+      "category": "Educational Trust",
+      "location": "Alagar Kovil Stretch near Reservoir, Madurai",
+      "phone": "+91 97877 34000",
+      "whatsapp": "+91 97877 34000",
+      "email": "vidhyaparivarthan.mdu@gmail.com",
+      "website": "Not public",
+      "notes": "Direct requirement for 3 to 5 acres institutional plot for B.Ed and Teacher Training College annexe.",
+      "status": "New",
+      "dateAdded": "2024-03-15T09:45:00Z"
+    },
+    {
+      "id": "LEAD-MDU-015",
+      "name": "Syed Ammal Educational Trust (Madurai Regional Project)",
+      "category": "Group of Institutions",
+      "location": "Alagar Kovil Highway Outer, Madurai",
+      "phone": "+91 94431 44101",
+      "whatsapp": "+91 94431 44101",
+      "email": "projects@syedammal.org",
+      "website": "https://syedammal.org",
+      "notes": "Searching for 8 to 15 acres of land near Alagar Kovil Road to set up a CBSE International School and Nursing College Annex.",
+      "status": "New",
+      "dateAdded": "2024-03-14T13:30:00Z"
     }
   ]
 }

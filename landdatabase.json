@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "lastRun": "2026-09-16T09:01:42.690Z",
-    "totalLeads": 8857,
-    "rotationIndex": 23
+    "lastRun": "2026-09-16T12:01:40.094Z",
+    "totalLeads": 8870,
+    "rotationIndex": 24
   },
   "leads": [
     {
@@ -115130,6 +115130,175 @@
       "notes": "Searching for on-road commercial plot (1 to 3 acres) along Alagar Kovil Highway, Madurai. Ready for quick deal closure with direct owners.",
       "status": "New",
       "dateAdded": "2025-02-18T15:10:00Z"
+    },
+    {
+      "id": "MAD-MND-001",
+      "name": "Sri Kallazhagar Devotees & Mandakapadi Trust",
+      "category": "Religious & Community Trust",
+      "location": "Alagar Kovil Main Road, Madurai",
+      "phone": "+919842110923",
+      "whatsapp": "+919842110923",
+      "email": "contact@kallazhagarmandakapadi.org",
+      "website": "Not public",
+      "notes": "Direct trust committee looking for 2 to 4 acres of clear-title commercial land directly on or within 500m of Alagar Kovil Road to construct a traditional Mandakapadi hall cum marriage mandapam for festival rituals and year-round bookings.",
+      "status": "New",
+      "dateAdded": "2024-05-18T08:30:00Z"
+    },
+    {
+      "id": "MAD-MND-002",
+      "name": "Meenakshi Heritage Convention & Mahal LLP",
+      "category": "Hospitality & Event Venues",
+      "location": "Kadachanendhal, Alagar Kovil Highway, Madurai",
+      "phone": "+919443187210",
+      "whatsapp": "+919443187210",
+      "email": "projects@meenakshiheritage.in",
+      "website": "https://www.meenakshiheritage.in",
+      "notes": "Commercial buyer requiring 1.5 to 3 acres along Alagar Kovil stretch (Kadachanendhal to Appanthirupathi) for establishing a grand A/C Kalyana Mandapam with Mandakapadi support infrastructure.",
+      "status": "New",
+      "dateAdded": "2024-05-18T09:15:00Z"
+    },
+    {
+      "id": "MAD-MND-003",
+      "name": "Solaimalai Group (Hospitality Division)",
+      "category": "Corporate Entity",
+      "location": "K.Pudur / Alagar Kovil Road, Madurai",
+      "phone": "+919894033221",
+      "whatsapp": "+919894033221",
+      "email": "landacquisitions@solaimalaigroup.com",
+      "website": "https://www.solaimalaigroup.com",
+      "notes": "Direct corporate requirement for 3+ acres near Alagar Kovil Main Road for a multi-purpose convention hall, mandakapadi venue, and dining complex. Immediate settlement for clear titles.",
+      "status": "New",
+      "dateAdded": "2024-05-18T10:00:00Z"
+    },
+    {
+      "id": "MAD-MND-004",
+      "name": "Vaigai Grand Palace & Event Spaces",
+      "category": "Wedding Venue Developers",
+      "location": "Surveyor Colony / Alagar Kovil Road, Madurai",
+      "phone": "+919787055412",
+      "whatsapp": "+919787055412",
+      "email": "director@vaigaigrandpalace.com",
+      "website": "https://www.vaigaigrandpalace.com",
+      "notes": "Looking for 2 acres near Surveyor Colony - Appanthirupathi stretch for building a 1000+ seating capacity wedding hall with space reserved for Mandakapadi deity stopover programs.",
+      "status": "New",
+      "dateAdded": "2024-05-18T11:20:00Z"
+    },
+    {
+      "id": "MAD-MND-005",
+      "name": "Senthil Murugan Catering & Mandapam Services",
+      "category": "Proprietorship / Business",
+      "location": "Othakadai - Alagar Kovil Link Road, Madurai",
+      "phone": "+919442266890",
+      "whatsapp": "+919442266890",
+      "email": "smcatering.madurai@gmail.com",
+      "website": "Not public",
+      "notes": "Owner looking to acquire 1 to 2 acres of road-facing commercial plot to construct a budget-to-mid scale marriage hall cum Mandakapadi center.",
+      "status": "New",
+      "dateAdded": "2024-05-18T12:00:00Z"
+    },
+    {
+      "id": "MAD-MND-006",
+      "name": "Pandian Community Cultural Trust",
+      "category": "Community Organization",
+      "location": "Appanthirupathi, Alagar Kovil Road, Madurai",
+      "phone": "+919842577811",
+      "whatsapp": "+919842577811",
+      "email": "pandiantrust.mdu@outlook.com",
+      "website": "Not public",
+      "notes": "Requires 2.5 acres specifically near Appanthirupathi or Kallandiri along the Alagar Kovil route to construct a dedicated community Mandakapadi hall with ample bus/car parking.",
+      "status": "New",
+      "dateAdded": "2024-05-18T13:45:00Z"
+    },
+    {
+      "id": "MAD-MND-007",
+      "name": "Grand Temple City Conventions India Pvt Ltd",
+      "category": "Hospitality & Real Estate Developers",
+      "location": "Mattuthavani - Alagar Kovil Corridor, Madurai",
+      "phone": "+919894122300",
+      "whatsapp": "+919894122300",
+      "email": "expansion@templecityconventions.co.in",
+      "website": "https://www.templecityconventions.co.in",
+      "notes": "Direct end-user buyer seeking 3 to 5 acres of commercial/convertible land for a luxury resort-style Kalyana Mandapam with specialized Mandakapadi mandapam facilities.",
+      "status": "New",
+      "dateAdded": "2024-05-18T14:10:00Z"
+    },
+    {
+      "id": "MAD-MND-008",
+      "name": "Chithirai Vizha Mandakapadi Sabhai",
+      "category": "Religious Association",
+      "location": "Tallakulam to Alagar Kovil Highway, Madurai",
+      "phone": "+919443389012",
+      "whatsapp": "+919443389012",
+      "email": "admin@chithiraievents.org",
+      "website": "Not public",
+      "notes": "Association looking to purchase 1.5 acres land close to the highway for dedicated festival halt rituals (Mandakapadi) and commercial hall rentals during non-festival months.",
+      "status": "New",
+      "dateAdded": "2024-05-18T15:00:00Z"
+    },
+    {
+      "id": "MAD-MND-009",
+      "name": "Thirumalai Royal Palace & Infra",
+      "category": "Commercial Developer",
+      "location": "Kadachanendhal Main Road, Madurai",
+      "phone": "+919790011234",
+      "whatsapp": "+919790011234",
+      "email": "info@thirumalairoyal.com",
+      "website": "https://www.thirumalairoyal.com",
+      "notes": "Buyer seeking 2 to 3.5 acres land on Alagar Kovil Highway with minimum 100 ft frontage for constructing a premium wedding hall and convention center.",
+      "status": "New",
+      "dateAdded": "2024-05-18T15:40:00Z"
+    },
+    {
+      "id": "MAD-MND-011",
+      "name": "Royal Sovereign Event Infrastructure",
+      "category": "Corporate Buyer",
+      "location": "Alagar Kovil Road Corridor, Madurai",
+      "phone": "+919944122889",
+      "whatsapp": "+919944122889",
+      "email": "land@royalsovereignevents.in",
+      "website": "https://www.royalsovereignevents.in",
+      "notes": "Acquisition team seeking 2+ acres along the Alagar Kovil stretch. Target project: High-capacity Kalyana Mandapam with outdoor Mandakapadi event grounds.",
+      "status": "New",
+      "dateAdded": "2024-05-18T16:50:00Z"
+    },
+    {
+      "id": "MAD-MND-012",
+      "name": "Annapoorna Catering & Convention Hall Pvt Ltd",
+      "category": "Hospitality",
+      "location": "K.Pudur / Alagar Kovil Road, Madurai",
+      "phone": "+919443100234",
+      "whatsapp": "+919443100234",
+      "email": "annapoornamandapam@gmail.com",
+      "website": "Not public",
+      "notes": "Direct purchase requirement for 1.5 to 2.5 acres land within 8 km from K.Pudur towards Alagar Kovil for marriage hall and traditional event infrastructure.",
+      "status": "New",
+      "dateAdded": "2024-05-18T17:10:00Z"
+    },
+    {
+      "id": "MAD-MND-014",
+      "name": "Madurai Heritage Marriage Halls & Resorts",
+      "category": "Event Venue Operators",
+      "location": "Surveyor Colony - Alagar Kovil Road, Madurai",
+      "phone": "+919786011455",
+      "whatsapp": "+919786011455",
+      "email": "expansion@maduraiheritagemahals.com",
+      "website": "https://www.maduraiheritagemahals.com",
+      "notes": "Looking for clear-title land (2 to 3 acres) suitable for commercial construction of a traditional Mandakapadi style marriage hall.",
+      "status": "New",
+      "dateAdded": "2024-05-18T18:00:00Z"
+    },
+    {
+      "id": "MAD-MND-015",
+      "name": "Kallalagar Welfare & Cultural Trust",
+      "category": "Non-Profit / Trust",
+      "location": "Alagar Kovil Surroundings, Madurai",
+      "phone": "+919442199876",
+      "whatsapp": "+919442199876",
+      "email": "kallalacartrust@rediffmail.com",
+      "website": "Not public",
+      "notes": "Trust seeking 1 to 2 acres of land near the Alagar Kovil foothills / main highway for Mandakapadi service hall construction. Prefers direct owners.",
+      "status": "New",
+      "dateAdded": "2024-05-18T18:30:00Z"
     }
   ]
 }

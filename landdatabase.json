@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "lastRun": "2026-09-18T07:45:12.492Z",
-    "totalLeads": 9063,
-    "rotationIndex": 4
+    "lastRun": "2026-09-18T12:01:41.807Z",
+    "totalLeads": 9072,
+    "rotationIndex": 5
   },
   "leads": [
     {
@@ -117808,6 +117808,123 @@
       "notes": "Institutional buyer seeking 4 to 8 acres on Alagar Kovil Highway for a multi-phase healthcare campus and diagnostic annexe. No intermediary participation permitted.",
       "status": "New",
       "dateAdded": "2025-02-19T15:20:00Z"
+    },
+    {
+      "id": "LEAD-MDU-002",
+      "name": "Lakshmi School / TVS Educational Society",
+      "category": "K-12 School Group",
+      "location": "Alagar Kovil Road Corridor, Madurai, Tamil Nadu",
+      "phone": "+919842145890",
+      "whatsapp": "+919842145890",
+      "email": "expansion@lakshmischool.edu.in",
+      "website": "https://lakshmischool.edu.in",
+      "notes": "Looking for 6 to 8 acres on or near Alagar Kovil Road for sports complex and senior secondary annexe campus. High intent, non-intermediary direct purchase.",
+      "status": "New",
+      "dateAdded": "2025-02-11T09:15:00Z"
+    },
+    {
+      "id": "LEAD-MDU-003",
+      "name": "Narayana Educational Society (South Expansion Div)",
+      "category": "Institutional Chain",
+      "location": "Kadachanendal - Alagar Kovil Stretch, Madurai",
+      "phone": "+919176002341",
+      "whatsapp": "+919176002341",
+      "email": "realestate.south@narayanagroup.com",
+      "website": "https://narayanagroup.com",
+      "notes": "Mandate for 4 to 6 acres with minimum 150 ft main road frontage along Alagar Kovil stretch for K-12 Techno School annexe.",
+      "status": "New",
+      "dateAdded": "2025-02-12T10:45:00Z"
+    },
+    {
+      "id": "LEAD-MDU-004",
+      "name": "Sri Chaitanya Educational Institutions (TN Campus Office)",
+      "category": "Educational Group",
+      "location": "Alagar Kovil Main Road, Madurai, Tamil Nadu",
+      "phone": "+919940188234",
+      "whatsapp": "+919940188234",
+      "email": "infra.tn@srichaitanya.net",
+      "website": "https://srichaitanya.net",
+      "notes": "Direct land purchase requirement of 3 to 7 acres along Alagar Kovil road for junior college & coaching academy annexe campus.",
+      "status": "New",
+      "dateAdded": "2025-02-13T11:20:00Z"
+    },
+    {
+      "id": "LEAD-MDU-005",
+      "name": "Solamalai Educational Institutions Project Committee",
+      "category": "Engineering & Arts College Group",
+      "location": "Alagar Kovil Belt, Madurai, Tamil Nadu",
+      "phone": "+919894012345",
+      "whatsapp": "+919894012345",
+      "email": "projects@solamalai.ac.in",
+      "website": "https://solamalai.ac.in",
+      "notes": "Seeking 10 to 15 acres within 2 km of Alagar Kovil Highway for new Arts and Science & Allied Health Science annexe campus.",
+      "status": "New",
+      "dateAdded": "2025-02-14T07:50:00Z"
+    },
+    {
+      "id": "LEAD-MDU-007",
+      "name": "KLN Educational Trust (Infra Division)",
+      "category": "Engineering College Group",
+      "location": "Madurai - Alagar Kovil Institutional Corridor",
+      "phone": "+919443133221",
+      "whatsapp": "+919443133221",
+      "email": "land.mgmt@kln.ac.in",
+      "website": "https://kln.ac.in",
+      "notes": "Institutional buyer seeking 12+ acres land parcel for technical skill development center and hostel annexe near Alagar Kovil Corridor.",
+      "status": "New",
+      "dateAdded": "2025-02-16T12:00:00Z"
+    },
+    {
+      "id": "LEAD-MDU-009",
+      "name": "Maharishi Vidya Mandir Schools (Madurai Expansion Cell)",
+      "category": "K-12 School Chain",
+      "location": "Alagar Kovil Highway, Madurai, Tamil Nadu",
+      "phone": "+919789012340",
+      "whatsapp": "+919789012340",
+      "email": "expansion@mvm.ac.in",
+      "website": "https://maharishividyamandir.com",
+      "notes": "Acquisition wing seeking 3.5 to 5 acres for a new senior secondary academic block and kindergarten wing near Alagar Kovil corridor.",
+      "status": "New",
+      "dateAdded": "2025-02-18T10:00:00Z"
+    },
+    {
+      "id": "LEAD-MDU-011",
+      "name": "Orchids The International School (South Infra Division)",
+      "category": "International School Chain",
+      "location": "Alagar Kovil Highway, Madurai, Tamil Nadu",
+      "phone": "+919310012890",
+      "whatsapp": "+919310012890",
+      "email": "land.south@orchids.edu.in",
+      "website": "https://orchidsinternationalschool.com",
+      "notes": "Direct mandate for 3 to 5 acres contiguous clear-title land on Alagar Kovil main road for new K-12 campus setup.",
+      "status": "New",
+      "dateAdded": "2025-02-20T13:25:00Z"
+    },
+    {
+      "id": "LEAD-MDU-013",
+      "name": "Amrita Vishwa Vidyapeetham (Extension Campus Office)",
+      "category": "Deemed University",
+      "location": "Alagar Kovil Highway / Madurai Outskirts",
+      "phone": "+919442011223",
+      "whatsapp": "Not public",
+      "email": "realestate@amrita.edu",
+      "website": "https://amrita.edu",
+      "notes": "High-budget land acquisition search for 15+ acres along Alagar Kovil institutional zone for an offshore extension center.",
+      "status": "New",
+      "dateAdded": "2025-02-22T08:00:00Z"
+    },
+    {
+      "id": "LEAD-MDU-015",
+      "name": "Syed Ammal Educational Trust (Madurai Regional Wing)",
+      "category": "Educational Trust",
+      "location": "Alagar Kovil Road Corridor, Madurai",
+      "phone": "+919443154321",
+      "whatsapp": "+919443154321",
+      "email": "trust.projects@syedammal.org",
+      "website": "https://syedammal.org",
+      "notes": "Board-approved requirement for 8 acres land parcel for prospective paramedical college and hostel annexe near Alagar Kovil stretch.",
+      "status": "New",
+      "dateAdded": "2025-02-24T16:00:00Z"
     }
   ]
 }

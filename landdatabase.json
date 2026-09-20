@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "lastRun": "2026-09-20T00:01:36.810Z",
-    "totalLeads": 9239,
-    "rotationIndex": 18
+    "lastRun": "2026-09-20T02:24:08.080Z",
+    "totalLeads": 9253,
+    "rotationIndex": 19
   },
   "leads": [
     {
@@ -120096,6 +120096,188 @@
       "notes": "Corporate entity seeking 1 to 1.5 acres for highway restaurant cum retail spice experience center on Alagar Kovil tourist route.",
       "status": "New",
       "dateAdded": "2024-05-24T17:05:00Z"
+    },
+    {
+      "id": "MDU-RES-002",
+      "name": "Heritage Retreats South India Pvt Ltd",
+      "category": "Boutique Resort Brand",
+      "location": "Chennai, Tamil Nadu",
+      "phone": "+919444012890",
+      "whatsapp": "+919444012890",
+      "email": "expansion@heritageretreats.in",
+      "website": "https://www.heritageretreats.in",
+      "notes": "Acquiring 8-12 acres near Alagar Kovil foothills for an eco-heritage resort. Must have main road access or dedicated 30ft approach road.",
+      "status": "New",
+      "dateAdded": "2024-03-28T10:30:00Z"
+    },
+    {
+      "id": "MDU-RES-003",
+      "name": "Dr. K. Soundararajan (AyurWellness Retreats)",
+      "category": "Direct Individual / Healthcare Investor",
+      "location": "Madurai, Tamil Nadu",
+      "phone": "+919894033211",
+      "whatsapp": "+919894033211",
+      "email": "dr.soundar@ayurwellnessgroup.com",
+      "website": "Not public",
+      "notes": "Looking for 4 to 6 acres of quiet, green land off Alagar Kovil Highway to set up an integrative Ayurveda and Naturopathy resort. Cash buyer.",
+      "status": "New",
+      "dateAdded": "2024-03-28T11:45:00Z"
+    },
+    {
+      "id": "MDU-RES-004",
+      "name": "Temple Town Stays & Leisure LLP",
+      "category": "Hospitality Management Company",
+      "location": "Madurai, Tamil Nadu",
+      "phone": "+919789054321",
+      "whatsapp": "+919789054321",
+      "email": "projects@templetownstays.com",
+      "website": "https://www.templetownstays.com",
+      "notes": "Requires 3 to 7 acres along Alagar Kovil main stretch for a spiritual-leisure resort catering to pilgrim tourists and weekend travelers.",
+      "status": "New",
+      "dateAdded": "2024-03-28T14:10:00Z"
+    },
+    {
+      "id": "MDU-RES-005",
+      "name": "Green Acres Eco-Resorts India",
+      "category": "Eco-Tourism Developer",
+      "location": "Bengaluru, Karnataka",
+      "phone": "+918041129800",
+      "whatsapp": "+919900123489",
+      "email": "business@greenacresresorts.com",
+      "website": "https://www.greenacresresorts.com",
+      "notes": "Interested in purchasing 10+ acres near Sirumalai foothills / Alagar Kovil region for a farm-stay eco-resort project.",
+      "status": "New",
+      "dateAdded": "2024-03-28T15:20:00Z"
+    },
+    {
+      "id": "MDU-RES-006",
+      "name": "Annamalai Infrastructure & Leisure",
+      "category": "Corporate Conglomerate",
+      "location": "Coimbatore, Tamil Nadu",
+      "phone": "+919843077112",
+      "whatsapp": "+919843077112",
+      "email": "land@annamalaiinfra.com",
+      "website": "https://www.annamalaiinfra.com",
+      "notes": "Searching for commercial land parcels (6-15 acres) suitable for a 4-star resort and banqueting property along Alagar Kovil Road.",
+      "status": "New",
+      "dateAdded": "2024-03-28T16:50:00Z"
+    },
+    {
+      "id": "MDU-RES-007",
+      "name": "Madurai Royal Conventions & Resort",
+      "category": "Event & Hospitality Developer",
+      "location": "Madurai, Tamil Nadu",
+      "phone": "+919443150022",
+      "whatsapp": "+919443150022",
+      "email": "info@madurairoyalconventions.in",
+      "website": "https://www.madurairoyalconventions.in",
+      "notes": "Direct buyer looking for highway frontage land (Minimum 5 acres) on Alagar Kovil Road for destination wedding resort.",
+      "status": "New",
+      "dateAdded": "2024-03-29T08:00:00Z"
+    },
+    {
+      "id": "MDU-RES-008",
+      "name": "Zenith Leisure & Properties",
+      "category": "Real Estate Investment Trust / Corporate",
+      "location": "Hyderabad, Telangana",
+      "phone": "+914066128900",
+      "whatsapp": "+919100034512",
+      "email": "acquisitions@zenithleisure.co.in",
+      "website": "https://www.zenithleisure.co.in",
+      "notes": "Mandate to acquire 7 to 10 acres of prime resort-zoned or convertable land on Alagar Kovil stretch within 15 km of Madurai city.",
+      "status": "New",
+      "dateAdded": "2024-03-29T08:45:00Z"
+    },
+    {
+      "id": "MDU-RES-009",
+      "name": "Dr. S. Meenakshi Sundaram (NRI Consortium)",
+      "category": "Private HNI Buyer Group",
+      "location": "Singapore / Madurai",
+      "phone": "+6591234567",
+      "whatsapp": "+919842188200",
+      "email": "sundaram.investments@gmail.com",
+      "website": "Not public",
+      "notes": "Direct syndicate buying 10-12 acres for private luxury villas and wellness resort near Alagar Kovil temple precinct.",
+      "status": "New",
+      "dateAdded": "2024-03-29T09:30:00Z"
+    },
+    {
+      "id": "MDU-RES-010",
+      "name": "Vaigai Eco Farmstay & Resorts",
+      "category": "Agri-Hospitality Enterprise",
+      "location": "Madurai, Tamil Nadu",
+      "phone": "+919944122334",
+      "whatsapp": "+919944122334",
+      "email": "contact@vaigaifarmstay.com",
+      "website": "https://www.vaigaifarmstay.com",
+      "notes": "Requires 8 to 15 acres of land suitable for organic farming resort project along the Alagar Kovil scenic corridor.",
+      "status": "New",
+      "dateAdded": "2024-03-29T10:15:00Z"
+    },
+    {
+      "id": "MDU-RES-011",
+      "name": "Solai Retreats & Hospitality Ltd",
+      "category": "Hotel & Resort Operator",
+      "location": "Chennai, Tamil Nadu",
+      "phone": "+914428159900",
+      "whatsapp": "+919840011223",
+      "email": "dev@solairetreats.com",
+      "website": "https://www.solairetreats.com",
+      "notes": "Expanding resort chain seeking 5-8 acres near Alagar Kovil. Immediate settlement for single-owner, clear-title properties.",
+      "status": "New",
+      "dateAdded": "2024-03-29T11:00:00Z"
+    },
+    {
+      "id": "MDU-RES-012",
+      "name": "Shri Kallazhagar Eco Farms & Leisure LLP",
+      "category": "Partnership Firm",
+      "location": "Madurai, Tamil Nadu",
+      "phone": "+919842100987",
+      "whatsapp": "+919842100987",
+      "email": "kallazhagarecofarms@outlook.com",
+      "website": "Not public",
+      "notes": "Direct buyer group looking for 10+ acres land near Kadachanendal or Kidaripatti along Alagar Kovil route for resort conversion.",
+      "status": "New",
+      "dateAdded": "2024-03-29T11:40:00Z"
+    },
+    {
+      "id": "MDU-RES-013",
+      "name": "Senthil Kumar (Senthil Textiles Group)",
+      "category": "HNI / Direct Investor",
+      "location": "Rajapalayam / Madurai",
+      "phone": "+919443312099",
+      "whatsapp": "+919443312099",
+      "email": "senthil@senthiltextiles.in",
+      "website": "Not public",
+      "notes": "Industrialist diversifying into hospitality. Direct requirement of 6-10 acres land on Alagar Kovil Main Road for a boutique resort.",
+      "status": "New",
+      "dateAdded": "2024-03-29T12:15:00Z"
+    },
+    {
+      "id": "MDU-RES-014",
+      "name": "Grand Temple View Hospitality Services",
+      "category": "Hotel Operator",
+      "location": "Trichy, Tamil Nadu",
+      "phone": "+919894155443",
+      "whatsapp": "+919894155443",
+      "email": "land@grandtempleview.com",
+      "website": "https://www.grandtempleview.com",
+      "notes": "Looking for 4 to 8 acres land within 3 km radius of Alagar Kovil for constructing a luxury pilgrimage resort.",
+      "status": "New",
+      "dateAdded": "2024-03-29T13:00:00Z"
+    },
+    {
+      "id": "MDU-RES-015",
+      "name": "Southern Spice Heritage Resorts",
+      "category": "Hospitality & Restaurant Group",
+      "location": "Madurai, Tamil Nadu",
+      "phone": "+919842177654",
+      "whatsapp": "+919842177654",
+      "email": "expansion@southernspiceheritageresorts.com",
+      "website": "https://www.southernspiceheritageresorts.com",
+      "notes": "Direct buyer looking for 5+ acres of commercial/agricultural land with good groundwater table along Alagar Kovil stretch.",
+      "status": "New",
+      "dateAdded": "2024-03-29T13:45:00Z"
     }
   ]
 }

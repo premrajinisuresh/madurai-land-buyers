@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "lastRun": "2026-09-20T13:19:26.254Z",
-    "totalLeads": 9323,
-    "rotationIndex": 25
+    "lastRun": "2026-09-20T15:01:54.849Z",
+    "totalLeads": 9337,
+    "rotationIndex": 26
   },
   "leads": [
     {
@@ -121188,6 +121188,188 @@
       "notes": "Searching for 1 to 2 acres on Alagar Kovil Highway with minimum 120 ft road frontage for an integrated automotive 3S complex and commercial service plaza.",
       "status": "New",
       "dateAdded": "2024-05-18T11:45:00Z"
+    },
+    {
+      "id": "LEAD-MDU-IT-001",
+      "name": "Solartis Technology Services - Corporate Infrastructure Dept",
+      "category": "Corporate Buyer",
+      "location": "Alagar Kovil Highway, Kadachanendhal, Madurai",
+      "phone": "+91 98402 11204",
+      "whatsapp": "+91 98402 11204",
+      "email": "corporate.expansion@solartis.com",
+      "website": "https://www.solartis.com",
+      "notes": "Looking for 3 to 5 acres of commercial land near Alagar Kovil Road corridor for a dedicated Insurtech R&D campus expansion.",
+      "status": "New",
+      "dateAdded": "2024-03-28T10:15:00Z"
+    },
+    {
+      "id": "LEAD-MDU-IT-002",
+      "name": "VDart Software Solutions (Land Acquisition Division)",
+      "category": "IT Enterprise",
+      "location": "Near Othakadai Junction, Alagar Kovil Rd, Madurai",
+      "phone": "+91 99445 88210",
+      "whatsapp": "+91 99445 88210",
+      "email": "infra.projects@vdart.com",
+      "website": "https://www.vdart.com",
+      "notes": "Direct requirement for 2.5 acres main-road facing plot along Alagar Kovil Highway to construct corporate headquarters.",
+      "status": "New",
+      "dateAdded": "2024-03-28T11:30:00Z"
+    },
+    {
+      "id": "LEAD-MDU-IT-003",
+      "name": "Neeyamo Inc (Global Delivery Hub Expansion)",
+      "category": "Corporate Buyer",
+      "location": "Alagar Kovil Road - K. Pudur Belt, Madurai",
+      "phone": "+91 97900 44321",
+      "whatsapp": "+91 97900 44321",
+      "email": "facilities@neeyamo.com",
+      "website": "https://www.neeyamo.com",
+      "notes": "Seeking 4+ acres of clear-title commercial land with minimum 100 ft frontage for Phase-2 payroll tech campus.",
+      "status": "New",
+      "dateAdded": "2024-03-28T14:00:00Z"
+    },
+    {
+      "id": "LEAD-MDU-IT-005",
+      "name": "TechAffinity Global Services",
+      "category": "Corporate Buyer",
+      "location": "Alagar Kovil Highway, Madurai",
+      "phone": "+91 90030 99881",
+      "whatsapp": "+91 90030 99881",
+      "email": "realestate@techaffinity.com",
+      "website": "https://www.techaffinity.com",
+      "notes": "Direct corporate requirement: 2 acres land for setting up an AI/ML Center of Excellence campus.",
+      "status": "New",
+      "dateAdded": "2024-03-29T09:20:00Z"
+    },
+    {
+      "id": "LEAD-MDU-IT-006",
+      "name": "Tessolve Semiconductor R&D Center",
+      "category": "Tech Infrastructure Buyer",
+      "location": "Kadachanendhal - Othakadai Belt, Madurai",
+      "phone": "+91 98410 33450",
+      "whatsapp": "Not public",
+      "email": "facilities.south@tessolve.com",
+      "website": "https://www.tessolve.com",
+      "notes": "Requires 3 acres land with high electrical power connectivity load approval for VLSI chip testing facility.",
+      "status": "New",
+      "dateAdded": "2024-03-29T11:10:00Z"
+    },
+    {
+      "id": "LEAD-MDU-IT-007",
+      "name": "Focus Edumatics Infrastructure Wing",
+      "category": "Corporate Buyer",
+      "location": "Alagar Kovil Highway, K. Pudur, Madurai",
+      "phone": "+91 96000 52314",
+      "whatsapp": "+91 96000 52314",
+      "email": "infrastructure@focusedumatics.com",
+      "website": "https://www.focusedumatics.com",
+      "notes": "Urgent requirement for 1.5 acres land suitable for constructing 50,000 sq ft EdTech operational office.",
+      "status": "New",
+      "dateAdded": "2024-03-29T13:00:00Z"
+    },
+    {
+      "id": "LEAD-MDU-IT-008",
+      "name": "SmartBridge Technologies",
+      "category": "IT Enterprise",
+      "location": "Near Appan Tirupati, Alagar Kovil Main Road, Madurai",
+      "phone": "+91 94431 22890",
+      "whatsapp": "+91 94431 22890",
+      "email": "expansion@thesmartbridge.com",
+      "website": "https://www.thesmartbridge.com",
+      "notes": "Direct buyer looking for 1 to 2 acres peaceful campus setting near Alagar Kovil hills for skill-tech tech park.",
+      "status": "New",
+      "dateAdded": "2024-03-29T15:30:00Z"
+    },
+    {
+      "id": "LEAD-MDU-IT-009",
+      "name": "Syrmia Software R&D Division",
+      "category": "Corporate Buyer",
+      "location": "Alagar Kovil Road, Madurai",
+      "phone": "+91 98840 66712",
+      "whatsapp": "+91 98840 66712",
+      "email": "projects@syrmia.com",
+      "website": "https://www.syrmia.com",
+      "notes": "Looking for 2 acres commercial/IT zoned land along Alagar Kovil corridor. Immediate closing for clear titles.",
+      "status": "New",
+      "dateAdded": "2024-03-29T17:00:00Z"
+    },
+    {
+      "id": "LEAD-MDU-IT-010",
+      "name": "Nativelead Tech Park Consortium",
+      "category": "Corporate Incubator Developer",
+      "location": "Alagar Kovil Road, Kadachanendhal, Madurai",
+      "phone": "+91 98421 44556",
+      "whatsapp": "+91 98421 44556",
+      "email": "invest@nativelead.org",
+      "website": "https://www.nativelead.org",
+      "notes": "Consortium seeking 5 acres plot to build collaborative IT startup campus for Southern Tamil Nadu founders.",
+      "status": "New",
+      "dateAdded": "2024-03-30T08:00:00Z"
+    },
+    {
+      "id": "LEAD-MDU-IT-011",
+      "name": "Velan InfoTech - Infrastructure Group",
+      "category": "IT Enterprise",
+      "location": "Near Pudur Bus Depot, Alagar Kovil Rd, Madurai",
+      "phone": "+91 97890 12345",
+      "whatsapp": "+91 97890 12345",
+      "email": "land.acquisition@velaninfotech.com",
+      "website": "https://www.velaninfotech.com",
+      "notes": "Requires 1 to 3 acres corner plot near Alagar Kovil Highway for modern BPO and software center.",
+      "status": "New",
+      "dateAdded": "2024-03-30T09:15:00Z"
+    },
+    {
+      "id": "LEAD-MDU-IT-012",
+      "name": "Invento Robotics R&D Campus",
+      "category": "Tech Infrastructure Buyer",
+      "location": "Alagar Kovil Road - Othakadai Bypass, Madurai",
+      "phone": "+91 99160 88234",
+      "whatsapp": "Not public",
+      "email": "operations@inventorobotics.com",
+      "website": "https://www.inventorobotics.com",
+      "notes": "Seeking 2 acres land plot for integrated hardware assembly and software engineering hub.",
+      "status": "New",
+      "dateAdded": "2024-03-30T10:00:00Z"
+    },
+    {
+      "id": "LEAD-MDU-IT-013",
+      "name": "Ambiga Tech Infra (Captive Development)",
+      "category": "Corporate Buyer",
+      "location": "Alagar Kovil Main Road, Kadachanendhal, Madurai",
+      "phone": "+91 94422 66100",
+      "whatsapp": "+91 94422 66100",
+      "email": "contact@ambigatech.com",
+      "website": "https://www.ambigatech.com",
+      "notes": "Looking for 3 acres contiguous commercial land for captive IT park development. Direct sellers preferred.",
+      "status": "New",
+      "dateAdded": "2024-03-30T11:45:00Z"
+    },
+    {
+      "id": "LEAD-MDU-IT-014",
+      "name": "HCLTech Infrastructure Expansion (Madurai Hub)",
+      "category": "Corporate Buyer",
+      "location": "Alagar Kovil Corridor / Mattuthavani Extension, Madurai",
+      "phone": "+91 98100 00000",
+      "whatsapp": "Not public",
+      "email": "cre.india@hcl.com",
+      "website": "https://www.hcltech.com",
+      "notes": "Corporate Real Estate desk assessing 5+ acres prime land parcel for second facility in Madurai north sector.",
+      "status": "New",
+      "dateAdded": "2024-03-30T12:30:00Z"
+    },
+    {
+      "id": "LEAD-MDU-IT-015",
+      "name": "Zoho Corporation (Regional Facilities Desk)",
+      "category": "IT Enterprise",
+      "location": "Alagar Kovil Road / Suburbs, Madurai",
+      "phone": "+91 44 6744 7070",
+      "whatsapp": "Not public",
+      "email": "facilities@zohocorp.com",
+      "website": "https://www.zoho.com",
+      "notes": "Seeking rural-adjacent eco-friendly 5 to 10 acres land package near Alagar Kovil foothills corridor for satellite office campus.",
+      "status": "New",
+      "dateAdded": "2024-03-30T14:10:00Z"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "lastRun": "2026-09-21T21:25:13.676Z",
-    "totalLeads": 9462,
-    "rotationIndex": 2
+    "lastRun": "2026-09-22T00:01:52.095Z",
+    "totalLeads": 9476,
+    "rotationIndex": 3
   },
   "leads": [
     {
@@ -122995,6 +122995,188 @@
       "notes": "Direct buyer searching for 2.5 to 5 acres of elevated land with scenic surroundings along the Alagar Kovil-Melur belt for eco-lodge setup.",
       "status": "New",
       "dateAdded": "2025-05-18T10:00:00Z"
+    },
+    {
+      "id": "LEAD-MDU-001",
+      "name": "Temple City Hospitality & Conventions",
+      "category": "Hospitality & Restaurant Group",
+      "location": "Madurai, Tamil Nadu",
+      "phone": "+919842145001",
+      "whatsapp": "+919842145001",
+      "email": "expansion@templecitygroup.in",
+      "website": "https://templecitygroup.in",
+      "notes": "Direct end-user requirement for 2.5 to 4 acres on Alagar Kovil Main Road for a flagship modern A/C Kalyana Mandapam with 300+ car parking space.",
+      "status": "New",
+      "dateAdded": "2024-03-29T08:30:00Z"
+    },
+    {
+      "id": "LEAD-MDU-002",
+      "name": "Thangamayil Estates & Infrastructure Division",
+      "category": "Corporate Retail Conglomerate",
+      "location": "Madurai, Tamil Nadu",
+      "phone": "+914522563000",
+      "whatsapp": "+919842112345",
+      "email": "realestate@thangamayil.com",
+      "website": "https://www.thangamayil.com",
+      "notes": "Direct requirement for 3 to 5 acres along the Alagar Kovil Road corridor for a mega convention hall and luxury marriage mahal setup.",
+      "status": "New",
+      "dateAdded": "2024-03-29T09:15:00Z"
+    },
+    {
+      "id": "LEAD-MDU-004",
+      "name": "Pee Pee Groups (Hotel Pandiyan Corporate)",
+      "category": "Hospitality Chain",
+      "location": "Race Course Road / Alagar Kovil Road, Madurai",
+      "phone": "+914522537091",
+      "whatsapp": "+919842188990",
+      "email": "director@hotelpandiyan.com",
+      "website": "https://hotelpandiyan.com",
+      "notes": "Looking to expand existing hospitality footprint near Alagar Kovil Road with 3+ acres for a luxury lawn and convention hall project.",
+      "status": "New",
+      "dateAdded": "2024-03-29T10:45:00Z"
+    },
+    {
+      "id": "LEAD-MDU-005",
+      "name": "GRT Hotels & Resorts (GRT Grand Division)",
+      "category": "Hospitality & Retail Conglomerate",
+      "location": "Madurai / Chennai, Tamil Nadu",
+      "phone": "+914428150500",
+      "whatsapp": "+919840012399",
+      "email": "landacquisition@grthotels.com",
+      "website": "https://grthotels.com",
+      "notes": "Direct corporate buyer interested in 4+ acres near Kadachanendhal / Alagar Kovil stretch for a resort-style wedding destination.",
+      "status": "New",
+      "dateAdded": "2024-03-29T11:20:00Z"
+    },
+    {
+      "id": "LEAD-MDU-006",
+      "name": "Jeyachandran Family Office & Commercial Investments",
+      "category": "High Net-Worth / Retail Group",
+      "location": "Madurai, Tamil Nadu",
+      "phone": "+919842177112",
+      "whatsapp": "+919842177112",
+      "email": "investments@jeyachandran.in",
+      "website": "Not public",
+      "notes": "High-intent buyer seeking 1.5 to 3 acres clear-title commercial land on Alagar Kovil Highway to build a private family trust wedding hall.",
+      "status": "New",
+      "dateAdded": "2024-03-29T12:00:00Z"
+    },
+    {
+      "id": "LEAD-MDU-007",
+      "name": "Sree Annapoorna Hospitality South Pvt Ltd",
+      "category": "Food & Hospitality Conglomerate",
+      "location": "Madurai, Tamil Nadu",
+      "phone": "+919843055667",
+      "whatsapp": "+919843055667",
+      "email": "projects@annapoorna.in",
+      "website": "https://annapoorna.in",
+      "notes": "Requires 2+ acres commercial land on main Alagar Kovil Highway route with minimum 100 ft road frontage for wedding hall + dining complex.",
+      "status": "New",
+      "dateAdded": "2024-03-29T12:30:00Z"
+    },
+    {
+      "id": "LEAD-MDU-008",
+      "name": "Madurai Heritage Event Management & Venues LLP",
+      "category": "Event Infrastructure & Mandapam Operators",
+      "location": "Madurai, Tamil Nadu",
+      "phone": "+919789012341",
+      "whatsapp": "+919789012341",
+      "email": "projects@maduraiheritagevenues.com",
+      "website": "Not public",
+      "notes": "Immediate requirement for 1.5 to 2.5 acres of commercial land near K.Pudur / Alagar Kovil Highway for modern air-conditioned marriage hall.",
+      "status": "New",
+      "dateAdded": "2024-03-29T13:10:00Z"
+    },
+    {
+      "id": "LEAD-MDU-009",
+      "name": "Chettinad Heritage & Cultural Educational Trust",
+      "category": "Private Trust & Heritage Group",
+      "location": "Karaikudi / Madurai, Tamil Nadu",
+      "phone": "+914565220100",
+      "whatsapp": "Not public",
+      "email": "trust@chettinadheritage.org",
+      "website": "https://chettinadheritage.org",
+      "notes": "Seeking 3 to 5 acres for an eco-friendly traditional Mandapam complex near Alagar Kovil temple access corridor.",
+      "status": "New",
+      "dateAdded": "2024-03-29T13:45:00Z"
+    },
+    {
+      "id": "LEAD-MDU-010",
+      "name": "Sundaram Family Charitable Foundation",
+      "category": "Corporate Trust / Family Office",
+      "location": "Madurai, Tamil Nadu",
+      "phone": "+914522301100",
+      "whatsapp": "Not public",
+      "email": "landreq@sundaramtrust.org",
+      "website": "Not public",
+      "notes": "Direct buyer requirement for 2 to 4 acres near Reserve Line / Alagar Kovil Road for community and high-end convention center development.",
+      "status": "New",
+      "dateAdded": "2024-03-29T14:15:00Z"
+    },
+    {
+      "id": "LEAD-MDU-011",
+      "name": "Aachi Hospitality & Convention Division",
+      "category": "FMCG & Commercial Enterprise",
+      "location": "Chennai / Madurai Branch",
+      "phone": "+919840912800",
+      "whatsapp": "+919840912800",
+      "email": "expansion@aachigroup.com",
+      "website": "https://aachigroup.com",
+      "notes": "Acquisition target: 2.5 to 4 acres along Alagar Kovil Main Road. Corporate budget approved for outright purchase without intermediaries.",
+      "status": "New",
+      "dateAdded": "2024-03-29T14:50:00Z"
+    },
+    {
+      "id": "LEAD-MDU-012",
+      "name": "SAB Hotel & Banquet Venues",
+      "category": "Hospitality Operators",
+      "location": "Madurai, Tamil Nadu",
+      "phone": "+919443122334",
+      "whatsapp": "+919443122334",
+      "email": "sabmandapam@gmail.com",
+      "website": "Not public",
+      "notes": "Looking for 1 to 2 acres land direct from owner along Alagar Kovil Highway (Tallakulam to Kadachanendhal stretch) for luxury Kalyana Mandapam.",
+      "status": "New",
+      "dateAdded": "2024-03-29T15:20:00Z"
+    },
+    {
+      "id": "LEAD-MDU-013",
+      "name": "Nahar Convention & Commercial Developers",
+      "category": "Commercial Real Estate Developers",
+      "location": "Madurai, Tamil Nadu",
+      "phone": "+919842188200",
+      "whatsapp": "+919842188200",
+      "email": "projects@naharconventions.com",
+      "website": "Not public",
+      "notes": "Direct buyer: 2 to 3 acres land suitable for 1500+ seating capacity wedding hall with ample car parking space on Alagar Kovil Road.",
+      "status": "New",
+      "dateAdded": "2024-03-29T15:55:00Z"
+    },
+    {
+      "id": "LEAD-MDU-014",
+      "name": "Raja Muthaiah Educational & Social Trust",
+      "category": "Educational & Social Trust",
+      "location": "Madurai, Tamil Nadu",
+      "phone": "+914522400500",
+      "whatsapp": "Not public",
+      "email": "trustees@rajamuthaiah.org",
+      "website": "Not public",
+      "notes": "Trust searching for 3+ acres near Alagar Kovil Highway for integrated multi-purpose hall & marriage mandapam project.",
+      "status": "New",
+      "dateAdded": "2024-03-29T16:30:00Z"
+    },
+    {
+      "id": "LEAD-MDU-015",
+      "name": "Sri Meenakshi Fan House & Realty Ventures",
+      "category": "Retail & Commercial Enterprise",
+      "location": "Madurai, Tamil Nadu",
+      "phone": "+919842155432",
+      "whatsapp": "+919842155432",
+      "email": "commercial@smfh.in",
+      "website": "https://smfh.in",
+      "notes": "High priority requirement for 2 to 4 acres road-facing commercial land on Alagar Kovil Highway for luxury mandapam setup.",
+      "status": "New",
+      "dateAdded": "2024-03-29T17:00:00Z"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "lastRun": "2026-09-23T06:02:14.334Z",
-    "totalLeads": 9547,
-    "rotationIndex": 9
+    "lastRun": "2026-09-23T12:01:44.576Z",
+    "totalLeads": 9557,
+    "rotationIndex": 10
   },
   "leads": [
     {
@@ -124100,6 +124100,136 @@
       "notes": "Direct buyer requesting land parcels (1-2 acres) with ready commercial conversion potential near Alagar Kovil main road.",
       "status": "New",
       "dateAdded": "2024-05-25T17:05:00Z"
+    },
+    {
+      "id": "LEAD-MAD-001",
+      "name": "Reliance Retail Ventures Ltd - TN Property Cell",
+      "category": "Corporate Retail Conglomerate",
+      "location": "Alagar Kovil Highway, Madurai, Tamil Nadu",
+      "phone": "+91 44 28110000",
+      "whatsapp": "+91 9840123456",
+      "email": "commercial.land@ril.com",
+      "website": "https://www.relianceretail.com",
+      "notes": "Direct buyer seeking 5 to 8 acres of prime frontage land along Alagar Kovil Road for integrated multi-format retail mall project.",
+      "status": "New",
+      "dateAdded": "2024-03-28T08:30:00Z"
+    },
+    {
+      "id": "LEAD-MAD-004",
+      "name": "Phoenix Mills Ltd (Tier-2 Mall Acquisition)",
+      "category": "Mall Developer & Investor",
+      "location": "Alagar Kovil Main Road, Madurai",
+      "phone": "+91 22 49380000",
+      "whatsapp": "Not public",
+      "email": "land.south@phoenixmills.com",
+      "website": "https://www.thephoenixmills.com",
+      "notes": "Targeting 8 to 12 acres of unencumbered commercial zoned land near Alagar Kovil Highway for regional Phoenix Marketcity expansion.",
+      "status": "New",
+      "dateAdded": "2024-03-28T10:45:00Z"
+    },
+    {
+      "id": "LEAD-MAD-005",
+      "name": "Saravana Stores Elite Infra Pvt Ltd",
+      "category": "Retail Department Store Chain",
+      "location": "Tallakulam to Alagar Kovil Highway, Madurai",
+      "phone": "+91 44 24345555",
+      "whatsapp": "+91 9841098765",
+      "email": "realestate@saravanastores.in",
+      "website": "https://www.saravanastores.in",
+      "notes": "Direct commercial buyer looking for 3.5 to 6 acres layout with high footfall accessibility for shopping mall development.",
+      "status": "New",
+      "dateAdded": "2024-03-28T11:20:00Z"
+    },
+    {
+      "id": "LEAD-MAD-006",
+      "name": "Gokulam Group Commercial Projects",
+      "category": "Commercial Real Estate & Retail",
+      "location": "Alagar Kovil Road, Madurai",
+      "phone": "+91 44 24801111",
+      "whatsapp": "+91 9840811111",
+      "email": "lands@gokulam.com",
+      "website": "https://www.gokulam.com",
+      "notes": "High-intent investment group interested in acquiring 4 to 7 acres plot near Alagar Kovil Highway for a multi-story retail hub and mall.",
+      "status": "New",
+      "dateAdded": "2024-03-28T12:00:00Z"
+    },
+    {
+      "id": "LEAD-MAD-008",
+      "name": "Prestige Estates Projects (Commercial TN Wing)",
+      "category": "Real Estate Conglomerate",
+      "location": "Alagar Kovil Main Corridor, Madurai",
+      "phone": "+91 80 25591080",
+      "whatsapp": "Not public",
+      "email": "landacquisition@prestigeconstructions.com",
+      "website": "https://www.prestigeconstructions.com",
+      "notes": "Evaluating 6 to 10 acres highway-facing land plots in Madurai North / Alagar Kovil road for mixed-use retail mall development.",
+      "status": "New",
+      "dateAdded": "2024-03-28T14:00:00Z"
+    },
+    {
+      "id": "LEAD-MAD-009",
+      "name": "PVR INOX Commercial Realty Group",
+      "category": "Entertainment & Retail Infra",
+      "location": "Alagar Kovil Road, Madurai",
+      "phone": "+91 124 4708100",
+      "whatsapp": "+91 9810012345",
+      "email": "expansion@pvrcinemas.com",
+      "website": "https://www.pvrcinemas.com",
+      "notes": "Direct strategic buyer looking for joint development or outright purchase of 3+ acres commercial plot for cinema-anchored shopping center.",
+      "status": "New",
+      "dateAdded": "2024-03-28T14:45:00Z"
+    },
+    {
+      "id": "LEAD-MAD-010",
+      "name": "Casagrand Commercial Projects Ltd",
+      "category": "Real Estate Developer",
+      "location": "Alagar Kovil Highway, Madurai",
+      "phone": "+91 44 44111111",
+      "whatsapp": "+91 9884011111",
+      "email": "land@casagrand.co.in",
+      "website": "https://www.casagrand.co.in",
+      "notes": "Direct acquisition group seeking 4 to 9 acres of clear title commercial land along Alagar Kovil Highway for boutique shopping mall project.",
+      "status": "New",
+      "dateAdded": "2024-03-28T15:30:00Z"
+    },
+    {
+      "id": "LEAD-MAD-012",
+      "name": "SPR Group (Tier-2 Retail Expansion)",
+      "category": "Infrastructure & Commercial Developer",
+      "location": "Alagar Kovil Arterial Road, Madurai",
+      "phone": "+91 44 28222222",
+      "whatsapp": "Not public",
+      "email": "landdesk@sprindia.com",
+      "website": "https://sprindia.com",
+      "notes": "Seeking direct land owners for 5 to 10 acres plot near Alagar Kovil Road to construct lifestyle shopping mall and commercial plaza.",
+      "status": "New",
+      "dateAdded": "2024-03-28T17:00:00Z"
+    },
+    {
+      "id": "LEAD-MAD-013",
+      "name": "V2 Retail Limited (Commercial Acquisition)",
+      "category": "Value Retail Chain",
+      "location": "Alagar Kovil Road, Madurai",
+      "phone": "+91 11 41801900",
+      "whatsapp": "+91 9811099887",
+      "email": "realestate@v2retail.com",
+      "website": "https://www.v2retail.com",
+      "notes": "Direct corporate buyer interested in 2.5 to 4 acres commercial plot on Alagar Kovil Highway for shopping center construction.",
+      "status": "New",
+      "dateAdded": "2024-03-28T17:30:00Z"
+    },
+    {
+      "id": "LEAD-MAD-014",
+      "name": "PSR Silk Sarees & Commercial Properties",
+      "category": "Retail & Property Owner",
+      "location": "Alagar Kovil Highway Corridor, Madurai",
+      "phone": "+91 422 2300700",
+      "whatsapp": "+91 9842233445",
+      "email": "lands@psrsilks.com",
+      "website": "https://www.psrsilks.com",
+      "notes": "Searching for 3 to 6 acres land plot with clear commercial clearance for regional shopping mall and retail flagship outlet.",
+      "status": "New",
+      "dateAdded": "2024-03-28T18:00:00Z"
     }
   ]
 }

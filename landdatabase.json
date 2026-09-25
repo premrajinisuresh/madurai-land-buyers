@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "lastRun": "2026-09-24T23:41:12.238Z",
-    "totalLeads": 9595,
-    "rotationIndex": 13
+    "lastRun": "2026-09-25T00:01:40.007Z",
+    "totalLeads": 9601,
+    "rotationIndex": 14
   },
   "leads": [
     {
@@ -124724,6 +124724,84 @@
       "notes": "Looking for 1.5 - 3 acres commercial land with clear access for multi-brand commercial EV showroom and service workshop.",
       "status": "New",
       "dateAdded": "2024-03-29T17:00:00Z"
+    },
+    {
+      "id": "LEAD-MAD-002",
+      "name": "The Chennai Silks Group (Sree Kumaran Thangamaligai)",
+      "category": "Integrated Textile & Gold Superstore",
+      "location": "Alagar Kovil Highway Corridor, Madurai",
+      "phone": "+91 421 2242888",
+      "whatsapp": "+91 9787700100",
+      "email": "projects@thechennaisilks.com",
+      "website": "https://www.thechennaisilks.com",
+      "notes": "Seeking 2+ acres of high-frontage commercial land on Alagar Kovil Highway for a multi-storey integrated gold and silk retail mega-showroom.",
+      "status": "New",
+      "dateAdded": "2024-05-18T10:30:00Z"
+    },
+    {
+      "id": "LEAD-MAD-008",
+      "name": "Jos Alukkas & Sons Group",
+      "category": "Gold Retail",
+      "location": "Alagar Kovil Main Road, Madurai",
+      "phone": "+91 487 2428911",
+      "whatsapp": "+91 9847031111",
+      "email": "corporate@josalukkas.com",
+      "website": "https://www.josalukkas.com",
+      "notes": "Active requirement for 1 to 2 acres of commercial converting land on major Madurai arterial road (Alagar Kovil Highway preferred).",
+      "status": "New",
+      "dateAdded": "2024-05-21T11:00:00Z"
+    },
+    {
+      "id": "LEAD-MAD-009",
+      "name": "Lalitha Jewellery Mart Ltd",
+      "category": "Gold & Bullion Retail",
+      "location": "Alagar Kovil Road Corridor, Madurai",
+      "phone": "+91 44 28340845",
+      "whatsapp": "Not public",
+      "email": "projects@lalithajewellery.com",
+      "website": "https://www.lalithajewellery.com",
+      "notes": "Direct corporate inquiry for corner plot / prime frontage land suitable for massive retail building layout.",
+      "status": "New",
+      "dateAdded": "2024-05-22T08:30:00Z"
+    },
+    {
+      "id": "LEAD-MAD-12",
+      "name": "Jayachandran Textiles (Chennai Jayachandran Group)",
+      "category": "Integrated Mega Textile Store",
+      "location": "Alagar Kovil Road / K.K. Nagar Link, Madurai",
+      "phone": "+91 44 24354444",
+      "whatsapp": "+91 9840899999",
+      "email": "realestate@jayachandrantextiles.com",
+      "website": "https://www.jayachandrantextiles.com",
+      "notes": "Needs 2 to 3.5 Acres of land suitable for high-density retail construction and multistory customer parking facility.",
+      "status": "New",
+      "dateAdded": "2024-05-23T15:45:00Z"
+    },
+    {
+      "id": "LEAD-MAD-13",
+      "name": "PSR Silks (P.S. Silk Sarees Retail Pvt Ltd)",
+      "category": "Traditional Silk & Apparel Retail",
+      "location": "Alagar Kovil Highway, Madurai",
+      "phone": "+91 422 2301306",
+      "whatsapp": "Not public",
+      "email": "admin@psrsilks.com",
+      "website": "https://www.psrsilks.com",
+      "notes": "Seeking 1 to 1.5 Acres of land on Alagar Kovil Highway corridor for expansion into Madurai market with a flagship outlet.",
+      "status": "New",
+      "dateAdded": "2024-05-24T09:00:00Z"
+    },
+    {
+      "id": "LEAD-MAD-15",
+      "name": "Naidu Hall (Family Store Retail Wing)",
+      "category": "Textile & Retail Group",
+      "location": "Alagar Kovil Road / Tallakulam, Madurai",
+      "phone": "+91 44 28344444",
+      "whatsapp": "Not public",
+      "email": "commercial@naiduhall.com",
+      "website": "https://www.naiduhall.com",
+      "notes": "Looking for 1 acre commercial land plot along Alagar Kovil Road with 100+ feet road frontage for standalone flagship.",
+      "status": "New",
+      "dateAdded": "2024-05-25T08:10:00Z"
     }
   ]
 }

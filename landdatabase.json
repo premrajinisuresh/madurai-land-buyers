@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "lastRun": "2026-09-25T00:01:40.007Z",
-    "totalLeads": 9601,
-    "rotationIndex": 14
+    "lastRun": "2026-09-25T02:31:40.148Z",
+    "totalLeads": 9611,
+    "rotationIndex": 15
   },
   "leads": [
     {
@@ -124802,6 +124802,136 @@
       "notes": "Looking for 1 acre commercial land plot along Alagar Kovil Road with 100+ feet road frontage for standalone flagship.",
       "status": "New",
       "dateAdded": "2024-05-25T08:10:00Z"
+    },
+    {
+      "id": "LEAD-MDU-BNK-002",
+      "name": "HDFC Bank Ltd - Corporate Infrastructure & Real Estate Wing",
+      "category": "Private Sector Banking Corporate",
+      "location": "K.K. Nagar - Alagar Kovil Road Corridor, Madurai",
+      "phone": "+914524391200",
+      "whatsapp": "+919840812345",
+      "email": "cre.south@hdfcbank.com",
+      "website": "https://www.hdfcbank.com",
+      "notes": "High-intent buyer seeking 30-50 cents clear-title commercial plot with minimum 80ft frontage along Alagar Kovil Road for a standalone Regional Corporate Banking Hub and Wealth Management Center.",
+      "status": "New",
+      "dateAdded": "2024-03-29T08:45:00Z"
+    },
+    {
+      "id": "LEAD-MDU-BNK-005",
+      "name": "Indian Bank - Zonal Office Corporate Premises Group",
+      "category": "Public Sector Banking Corporate",
+      "location": "Alagar Kovil Road, Madurai",
+      "phone": "+914522532040",
+      "whatsapp": "+919444398101",
+      "email": "zo.madurai.premises@indianbank.co.in",
+      "website": "https://www.indianbank.in",
+      "notes": "Direct acquisition requirement for 35-50 cents commercial land along Alagar Kovil Highway to consolidate retail banking, MSME credit hub, and zonal administration under one roof.",
+      "status": "New",
+      "dateAdded": "2024-03-29T09:30:00Z"
+    },
+    {
+      "id": "LEAD-MDU-BNK-006",
+      "name": "Axis Bank Ltd - Corporate Infrastructure & Procurement Division",
+      "category": "Private Sector Banking Corporate",
+      "location": "Surveyor Colony - Alagar Kovil Belt, Madurai",
+      "phone": "+914522580150",
+      "whatsapp": "+919940122890",
+      "email": "corporate.premises@axisbank.com",
+      "website": "https://www.axisbank.com",
+      "notes": "Seeking direct deal for a 30-45 cents plot with immediate commercial conversion readiness along Alagar Kovil Highway. Requirements include 100ft road frontage for flagship branch.",
+      "status": "New",
+      "dateAdded": "2024-03-29T09:45:00Z"
+    },
+    {
+      "id": "LEAD-MDU-BNK-007",
+      "name": "Bank of Baroda - Regional Office Premises & Equipment Dept",
+      "category": "Public Sector Banking Corporate",
+      "location": "Alagar Kovil Main Road, Madurai",
+      "phone": "+914522522201",
+      "whatsapp": "Not public",
+      "email": "pe.madurai@bankofbaroda.com",
+      "website": "https://www.bankofbaroda.in",
+      "notes": "Inviting land offers (35-60 cents) directly from registered owners for constructing Bank of Baroda's flagship Madurai Regional Headquarters and e-Lobby complex.",
+      "status": "New",
+      "dateAdded": "2024-03-29T10:00:00Z"
+    },
+    {
+      "id": "LEAD-MDU-BNK-008",
+      "name": "Kotak Mahindra Bank - Real Estate Management Group",
+      "category": "Private Sector Banking Corporate",
+      "location": "Alagar Kovil Road / K.K. Nagar Extension, Madurai",
+      "phone": "+914524251000",
+      "whatsapp": "+919884011223",
+      "email": "premises.south@kotak.com",
+      "website": "https://www.kotak.com",
+      "notes": "Direct acquisition team searching for 25-40 cents commercial plot suitable for constructing a multi-storey premier private banking and commercial credit regional office.",
+      "status": "New",
+      "dateAdded": "2024-03-29T10:15:00Z"
+    },
+    {
+      "id": "LEAD-MDU-BNK-009",
+      "name": "Punjab National Bank - Circle Office Estate Section",
+      "category": "Public Sector Banking Corporate",
+      "location": "Othakadai - Alagar Kovil Highway Stretch, Madurai",
+      "phone": "+914522533310",
+      "whatsapp": "Not public",
+      "email": "comadestate@pnb.co.in",
+      "website": "https://www.pnbindia.in",
+      "notes": "PNB Circle Office requires 50-80 cents land parcel along Alagar Kovil corridor for setting up a specialized Agriculture & MSME credit processing center with staff quarters.",
+      "status": "New",
+      "dateAdded": "2024-03-29T10:30:00Z"
+    },
+    {
+      "id": "LEAD-MDU-BNK-010",
+      "name": "IndusInd Bank - Commercial Real Estate & Expansion Wing",
+      "category": "Private Sector Banking Corporate",
+      "location": "Alagar Kovil Road, Madurai",
+      "phone": "+914524380000",
+      "whatsapp": "+919841054321",
+      "email": "cre.expansion@indusind.com",
+      "website": "https://www.indusind.com",
+      "notes": "Direct buyer searching for 30-50 cents plot along Alagar Kovil Road. Mandate is to build a modern flagship consumer and corporate banking hub with EV charging infrastructure.",
+      "status": "New",
+      "dateAdded": "2024-03-29T10:45:00Z"
+    },
+    {
+      "id": "LEAD-MDU-BNK-012",
+      "name": "Federal Bank Ltd - Corporate Premises & Infrastructure Dept",
+      "category": "Private Sector Banking Corporate",
+      "location": "Alagar Kovil Road Belt, Madurai",
+      "phone": "+914522539100",
+      "whatsapp": "+919447012345",
+      "email": "premises_madurai@federalbank.co.in",
+      "website": "https://www.federalbank.co.in",
+      "notes": "Requirement for 25-45 cents prime land along Alagar Kovil Road for construction of Federal Bank's Zonal NRI Banking & Regional Operations Hub.",
+      "status": "New",
+      "dateAdded": "2024-03-29T11:15:00Z"
+    },
+    {
+      "id": "LEAD-MDU-BNK-014",
+      "name": "Central Bank of India - Regional Office Estate Division",
+      "category": "Public Sector Banking Corporate",
+      "location": "Alagar Kovil Road Corridor, Madurai",
+      "phone": "+914522531022",
+      "whatsapp": "Not public",
+      "email": "gadmadu@centralbank.co.in",
+      "website": "https://www.centralbankofindia.co.in",
+      "notes": "Direct buyer requesting 35-50 cents non-encumbered land for constructing Regional Administration Office & High-Value SME Branch on Alagar Kovil stretch.",
+      "status": "New",
+      "dateAdded": "2024-03-29T11:45:00Z"
+    },
+    {
+      "id": "LEAD-MDU-BNK-015",
+      "name": "Bandhan Bank Ltd - Corporate Infrastructure Expansion Group",
+      "category": "Private Sector Banking Corporate",
+      "location": "Alagar Kovil Main Road, Madurai",
+      "phone": "+914522588100",
+      "whatsapp": "+919830899123",
+      "email": "premises@bandhanbank.com",
+      "website": "https://www.bandhanbank.com",
+      "notes": "Direct bank requirement for 30-40 cents commercial land for building an integrated Zonal Micro-Finance and Commercial Banking Service Center along Alagar Kovil Road.",
+      "status": "New",
+      "dateAdded": "2024-03-29T12:00:00Z"
     }
   ]
 }

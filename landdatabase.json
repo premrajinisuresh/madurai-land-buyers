@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "lastRun": "2026-09-26T06:01:43.558Z",
-    "totalLeads": 9688,
-    "rotationIndex": 21
+    "lastRun": "2026-09-26T08:07:55.972Z",
+    "totalLeads": 9694,
+    "rotationIndex": 22
   },
   "leads": [
     {
@@ -125933,6 +125933,84 @@
       "notes": "Direct investor/corporate group purchasing 2 to 4 acres of commercial land specifically near Alagar Kovil Highway for a multi-story medical annexe complex.",
       "status": "New",
       "dateAdded": "2024-03-30T11:00:00Z"
+    },
+    {
+      "id": "LEAD-MDU-002",
+      "name": "Mahatma Schools (E.R. Educational Trust)",
+      "category": "Private K-12 Institution",
+      "location": "KK Nagar / Alagar Kovil Stretch, Madurai",
+      "phone": "+914522532412",
+      "whatsapp": "+919443152011",
+      "email": "trust.expansion@mahatmaschools.org",
+      "website": "https://mahatmaschools.org",
+      "notes": "Looking for 3-6 acres of unencumbered commercial/educational land near Alagar Kovil main road for primary campus extension.",
+      "status": "New",
+      "dateAdded": "2024-05-11T11:30:00Z"
+    },
+    {
+      "id": "LEAD-MDU-009",
+      "name": "Yadava College Directorate (Trust Wing)",
+      "category": "Collegiate Educational Society",
+      "location": "Thiruppalai / Alagar Kovil Road, Madurai",
+      "phone": "+914522680387",
+      "whatsapp": "+919842188123",
+      "email": "trustboard@yadavacollege.org",
+      "website": "https://yadavacollege.org",
+      "notes": "Direct inquiry for 8+ acres adjacent/near main corridor for prospective research facility and hostel annexes.",
+      "status": "New",
+      "dateAdded": "2024-05-18T16:45:00Z"
+    },
+    {
+      "id": "LEAD-MDU-0011",
+      "name": "Vikasa Group of Schools (PST Educational Trust)",
+      "category": "Private School Chain",
+      "location": "Alagar Kovil Road Corridor, Madurai",
+      "phone": "+914522530101",
+      "whatsapp": "+919894012121",
+      "email": "admin@vikasaschools.com",
+      "website": "https://vikasaschools.com",
+      "notes": "Looking to acquire 3-5 acres for a new junior school annexe. Requires immediate registration.",
+      "status": "New",
+      "dateAdded": "2024-05-20T13:10:00Z"
+    },
+    {
+      "id": "LEAD-MDU-0012",
+      "name": "Sethu Institute of Technology (Trust Infrastructure Board)",
+      "category": "Technical Education Group",
+      "location": "Madurai Outskirts / Alagar Kovil Road",
+      "phone": "+914522902341",
+      "whatsapp": "+919443021980",
+      "email": "campusdevelopment@sethu.ac.in",
+      "website": "https://sethu.ac.in",
+      "notes": "Interested in purchasing 10-20 acres for autonomous institution expansion / skill academy.",
+      "status": "New",
+      "dateAdded": "2024-05-21T08:00:00Z"
+    },
+    {
+      "id": "LEAD-MDU-0013",
+      "name": "Orchids The International School (Madurai Land Wing)",
+      "category": "K-12 School Network",
+      "location": "Alagar Kovil Highway, Madurai",
+      "phone": "+918088888000",
+      "whatsapp": "Not public",
+      "email": "expansion.south@orchids.edu.in",
+      "website": "https://orchidsinternationalschool.com",
+      "notes": "Direct corporate search for 2 to 4 acres with 100ft+ road frontage for new CBCE campus.",
+      "status": "New",
+      "dateAdded": "2024-05-22T10:15:00Z"
+    },
+    {
+      "id": "LEAD-MDU-0014",
+      "name": "Vetri Educational & Charitable Trust",
+      "category": "Educational Trust",
+      "location": "Appanthirupathi / Alagar Kovil Road, Madurai",
+      "phone": "+914522489111",
+      "whatsapp": "+919842100999",
+      "email": "vetri.trust@gmail.com",
+      "website": "Not public",
+      "notes": "Requires 4-8 acres conversions-ready agricultural/commercial plot along Alagar Kovil belt for teacher training college.",
+      "status": "New",
+      "dateAdded": "2024-05-23T14:40:00Z"
     }
   ]
 }

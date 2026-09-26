@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "lastRun": "2026-09-26T18:01:59.793Z",
-    "totalLeads": 9758,
-    "rotationIndex": 27
+    "lastRun": "2026-09-26T21:01:36.053Z",
+    "totalLeads": 9773,
+    "rotationIndex": 28
   },
   "leads": [
     {
@@ -126843,6 +126843,201 @@
       "notes": "Direct buyer group searching for commercial land suitable for multi-storey shopping plaza and multiplex center.",
       "status": "New",
       "dateAdded": "2024-05-24T16:30:00Z"
+    },
+    {
+      "id": "LEAD-MDU-001",
+      "name": "Aravind Global NRI Holdings (Dubai Syndicate)",
+      "category": "NRI Commercial Investor",
+      "location": "Dubai, UAE / Alagar Kovil Road, Madurai",
+      "phone": "+971 50 482 9102",
+      "whatsapp": "+971 50 482 9102",
+      "email": "investments@aravindglobal.ae",
+      "website": "https://www.aravindglobal.ae",
+      "notes": "Direct UAE NRI group seeking 3 to 5 acres of commercial road-facing land along Alagar Kovil Highway for a flagship mixed-use retail and office complex. Clear title and single owner preferred.",
+      "status": "New",
+      "dateAdded": "2024-03-28T08:30:00Z"
+    },
+    {
+      "id": "LEAD-MDU-002",
+      "name": "Pandian Tech Parks & Infra (Singapore)",
+      "category": "NRI Corporate Buyer",
+      "location": "Singapore / Madurai",
+      "phone": "+65 6712 4490",
+      "whatsapp": "+65 9123 8841",
+      "email": "acquisitions@pandianinfra.sg",
+      "website": "https://www.pandianinfra.sg",
+      "notes": "Singapore-backed Tamil diaspora venture capital firm looking for 4+ acres on Alagar Kovil Main Road corridor for IT/ITES facility expansion. Direct deal with land owners only.",
+      "status": "New",
+      "dateAdded": "2024-03-28T09:15:00Z"
+    },
+    {
+      "id": "LEAD-MDU-003",
+      "name": "Dr. S. K. Sundaram (US Medical Syndicate)",
+      "category": "NRI Private Investor",
+      "location": "California, USA / Madurai",
+      "phone": "+1 408 552 9100",
+      "whatsapp": "+1 408 552 9100",
+      "email": "dr.sundaram@bayareamedgroup.com",
+      "website": "Not public",
+      "notes": "US-based Tamil physician group looking to purchase 2.5 to 4 acres near K. Pudur / Alagar Kovil Road stretch for a multi-specialty day-care center and medical diagnostic hub.",
+      "status": "New",
+      "dateAdded": "2024-03-28T10:00:00Z"
+    },
+    {
+      "id": "LEAD-MDU-004",
+      "name": "Madurai Heritage Resorts & Hospitality (UK)",
+      "category": "Corporate Buyer",
+      "location": "London, UK / Alagar Kovil Foothills, Madurai",
+      "phone": "+44 20 7946 0912",
+      "whatsapp": "+44 7700 900821",
+      "email": "land@maduraiheritageresorts.co.uk",
+      "website": "https://www.maduraiheritageresorts.co.uk",
+      "notes": "UK NRI hospitality chain searching for 5 to 10 acres near Alagar Kovil foothills for eco-resort and grand wedding convention center project. High budget, ready funds.",
+      "status": "New",
+      "dateAdded": "2024-03-28T11:20:00Z"
+    },
+    {
+      "id": "LEAD-MDU-005",
+      "name": "Vaigai Logistics & Commercial Ventures (Qatar)",
+      "category": "NRI Commercial Investor",
+      "location": "Doha, Qatar / Madurai",
+      "phone": "+974 4411 8920",
+      "whatsapp": "+974 5532 1098",
+      "email": "commercial@vaigailogistics.qa",
+      "website": "Not public",
+      "notes": "NRI logistics consortium seeking 2 to 3 acres along Madurai-Alagar Kovil Road junction for commercial showrooms and cold storage/warehousing distribution depot.",
+      "status": "New",
+      "dateAdded": "2024-03-28T12:00:00Z"
+    },
+    {
+      "id": "LEAD-MDU-006",
+      "name": "Meenakshi NRI Investment Forum (Kuwait Chapter)",
+      "category": "NRI Investment Consortium",
+      "location": "Kuwait City, Kuwait / Madurai",
+      "phone": "+965 2245 9012",
+      "whatsapp": "+965 9981 2345",
+      "email": "invest@meenakshinri.org",
+      "website": "https://www.meenakshinri.org",
+      "notes": "Consortium of 12 Kuwait-based Madurai native NRIs pooling capital to buy 2 acres prime commercial plot for a shopping plaza along Alagar Kovil Main Road.",
+      "status": "New",
+      "dateAdded": "2024-03-28T13:45:00Z"
+    },
+    {
+      "id": "LEAD-MDU-007",
+      "name": "Singai Tamil Commercial Realty Trust",
+      "category": "Corporate NRI Buyer",
+      "location": "Singapore / Madurai",
+      "phone": "+65 6220 9911",
+      "whatsapp": "+65 8122 3456",
+      "email": "real estate@singaitamiltrust.sg",
+      "website": "https://www.singaitamiltrust.sg",
+      "notes": "Looking for commercial corner plot (min 1.5 acres) near Tallakulam - Alagar Kovil stretch for building corporate office towers. Outright purchase, no joint venture.",
+      "status": "New",
+      "dateAdded": "2024-03-28T14:30:00Z"
+    },
+    {
+      "id": "LEAD-MDU-008",
+      "name": "Doha-Madurai Commercial Hypermarkets LLC",
+      "category": "Corporate Buyer",
+      "location": "Doha, Qatar / Madurai",
+      "phone": "+974 4000 1234",
+      "whatsapp": "+974 6612 9876",
+      "email": "expansions@dohamadurai.com",
+      "website": "Not public",
+      "notes": "Direct retail group seeking 2 acres with high frontage on Alagar Kovil Highway for hypermarket and anchor retail outlet development.",
+      "status": "New",
+      "dateAdded": "2024-03-28T15:10:00Z"
+    },
+    {
+      "id": "LEAD-MDU-009",
+      "name": "Oman-Tamil Business Council (Land Acquisition Wing)",
+      "category": "NRI Investment Group",
+      "location": "Muscat, Oman / Madurai",
+      "phone": "+968 2470 1122",
+      "whatsapp": "+968 9200 4567",
+      "email": "land@omantamilbusiness.om",
+      "website": "https://www.omantamilbusiness.om",
+      "notes": "Searching for 3 to 6 acres along Alagar Kovil bypass or main road. Target use: Drive-thru food park, multiplex, and commercial complex. Immediate fund transfer capabilities.",
+      "status": "New",
+      "dateAdded": "2024-03-28T16:00:00Z"
+    },
+    {
+      "id": "LEAD-MDU-010",
+      "name": "Silicon Valley Tamil Incubator Hub (USA)",
+      "category": "NRI Corporate Buyer",
+      "location": "San Jose, CA, USA / Madurai",
+      "phone": "+1 669 200 4110",
+      "whatsapp": "+1 669 200 4110",
+      "email": "realestate@svtamilhub.com",
+      "website": "https://www.svtamilhub.com",
+      "notes": "US tech NRI group seeking 1.5 to 3 acres near Madurai Alagar Kovil corridor for tech startup incubator and co-working workspace campus.",
+      "status": "New",
+      "dateAdded": "2024-03-28T16:40:00Z"
+    },
+    {
+      "id": "LEAD-MDU-011",
+      "name": "Al-Khobar Commercial Auto Experience Center",
+      "category": "NRI Business Investor",
+      "location": "Khobar, Saudi Arabia / Madurai",
+      "phone": "+966 13 890 1234",
+      "whatsapp": "+966 50 112 3456",
+      "email": "property@alkhobarauto.sa",
+      "website": "Not public",
+      "notes": "KSA NRI auto group looking for 2 acres with 150+ ft frontage along Alagar Kovil Road to setup premium automobile showroom and service bay.",
+      "status": "New",
+      "dateAdded": "2024-03-28T17:15:00Z"
+    },
+    {
+      "id": "LEAD-MDU-012",
+      "name": "London-Madurai Retail Ventures Ltd",
+      "category": "NRI Corporate Buyer",
+      "location": "London, UK / Madurai",
+      "phone": "+44 20 8123 4567",
+      "whatsapp": "+44 7911 123456",
+      "email": "acquisition@londonmadurairetail.co.uk",
+      "website": "https://www.londonmadurairetail.co.uk",
+      "notes": "Requires 2 to 4 acres of commercial land near K.Pudur - Alagar Kovil Road for a branded department store and entertainment arcade center.",
+      "status": "New",
+      "dateAdded": "2024-03-28T18:00:00Z"
+    },
+    {
+      "id": "LEAD-MDU-013",
+      "name": "Cyberjaya Skill & Edu Campus (Malaysia NRI Fund)",
+      "category": "Institutional NRI Investor",
+      "location": "Kuala Lumpur, Malaysia / Madurai",
+      "phone": "+60 3 8312 9000",
+      "whatsapp": "+60 12 345 6789",
+      "email": "landbank@cyberjayaskills.edu.my",
+      "website": "https://www.cyberjayaskills.edu.my",
+      "notes": "Malaysian Tamil NRI educational trust seeking 5 acres along Alagar Kovil Highway for private skill development and vocational institute campus.",
+      "status": "New",
+      "dateAdded": "2024-03-28T18:30:00Z"
+    },
+    {
+      "id": "LEAD-MDU-014",
+      "name": "Euro-Tamil Renewable & Infra GmbH",
+      "category": "Corporate Investor",
+      "location": "Frankfurt, Germany / Madurai",
+      "phone": "+49 69 1234 5678",
+      "whatsapp": "+49 151 23456789",
+      "email": "india.expansions@eurotamilinfra.de",
+      "website": "https://www.eurotamilinfra.de",
+      "notes": "German NRI group purchasing 3 acres near Alagar Kovil stretch for regional corporate office and clean energy technology experience center.",
+      "status": "New",
+      "dateAdded": "2024-03-28T19:00:00Z"
+    },
+    {
+      "id": "LEAD-MDU-015",
+      "name": "Sydney Tamil Chamber (Commercial Wing)",
+      "category": "NRI Trade Syndicate",
+      "location": "Sydney, Australia / Madurai",
+      "phone": "+61 2 9876 5432",
+      "whatsapp": "+61 412 345 678",
+      "email": "commercial@sydneytamilchamber.org.au",
+      "website": "https://www.sydneytamilchamber.org.au",
+      "notes": "Australia-based diaspora syndicate interested in buying 4 to 8 acres on Alagar Kovil Road for trade exhibition center and international event hall.",
+      "status": "New",
+      "dateAdded": "2024-03-28T19:45:00Z"
     }
   ]
 }

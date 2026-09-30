@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "lastRun": "2026-09-30T03:00:57.126Z",
-    "totalLeads": 10003,
-    "rotationIndex": 12
+    "lastRun": "2026-09-30T09:02:26.213Z",
+    "totalLeads": 10016,
+    "rotationIndex": 13
   },
   "leads": [
     {
@@ -130028,6 +130028,175 @@
       "notes": "Retail HNI group seeking 1 to 3 acres on Alagar Kovil Highway for constructing a modern standalone retail supermarket and food court plaza.",
       "status": "New",
       "dateAdded": "2025-02-18T16:00:00Z"
+    },
+    {
+      "id": "LEAD-MDU-001",
+      "name": "Anamalais Motors Pvt Ltd (Expansion Wing)",
+      "category": "Automobile Dealership Group",
+      "location": "Alagar Kovil Highway, Madurai, Tamil Nadu",
+      "phone": "+91 98422 11020",
+      "whatsapp": "+91 98422 11020",
+      "email": "expansion@anamalais.in",
+      "website": "https://www.anamalaismotors.com",
+      "notes": "Direct corporate buyer looking for 1.5 to 2.5 acres of roadside commercial land on Alagar Kovil Highway or near Othakadai junction for a 3S (Sales, Service, Spares) multi-brand passenger vehicle showroom.",
+      "status": "New",
+      "dateAdded": "2024-10-12T09:15:00Z"
+    },
+    {
+      "id": "LEAD-MDU-002",
+      "name": "TVS Mobility Pvt Ltd - Real Estate & Network Division",
+      "category": "Corporate Auto Retailer",
+      "location": "Alagar Kovil Road / Mattuthavani Corridor, Madurai",
+      "phone": "+91 44 2833 2111",
+      "whatsapp": "+91 98400 32111",
+      "email": "land.acquisition@tvsmobility.com",
+      "website": "https://www.tvsmobility.com",
+      "notes": "High-intent buyer seeking 2 to 3.5 acres with 150+ ft road frontage near Alagar Kovil Main Road. Requirement is for integrated EV and commercial vehicle service hub.",
+      "status": "New",
+      "dateAdded": "2024-10-14T11:30:00Z"
+    },
+    {
+      "id": "LEAD-MDU-004",
+      "name": "Ather Energy (Direct Network Development Team)",
+      "category": "EV OEM Direct Expansion",
+      "location": "Alagar Kovil Main Road, K.Pudur / Othakadai, Madurai",
+      "phone": "+91 80 4680 2000",
+      "whatsapp": "Not public",
+      "email": "retail.infrastructure@atherenergy.com",
+      "website": "https://www.atherenergy.com",
+      "notes": "Direct acquisition team seeking 20,000 sq. ft to 1 acre land frontage for constructing an Ather Experience Center and Regional HyperService Station.",
+      "status": "New",
+      "dateAdded": "2024-10-16T10:05:00Z"
+    },
+    {
+      "id": "LEAD-MDU-005",
+      "name": "Gokulam Motors (Tata Motors Passenger & EV Division)",
+      "category": "Dealership Group",
+      "location": "Alagar Kovil Highway, Madurai North, Tamil Nadu",
+      "phone": "+91 98421 88990",
+      "whatsapp": "+91 98421 88990",
+      "email": "projects@gokulammotors.com",
+      "website": "https://www.gokulammotors.com",
+      "notes": "Requires 1.5 acres of commercial/industrial zoned land along Alagar Kovil Road for set up of a flagship Tata Motors EV store and service station.",
+      "status": "New",
+      "dateAdded": "2024-10-18T08:45:00Z"
+    },
+    {
+      "id": "LEAD-MDU-006",
+      "name": "Aadhi Maruti / Aadhi Motors Pvt Ltd",
+      "category": "Automobile Dealership Group",
+      "location": "Alagar Kovil Road near Kadachanendal, Madurai",
+      "phone": "+91 98430 12345",
+      "whatsapp": "+91 98430 12345",
+      "email": "corporate@aadhimaruti.com",
+      "website": "https://www.aadhimaruti.com",
+      "notes": "Scouting for 2 acres near Kadachanendal/Alagar Kovil Highway for expanding NEXA and Commercial Vehicle service workshop.",
+      "status": "New",
+      "dateAdded": "2024-10-19T16:10:00Z"
+    },
+    {
+      "id": "LEAD-MDU-007",
+      "name": "Ola Electric Mobility - Store & Service Expansion Desk",
+      "category": "EV Manufacturer Direct Buyer",
+      "location": "Alagar Kovil Highway corridor, Madurai",
+      "phone": "+91 80 6735 0900",
+      "whatsapp": "Not public",
+      "email": "realestate.expansion@olaelectric.com",
+      "website": "https://www.olaelectric.com",
+      "notes": "Direct corporate requirement for 1 to 1.5 acres of land on main Alagar Kovil Highway for establishing an EV Experience Hub and battery swap/service depot.",
+      "status": "New",
+      "dateAdded": "2024-10-20T12:00:00Z"
+    },
+    {
+      "id": "LEAD-MDU-008",
+      "name": "Ramani Auto Agencies (VW/Skoda Retail Wing)",
+      "category": "Automobile Dealership Group",
+      "location": "Alagar Kovil Road / K.Pudur Sector, Madurai",
+      "phone": "+91 98422 77800",
+      "whatsapp": "+91 98422 77800",
+      "email": "expansion@ramaniauto.com",
+      "website": "https://www.ramaniauto.com",
+      "notes": "Urgent requirement for 1 acre land with minimum 100 ft road frontage along Alagar Kovil Highway for integrated showroom and service bay.",
+      "status": "New",
+      "dateAdded": "2024-10-21T09:30:00Z"
+    },
+    {
+      "id": "LEAD-MDU-009",
+      "name": "GreenDrive Mobility Solutions Pvt Ltd",
+      "category": "Commercial EV Fleet Operator",
+      "location": "Alagar Kovil Highway / NH-784 Junction, Madurai",
+      "phone": "+91 94431 55432",
+      "whatsapp": "+91 94431 55432",
+      "email": "infrastructure@greendrivefleet.in",
+      "website": "https://www.greendrivefleet.in",
+      "notes": "Direct buyer searching for 2 to 3 acres of land for corporate EV fleet parking, maintenance facility, and fast-charging hub.",
+      "status": "New",
+      "dateAdded": "2024-10-22T13:40:00Z"
+    },
+    {
+      "id": "LEAD-MDU-010",
+      "name": "VST Grandeur Auto Pvt Ltd",
+      "category": "Commercial & Passenger Vehicle Dealership",
+      "location": "Alagar Kovil Main Road, Madurai",
+      "phone": "+91 80 2559 2201",
+      "whatsapp": "+91 98450 11223",
+      "email": "network@vstgrandeur.com",
+      "website": "https://www.vstgroup.in",
+      "notes": "Direct request for 2 acres land near Alagar Kovil main stretch for construction of heavy vehicle/commercial van sales and service depot.",
+      "status": "New",
+      "dateAdded": "2024-10-22T15:15:00Z"
+    },
+    {
+      "id": "LEAD-MDU-011",
+      "name": "Mahindra & Mahindra - Regional Dealer Network Desk",
+      "category": "Automotive OEM Network Division",
+      "location": "Alagar Kovil Road / Tallakulam - Othakadai Link, Madurai",
+      "phone": "+91 22 2846 8500",
+      "whatsapp": "Not public",
+      "email": "network.south@mahindra.com",
+      "website": "https://www.mahindra.com",
+      "notes": "OEM direct buyer looking for 2.5 acres land to lease/buy directly from owners for setting up a multi-franchise SUV & pickup service workshop.",
+      "status": "New",
+      "dateAdded": "2024-10-23T11:10:00Z"
+    },
+    {
+      "id": "LEAD-MDU-012",
+      "name": "CAI Industries Pvt Ltd (Suzuki Two-Wheeler & Auto Div)",
+      "category": "Dealership Group",
+      "location": "Surveyor Colony / Alagar Kovil Road, Madurai",
+      "phone": "+91 98422 34000",
+      "whatsapp": "+91 98422 34000",
+      "email": "projects@caiindustries.com",
+      "website": "https://www.caiindustries.com",
+      "notes": "Direct land search: 0.75 to 1.5 acres land with broad road access for 2-wheeler/3-wheeler premium showroom and mega service station.",
+      "status": "New",
+      "dateAdded": "2024-10-23T14:50:00Z"
+    },
+    {
+      "id": "LEAD-MDU-014",
+      "name": "Greaves Electric Mobility / Ampere Regional Operations",
+      "category": "EV OEM Corporate Buyer",
+      "location": "Alagar Kovil Road / Othakadai Sector, Madurai",
+      "phone": "+91 22 6237 0000",
+      "whatsapp": "Not public",
+      "email": "retail.infra@amperevehicles.com",
+      "website": "https://ampere.greaveselectricmobility.com",
+      "notes": "Corporate expansion team seeking 1 acre commercial land along main highway corridor to house Regional Hub, Experience Center, and Central Service Station.",
+      "status": "New",
+      "dateAdded": "2024-10-24T12:30:00Z"
+    },
+    {
+      "id": "LEAD-MDU-015",
+      "name": "Royal Enfield (Eicher Motors Ltd - Dealer Development)",
+      "category": "Automobile OEM Direct",
+      "location": "Alagar Kovil Road frontage, Madurai",
+      "phone": "+91 44 2696 8000",
+      "whatsapp": "Not public",
+      "email": "dealerdevelopment@royalenfield.com",
+      "website": "https://www.royalenfield.com",
+      "notes": "Searching for 0.75 to 1.2 acres prime land on Alagar Kovil Highway for flagship motorcycle Studio Store, Garage, and Customer Experience Center.",
+      "status": "New",
+      "dateAdded": "2024-10-24T15:00:00Z"
     }
   ]
 }

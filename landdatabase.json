@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "lastRun": "2026-10-02T21:02:31.941Z",
-    "totalLeads": 10171,
-    "rotationIndex": 25
+    "lastRun": "2026-10-03T00:01:40.091Z",
+    "totalLeads": 10186,
+    "rotationIndex": 26
   },
   "leads": [
     {
@@ -132212,6 +132212,201 @@
       "notes": "Direct buyer looking for prime commercial plot minimum 1 acre on Alagar Kovil Highway for flagship jewelry and commercial complex.",
       "status": "New",
       "dateAdded": "2024-05-24T11:30:00Z"
+    },
+    {
+      "id": "LEAD-MDU-001",
+      "name": "Nestling Tech Solutions India Pvt Ltd",
+      "category": "Corporate IT Buyer",
+      "location": "Alagar Kovil Highway, Madurai",
+      "phone": "+91 98421 88320",
+      "whatsapp": "+91 98421 88320",
+      "email": "corporate.realestate@nestlingtech.com",
+      "website": "https://www.nestlingtech.com",
+      "notes": "Looking for 2.5 to 4 acres of commercial/IT zoned land along Alagar Kovil Road for establishing a 1,200-seater Tier-2 software development campus.",
+      "status": "New",
+      "dateAdded": "2024-05-10T08:30:00Z"
+    },
+    {
+      "id": "LEAD-MDU-002",
+      "name": "Vanguard Systems India GCC Division",
+      "category": "GCC / Enterprise Tech",
+      "location": "Madurai North Corridor",
+      "phone": "+91 452 2589000",
+      "whatsapp": "Not public",
+      "email": "expansion.india@vanguardsystems.io",
+      "website": "https://www.vanguardsystems.io",
+      "notes": "Direct mandate from US parent company to acquire 3-5 acres near Alagar Kovil Road/K.K. Nagar extension for setting up an offshore engineering centre.",
+      "status": "New",
+      "dateAdded": "2024-05-11T10:15:00Z"
+    },
+    {
+      "id": "LEAD-MDU-003",
+      "name": "Madurai Digital Infra Developers LLP",
+      "category": "Private IT Park Developer",
+      "location": "Othakadai - Alagar Kovil Belt, Madurai",
+      "phone": "+91 94431 52044",
+      "whatsapp": "+91 94431 52044",
+      "email": "projects@maduraidigitalinfra.in",
+      "website": "https://www.maduraidigitalinfra.in",
+      "notes": "Direct commercial buyer searching for 5 to 10 acres of clear-title land suitable for multi-tenant private IT park construction close to Alagar Kovil Highway.",
+      "status": "New",
+      "dateAdded": "2024-05-12T14:20:00Z"
+    },
+    {
+      "id": "LEAD-MDU-004",
+      "name": "Solartis Tech India Pvt Ltd",
+      "category": "Insurtech / Software Enterprise",
+      "location": "Madurai East / Alagar Kovil Road",
+      "phone": "+91 98840 12901",
+      "whatsapp": "+91 98840 12901",
+      "email": "facilities.mdu@solartis.com",
+      "website": "https://www.solartis.com",
+      "notes": "Expanding operations in Madurai; intent to purchase 2 acres for custom IT office headquarters away from congested city zones.",
+      "status": "New",
+      "dateAdded": "2024-05-13T09:00:00Z"
+    },
+    {
+      "id": "LEAD-MDU-005",
+      "name": "Aura Healthtech Solutions",
+      "category": "Healthcare IT & Data Analytics",
+      "location": "Surveyor Colony - Alagar Kovil Link Road",
+      "phone": "+91 97900 41188",
+      "whatsapp": "+91 97900 41188",
+      "email": "admin@aurahealthtech.co.in",
+      "website": "https://www.aurahealthtech.co.in",
+      "notes": "Requires 1.5 to 3 acres plot with minimum 100 ft road frontage for specialized medical coding and health AI lab campus.",
+      "status": "New",
+      "dateAdded": "2024-05-14T11:45:00Z"
+    },
+    {
+      "id": "LEAD-MDU-006",
+      "name": "Vaigai Software Products Ltd",
+      "category": "Regional IT Exporter",
+      "location": "Alagar Kovil Highway, Madurai",
+      "phone": "+91 452 4220199",
+      "whatsapp": "Not public",
+      "email": "land.acquisition@vaigaisoft.com",
+      "website": "https://www.vaigaisoft.com",
+      "notes": "Local enterprise scaling operations; high intent buyer looking for direct land parcel (2+ acres) near Alagar Kovil main road with immediate registration potential.",
+      "status": "New",
+      "dateAdded": "2024-05-15T15:30:00Z"
+    },
+    {
+      "id": "LEAD-MDU-007",
+      "name": "Banyan Cloud Infrastructure Pvt Ltd",
+      "category": "Data Center & Cloud Systems",
+      "location": "Madurai Outers (Alagar Kovil Corridor)",
+      "phone": "+91 99401 77233",
+      "whatsapp": "+91 99401 77233",
+      "email": "infra@banyancloud.io",
+      "website": "https://www.banyancloud.io",
+      "notes": "Seeking 3 to 6 acres for setting up an edge data center and tech support building with high-power grid access.",
+      "status": "New",
+      "dateAdded": "2024-05-16T12:10:00Z"
+    },
+    {
+      "id": "LEAD-MDU-008",
+      "name": "AcroTech Global Services",
+      "category": "IT Outsource Enterprise",
+      "location": "Kadachanendhal / Alagar Kovil Road",
+      "phone": "+91 98402 33110",
+      "whatsapp": "+91 98402 33110",
+      "email": "corp.estates@acrotechglobal.com",
+      "website": "https://www.acrotechglobal.com",
+      "notes": "Direct end-user requirement: 2 acres commercial plot required within 5 km of Mattuthavani/Alagar Kovil access.",
+      "status": "New",
+      "dateAdded": "2024-05-17T16:00:00Z"
+    },
+    {
+      "id": "LEAD-MDU-009",
+      "name": "Appasamy Tech Ventures",
+      "category": "Enterprise Tech & R&D",
+      "location": "Alagar Kovil Road, Madurai",
+      "phone": "+91 452 2530100",
+      "whatsapp": "Not public",
+      "email": "techpark@appasamy.com",
+      "website": "https://www.appasamy.com",
+      "notes": "Internal expansion unit looking for land parcel suitable for software R&D lab and back-office facility (3-5 acres).",
+      "status": "New",
+      "dateAdded": "2024-05-18T08:45:00Z"
+    },
+    {
+      "id": "LEAD-MDU-010",
+      "name": "ScaleUp SaaS Labs",
+      "category": "Product Startup Incubator / Campus",
+      "location": "Madurai North / Alagar Kovil Stretch",
+      "phone": "+91 91766 88022",
+      "whatsapp": "+91 91766 88022",
+      "email": "founding@scaleupsaaslabs.com",
+      "website": "https://www.scaleupsaaslabs.com",
+      "notes": "Syndicate of SaaS founders searching for 2 acres to develop a co-owned innovation campus and workspace.",
+      "status": "New",
+      "dateAdded": "2024-05-19T13:25:00Z"
+    },
+    {
+      "id": "LEAD-MDU-011",
+      "name": "Tessolve Embedded Solutions (Madurai Unit)",
+      "category": "Semiconductor & Embedded IT",
+      "location": "Alagar Kovil Road, Madurai",
+      "phone": "+91 80 41808000",
+      "whatsapp": "Not public",
+      "email": "facilities.madurai@tessolve.com",
+      "website": "https://www.tessolve.com",
+      "notes": "Targeting 3 acres direct procurement near Alagar Kovil road for a dedicated VLSI testing and software development center.",
+      "status": "New",
+      "dateAdded": "2024-05-20T10:00:00Z"
+    },
+    {
+      "id": "LEAD-MDU-012",
+      "name": "Senthil Tech Park Developments",
+      "category": "Commercial Developer",
+      "location": "Othakadai Link, Alagar Kovil Road",
+      "phone": "+91 98430 55190",
+      "whatsapp": "+91 98430 55190",
+      "email": "land@senthilgroup.com",
+      "website": "https://www.senthilgroup.com",
+      "notes": "Looking to acquire 5+ acres of contiguous land on main road stretch for A-grade IT space development.",
+      "status": "New",
+      "dateAdded": "2024-05-21T09:15:00Z"
+    },
+    {
+      "id": "LEAD-MDU-013",
+      "name": "CyberKnot Technologies India",
+      "category": "Cybersecurity Enterprise",
+      "location": "Alagar Kovil Corridor, Madurai",
+      "phone": "+91 96000 14223",
+      "whatsapp": "+91 96000 14223",
+      "email": "expansion@cyberknot.in",
+      "website": "https://www.cyberknot.in",
+      "notes": "Requires 1 to 2 acres of clean non-agricultural / commercial converted land for building a Security Operations Center (SOC).",
+      "status": "New",
+      "dateAdded": "2024-05-22T14:50:00Z"
+    },
+    {
+      "id": "LEAD-MDU-014",
+      "name": "NexGen Smart Systems India Pvt Ltd",
+      "category": "IoT & Automation R&D",
+      "location": "Madurai North / Alagar Kovil Road",
+      "phone": "+91 452 2673311",
+      "whatsapp": "Not public",
+      "email": "contact@nexgensmart.co.in",
+      "website": "https://www.nexgensmart.co.in",
+      "notes": "Direct mandate to identify 2 acres plot with clear title deed and DTCP/local body approval potential for corporate office setup.",
+      "status": "New",
+      "dateAdded": "2024-05-23T11:05:00Z"
+    },
+    {
+      "id": "LEAD-MDU-015",
+      "name": "Crestline Global BPO & Tech Services",
+      "category": "ITeS & Customer Support Hub",
+      "location": "Alagar Kovil Highway, Madurai",
+      "phone": "+91 98941 77800",
+      "whatsapp": "+91 98941 77800",
+      "email": "admin@crestlineglobal.com",
+      "website": "https://www.crestlineglobal.com",
+      "notes": "Searching for 2.5 acres land to construct a custom 80,000 sq ft standalone BPO facility near IT talent pools.",
+      "status": "New",
+      "dateAdded": "2024-05-24T15:00:00Z"
     }
   ]
 }

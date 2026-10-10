@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "lastRun": "2026-10-09T21:01:52.637Z",
-    "totalLeads": 10555,
-    "rotationIndex": 22
+    "lastRun": "2026-10-10T09:01:44.280Z",
+    "totalLeads": 10566,
+    "rotationIndex": 23
   },
   "leads": [
     {
@@ -137204,6 +137204,149 @@
       "notes": "Seeking 6 to 10 acres of clear institutional land along Alagar Kovil Highway for establishing a new Arts & Science annexe campus.",
       "status": "New",
       "dateAdded": "2026-03-30T12:45:00Z"
+    },
+    {
+      "id": "MDU-SA-003",
+      "name": "Solamalai Enterprises (Real Estate Division)",
+      "category": "Conglomerate / Developer",
+      "location": "Anna Nagar, Madurai, Tamil Nadu",
+      "phone": "+91 452 252 0333",
+      "whatsapp": "+91 99943 20333",
+      "email": "realestate@solamalai.in",
+      "website": "https://www.solamalai.in",
+      "notes": "High-intent corporate buyer seeking road-facing commercial plots near Alagar Kovil Highway for a mixed-use long-stay serviced residential complex.",
+      "status": "New",
+      "dateAdded": "2024-05-19T08:45:00Z"
+    },
+    {
+      "id": "MDU-SA-004",
+      "name": "Casagrand Builder Private Limited (Madurai Expansion)",
+      "category": "Residential & Hospitality Developer",
+      "location": "Chennai / Madurai Corridor, Tamil Nadu",
+      "phone": "+91 44 4411 1111",
+      "whatsapp": "+91 98840 00000",
+      "email": "landacquisition@casagrand.co.in",
+      "website": "https://www.casagrand.co.in",
+      "notes": "Corporate acquisition team evaluating 2+ acres along the Mattuthavani to Alagar Kovil road belt specifically for luxury service apartments.",
+      "status": "New",
+      "dateAdded": "2024-05-19T11:20:00Z"
+    },
+    {
+      "id": "MDU-SA-005",
+      "name": "Sangam Hotels & Long-Stay Residences",
+      "category": "Hospitality Chain",
+      "location": "Alagar Kovil Road, Madurai, Tamil Nadu",
+      "phone": "+91 452 253 7531",
+      "whatsapp": "Not public",
+      "email": "expansion@sangamhotels.com",
+      "website": "https://www.sangamhotels.com",
+      "notes": "Regional hotel group seeking expansion plot (1 to 2.5 acres) strictly on or close to Alagar Kovil Highway for extended-stay serviced suites.",
+      "status": "New",
+      "dateAdded": "2024-05-20T14:10:00Z"
+    },
+    {
+      "id": "MDU-SA-006",
+      "name": "Appaswamy Real Estates Ltd",
+      "category": "Real Estate Developer",
+      "location": "T. Nagar, Chennai / Madurai Project Office",
+      "phone": "+91 44 2434 6333",
+      "whatsapp": "+91 98409 22000",
+      "email": "landbuying@appaswamy.com",
+      "website": "https://www.appaswamy.com",
+      "notes": "Looking for clear-title commercial plot (1.5–4 acres) with high FSI in Madurai along major arterial corridors like Alagar Kovil Road.",
+      "status": "New",
+      "dateAdded": "2024-05-20T16:00:00Z"
+    },
+    {
+      "id": "MDU-SA-007",
+      "name": "Thangamayil Estates & Infrastructure",
+      "category": "Corporate Real Estate Arm",
+      "location": "Madurai, Tamil Nadu",
+      "phone": "+91 452 256 5555",
+      "whatsapp": "+91 95855 56555",
+      "email": "estates@thangamayil.com",
+      "website": "https://www.thangamayil.com",
+      "notes": "Direct land purchase team interested in prime frontage along Alagar Kovil Highway for boutique service apartments and commercial development.",
+      "status": "New",
+      "dateAdded": "2024-05-21T09:00:00Z"
+    },
+    {
+      "id": "MDU-SA-009",
+      "name": "TVS Emerald Infrastructure (Commercial Wing)",
+      "category": "Institutional Developer",
+      "location": "Chennai / Madurai Region",
+      "phone": "+91 44 2833 2115",
+      "whatsapp": "Not public",
+      "email": "landdesk@tvsemerald.com",
+      "website": "https://www.tvsemerald.com",
+      "notes": "Interested in acquiring 2–5 acres of commercial/convertible land around Alagar Kovil Highway for modern serviced residential units.",
+      "status": "New",
+      "dateAdded": "2024-05-22T08:30:00Z"
+    },
+    {
+      "id": "MDU-SA-0010",
+      "name": "Amika Hotels & Serviced Residences",
+      "category": "Hospitality Operator & Developer",
+      "location": "Airport Ring Road / Madurai Central",
+      "phone": "+91 452 269 8888",
+      "whatsapp": "+91 91592 69888",
+      "email": "dev@amikahotels.com",
+      "website": "https://www.amikahotels.com",
+      "notes": "Directly buying plot (1 to 2 acres) near Alagar Kovil Road junction/corridor to build managed extended-stay apartment hotel.",
+      "status": "New",
+      "dateAdded": "2024-05-22T12:00:00Z"
+    },
+    {
+      "id": "MDU-SA-011",
+      "name": "Velammal Infrastructure & Commercial Realty",
+      "category": "Educational & Infrastructure Group",
+      "location": "Madurai-Tuticorin Ring Road / Madurai City",
+      "phone": "+91 452 246 5289",
+      "whatsapp": "Not public",
+      "email": "projects@velammal.edu.in",
+      "website": "https://www.velammal.edu.in",
+      "notes": "Group seeking commercial land parcels along Alagar Kovil Highway for service apartment developments to support medical and academic visitors.",
+      "status": "New",
+      "dateAdded": "2024-05-22T14:30:00Z"
+    },
+    {
+      "id": "MDU-SA-012",
+      "name": "Fortune Pandiyan Infrastructure (ITC Partner)",
+      "category": "Hospitality & Real Estate Group",
+      "location": "Race Course Road, Madurai, Tamil Nadu",
+      "phone": "+91 452 435 5555",
+      "whatsapp": "+91 98940 35555",
+      "email": "projects@fortunepandiyan.com",
+      "website": "https://www.fortunehotels.in",
+      "notes": "Looking for clear title land (1–3 acres) around Alagar Kovil Road to expand into branded service apartments and extended-stay suites.",
+      "status": "New",
+      "dateAdded": "2024-05-23T09:15:00Z"
+    },
+    {
+      "id": "MDU-SA-013",
+      "name": "PKN Developers & Promoters",
+      "category": "Commercial & Residential Developers",
+      "location": "KK Nagar, Madurai, Tamil Nadu",
+      "phone": "+91 452 258 7770",
+      "whatsapp": "+91 94433 58777",
+      "email": "info@pkndevelopers.com",
+      "website": "https://www.pkndevelopers.com",
+      "notes": "Direct local developer seeking 75 cents to 1.5 acres on Alagar Kovil Highway for mid-market serviced apartment project.",
+      "status": "New",
+      "dateAdded": "2024-05-23T11:50:00Z"
+    },
+    {
+      "id": "MDU-SA-014",
+      "name": "Chordia Promoters & Real Estate Group",
+      "category": "Property Developers",
+      "location": "Madurai Main, Tamil Nadu",
+      "phone": "+91 452 234 1122",
+      "whatsapp": "+91 98421 34112",
+      "email": "acquisitions@chordiapromoters.com",
+      "website": "https://www.chordiapromoters.com",
+      "notes": "Corporate buyer focused on commercial conversion land parcels near Kadachanendal/Alagar Kovil Road for corporate service apartments.",
+      "status": "New",
+      "dateAdded": "2024-05-24T10:00:00Z"
     }
   ]
 }

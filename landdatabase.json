@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "lastRun": "2026-10-16T21:01:45.709Z",
-    "totalLeads": 10878,
-    "rotationIndex": 13
+    "lastRun": "2026-10-16T23:08:41.808Z",
+    "totalLeads": 10891,
+    "rotationIndex": 14
   },
   "leads": [
     {
@@ -141403,6 +141403,175 @@
       "notes": "Requires 2.5 Acres of land for integrated EV commercial vehicle service center and solar charging depot. Needs high frontage and easy highway access.",
       "status": "New",
       "dateAdded": "2024-03-28T17:45:00Z"
+    },
+    {
+      "id": "LEAD-MDU-001",
+      "name": "Thangamayil Jewellery Ltd (Corporate Real Estate Wing)",
+      "category": "Gold & Diamond Retailer",
+      "location": "Madurai, Tamil Nadu",
+      "phone": "+91 452 2565553",
+      "whatsapp": "+91 9894012345",
+      "email": "landacquisition@thangamayil.com",
+      "website": "https://www.thangamayil.com",
+      "notes": "Direct corporate buyer headquartered in Madurai. Seeking 1.5 to 2.5 acres of prime commercial land with high frontage on Alagar Kovil Highway for a flagship multi-story jewelry showroom and regional warehouse.",
+      "status": "New",
+      "dateAdded": "2024-05-18T09:15:00Z"
+    },
+    {
+      "id": "LEAD-MDU-002",
+      "name": "Pothys Retail Pvt Ltd (Expansion & Infrastructure Dept)",
+      "category": "Textile Mega Retailer",
+      "location": "Chennai / Madurai, Tamil Nadu",
+      "phone": "+91 44 24310770",
+      "whatsapp": "+91 9840011223",
+      "email": "projects@pothys.com",
+      "website": "https://www.pothys.com",
+      "notes": "Direct buyer exploring commercial land (minimum 2 acres) along major entry corridors in Madurai, specifically Alagar Kovil Main Road. Requires minimum 120 ft road frontage for mega textile retail construction.",
+      "status": "New",
+      "dateAdded": "2024-05-18T10:30:00Z"
+    },
+    {
+      "id": "LEAD-MDU-003",
+      "name": "The Chennai Silks (Property Acquisition Division)",
+      "category": "Textile & Gold Conglomerate",
+      "location": "Tirupur / Madurai, Tamil Nadu",
+      "phone": "+91 421 2242888",
+      "whatsapp": "+91 9787700000",
+      "email": "realestate@thechennaisilks.com",
+      "website": "https://www.thechennaisilks.com",
+      "notes": "Direct corporate mandate to source 1.5 to 3 acres on Alagar Kovil Highway or Ring Road intersection for a dual Textile & Sree Kumaran Thangamaligai flagship outlet.",
+      "status": "New",
+      "dateAdded": "2024-05-19T08:45:00Z"
+    },
+    {
+      "id": "LEAD-MDU-004",
+      "name": "Lalitha Jewellery Mart Pvt Ltd (Retail Development)",
+      "category": "Gold & Diamond Retailer",
+      "location": "Chennai, Tamil Nadu",
+      "phone": "+91 44 28340800",
+      "whatsapp": "Not public",
+      "email": "expansion@lalithajewellery.com",
+      "website": "https://www.lalithajewellery.com",
+      "notes": "Direct requirement for 40,000–60,000 sq ft plot or 1-acre land direct from clear-title owners on prominent Madurai arterial roads, prioritizing Alagar Kovil Road.",
+      "status": "New",
+      "dateAdded": "2024-05-19T11:20:00Z"
+    },
+    {
+      "id": "LEAD-MDU-005",
+      "name": "GRT Jewellers India Pvt Ltd (Project Planning)",
+      "category": "Gold & Diamond Retailer",
+      "location": "Chennai, Tamil Nadu",
+      "phone": "+91 44 28151515",
+      "whatsapp": "+91 9940022334",
+      "email": "corp.realestate@grtjewels.com",
+      "website": "https://www.grtjewels.com",
+      "notes": "Looking for clear-title commercial land near K.K. Nagar / Alagar Kovil Road junction stretch in Madurai. Budget pre-approved for immediate purchase.",
+      "status": "New",
+      "dateAdded": "2024-05-19T14:10:00Z"
+    },
+    {
+      "id": "LEAD-MDU-006",
+      "name": "RmKV Silks Pvt Ltd (Business Expansion Cell)",
+      "category": "Textile Retailer",
+      "location": "Chennai / Tirunelveli, Tamil Nadu",
+      "phone": "+91 44 28144444",
+      "whatsapp": "Not public",
+      "email": "expansion@rmkv.com",
+      "website": "https://www.rmkv.com",
+      "notes": "Planning a standalone experiential flagship showroom in North Madurai / Alagar Kovil belt. Requires 1 to 2 acres with clear commercial zoning.",
+      "status": "New",
+      "dateAdded": "2024-05-20T09:00:00Z"
+    },
+    {
+      "id": "LEAD-MDU-008",
+      "name": "Malabar Gold & Diamonds (South India Expansion)",
+      "category": "Gold & Diamond Retailer",
+      "location": "Kozhikode / Chennai, India",
+      "phone": "+91 495 2726916",
+      "whatsapp": "+91 9567012345",
+      "email": "retailspaces@malabargoldanddiamonds.com",
+      "website": "https://www.malabargoldanddiamonds.com",
+      "notes": "Direct requirement for flagship showroom land in Madurai. Minimum 80 ft frontage on main commercial corridor like Alagar Kovil Road.",
+      "status": "New",
+      "dateAdded": "2024-05-20T11:45:00Z"
+    },
+    {
+      "id": "LEAD-MDU-009",
+      "name": "Kalyan Jewellers India Ltd (Store Operations & Infrastructure)",
+      "category": "Gold & Diamond Retailer",
+      "location": "Thrissur / Chennai, India",
+      "phone": "+91 487 2434000",
+      "whatsapp": "Not public",
+      "email": "property@kalyanjewellers.net",
+      "website": "https://www.kalyanjewellers.net",
+      "notes": "Evaluating sites on Alagar Kovil Road for a large-format regional destination store with dedicated multi-level customer parking space.",
+      "status": "New",
+      "dateAdded": "2024-05-21T08:30:00Z"
+    },
+    {
+      "id": "LEAD-MDU-010",
+      "name": "Jos Alukkas (Infrastructure & Property Wing)",
+      "category": "Gold Retailer",
+      "location": "Thrissur / Coimbatore, India",
+      "phone": "+91 487 2426411",
+      "whatsapp": "+91 9447011223",
+      "email": "lands@josalukkas.com",
+      "website": "https://www.josalukkas.com",
+      "notes": "Direct commercial land buyer targeting Madurai core growth vectors. Needs 40 to 80 cents on high-traffic roadside suited for direct retail build.",
+      "status": "New",
+      "dateAdded": "2024-05-21T10:00:00Z"
+    },
+    {
+      "id": "LEAD-MDU-012",
+      "name": "Sri Ganapathy Silks (Corporate Retail Wing)",
+      "category": "Regional Textile Chain",
+      "location": "Tirunelveli / Madurai, Tamil Nadu",
+      "phone": "+91 462 2333404",
+      "whatsapp": "+91 9443123456",
+      "email": "expansion@sreeganapathysilks.com",
+      "website": "https://www.sreeganapathysilks.com",
+      "notes": "Direct regional buyer looking to construct a new flagship silk showroom in Madurai. Prefers plots on Alagar Kovil Road or Bypass arterial lines.",
+      "status": "New",
+      "dateAdded": "2024-05-22T09:20:00Z"
+    },
+    {
+      "id": "LEAD-MDU-013",
+      "name": "Naidu Hall (Yess Bee Fashion Brands Pvt Ltd)",
+      "category": "Apparel & Retail Chain",
+      "location": "Chennai, Tamil Nadu",
+      "phone": "+91 44 28344444",
+      "whatsapp": "Not public",
+      "email": "projects@naiduhall.com",
+      "website": "https://www.naiduhall.com",
+      "notes": "Direct retail expansion team searching for 30,000+ sq ft land footprint or commercial development plot in the Alagar Kovil Road commercial precinct.",
+      "status": "New",
+      "dateAdded": "2024-05-22T11:00:00Z"
+    },
+    {
+      "id": "LEAD-MDU-014",
+      "name": "Shri Kannan Departmental & Retail Group",
+      "category": "Retail & Lifestyle Conglomerate",
+      "location": "Coimbatore / Madurai, Tamil Nadu",
+      "phone": "+91 422 2231144",
+      "whatsapp": "+91 9842200112",
+      "email": "landacquisition@shrikannan.com",
+      "website": "https://www.shrikannan.com",
+      "notes": "Looking for 1.5 to 2.5 acres of commercial property along Alagar Kovil Highway for an integrated lifestyle, textile, and retail commercial center.",
+      "status": "New",
+      "dateAdded": "2024-05-22T14:30:00Z"
+    },
+    {
+      "id": "LEAD-MDU-015",
+      "name": "Prince Jewellery (Expansion & Real Estate Committee)",
+      "category": "Gold & Diamond Retailer",
+      "location": "Chennai, Tamil Nadu",
+      "phone": "+91 44 42289200",
+      "whatsapp": "+91 9840812345",
+      "email": "corporate@princejewellery.com",
+      "website": "https://www.princejewellery.com",
+      "notes": "Direct mandate for acquiring premium commercial land in Madurai city limits/Alagar Kovil Road corridor for expansion into Southern Tamil Nadu.",
+      "status": "New",
+      "dateAdded": "2024-05-23T08:00:00Z"
     }
   ]
 }

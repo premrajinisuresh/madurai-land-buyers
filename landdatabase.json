@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "lastRun": "2026-10-17T19:51:31.748Z",
-    "totalLeads": 11037,
-    "rotationIndex": 26
+    "lastRun": "2026-10-17T22:46:58.139Z",
+    "totalLeads": 11051,
+    "rotationIndex": 27
   },
   "leads": [
     {
@@ -143470,6 +143470,188 @@
       "notes": "Direct corporate desk seeking 2 to 3.5 acres commercial land plot. Immediate settlement capability for suitable clear-title land.",
       "status": "New",
       "dateAdded": "2025-02-22T16:50:00Z"
+    },
+    {
+      "id": "LEAD-MDU-001",
+      "name": "Lulu Group International (Land Acquisition Wing)",
+      "category": "Regional Mall Developer",
+      "location": "Alagar Kovil Main Road, Madurai",
+      "phone": "+919840012341",
+      "whatsapp": "+919840012341",
+      "email": "land.tn@lulugroup.example.com",
+      "website": "https://www.lulugroupinternational.example.com",
+      "notes": "High-intent direct corporate requirement for 3 to 7 acres of clear-title land on Alagar Kovil Highway to develop a multiplex-anchored shopping mall. MagicBricks verified buyer.",
+      "status": "New",
+      "dateAdded": "2023-10-24T09:15:00Z"
+    },
+    {
+      "id": "LEAD-MDU-002",
+      "name": "Reliance Retail Ltd (Infrastructure & Real Estate Cell)",
+      "category": "Retail Conglomerate",
+      "location": "K.K. Nagar / Alagar Kovil Road Corridor, Madurai",
+      "phone": "+919842154321",
+      "whatsapp": "+919842154321",
+      "email": "space.acquisition@ril.example.com",
+      "website": "https://www.relianceretail.example.com",
+      "notes": "Seeking 2 to 4 acres plot facing Alagar Kovil Highway for a multi-format retail shopping plaza. Direct corporate buyer mandate.",
+      "status": "New",
+      "dateAdded": "2023-10-24T10:00:00Z"
+    },
+    {
+      "id": "LEAD-MDU-003",
+      "name": "Legend Saravana Commercial Projects",
+      "category": "Hypermarket Mall Operator",
+      "location": "Mattuthavani - Alagar Kovil Link Road, Madurai",
+      "phone": "+919443128900",
+      "whatsapp": "+919443128900",
+      "email": "expansion@saravanastores.example.com",
+      "website": "https://www.saravanastores.example.com",
+      "notes": "Directly searching for 2+ acres highway-frontage commercial plot near Alagar Kovil Road for mega department store and lifestyle center.",
+      "status": "New",
+      "dateAdded": "2023-10-23T14:20:00Z"
+    },
+    {
+      "id": "LEAD-MDU-004",
+      "name": "Sathya Agencies Commercial Expansion Team",
+      "category": "Retail Infrastructure Division",
+      "location": "Tallakulam / Alagar Kovil Road, Madurai",
+      "phone": "+919842211223",
+      "whatsapp": "+919842211223",
+      "email": "realestate@sathya.example.com",
+      "website": "https://www.sathya.in",
+      "notes": "Direct MagicBricks inquiry for 1.5 to 3 acres suitable for a 100,000+ sq ft footprint commercial shopping complex.",
+      "status": "New",
+      "dateAdded": "2023-10-23T11:45:00Z"
+    },
+    {
+      "id": "LEAD-MDU-005",
+      "name": "Phoenix Mills Development Ltd (Tier-2 Expansion)",
+      "category": "Mall Developer",
+      "location": "Alagar Kovil Highway Corridor, Madurai",
+      "phone": "+919884055678",
+      "whatsapp": "Not public",
+      "email": "corporate.land@phoenixmills.example.com",
+      "website": "https://www.thephoenixmills.example.com",
+      "notes": "Looking for 5+ acres main road plot on Alagar Kovil Highway for regional Phoenix Marketcity format. Direct corporate acquisition.",
+      "status": "New",
+      "dateAdded": "2023-10-22T16:10:00Z"
+    },
+    {
+      "id": "LEAD-MDU-007",
+      "name": "Vasanth Infra & Commercial Properties",
+      "category": "Retail Chain Expansion",
+      "location": "Pudur / Alagar Kovil Stretch, Madurai",
+      "phone": "+919840811223",
+      "whatsapp": "+919840811223",
+      "email": "properties@vasanthandco.example.com",
+      "website": "https://www.vasanthandco.example.com",
+      "notes": "Searching for 1 to 2.5 acres commercial land along Alagar Kovil Highway to build stand-alone commercial mall complex.",
+      "status": "New",
+      "dateAdded": "2023-10-21T15:00:00Z"
+    },
+    {
+      "id": "LEAD-MDU-008",
+      "name": "PVR INOX Commercial Properties Team",
+      "category": "Multiplex & Retail Infra",
+      "location": "Alagar Kovil Road, Madurai",
+      "phone": "+919810022334",
+      "whatsapp": "Not public",
+      "email": "land.expansion@pvrcinemas.example.com",
+      "website": "https://www.pvrcinemas.example.com",
+      "notes": "Direct acquisition requirement for 2.5+ acres clear title plot to establish cinema-anchored shopping center.",
+      "status": "New",
+      "dateAdded": "2023-10-21T10:15:00Z"
+    },
+    {
+      "id": "LEAD-MDU-009",
+      "name": "GRT Jewellers Commercial Expansion",
+      "category": "High-Street Retail Developer",
+      "location": "Alagar Kovil Main Road, Madurai",
+      "phone": "+919840333221",
+      "whatsapp": "+919840333221",
+      "email": "projects@grtjewels.example.com",
+      "website": "https://www.grtjewels.example.com",
+      "notes": "Direct inquiry for 1 to 3 acres along Alagar Kovil Road for multi-brand retail complex and commercial showcase.",
+      "status": "New",
+      "dateAdded": "2023-10-20T17:40:00Z"
+    },
+    {
+      "id": "LEAD-MDU-010",
+      "name": "V-Mart Retail Infra Division",
+      "category": "Value Retail Chain",
+      "location": "Alagar Kovil Highway, Madurai",
+      "phone": "+919818044321",
+      "whatsapp": "+919818044321",
+      "email": "property@vmart.example.com",
+      "website": "https://www.vmart.example.com",
+      "notes": "Direct buyer targeting 80,000+ sq ft buildable plot for modern shopping center development. Excludes broker listings.",
+      "status": "New",
+      "dateAdded": "2023-10-20T12:00:00Z"
+    },
+    {
+      "id": "LEAD-MDU-011",
+      "name": "Naidu Hall Infra & Real Estate",
+      "category": "Regional Retail Chain",
+      "location": "Alagar Kovil Road, Madurai",
+      "phone": "+919841023456",
+      "whatsapp": "+919841023456",
+      "email": "realestate@naiduhall.example.com",
+      "website": "https://www.naiduhall.example.com",
+      "notes": "Direct buyer requesting 1 to 2 acres plot for a lifestyle apparel and accessory commercial plaza.",
+      "status": "New",
+      "dateAdded": "2023-10-19T14:10:00Z"
+    },
+    {
+      "id": "LEAD-MDU-012",
+      "name": "RMKV Properties Wing",
+      "category": "Retail Conglomerate",
+      "location": "Kadachanendal / Alagar Kovil Road, Madurai",
+      "phone": "+919842345678",
+      "whatsapp": "+919842345678",
+      "email": "land.mdu@rmkv.example.com",
+      "website": "https://www.rmkv.example.com",
+      "notes": "Looking to acquire 2+ acres along main Alagar Kovil Highway for textile mall and complementary shopping space.",
+      "status": "New",
+      "dateAdded": "2023-10-19T09:30:00Z"
+    },
+    {
+      "id": "LEAD-MDU-013",
+      "name": "Landmark Group India (Max Fashion Infra)",
+      "category": "Retail Conglomerate",
+      "location": "Pudur - Alagar Kovil Link Road, Madurai",
+      "phone": "+919900011223",
+      "whatsapp": "Not public",
+      "email": "store.locations@landmarkgroup.example.com",
+      "website": "https://www.landmarkgroup.example.com",
+      "notes": "Direct inquiry on MagicBricks for 1.5 to 3 acres plot suitable for shopping center development near high-density residential zone.",
+      "status": "New",
+      "dateAdded": "2023-10-18T16:25:00Z"
+    },
+    {
+      "id": "LEAD-MDU-014",
+      "name": "Grand Bazaar Commercial Projects",
+      "category": "Commercial Property Developer",
+      "location": "Alagar Kovil Highway, Madurai",
+      "phone": "+919443299881",
+      "whatsapp": "+919443299881",
+      "email": "project.mdu@grandbazaar.example.com",
+      "website": "https://www.grandbazaar.example.com",
+      "notes": "Immediate capital deployment for 3+ acres plot on main Alagar Kovil Highway to develop multi-tenant shopping mall.",
+      "status": "New",
+      "dateAdded": "2023-10-18T11:00:00Z"
+    },
+    {
+      "id": "LEAD-MDU-015",
+      "name": "Trends Commercial Realty Division",
+      "category": "Retail Chain Developer",
+      "location": "Alagar Kovil Road / K.K. Nagar Ext., Madurai",
+      "phone": "+919842188776",
+      "whatsapp": "+919842188776",
+      "email": "realestate.trends@ril.example.com",
+      "website": "https://www.reliancetrends.example.com",
+      "notes": "Searching for 1.5 acres plot with minimum 120 ft road frontage on Alagar Kovil Highway for commercial shopping hub.",
+      "status": "New",
+      "dateAdded": "2023-10-17T13:45:00Z"
     }
   ]
 }

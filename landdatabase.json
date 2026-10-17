@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "lastRun": "2026-10-17T17:38:08.728Z",
-    "totalLeads": 11017,
-    "rotationIndex": 24
+    "lastRun": "2026-10-17T18:01:47.120Z",
+    "totalLeads": 11025,
+    "rotationIndex": 25
   },
   "leads": [
     {
@@ -143210,6 +143210,110 @@
       "notes": "Corporate buyer interested in 3 to 6 acres land on Alagar Kovil Highway corridor. High focus on Mandakapadi capability, grand entrance road access, and legal clearance.",
       "status": "New",
       "dateAdded": "2024-05-24T14:10:00Z"
+    },
+    {
+      "id": "MDU-AKH-003",
+      "name": "Thiagarajar Mills Infrastructure Division",
+      "category": "Corporate Real Estate Investor",
+      "location": "Kappalur, Madurai",
+      "phone": "+91 452 248 2531",
+      "whatsapp": "+91 94431 56890",
+      "email": "landacquisitions@thiagarajar.com",
+      "website": "https://www.thiagarajar.com",
+      "notes": "Seeking 2 to 5 acres of commercial plot along Alagar Kovil Road corridor for corporate office complex and IT-allied commercial space development. Clear titles mandatory.",
+      "status": "New",
+      "dateAdded": "2024-10-22T09:45:00.000Z"
+    },
+    {
+      "id": "MDU-AKH-004",
+      "name": "Velammal Educational Trust (Commercial Expansion Cell)",
+      "category": "Institutional & Commercial Group",
+      "location": "Anupanadi, Madurai",
+      "phone": "+91 452 269 8900",
+      "whatsapp": "+91 98940 77123",
+      "email": "expansion@velammal.edu.in",
+      "website": "https://www.velammal.edu.in",
+      "notes": "Urgent requirement for 2.0+ acres land near Othakadai / Alagar Kovil Highway junction to construct a multi-storey professional building and commercial complex.",
+      "status": "New",
+      "dateAdded": "2024-10-21T14:20:00.000Z"
+    },
+    {
+      "id": "MDU-AKH-008",
+      "name": "Preethi Silks & Commercial Enterprises",
+      "category": "Retail & Real Estate Developer",
+      "location": "Town Hall Road, Madurai",
+      "phone": "+91 452 234 8888",
+      "whatsapp": "+91 98941 00999",
+      "email": "preethisilksmdu@gmail.com",
+      "website": "Not public",
+      "notes": "Directly searching for 50 cents to 1 acre of land on Alagar Kovil Highway for commercial showroom complex with basement parking potential.",
+      "status": "New",
+      "dateAdded": "2024-10-17T09:10:00.000Z"
+    },
+    {
+      "id": "MDU-AKH-009",
+      "name": "Naidu Hall Retail Expansion Division",
+      "category": "Commercial Retail Buyer",
+      "location": "KK Nagar, Madurai",
+      "phone": "+91 44 2434 4455",
+      "whatsapp": "+91 98408 87766",
+      "email": "expansion@naiduhall.com",
+      "website": "https://www.naiduhall.com",
+      "notes": "Requires 40 to 80 cents of main-road commercial land on Alagar Kovil Highway near K.K. Nagar boundary for a dedicated commercial plaza.",
+      "status": "New",
+      "dateAdded": "2024-10-16T15:30:00.000Z"
+    },
+    {
+      "id": "MDU-AKH-0010",
+      "name": "Pandyan Hotels & Properties",
+      "category": "Hospitality & Commercial Group",
+      "location": "Race Course Road, Madurai",
+      "phone": "+91 452 253 0710",
+      "whatsapp": "+91 98421 88810",
+      "email": "management@hotelpandyan.com",
+      "website": "http://www.hotelpandyan.com",
+      "notes": "Interested in 1.5 to 4.0 acres along Alagar Kovil Highway corridor for constructing a commercial boutique convention and lifestyle complex.",
+      "status": "New",
+      "dateAdded": "2024-10-15T11:40:00.000Z"
+    },
+    {
+      "id": "MDU-AKH-011",
+      "name": "Aachi Group (Madurai Commercial Division)",
+      "category": "FMCG & Commercial Property Wing",
+      "location": "Mattuthavani Corridor, Madurai",
+      "phone": "+91 44 2618 7777",
+      "whatsapp": "+91 98402 33445",
+      "email": "commercial.land@aachigroup.com",
+      "website": "https://www.aachigroup.com",
+      "notes": "Seeking commercial plot (1.0 to 2.0 acres) for regional distribution hub combined with a high-visibility commercial complex on Alagar Kovil Highway.",
+      "status": "New",
+      "dateAdded": "2024-10-14T13:25:00.000Z"
+    },
+    {
+      "id": "MDU-AKH-013",
+      "name": "Hitech Diagnostic Infrastructure Pvt Ltd",
+      "category": "Healthcare Commercial Developer",
+      "location": "Anna Nagar, Madurai",
+      "phone": "+91 452 252 2233",
+      "whatsapp": "+91 98421 33456",
+      "email": "expansion@hitechdiagnostics.in",
+      "website": "https://www.hitechdiagnostics.in",
+      "notes": "Looking for 50 to 90 cents commercial plot near K.K. Nagar / Alagar Kovil Highway junction for modern diagnostic tower and retail complex.",
+      "status": "New",
+      "dateAdded": "2024-10-12T17:15:00.000Z"
+    },
+    {
+      "id": "MDU-AKH-014",
+      "name": "TVS Supply Chain Solutions (Real Estate Asset Wing)",
+      "category": "Corporate & Commercial Logistics",
+      "location": "TVS Building, West Veli Street, Madurai",
+      "phone": "+91 452 235 0000",
+      "whatsapp": "+91 98400 54321",
+      "email": "land.acquisition@tvsscs.com",
+      "website": "https://www.tvsscs.com",
+      "notes": "Acquiring 2.5 to 5.0 acres of commercial/mixed-use plot along Alagar Kovil Highway for service center and regional administrative commercial hub.",
+      "status": "New",
+      "dateAdded": "2024-10-11T08:50:00.000Z"
     }
   ]
 }

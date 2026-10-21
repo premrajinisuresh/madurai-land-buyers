@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "lastRun": "2026-10-21T12:02:05.882Z",
-    "totalLeads": 11411,
-    "rotationIndex": 21
+    "lastRun": "2026-10-21T18:02:23.814Z",
+    "totalLeads": 11424,
+    "rotationIndex": 22
   },
   "leads": [
     {
@@ -148332,6 +148332,175 @@
       "notes": "Urgent requirement for 2.5 to 5 acres contiguous commercial land on Alagar Kovil Highway for new medical campus annexe.",
       "status": "New",
       "dateAdded": "2024-03-28T17:00:00Z"
+    },
+    {
+      "id": "LEAD-MDU-001",
+      "name": "Velammal Educational Trust (Madurai North Campus Expansion Wing)",
+      "category": "Educational Trust",
+      "location": "Alagar Kovil Main Road, Kadachanendhal, Madurai",
+      "phone": "+919842145800",
+      "whatsapp": "+919842145800",
+      "email": "land.expansion@velammal.edu.in",
+      "website": "https://velammal.edu.in",
+      "notes": "Direct requirement for 5 to 8 acres of contiguous commercial land along Alagar Kovil Road for proposed senior secondary school annexe and sports infrastructure.",
+      "status": "New",
+      "dateAdded": "2024-03-15T09:30:00.000Z"
+    },
+    {
+      "id": "LEAD-MDU-002",
+      "name": "Mahatma Schools Infrastructure Development Cell",
+      "category": "Private K-12 School Group",
+      "location": "K.Pudur / Alagar Kovil Road Axis, Madurai",
+      "phone": "+919443152210",
+      "whatsapp": "+919443152210",
+      "email": "projects@mahatmaschools.org",
+      "website": "https://mahatmaschools.org",
+      "notes": "Seeking 3 to 5 acres of land near Kadachanendhal or Appanthirupathi for an integrated sports and STEM lab annexe campus. Direct buyer team.",
+      "status": "New",
+      "dateAdded": "2024-03-18T11:15:00.000Z"
+    },
+    {
+      "id": "LEAD-MDU-003",
+      "name": "TVS Educational Society (Lakshmi School Campus Planning)",
+      "category": "Corporate Educational Foundation",
+      "location": "Tallakulam - Alagar Kovil Corridor, Madurai",
+      "phone": "+914522530122",
+      "whatsapp": "+919894011234",
+      "email": "estate.planning@tvses.org",
+      "website": "https://lakshmischool.in",
+      "notes": "Looking for 4 to 6 acres on or within 1 km of Alagar Kovil Road for establishing a specialized pre-primary & arts annexe campus.",
+      "status": "New",
+      "dateAdded": "2024-03-20T14:45:00.000Z"
+    },
+    {
+      "id": "LEAD-MDU-004",
+      "name": "Queen Mira International School (Expansion Division)",
+      "category": "International School Trust",
+      "location": "Alagar Kovil Highway Zone, Madurai",
+      "phone": "+919944452222",
+      "whatsapp": "+919944452222",
+      "email": "expansion@queenmira.com",
+      "website": "https://queenmira.com",
+      "notes": "Direct buy requirement for 6+ acres land parcel near Alagar Kovil survey area for IB DP residential residential annexe block.",
+      "status": "New",
+      "dateAdded": "2024-03-22T08:20:00.000Z"
+    },
+    {
+      "id": "LEAD-MDU-006",
+      "name": "Solamalai College of Engineering (Infra Expansion)",
+      "category": "Engineering & Technology Group",
+      "location": "Appanthirupathi / Alagar Kovil Belt, Madurai",
+      "phone": "+919842100888",
+      "whatsapp": "+919842100888",
+      "email": "chairmanoffice@solamalai.ac.in",
+      "website": "https://solamalai.ac.in",
+      "notes": "Targeting 10+ acres along Alagar Kovil Road for new Allied Health Sciences annexe block and hostel facility.",
+      "status": "New",
+      "dateAdded": "2024-03-27T16:30:00.000Z"
+    },
+    {
+      "id": "LEAD-MDU-007",
+      "name": "Yadava Education Trust (Women's Wing Annexe Committee)",
+      "category": "Educational Trust",
+      "location": "Thiruppalai - Alagar Kovil Link, Madurai",
+      "phone": "+914522680321",
+      "whatsapp": "+919442268032",
+      "email": "trust@yadavacollege.org",
+      "website": "https://yadavacollege.org",
+      "notes": "Direct buyer requirement for 4-7 acres clear-title land near Kadachanendhal for a new vocational college annexe.",
+      "status": "New",
+      "dateAdded": "2024-03-29T12:00:00.000Z"
+    },
+    {
+      "id": "LEAD-MDU-008",
+      "name": "Ultra College of Pharmacy & Educational Trust",
+      "category": "Medical & Allied Health Sciences Trust",
+      "location": "Kadachanendhal Bypass / Alagar Kovil Rd, Madurai",
+      "phone": "+919443381122",
+      "whatsapp": "+919443381122",
+      "email": "infra@ultratrust.org",
+      "website": "https://ultracollege.edu.in",
+      "notes": "Looking for 5 to 10 acres of conversion-ready land for nursing and physiotherapy college expansion. Immediate settlement.",
+      "status": "New",
+      "dateAdded": "2024-04-01T09:45:00.000Z"
+    },
+    {
+      "id": "LEAD-MDU-009",
+      "name": "Vikaasa World School Development Cell",
+      "category": "K-12 School Network",
+      "location": "Alagar Kovil Road, Madurai North",
+      "phone": "+919843055111",
+      "whatsapp": "+919843055111",
+      "email": "director@vikaasaworldschool.com",
+      "website": "https://vikaasaschool.com",
+      "notes": "Direct trust requirement: 3 to 5 acres for early childhood and primary wing extension along Alagar Kovil Road.",
+      "status": "New",
+      "dateAdded": "2024-04-03T15:10:00.000Z"
+    },
+    {
+      "id": "LEAD-MDU-010",
+      "name": "Sethu Institute of Technology (City Annexe Board)",
+      "category": "Engineering College Group",
+      "location": "Pudur - Alagar Kovil Corridor, Madurai",
+      "phone": "+919842133444",
+      "whatsapp": "Not public",
+      "email": "annexe.project@sethu.ac.in",
+      "website": "https://sethu.ac.in",
+      "notes": "Seeking 6 to 10 acres for AI & Robotics skill development center annexe. Prefer clear-title land with minimum 60ft road access.",
+      "status": "New",
+      "dateAdded": "2024-04-05T11:25:00.000Z"
+    },
+    {
+      "id": "LEAD-MDU-011",
+      "name": "Royal Care Health Sciences Education Trust",
+      "category": "Healthcare Education Group",
+      "location": "Alagar Kovil Main Road, Appanthirupathi, Madurai",
+      "phone": "+919842899000",
+      "whatsapp": "+919842899000",
+      "email": "projects@royalcaretrust.in",
+      "website": "Not public",
+      "notes": "Direct corporate buyer looking for 8+ acres on main highway for paramedic and college of nursing campus. No brokers.",
+      "status": "New",
+      "dateAdded": "2024-04-08T13:50:00.000Z"
+    },
+    {
+      "id": "LEAD-MDU-013",
+      "name": "Devaki Haresh Educational Trust",
+      "category": "CBSE/State Board School Group",
+      "location": "Tallakulam - Kadachanendhal Stretch, Madurai",
+      "phone": "+919842188777",
+      "whatsapp": "+919842188777",
+      "email": "lands@devakiharesh.org",
+      "website": "Not public",
+      "notes": "Budget allocated for 3 to 5 acres commercial land direct buy. Preferred location within 3 km of Kadachanendhal junction.",
+      "status": "New",
+      "dateAdded": "2024-04-12T17:15:00.000Z"
+    },
+    {
+      "id": "LEAD-MDU-014",
+      "name": "PSR Educational Trust (Madurai Infra Wing)",
+      "category": "Technical Education Group",
+      "location": "Alagar Kovil - Othakadai Peripheral Zone, Madurai",
+      "phone": "+919842422333",
+      "whatsapp": "+919842422333",
+      "email": "landcell@psr.edu.in",
+      "website": "https://psr.edu.in",
+      "notes": "In search of 10-15 acres for polytechnic & pharmacy annexe campus near main Alagar Kovil access road.",
+      "status": "New",
+      "dateAdded": "2024-04-14T08:40:00.000Z"
+    },
+    {
+      "id": "LEAD-MDU-015",
+      "name": "NPR Group of Educational Institutions (Madurai North Office)",
+      "category": "Multi-disciplinary Educational Group",
+      "location": "Alagar Kovil Main Road, Madurai",
+      "phone": "+919944012345",
+      "whatsapp": "+919944012345",
+      "email": "expansion@nprcolleges.org",
+      "website": "https://nprcolleges.org",
+      "notes": "Direct buyer committee seeking 5 to 10 acres plot near Kadachanendhal/Appanthirupathi for sports academy and school extension.",
+      "status": "New",
+      "dateAdded": "2024-04-16T14:00:00.000Z"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "lastRun": "2026-10-24T06:01:46.803Z",
-    "totalLeads": 11667,
-    "rotationIndex": 8
+    "lastRun": "2026-10-24T07:44:51.360Z",
+    "totalLeads": 11679,
+    "rotationIndex": 9
   },
   "leads": [
     {
@@ -151660,6 +151660,162 @@
       "notes": "Madurai-based enterprise acquiring 1 to 3 acres along Alagar Kovil Highway for a premium mixed commercial office space & IT park hub.",
       "status": "New",
       "dateAdded": "2025-02-22T15:20:00Z"
+    },
+    {
+      "id": "MDU-IT-002",
+      "name": "Aura Software Solutions Pvt Ltd",
+      "category": "Software Product Company",
+      "location": "Kadachanendhal / Alagar Kovil Road, Madurai",
+      "phone": "+919443187210",
+      "whatsapp": "+919443187210",
+      "email": "expansion@aurasoftware.in",
+      "website": "https://www.aurasoftware.in",
+      "notes": "Madurai-native IT enterprise searching for 1.5 to 2.5 acres main-road frontage plot near Alagar Kovil Highway to construct an owned 500-seater corporate HQ.",
+      "status": "New",
+      "dateAdded": "2024-05-11T09:15:00Z"
+    },
+    {
+      "id": "MDU-IT-003",
+      "name": "Vuram / WNS Global Services (Infrastructure Wing)",
+      "category": "Hyperautomation & Enterprise IT Services",
+      "location": "Alagar Kovil Highway, Madurai",
+      "phone": "+919884051223",
+      "whatsapp": "+919884051223",
+      "email": "facilities.madurai@wns.com",
+      "website": "https://www.wns.com",
+      "notes": "Direct acquisition team looking for 4+ acres suitable for IT/ITES campus setup within 5 km of Mattuthavani / Alagar Kovil junction. Immediate deal closure intended.",
+      "status": "New",
+      "dateAdded": "2024-05-12T11:45:00Z"
+    },
+    {
+      "id": "MDU-IT-004",
+      "name": "DCKAP Tech Infrastructure Division",
+      "category": "E-Commerce Tech Enterprise",
+      "location": "Madurai - Othakadai / Alagar Kovil Axis",
+      "phone": "+919840899120",
+      "whatsapp": "+919840899120",
+      "email": "realestate@dckap.com",
+      "website": "https://www.dckap.com",
+      "notes": "Actively scouting 2 to 3 acres of commercial institutional land for building a greenfield R&D center. Requires 80+ ft road frontage.",
+      "status": "New",
+      "dateAdded": "2024-05-13T10:20:00Z"
+    },
+    {
+      "id": "MDU-IT-005",
+      "name": "Agnithra Technologies",
+      "category": "Cloud & Managed IT Services",
+      "location": "Alagar Kovil Main Road, Madurai",
+      "phone": "+919790014389",
+      "whatsapp": "+919790014389",
+      "email": "director@agnithra.com",
+      "website": "https://www.agnithra.com",
+      "notes": "Direct company director looking to buy 1 to 2 acres plot for immediate construction of a corporate regional software office. No brokers preferred.",
+      "status": "New",
+      "dateAdded": "2024-05-14T14:10:00Z"
+    },
+    {
+      "id": "MDU-IT-006",
+      "name": "Tessolve Semiconductor (Madurai Regional Desk)",
+      "category": "VLSI & Embedded Systems Design",
+      "location": "Alagar Kovil Road / K.Pudur Extended, Madurai",
+      "phone": "+919940188345",
+      "whatsapp": "Not public",
+      "email": "admin.madurai@tessolve.com",
+      "website": "https://www.tessolve.com",
+      "notes": "Looking for 3 acres of DTCP/LPA-approved commercial land to establish a specialized semiconductor design lab & regional center.",
+      "status": "New",
+      "dateAdded": "2024-05-15T08:00:00Z"
+    },
+    {
+      "id": "MDU-IT-007",
+      "name": "Guuhan Tech Solutions Pvt Ltd",
+      "category": "Enterprise Software & Analytics",
+      "location": "Appanthangal / Alagar Kovil Road, Madurai",
+      "phone": "+919443321900",
+      "whatsapp": "+919443321900",
+      "email": "contact@guuhantech.com",
+      "website": "https://www.guuhantech.com",
+      "notes": "Looking for 1 acre commercial land plot directly from owners near Alagar Kovil Highway for dedicated administrative office building.",
+      "status": "New",
+      "dateAdded": "2024-05-16T12:30:00Z"
+    },
+    {
+      "id": "MDU-IT-009",
+      "name": "Hi-Tech Arai IT & Systems Division",
+      "category": "Industrial Tech & Auto Software Enterprise",
+      "location": "Madurai - Alagar Kovil Highway",
+      "phone": "+919842145600",
+      "whatsapp": "Not public",
+      "email": "infra@hitecharai.in",
+      "website": "https://www.hitecharai.in",
+      "notes": "Diversifying corporate group looking to acquire 5 acres for a captive IT and engineering software delivery unit. Direct negotiations preferred.",
+      "status": "New",
+      "dateAdded": "2024-05-18T15:45:00Z"
+    },
+    {
+      "id": "MDU-IT-010",
+      "name": "Clintech Software India Pvt Ltd",
+      "category": "Healthcare IT & Bio-Analytics",
+      "location": "Othakadai - Alagar Kovil Link Road, Madurai",
+      "phone": "+919894011299",
+      "whatsapp": "+919894011299",
+      "email": "expansion@clintechsoft.com",
+      "website": "https://www.clintechsoft.com",
+      "notes": "High-intent buyer seeking 2 acres plot for cleanroom & IT office facility. Prefer corner plot or wide road frontage near IT corridor.",
+      "status": "New",
+      "dateAdded": "2024-05-19T10:05:00Z"
+    },
+    {
+      "id": "MDU-IT-011",
+      "name": "CogniTech India (GCC Expansion Wing)",
+      "category": "Global Capability Center (GCC)",
+      "location": "Alagar Kovil Main Road, Madurai",
+      "phone": "Not public",
+      "whatsapp": "Not public",
+      "email": "gcc.madurai@cognitech-global.com",
+      "website": "https://www.cognitech-global.com",
+      "notes": "Multinational GCC looking for 5 to 8 acres plot along Alagar Kovil Highway for a multi-storey tech campus. Requires clear title and single owner.",
+      "status": "New",
+      "dateAdded": "2024-05-20T07:50:00Z"
+    },
+    {
+      "id": "MDU-IT-013",
+      "name": "Inspirisys Solutions (Facilities Team)",
+      "category": "IT Infrastructure & Security Systems",
+      "location": "Alagar Kovil Highway, Madurai",
+      "phone": "+919840901234",
+      "whatsapp": "+919840901234",
+      "email": "facilities.south@inspirisys.com",
+      "website": "https://www.inspirisys.com",
+      "notes": "Sourcing 2 acres land for standalone corporate regional office and SOC (Security Operations Center). High priority requirement.",
+      "status": "New",
+      "dateAdded": "2024-05-22T13:00:00Z"
+    },
+    {
+      "id": "MDU-IT-014",
+      "name": "Symphony Tech Parks & Infra (Single-Tenant Buyer)",
+      "category": "Commercial IT Real Estate Developer",
+      "location": "Madurai - Kadachanendhal / Alagar Kovil Road",
+      "phone": "+919790908811",
+      "whatsapp": "+919790908811",
+      "email": "land@symphonyinfra.in",
+      "website": "https://www.symphonyinfra.in",
+      "notes": "Direct institutional land buyer acquiring 4 to 6 acres specifically customized for a pre-committed Tier-1 IT tenant setup.",
+      "status": "New",
+      "dateAdded": "2024-05-23T16:10:00Z"
+    },
+    {
+      "id": "MDU-IT-015",
+      "name": "Nandhee Tech Group",
+      "category": "IT Product Development & Cloud Solutions",
+      "location": "Alagar Kovil Highway, Madurai",
+      "phone": "+919843077651",
+      "whatsapp": "+919843077651",
+      "email": "landacquisition@nandheetech.com",
+      "website": "https://www.nandheetech.com",
+      "notes": "Direct tech corporate looking for 1.5 acres of commercial/mixed-use commercial land on main Alagar Kovil Road for immediate billing.",
+      "status": "New",
+      "dateAdded": "2024-05-24T09:40:00Z"
     }
   ]
 }

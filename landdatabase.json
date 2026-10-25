@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "lastRun": "2026-10-25T17:59:07.504Z",
-    "totalLeads": 11874,
-    "rotationIndex": 24
+    "lastRun": "2026-10-25T18:02:01.444Z",
+    "totalLeads": 11883,
+    "rotationIndex": 25
   },
   "leads": [
     {
@@ -154351,6 +154351,123 @@
       "notes": "Looking for 2+ acres along the Alagar Kovil corridor. Strict requirement for clear single-owner title; direct transaction only.",
       "status": "New",
       "dateAdded": "2024-05-26T11:10:00Z"
+    },
+    {
+      "id": "lead-001",
+      "name": "Vishaal Promoters & Developers (P) Ltd",
+      "category": "Retail & Mall Developer",
+      "location": "Alagar Kovil Road, Madurai, Tamil Nadu",
+      "phone": "+91 452 252 8899",
+      "whatsapp": "+91 98421 44550",
+      "email": "landacquisitions@vishaaldemal.com",
+      "website": "https://www.vishaaldemal.com",
+      "notes": "Direct corporate buyer looking for 1.5 to 3 acres along Alagar Kovil Highway for a multi-storey retail and commercial complex project. Requires minimum 120 ft road frontage.",
+      "status": "New",
+      "dateAdded": "2024-05-10T09:15:00Z"
+    },
+    {
+      "id": "lead-003",
+      "name": "Pandyan Hotels & Hospitality Group",
+      "category": "Hospitality & Commercial Real Estate",
+      "location": "Race Course Road / Alagar Kovil Junction, Madurai",
+      "phone": "+91 452 435 5555",
+      "whatsapp": "+91 98940 55551",
+      "email": "project.dev@pandyanhotels.com",
+      "website": "https://www.pandyanhotels.com",
+      "notes": "High-intent requirement for 1.5 acres land near Alagar Kovil Road junction for a commercial business hotel with integrated retail space.",
+      "status": "New",
+      "dateAdded": "2024-05-12T14:20:00Z"
+    },
+    {
+      "id": "lead-005",
+      "name": "Kannan Departmental Stores (S.S.V. Retail Group)",
+      "category": "Supermarket & Commercial Retail",
+      "location": "Alagar Kovil Road, Madurai",
+      "phone": "+91 452 234 5678",
+      "whatsapp": "+91 98430 88900",
+      "email": "business.expansion@kannanstores.in",
+      "website": "Not public",
+      "notes": "Searching for a 40,000 to 60,000 sq ft commercial land plot on Alagar Kovil Road for a standalone supermarket complex with basement parking.",
+      "status": "New",
+      "dateAdded": "2024-05-14T08:00:00Z"
+    },
+    {
+      "id": "lead-008",
+      "name": "Apollo Speciality Hospitals Regional Land Wing",
+      "category": "Healthcare & Commercial Real Estate",
+      "location": "KK Nagar - Alagar Kovil Road Stretch, Madurai",
+      "phone": "+91 452 258 0000",
+      "whatsapp": "+91 99440 80000",
+      "email": "corporate_land@apollohospitals.com",
+      "website": "https://www.apollohospitals.com",
+      "notes": "Urgent requirement for commercial plot (80 cents to 1.5 acres) suitable for multi-storey medical office and commercial wellness hub.",
+      "status": "New",
+      "dateAdded": "2024-05-17T15:30:00Z"
+    },
+    {
+      "id": "lead-009",
+      "name": "Ramraj Cotton Enterprise Division",
+      "category": "Commercial Apparel Retail",
+      "location": "Alagar Kovil Main Road, Madurai",
+      "phone": "+91 452 260 7788",
+      "whatsapp": "+91 98422 60778",
+      "email": "infrastructure@ramrajcotton.net",
+      "website": "https://www.ramrajcotton.in",
+      "notes": "Direct buyer searching for a 40 to 60 cents plot on main Alagar Kovil Highway for multi-level corporate store and commercial offices.",
+      "status": "New",
+      "dateAdded": "2024-05-18T10:05:00Z"
+    },
+    {
+      "id": "lead-011",
+      "name": "GRT Hotels & Resorts Projects Wing",
+      "category": "Hospitality / Commercial Development",
+      "location": "Alagar Kovil Road, Madurai",
+      "phone": "+91 44 2815 0500",
+      "whatsapp": "+91 98400 12340",
+      "email": "projects@grthotels.com",
+      "website": "https://www.grthotels.com",
+      "notes": "Looking for 1 to 2 acres commercial frontage plot on Alagar Kovil Highway for business hotel and commercial convention center.",
+      "status": "New",
+      "dateAdded": "2024-05-20T09:50:00Z"
+    },
+    {
+      "id": "lead-013",
+      "name": "Jayaraj Karz Commercial Division",
+      "category": "Automobile Showroom & Commercial Space",
+      "location": "Alagar Kovil Extension, Madurai",
+      "phone": "+91 452 438 8888",
+      "whatsapp": "+91 98421 88888",
+      "email": "direct.land@jayaraj.in",
+      "website": "https://www.jayaraj.in",
+      "notes": "Intent to purchase 1 to 1.5 acres commercial land along Alagar Kovil Road for automobile showroom and commercial corporate office.",
+      "status": "New",
+      "dateAdded": "2024-05-22T14:05:00Z"
+    },
+    {
+      "id": "lead-014",
+      "name": "Naidu Hall (YNS Retail Ventures)",
+      "category": "Commercial Retail Arcade",
+      "location": "Alagar Kovil Road, Madurai",
+      "phone": "+91 452 234 9999",
+      "whatsapp": "+91 98409 99911",
+      "email": "business@naiduhall.in",
+      "website": "https://www.naiduhall.in",
+      "notes": "Direct requirement for 50 cents to 1 acre plot on main Alagar Kovil Road for a standalone commercial apparel & lifestyle complex.",
+      "status": "New",
+      "dateAdded": "2024-05-23T10:25:00Z"
+    },
+    {
+      "id": "lead-015",
+      "name": "Milan Textil & Commercial Properties",
+      "category": "Commercial Mall & Real Estate Group",
+      "location": "K.K. Nagar - Alagar Kovil Road, Madurai",
+      "phone": "+91 452 253 4400",
+      "whatsapp": "+91 98421 53440",
+      "email": "land@milanproperties.in",
+      "website": "Not public",
+      "notes": "Direct investor looking for 1.5 to 3 acres along Alagar Kovil Highway for IT park and commercial complex project. Quick settlement capability.",
+      "status": "New",
+      "dateAdded": "2024-05-24T16:50:00Z"
     }
   ]
 }

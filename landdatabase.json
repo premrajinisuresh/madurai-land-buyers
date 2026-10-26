@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "lastRun": "2026-10-26T08:17:48.517Z",
-    "totalLeads": 11971,
-    "rotationIndex": 32
+    "lastRun": "2026-10-26T09:01:54.203Z",
+    "totalLeads": 11984,
+    "rotationIndex": 33
   },
   "leads": [
     {
@@ -155612,6 +155612,175 @@
       "notes": "Requires 1.0 to 1.5 acres commercial plot on main Alagar Kovil Road for Zonal Regional Administrative Complex.",
       "status": "New",
       "dateAdded": "2026-03-30T07:30:00Z"
+    },
+    {
+      "id": "LEAD-MAD-001",
+      "name": "Karumuttu Family Office (Loyal Group Investments)",
+      "category": "Industrialist Family Office",
+      "location": "Madurai, Tamil Nadu",
+      "phone": "+91 9842123401",
+      "whatsapp": "+91 9842123401",
+      "email": "investments@loyaltextiles.com",
+      "website": "https://www.loyaltextiles.com",
+      "notes": "Direct industrial family office seeking 10–25 acres of commercial/light industrial land along the Alagar Kovil Highway corridor for warehousing and tech-park development.",
+      "status": "New",
+      "dateAdded": "2026-03-30T09:15:00Z"
+    },
+    {
+      "id": "LEAD-MAD-002",
+      "name": "TVS Mobility - Corporate Land Acquisition Wing",
+      "category": "Corporate Conglomerate",
+      "location": "Madurai / Chennai, Tamil Nadu",
+      "phone": "+91 452 2482501",
+      "whatsapp": "Not public",
+      "email": "land.acquisition@tvsmobility.com",
+      "website": "https://www.tvsmobility.com",
+      "notes": "Looking for 15+ acres near Madurai outer ring road / Alagar Kovil road junction for logistics hub and EV service center facility. Direct corporate buyer.",
+      "status": "New",
+      "dateAdded": "2026-03-30T10:00:00Z"
+    },
+    {
+      "id": "LEAD-MAD-003",
+      "name": "Hi-Tech Arai Industrial Expansion Cell",
+      "category": "Auto Components Manufacturer",
+      "location": "Madurai, Tamil Nadu",
+      "phone": "+91 9443156782",
+      "whatsapp": "+91 9443156782",
+      "email": "projects@hitecharai.com",
+      "website": "http://www.hitecharai.com",
+      "notes": "Direct acquisition intent for 8-12 acres land along Alagar Kovil route for ancillary manufacturing unit and private storage yards.",
+      "status": "New",
+      "dateAdded": "2026-03-30T10:30:00Z"
+    },
+    {
+      "id": "LEAD-MAD-005",
+      "name": "J.K. Fenner (India) Capital Projects",
+      "category": "Industrial Manufacturing Group",
+      "location": "Madurai, Tamil Nadu",
+      "phone": "+91 452 2301201",
+      "whatsapp": "Not public",
+      "email": "corporate.land@jkfenner.com",
+      "website": "https://www.jkfenner.com",
+      "notes": "Evaluating contiguous commercial/industrial land parcels near northern Madurai corridors (Alagar Kovil Road) for R&D facility expansion.",
+      "status": "New",
+      "dateAdded": "2026-03-30T11:45:00Z"
+    },
+    {
+      "id": "LEAD-MAD-006",
+      "name": "Appasamy Tech Family Investment Office",
+      "category": "Medical Tech Family Office",
+      "location": "Madurai / Chennai, Tamil Nadu",
+      "phone": "+91 9444089912",
+      "whatsapp": "+91 9444089912",
+      "email": "familyoffice@appasamy.com",
+      "website": "https://www.appasamy.com",
+      "notes": "Acquiring clear-title land banks (5-20 acres) around Madurai peri-urban stretches including Alagar Kovil for long-term commercial/institutional development.",
+      "status": "New",
+      "dateAdded": "2026-03-30T12:15:00Z"
+    },
+    {
+      "id": "LEAD-MAD-007",
+      "name": "Meenakshi Health & Infra Trust",
+      "category": "Healthcare & Institutional Group",
+      "location": "Madurai, Tamil Nadu",
+      "phone": "+91 452 2580580",
+      "whatsapp": "Not public",
+      "email": "expansion@mmhrc.in",
+      "website": "https://www.meenakshimission.org",
+      "notes": "Direct institutional buyer scouting 10-30 acres on Alagar Kovil Main Road / Highway for specialized health sanctuary and staff township project.",
+      "status": "New",
+      "dateAdded": "2026-03-30T13:00:00Z"
+    },
+    {
+      "id": "LEAD-MAD-008",
+      "name": "Velammal Capital Assets Management",
+      "category": "Educational & Healthcare Conglomerate",
+      "location": "Madurai, Tamil Nadu",
+      "phone": "+91 9842188900",
+      "whatsapp": "+91 9842188900",
+      "email": "landacquisitions@velammal.edu.in",
+      "website": "https://www.velammal.edu.in",
+      "notes": "Direct acquisition intent for 15+ acres contiguous parcel on Alagar Kovil Highway for institutional expansion. Cash-ready buyer.",
+      "status": "New",
+      "dateAdded": "2026-03-30T13:40:00Z"
+    },
+    {
+      "id": "LEAD-MAD-009",
+      "name": "Pandyan Holdings & Commercial Land Trust",
+      "category": "Hospitality & Real Estate Family Office",
+      "location": "Madurai, Tamil Nadu",
+      "phone": "+91 9843055400",
+      "whatsapp": "+91 9843055400",
+      "email": "holdings@hotelpandyan.com",
+      "website": "http://www.hotelpandyan.com",
+      "notes": "Promoter family office looking to buy 3-8 acres of prime commercial land on Alagar Kovil stretch for drive-through retail and eco-resort concept.",
+      "status": "New",
+      "dateAdded": "2026-03-30T14:10:00Z"
+    },
+    {
+      "id": "LEAD-MAD-011",
+      "name": "GOVEL Trust / Aravind Infrastructure Cell",
+      "category": "Healthcare & Institutional Buyer",
+      "location": "Madurai, Tamil Nadu",
+      "phone": "+91 452 4356500",
+      "whatsapp": "Not public",
+      "email": "infrastructure@aravind.org",
+      "website": "https://www.aravind.org",
+      "notes": "Looking for clear-title land parcels (6-12 acres) near Alagar Kovil stretch for non-profit and allied commercial research facilities.",
+      "status": "New",
+      "dateAdded": "2026-03-30T15:20:00Z"
+    },
+    {
+      "id": "LEAD-MAD-012",
+      "name": "V V Group - Southern Commercial Division",
+      "category": "Mining & Industrial Family Office",
+      "location": "Tirunelveli / Madurai, Tamil Nadu",
+      "phone": "+91 9842211999",
+      "whatsapp": "+91 9842211999",
+      "email": "commercial.land@vvgroup.in",
+      "website": "https://www.vvgroup.in",
+      "notes": "Acquiring strategic commercial land assets in Madurai region. Specific interest in Alagar Kovil road due to upcoming infrastructure developments.",
+      "status": "New",
+      "dateAdded": "2026-03-30T16:00:00Z"
+    },
+    {
+      "id": "LEAD-MAD-013",
+      "name": "Sree Rengaraj Infrastructure & Warehousing",
+      "category": "Steel & Power Industrial Group",
+      "location": "Madurai / Erode, Tamil Nadu",
+      "phone": "+91 9842744332",
+      "whatsapp": "+91 9842744332",
+      "email": "realestate@sreerengarajsteel.com",
+      "website": "http://www.sreerengarajsteel.com",
+      "notes": "Searching for 12-25 acres of dry commercial land suitable for heavy logistics yard and warehouse park along Alagar Kovil bypass.",
+      "status": "New",
+      "dateAdded": "2026-03-30T16:30:00Z"
+    },
+    {
+      "id": "LEAD-MAD-014",
+      "name": "JAS Logistics & Cold Chain Holdings",
+      "category": "Logistics & Agro Industrialist",
+      "location": "Madurai, Tamil Nadu",
+      "phone": "+91 9994018822",
+      "whatsapp": "+91 9994018822",
+      "email": "director@jaslogistics.co.in",
+      "website": "Not public",
+      "notes": "Direct requirement for 5 to 10 acres of commercial/industrial land on Alagar Kovil Road to establish a modern cold storage & distribution facility.",
+      "status": "New",
+      "dateAdded": "2026-03-30T17:00:00Z"
+    },
+    {
+      "id": "LEAD-MAD-015",
+      "name": "Sundaram-Clayton Commercial Land Cell",
+      "category": "Automotive & Holding Enterprise",
+      "location": "Madurai / Chennai, Tamil Nadu",
+      "phone": "+91 44 28332115",
+      "whatsapp": "Not public",
+      "email": "landbanks@sundaramclayton.com",
+      "website": "https://www.sundaramclayton.com",
+      "notes": "Corporate land acquisition cell exploring 20+ acre parcels near Alagar Kovil corridor for strategic land-banking and prospective supplier park.",
+      "status": "New",
+      "dateAdded": "2026-03-30T17:30:00Z"
     }
   ]
 }

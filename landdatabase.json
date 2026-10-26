@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "lastRun": "2026-10-26T15:05:14.111Z",
-    "totalLeads": 12009,
-    "rotationIndex": 1
+    "lastRun": "2026-10-26T15:38:25.559Z",
+    "totalLeads": 12021,
+    "rotationIndex": 2
   },
   "leads": [
     {
@@ -156106,6 +156106,162 @@
       "notes": "Direct end-buyer syndicate looking to purchase 2 Acres land directly from title owners along Alagar Kovil High Road for immediate hotel construction.",
       "status": "New",
       "dateAdded": "2024-05-17T13:50:00Z"
+    },
+    {
+      "id": "LEAD-MDU-002",
+      "name": "Temple City Wellness & Retreats Group",
+      "category": "Wellness & Leisure Buyer",
+      "location": "Madurai, Tamil Nadu",
+      "phone": "+919443187220",
+      "whatsapp": "+919443187220",
+      "email": "projects@templecitywellness.in",
+      "website": "http://www.templecitywellness.in",
+      "notes": "Seeking 3 to 5 acres near the foothills of Alagar Kovil for a holistic wellness center and spiritual retreat center.",
+      "status": "New",
+      "dateAdded": "2024-03-27T14:15:00Z"
+    },
+    {
+      "id": "LEAD-MDU-004",
+      "name": "Vaigai Valley Eco Resorts India",
+      "category": "Direct Buyer / Investor Group",
+      "location": "Coimbatore / Madurai",
+      "phone": "+919787011450",
+      "whatsapp": "+919787011450",
+      "email": "ceo.office@vaigaivalleyresorts.com",
+      "website": "http://www.vaigaivalleyresorts.com",
+      "notes": "Targeting 4-7 acres of scenic land along the Alagar Kovil corridor for a boutique nature resort with private villas.",
+      "status": "New",
+      "dateAdded": "2024-03-26T16:20:00Z"
+    },
+    {
+      "id": "LEAD-MDU-005",
+      "name": "Southern Spice Hotels & Leisure Projects",
+      "category": "Commercial Buyer",
+      "location": "Madurai, Tamil Nadu",
+      "phone": "+919842190884",
+      "whatsapp": "Not public",
+      "email": "development@southernspicehotels.com",
+      "website": "http://www.southernspicehotels.com",
+      "notes": "Looking for commercial-zoned land (minimum 3 acres) near Alagar Kovil Road suitable for a highway resort hotel.",
+      "status": "New",
+      "dateAdded": "2024-03-28T08:00:00Z"
+    },
+    {
+      "id": "LEAD-MDU-006",
+      "name": "Alagar Hills Boutique Stays",
+      "category": "Private Consortium",
+      "location": "Madurai, Tamil Nadu",
+      "phone": "+919600214309",
+      "whatsapp": "+919600214309",
+      "email": "invest@alagarhillsstays.com",
+      "website": "Not public",
+      "notes": "High-net-worth individual group requiring 2 to 4 acres near Kidaripatti / Alagar Kovil stretch for a gated resort community.",
+      "status": "New",
+      "dateAdded": "2024-03-25T10:10:00Z"
+    },
+    {
+      "id": "LEAD-MDU-007",
+      "name": "SRM Hotel Projects & Infrastructure",
+      "category": "Corporate Developer",
+      "location": "Chennai, Tamil Nadu",
+      "phone": "+919841099823",
+      "whatsapp": "+919841099823",
+      "email": "landbank@srmhotels.com",
+      "website": "http://www.srmhotels.com",
+      "notes": "Evaluating Madurai market; specifically interested in 8+ acres on Alagar Kovil Highway for a resort-cum-convention venue.",
+      "status": "New",
+      "dateAdded": "2024-03-27T17:05:00Z"
+    },
+    {
+      "id": "LEAD-MDU-008",
+      "name": "Chidambaram Eco-Hospitality Ventures",
+      "category": "Resort Developer",
+      "location": "Tiruchirappalli / Madurai",
+      "phone": "+919443210987",
+      "whatsapp": "+919443210987",
+      "email": "contact@chidambaramecohospitality.com",
+      "website": "http://www.chidambaramecohospitality.com",
+      "notes": "Direct buyer needing 5-12 acres of green property near Alagar Kovil to develop an organic farm resort.",
+      "status": "New",
+      "dateAdded": "2024-03-28T13:40:00Z"
+    },
+    {
+      "id": "LEAD-MDU-009",
+      "name": "Royal Care Wellness Sanctuary & Spa",
+      "category": "Ayurvedic Resort Group",
+      "location": "Kerala / Madurai",
+      "phone": "+919744012990",
+      "whatsapp": "+919744012990",
+      "email": "expansion@royalcarewellness.in",
+      "website": "http://www.royalcarewellness.in",
+      "notes": "Looking for tranquil land parcel (4 to 6 acres) close to Alagar Kovil hills for an Ayurvedic wellness resort.",
+      "status": "New",
+      "dateAdded": "2024-03-24T12:00:00Z"
+    },
+    {
+      "id": "LEAD-MDU-010",
+      "name": "Sangam Leisure & Convention Resorts",
+      "category": "Hotel Chain",
+      "location": "Madurai, Tamil Nadu",
+      "phone": "+919842144332",
+      "whatsapp": "Not public",
+      "email": "corp.realestate@sangamleisure.com",
+      "website": "http://www.sangamleisure.com",
+      "notes": "Direct acquisition intent for 6 to 10 acres highway-facing land near Alagar Kovil for resort development.",
+      "status": "New",
+      "dateAdded": "2024-03-28T15:30:00Z"
+    },
+    {
+      "id": "LEAD-MDU-012",
+      "name": "Tamil Nadu Green Canopy Retreats",
+      "category": "Eco Resort Chain",
+      "location": "Bengaluru / Madurai",
+      "phone": "+919880192837",
+      "whatsapp": "+919880192837",
+      "email": "land@greencanopyretreats.com",
+      "website": "http://www.greencanopyretreats.com",
+      "notes": "In search of 5+ acres of clear non-agricultural/convertible land on Alagar Kovil Highway for a sustainable resort.",
+      "status": "New",
+      "dateAdded": "2024-03-27T10:15:00Z"
+    },
+    {
+      "id": "LEAD-MDU-013",
+      "name": "Sri Meenakshi Agro Tourism & Resorts",
+      "category": "Agri-Tourism Direct Buyer",
+      "location": "Madurai, Tamil Nadu",
+      "phone": "+919442091823",
+      "whatsapp": "+919442091823",
+      "email": "info@meenakshiagrotourism.in",
+      "website": "http://www.meenakshiagrotourism.in",
+      "notes": "Seeking 10 to 15 acres suitable for combined agro-tourism resort development near Alagar Hills belt.",
+      "status": "New",
+      "dateAdded": "2024-03-28T16:00:00Z"
+    },
+    {
+      "id": "LEAD-MDU-014",
+      "name": "Spice Route Hill Resorts & Spas",
+      "category": "Hospitality Chain",
+      "location": "Kochi / Madurai",
+      "phone": "+919846012234",
+      "whatsapp": "Not public",
+      "email": "projects@spicerouteresorts.com",
+      "website": "http://www.spicerouteresorts.com",
+      "notes": "Direct acquisition group seeking 4 to 8 acres on or near Alagar Kovil Main Road for a 4-star leisure resort.",
+      "status": "New",
+      "dateAdded": "2024-03-25T14:45:00Z"
+    },
+    {
+      "id": "LEAD-MDU-015",
+      "name": "Apex South India Hotel Developments",
+      "category": "Institutional Buyer",
+      "location": "Chennai, Tamil Nadu",
+      "phone": "+919840911005",
+      "whatsapp": "+919840911005",
+      "email": "acquisitions@apexsouthhotels.com",
+      "website": "http://www.apexsouthhotels.com",
+      "notes": "Institutional buyer planning a 100-room resort facility; needs 6-12 acres land parcel along Alagar Kovil Highway corridor.",
+      "status": "New",
+      "dateAdded": "2024-03-28T18:20:00Z"
     }
   ]
 }

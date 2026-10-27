@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "lastRun": "2026-10-27T21:01:49.133Z",
-    "totalLeads": 15,
-    "rotationIndex": 1
+    "lastRun": "2026-10-27T21:37:26.416Z",
+    "totalLeads": 30,
+    "rotationIndex": 2
   },
   "leads": [
     {
@@ -199,6 +199,201 @@
       "notes": "Seeking 1.5 to 2 acres commercial or conversion-ready land near Appanthirupathi / Alagar Kovil highway for a pilgrimage-focused budget hotel and South Indian pure veg restaurant.",
       "status": "New",
       "dateAdded": "2025-02-27T16:00:00Z"
+    },
+    {
+      "id": "lead-001",
+      "name": "Heritage Haven Hospitality Group",
+      "category": "Hospitality Chain",
+      "location": "Appanthirupathi, Alagar Kovil Road, Madurai",
+      "phone": "+91 9840312450",
+      "whatsapp": "+91 9840312450",
+      "email": "acquisitions@heritagehaven.in",
+      "website": "https://www.heritagehaven.in",
+      "notes": "Direct corporate buyer looking for 8-15 acres clear-title land near Appanthirupathi / Alagar Kovil foothills for a luxury heritage eco-resort and wellness destination. Mandate issued directly by MD office.",
+      "status": "New",
+      "dateAdded": "2026-03-30T10:15:00Z"
+    },
+    {
+      "id": "lead-002",
+      "name": "Apex Leisure & Resorts Ltd",
+      "category": "Corporate Developer",
+      "location": "Alagar Kovil Highway, Madurai",
+      "phone": "+91 9444089120",
+      "whatsapp": "+91 9444089120",
+      "email": "projects@apexleisure.co.in",
+      "website": "https://www.apexleisure.co.in",
+      "notes": "Direct acquisition requirement for 12-20 acres on or within 500m of Alagar Kovil Main Road. Planned project: Destination convention resort with banquet facilities and 80+ keys.",
+      "status": "New",
+      "dateAdded": "2026-03-30T11:40:00Z"
+    },
+    {
+      "id": "lead-003",
+      "name": "Veda Wellness & Retreats South",
+      "category": "Wellness & Hospitality Brand",
+      "location": "Kadachanendal - Alagar Kovil Belt, Madurai",
+      "phone": "+91 9790923811",
+      "whatsapp": "+91 9790923811",
+      "email": "expansion@vedawellness.org",
+      "website": "https://www.vedawellness.org",
+      "notes": "Requires 6 to 10 acres of serene land with lush natural vegetation and water source near Alagar Kovil foothills for an authentic Ayurvedic spa resort. Zero broker intervention requested.",
+      "status": "New",
+      "dateAdded": "2026-03-30T14:20:00Z"
+    },
+    {
+      "id": "lead-004",
+      "name": "Pandyan Eco-Stays Pvt Ltd",
+      "category": "Resort Operator",
+      "location": "Kidaripatti, Alagar Kovil Road, Madurai",
+      "phone": "+91 9884156789",
+      "whatsapp": "+91 9884156789",
+      "email": "land@pandyanecostays.com",
+      "website": "https://www.pandyanecostays.com",
+      "notes": "Direct buyer seeking 5-8 acres with good hill view along Kidaripatti / Alagar Kovil stretch. Budget ready for immediate registration upon clear title verification.",
+      "status": "New",
+      "dateAdded": "2026-03-30T16:05:00Z"
+    },
+    {
+      "id": "lead-005",
+      "name": "GreenValley Adventure Parks & Resorts",
+      "category": "Entertainment & Leisure",
+      "location": "Alagar Kovil Foothills, Madurai",
+      "phone": "+91 9940178234",
+      "whatsapp": "+91 9940178234",
+      "email": "corporate@greenvalleyresorts.in",
+      "website": "https://www.greenvalleyresorts.in",
+      "notes": "Direct requirement for 20+ acres of contiguous land near Alagar Kovil for integrated day-resort and eco-adventure theme park. Land conversion capabilities preferred.",
+      "status": "New",
+      "dateAdded": "2026-03-31T08:30:00Z"
+    },
+    {
+      "id": "lead-006",
+      "name": "Southern Crown Hotels & Conventions",
+      "category": "Hotel & Resort Group",
+      "location": "Tallakulam - Alagar Kovil Main Corridor, Madurai",
+      "phone": "+91 9841098765",
+      "whatsapp": "+91 9841098765",
+      "email": "dev@southerncrownhotels.com",
+      "website": "https://www.southerncrownhotels.com",
+      "notes": "Looking for 10-12 acres commercial/convertible land with minimum 150ft road frontage along Alagar Kovil Road for a luxury star resort with convention halls.",
+      "status": "New",
+      "dateAdded": "2026-03-31T09:10:00Z"
+    },
+    {
+      "id": "lead-007",
+      "name": "Ananda Living & Hospitality",
+      "category": "Boutique Resort Developer",
+      "location": "Poyyamani / Alagar Kovil Region, Madurai",
+      "phone": "+91 9600043210",
+      "whatsapp": "+91 9600043210",
+      "email": "acquisitions@anandaliving.in",
+      "website": "https://www.anandaliving.in",
+      "notes": "Direct institutional purchase for 5 to 7 acres. Prefers natural elevated terrain suitable for villa-style boutique resort near Alagar Hills.",
+      "status": "New",
+      "dateAdded": "2026-03-31T09:45:00Z"
+    },
+    {
+      "id": "lead-008",
+      "name": "Madurai Temple Town Hospitality Trust",
+      "category": "Private Investment Trust",
+      "location": "Alagar Kovil Bypass Road, Madurai",
+      "phone": "+91 9443127890",
+      "whatsapp": "+91 9443127890",
+      "email": "trustee@mtt-hospitality.org",
+      "website": "Not public",
+      "notes": "Direct family trust looking to invest in 15 to 25 acres near Alagar Kovil Shrine road to build pilgrim luxury retreat and spiritual wellness center.",
+      "status": "New",
+      "dateAdded": "2026-03-31T10:15:00Z"
+    },
+    {
+      "id": "lead-009",
+      "name": "Srishti Nature Resorts Pvt Ltd",
+      "category": "Eco-Tourism Developer",
+      "location": "Appanthirupathi / Sundararajanpatti, Madurai",
+      "phone": "+91 9840765432",
+      "whatsapp": "+91 9840765432",
+      "email": "srishti.resorts@gmail.com",
+      "website": "https://www.srishtiresorts.com",
+      "notes": "Requirement for 12-18 acres clear title land for an agro-resort project with organic farming integrated cottages along Alagar Kovil belt.",
+      "status": "New",
+      "dateAdded": "2026-03-31T10:50:00Z"
+    },
+    {
+      "id": "lead-010",
+      "name": "Sovereign Estates & Leisure Division",
+      "category": "Corporate Conglomerate",
+      "location": "Madurai - Alagar Kovil State Highway",
+      "phone": "+91 9962011223",
+      "whatsapp": "+91 9962011223",
+      "email": "landbank@sovereigngroup.in",
+      "website": "https://www.sovereigngroup.in",
+      "notes": "Direct corporate land aggregator buying 25+ acres for a master-planned leisure & golf resort destination near Madurai north end/Alagar Kovil road.",
+      "status": "New",
+      "dateAdded": "2026-03-31T11:20:00Z"
+    },
+    {
+      "id": "lead-011",
+      "name": "Lotus Bliss Spa & Resorts",
+      "category": "Wellness Resort Chain",
+      "location": "Kallanthiri, Alagar Kovil Main Road, Madurai",
+      "phone": "+91 9789012345",
+      "whatsapp": "+91 9789012345",
+      "email": "projects@lotusblissresorts.com",
+      "website": "https://www.lotusblissresorts.com",
+      "notes": "Direct buyer seeking 8-12 acres with abundant groundwater sources for high-end spa resort with infinity pool setup near Kallanthiri / Alagar Kovil stretch.",
+      "status": "New",
+      "dateAdded": "2026-03-31T12:00:00Z"
+    },
+    {
+      "id": "lead-012",
+      "name": "Royal Orchard Hospitality Infra",
+      "category": "Hotel & Resort Developer",
+      "location": "Alagar Kovil Highway, Madurai Outer",
+      "phone": "+91 9884023456",
+      "whatsapp": "+91 9884023456",
+      "email": "development@royalorchard.in",
+      "website": "https://www.royalorchard.in",
+      "notes": "Seeking 10 to 15 acres commercial/mixed-use clear land along or close to main road for destination wedding resort and convention centre.",
+      "status": "New",
+      "dateAdded": "2026-03-31T12:30:00Z"
+    },
+    {
+      "id": "lead-013",
+      "name": "Western Ghats & Hills Tourism Ltd",
+      "category": "Tourism Operator",
+      "location": "Alagar Kovil Buffer Zone, Madurai",
+      "phone": "+91 9444155667",
+      "whatsapp": "+91 9444155667",
+      "email": "expansions@wghills.co.in",
+      "website": "https://www.wghills.co.in",
+      "notes": "Direct corporate requirement for 15+ acres adjacent to Alagar Hills foot-slope area for glamping and nature stay project.",
+      "status": "New",
+      "dateAdded": "2026-03-31T13:00:00Z"
+    },
+    {
+      "id": "lead-014",
+      "name": "Marutham Heritage Resorts",
+      "category": "Regional Hospitality Chain",
+      "location": "Kadachanendal - Appanthirupathi stretch, Madurai",
+      "phone": "+91 9840298765",
+      "whatsapp": "+91 9840298765",
+      "email": "info@maruthamresorts.com",
+      "website": "https://www.maruthamresorts.com",
+      "notes": "Looking for 7-10 acres flat land with clear legal title for traditional Tamil heritage village style resort. Ready payout structure.",
+      "status": "New",
+      "dateAdded": "2026-03-31T13:30:00Z"
+    },
+    {
+      "id": "lead-015",
+      "name": "Aura Eco-Retreats India Pvt Ltd",
+      "category": "Sustainable Resort Brand",
+      "location": "Alagar Kovil Road, Madurai",
+      "phone": "+91 9710987654",
+      "whatsapp": "+91 9710987654",
+      "email": "land@auraecoretreats.in",
+      "website": "https://www.auraecoretreats.in",
+      "notes": "Seeking 10-15 acres of agricultural/puchayath approved commercial land near Alagar Kovil for a net-zero eco resort with organic orchard integration.",
+      "status": "New",
+      "dateAdded": "2026-03-31T14:00:00Z"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "lastRun": "2026-11-06T12:01:58.404Z",
-    "totalLeads": 1561,
-    "rotationIndex": 5
+    "lastRun": "2026-11-06T15:02:16.210Z",
+    "totalLeads": 1574,
+    "rotationIndex": 6
   },
   "leads": [
     {
@@ -20297,6 +20297,175 @@
       "notes": "Direct buyer seeking 6-10 acres for Arts & Science College Annexe expansion project along the main Alagar Kovil Highway stretch.",
       "status": "New",
       "dateAdded": "2024-05-25T16:30:00.000Z"
+    },
+    {
+      "id": "LEAD-MDU-001",
+      "name": "Poppys Hotels & Resorts Pvt Ltd (Land Acquisition Division)",
+      "category": "Hospitality & Serviced Apartment Developer",
+      "location": "Alagar Kovil Main Road, Madurai",
+      "phone": "+91 44 4391 1111",
+      "whatsapp": "+91 98408 22345",
+      "email": "acquisitions@poppyshotels.com",
+      "website": "https://www.poppyshotels.com",
+      "notes": "Direct corporate requirement: Looking for 75 cents to 1.5 acres on or right off Alagar Kovil Highway for a mid-scale serviced apartment and executive suite project.",
+      "status": "New",
+      "dateAdded": "2024-05-10T09:30:00Z"
+    },
+    {
+      "id": "LEAD-MDU-002",
+      "name": "Viswas Promoters Pvt Ltd",
+      "category": "Residential & Serviced Apartment Developer",
+      "location": "KK Nagar / Alagar Kovil Road Corridor, Madurai",
+      "phone": "+91 452 2533033",
+      "whatsapp": "+91 98421 44555",
+      "email": "land@viswaspromoters.com",
+      "website": "https://www.viswaspromoters.com",
+      "notes": "Direct builder seeking 1 to 2 acres land near Alagar Kovil Highway for luxury serviced apartments targeted at NRI buyers and temple visitors.",
+      "status": "New",
+      "dateAdded": "2024-05-11T14:15:00Z"
+    },
+    {
+      "id": "LEAD-MDU-003",
+      "name": "Royal Shelter Builders & Developers",
+      "category": "Commercial & Hospitality Developer",
+      "location": "Alagar Kovil Highway, Madurai",
+      "phone": "+91 431 2415115",
+      "whatsapp": "+91 98946 11223",
+      "email": "projects@royalshelter.in",
+      "website": "https://www.royalshelter.in",
+      "notes": "Regional developer acquiring 50 cents to 1 acre parcel specifically fronting main highway stretch between Tallakulam and Othakadai for long-stay studio apartments.",
+      "status": "New",
+      "dateAdded": "2024-05-12T11:00:00Z"
+    },
+    {
+      "id": "LEAD-MDU-004",
+      "name": "JC Residency Group (Expansion Wing)",
+      "category": "Boutique Hotel & Serviced Residence Group",
+      "location": "Lady Doak College Road / Alagar Kovil Rd, Madurai",
+      "phone": "+91 452 4200000",
+      "whatsapp": "+91 98421 99880",
+      "email": "expansion@jcresidency.com",
+      "website": "https://www.jcresidency.com",
+      "notes": "Direct hospitality group seeking 60 to 100 cents prime land near Alagar Kovil Road to expand long-stay serviced suites division.",
+      "status": "New",
+      "dateAdded": "2024-05-13T16:45:00Z"
+    },
+    {
+      "id": "LEAD-MDU-005",
+      "name": "Apollo Hospitals Enterprise Ltd (Medical Tourism Housing Division)",
+      "category": "Corporate Healthcare & Extended Stay",
+      "location": "KK Nagar Extension / Alagar Kovil Rd Access, Madurai",
+      "phone": "+91 452 2580880",
+      "whatsapp": "Not public",
+      "email": "infra_madurai@apollohospitals.com",
+      "website": "https://www.apollohospitals.com",
+      "notes": "Corporate requirement for acquiring 1.5 to 3 acres within 3 km of Alagar Kovil Highway for dedicated patient-family serviced apartment suites.",
+      "status": "New",
+      "dateAdded": "2024-05-14T10:20:00Z"
+    },
+    {
+      "id": "LEAD-MDU-006",
+      "name": "Casagrand Builder Private Limited (Tier-2 Commercial Wing)",
+      "category": "Real Estate Conglomerate",
+      "location": "Alagar Kovil Highway, Madurai",
+      "phone": "+91 44 4411 1111",
+      "whatsapp": "+91 98840 12345",
+      "email": "landacquisition@casagrand.co.in",
+      "website": "https://www.casagrand.co.in",
+      "notes": "Direct acquisition team searching for 2 to 4 acres along Alagar Kovil Road stretch for mixed-use commercial and serviced apartment complex.",
+      "status": "New",
+      "dateAdded": "2024-05-15T08:50:00Z"
+    },
+    {
+      "id": "LEAD-MDU-007",
+      "name": "GRT Hotels & Resorts (Co-Living & Long-Stay Arm)",
+      "category": "Hospitality Developer",
+      "location": "Alagar Kovil Road, Madurai",
+      "phone": "+91 44 6650 0000",
+      "whatsapp": "+91 98409 77889",
+      "email": "landdev@grthotels.com",
+      "website": "https://www.grthotels.com",
+      "notes": "Seeking 1+ acre plot on main Alagar Kovil Highway for extended-stay executive serviced apartments to cater to IT and corporate clientele.",
+      "status": "New",
+      "dateAdded": "2024-05-16T12:10:00Z"
+    },
+    {
+      "id": "LEAD-MDU-008",
+      "name": "Meenakshi Mission Hospital & Research Centre (Guest Infra Unit)",
+      "category": "Healthcare & Medical Hospitality",
+      "location": "Lake Area / Alagar Kovil Highway Connector, Madurai",
+      "phone": "+91 452 2583567",
+      "whatsapp": "Not public",
+      "email": "projects@melurmeenakshi.com",
+      "website": "https://www.meenakshimission.org",
+      "notes": "Direct institution buyer looking for 1 to 2 acres to build service apartments for visiting international doctors and long-term recovery guests.",
+      "status": "New",
+      "dateAdded": "2024-05-17T15:30:00Z"
+    },
+    {
+      "id": "LEAD-MDU-010",
+      "name": "Vamanan Real Estates (Commercial Division)",
+      "category": "Property Developer & Infrastructure",
+      "location": "Alagar Kovil Main Road, Madurai",
+      "phone": "+91 452 2345678",
+      "whatsapp": "+91 94431 54321",
+      "email": "info@vamananestates.com",
+      "website": "https://www.vamananestates.com",
+      "notes": "Immediate requirement: 50 cents to 1.2 acres commercial frontage plot on Alagar Kovil Road for service apartment project.",
+      "status": "New",
+      "dateAdded": "2024-05-19T13:00:00Z"
+    },
+    {
+      "id": "LEAD-MDU-011",
+      "name": "SRM Hotel Properties Pvt Ltd",
+      "category": "Hospitality & Extended Stay Developer",
+      "location": "Alagar Kovil Road, Madurai",
+      "phone": "+91 44 2745 5500",
+      "whatsapp": "Not public",
+      "email": "corporate.realestate@srmhotels.com",
+      "website": "https://www.srmhotels.com",
+      "notes": "Direct buyer targeting 1 to 2.5 acres along Alagar Kovil Road corridor for mid-market serviced apartments and staycation suites.",
+      "status": "New",
+      "dateAdded": "2024-05-20T09:15:00Z"
+    },
+    {
+      "id": "LEAD-MDU-012",
+      "name": "Navin's Builders (Madurai Land Acquisition Desk)",
+      "category": "Urban Real Estate Developer",
+      "location": "Alagar Kovil Highway Belt, Madurai",
+      "phone": "+91 44 2437 1111",
+      "whatsapp": "+91 98402 88990",
+      "email": "land@navins.in",
+      "website": "https://www.navins.in",
+      "notes": "Looking to acquire 80 cents to 2 acres on main Alagar Kovil Highway suitable for compact serviced apartment units.",
+      "status": "New",
+      "dateAdded": "2024-05-21T10:05:00Z"
+    },
+    {
+      "id": "LEAD-MDU-013",
+      "name": "Thangamayil Properties Pvt Ltd",
+      "category": "Corporate Real Estate Investment",
+      "location": "Alagar Kovil Road, Madurai",
+      "phone": "+91 452 2565555",
+      "whatsapp": "+91 98940 99999",
+      "email": "properties@thangamayil.com",
+      "website": "https://www.thangamayil.com",
+      "notes": "Direct corporate investor interested in purchasing 1 to 2 acres of land on Alagar Kovil Road for a hospitality serviced apartment project.",
+      "status": "New",
+      "dateAdded": "2024-05-22T14:50:00Z"
+    },
+    {
+      "id": "LEAD-MDU-014",
+      "name": "Heritage Madurai Group (Special Projects Wing)",
+      "category": "Hospitality & Resort Developer",
+      "location": "Alagar Kovil Road Corridor, Madurai",
+      "phone": "+91 452 2385455",
+      "whatsapp": "Not public",
+      "email": "gm.projects@heritagemadurai.com",
+      "website": "https://www.heritagemadurai.com",
+      "notes": "Direct hotel entity looking for 1.5 to 3 acres plot along Alagar Kovil Highway to develop extended-stay heritage serviced villas/apartments.",
+      "status": "New",
+      "dateAdded": "2024-05-23T16:10:00Z"
     }
   ]
 }

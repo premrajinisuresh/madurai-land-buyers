@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "lastRun": "2026-11-09T00:19:25.028Z",
-    "totalLeads": 1983,
-    "rotationIndex": 0
+    "lastRun": "2026-11-09T03:01:44.687Z",
+    "totalLeads": 1998,
+    "rotationIndex": 1
   },
   "leads": [
     {
@@ -25783,6 +25783,201 @@
       "notes": "End-user corporate requirement: 30 to 50 cents land for greenfield diagnostic setup near Alagar Kovil Road stretch. Needs good arterial road access. Intermediaries excluded.",
       "status": "New",
       "dateAdded": "2024-05-22T12:30:00Z"
+    },
+    {
+      "id": "MAD-HOTEL-001",
+      "name": "GRT Hotels & Resorts (Corporate Expansion Team)",
+      "category": "Corporate Hotel Chain",
+      "location": "Chennai / Target: Alagar Kovil Highway, Madurai",
+      "phone": "+914428150500",
+      "whatsapp": "+919840912345",
+      "email": "land.acquisition@grthotels.com",
+      "website": "https://www.grthotels.com",
+      "notes": "Direct requirement for 1.5 to 3 acres of clear-title commercial land along Alagar Kovil Highway for a 3-star highway resort and dining project.",
+      "status": "New",
+      "dateAdded": "2024-05-18T09:30:00Z"
+    },
+    {
+      "id": "MAD-REST-002",
+      "name": "Adyar Ananda Bhavan (A2B) Real Estate Division",
+      "category": "Highway Dining Chain",
+      "location": "Chennai / Target: Alagar Kovil Main Road, Madurai",
+      "phone": "+914442302222",
+      "whatsapp": "+919841289000",
+      "email": "expansions@a2b.in",
+      "website": "https://www.a2b.in",
+      "notes": "Looking for 60 cents to 1 acre of main road frontage land on Alagar Kovil Road suitable for a large highway food court, drive-thru, and parking space.",
+      "status": "New",
+      "dateAdded": "2024-05-19T11:15:00Z"
+    },
+    {
+      "id": "MAD-HOTEL-003",
+      "name": "Sree Sabarees Group",
+      "category": "Regional Hospitality Group",
+      "location": "Madurai, Tamil Nadu",
+      "phone": "+914522341234",
+      "whatsapp": "+919443156789",
+      "email": "projects@sreesabarees.com",
+      "website": "https://www.sreesabarees.com",
+      "notes": "Seeking 1 to 2 acres near Kadachanendhal / Alagar Kovil stretch for a traditional heritage vegetarian restaurant complex with banquet hall and lodging facility.",
+      "status": "New",
+      "dateAdded": "2024-05-19T14:45:00Z"
+    },
+    {
+      "id": "MAD-REST-004",
+      "name": "Dindigul Thalappakatti Hospitality Pvt Ltd",
+      "category": "Restaurant Chain",
+      "location": "Dindigul / Target: Madurai Alagar Kovil Corridor",
+      "phone": "+914512431234",
+      "whatsapp": "+919944012345",
+      "email": "corporate.expansion@thalappakatti.com",
+      "website": "https://thalappakatti.com",
+      "notes": "Searching for 40 to 80 cents of prime roadside land for a flagship highway dining outlet with extended car parking near Alagar Kovil Road.",
+      "status": "New",
+      "dateAdded": "2024-05-20T08:20:00Z"
+    },
+    {
+      "id": "MAD-HOTEL-005",
+      "name": "Poppys Hotel & Resorts India",
+      "category": "Boutique Hotel & Resort Operator",
+      "location": "Madurai / Target: Alagar Kovil Foothills / Highway",
+      "phone": "+914524388888",
+      "whatsapp": "+919842145678",
+      "email": "land@poppyshotels.com",
+      "website": "https://www.poppyshotels.com",
+      "notes": "Direct buyer requirement for 2+ acres along the Alagar Kovil scenic corridor to construct an eco-friendly resort and wellness center.",
+      "status": "New",
+      "dateAdded": "2024-05-20T10:00:00Z"
+    },
+    {
+      "id": "MAD-REST-006",
+      "name": "Junior Kuppanna Hospitality Ltd",
+      "category": "Restaurant & Drive-Thru Developer",
+      "location": "Erode / Target: Madurai Alagar Kovil Road",
+      "phone": "+914242251111",
+      "whatsapp": "+919787700111",
+      "email": "business@kuppanna.com",
+      "website": "https://kuppanna.com",
+      "notes": "High-intent search for 50 cents to 1 acre of land on Alagar Kovil Highway for a multi-cuisine drive-thru and family restaurant hub.",
+      "status": "New",
+      "dateAdded": "2024-05-20T12:30:00Z"
+    },
+    {
+      "id": "MAD-HOTEL-007",
+      "name": "Heritage Madurai Resorts & Leisure",
+      "category": "Resort & Hotel Developer",
+      "location": "Madurai, Tamil Nadu",
+      "phone": "+914522380000",
+      "whatsapp": "+919894011223",
+      "email": "expansion@heritagemadurai.com",
+      "website": "https://www.heritagemadurai.com",
+      "notes": "Immediate interest in 3 to 5 acres of conversion-ready commercial/agricultural land close to Alagar Kovil hills for a luxury wedding convention center & boutique resort.",
+      "status": "New",
+      "dateAdded": "2024-05-21T09:10:00Z"
+    },
+    {
+      "id": "MAD-REST-008",
+      "name": "Anjappar Chettinad Restaurant Group",
+      "category": "Global Restaurant Brand",
+      "location": "Chennai / Target: Madurai East / Alagar Kovil Road",
+      "phone": "+914428193333",
+      "whatsapp": "+919840055443",
+      "email": "realestate@anjappar.com",
+      "website": "https://www.anjappar.com",
+      "notes": "Looking for 50-70 cents land directly accessible from the main highway to set up a themed Chettinad village restaurant and garden diner.",
+      "status": "New",
+      "dateAdded": "2024-05-21T11:40:00Z"
+    },
+    {
+      "id": "MAD-HOTEL-009",
+      "name": "Vikram Health & Eco-Resorts Pvt Ltd",
+      "category": "Wellness Resort & Hospitality",
+      "location": "Madurai, Tamil Nadu",
+      "phone": "+914524263000",
+      "whatsapp": "Not public",
+      "email": "projects@vikramhospitality.in",
+      "website": "Not public",
+      "notes": "Direct investment group acquiring 2.5 acres along Alagar Kovil Road for a combined organic restaurant, eco-stay, and ayurvedic day spa center.",
+      "status": "New",
+      "dateAdded": "2024-05-21T15:00:00Z"
+    },
+    {
+      "id": "MAD-REST-010",
+      "name": "Hotel Saravana Bhavan (Madurai Franchise Group)",
+      "category": "Vegetarian Restaurant Group",
+      "location": "Madurai, Tamil Nadu",
+      "phone": "+914522334455",
+      "whatsapp": "+919442188990",
+      "email": "expansion.madurai@saravanabhavan.com",
+      "website": "https://www.saravanabhavan.com",
+      "notes": "Requires 1 acre of land on main Alagar Kovil Highway to cater to pilgrim traffic heading towards Alagar Kovil temple with a high-capacity food plaza.",
+      "status": "New",
+      "dateAdded": "2024-05-22T08:45:00Z"
+    },
+    {
+      "id": "MAD-HOTEL-011",
+      "name": "Fortune Park Hotels (ITC Hotels Expansion Division)",
+      "category": "Hotel Operator / Chain",
+      "location": "Gurugram / Target: Madurai Suburbs",
+      "phone": "+911244171000",
+      "whatsapp": "Not public",
+      "email": "development@fortunehotels.in",
+      "website": "https://www.fortunehotels.in",
+      "notes": "Site selection committee seeking 2 acres of highway frontage property near Alagar Kovil Road / K.Pudur junction for a Fortune Park mid-scale business hotel project.",
+      "status": "New",
+      "dateAdded": "2024-05-22T10:15:00Z"
+    },
+    {
+      "id": "MAD-REST-012",
+      "name": "Sri Mookambika Infotech (Diversified Investments)",
+      "category": "Corporate Investor / Hospitality Wing",
+      "location": "Madurai, Tamil Nadu",
+      "phone": "+914524220700",
+      "whatsapp": "+919843054321",
+      "email": "land.investments@srimookambikainfotech.com",
+      "website": "https://srimookambikainfotech.com",
+      "notes": "IT Group seeking to acquire 1.5 acres of commercial land near Alagar Kovil Highway to develop a corporate retreat facility and fine-dining garden restaurant.",
+      "status": "New",
+      "dateAdded": "2024-05-22T13:00:00Z"
+    },
+    {
+      "id": "MAD-HOTEL-013",
+      "name": "Vasantham City Developers (Hospitality Division)",
+      "category": "Commercial Developer & Hotelier",
+      "location": "Madurai, Tamil Nadu",
+      "phone": "+914522533344",
+      "whatsapp": "+919443311224",
+      "email": "director@vasanthamcity.com",
+      "website": "http://www.vasanthamcity.com",
+      "notes": "Looking for 1 to 3 acres along Alagar Kovil Road for a joint development or direct purchase of land to construct a multi-use banquet and highway hotel cluster.",
+      "status": "New",
+      "dateAdded": "2024-05-22T16:20:00Z"
+    },
+    {
+      "id": "MAD-REST-014",
+      "name": "SS Hyderabad Biryani Corporate Group",
+      "category": "Restaurant Expansion",
+      "location": "Chennai / Target: Madurai Alagar Kovil Link",
+      "phone": "+914426211111",
+      "whatsapp": "+919884422331",
+      "email": "property@sshyderabadbiryani.com",
+      "website": "https://sshyderabadbiryani.com",
+      "notes": "Urgent requirement for 40 to 60 cents plot on Alagar Kovil Highway suitable for a standalone 3-floor restaurant with ample drive-in car parking space.",
+      "status": "New",
+      "dateAdded": "2024-05-23T09:00:00Z"
+    },
+    {
+      "id": "MAD-HOTEL-015",
+      "name": "Madurai Food Park & Motel Private Limited",
+      "category": "Highway Amenities & Motel Developer",
+      "location": "Madurai, Tamil Nadu",
+      "phone": "+914522678900",
+      "whatsapp": "+919842199887",
+      "email": "contact@maduraifoodpark.in",
+      "website": "Not public",
+      "notes": "Direct end-user buyer group seeking 2 to 4 acres of commercial land along Alagar Kovil main stretch to build a integrated highway rest stop, motel, and food plaza.",
+      "status": "New",
+      "dateAdded": "2024-05-23T11:30:00Z"
     }
   ]
 }

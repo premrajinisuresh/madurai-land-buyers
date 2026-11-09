@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "lastRun": "2026-11-09T10:38:12.081Z",
-    "totalLeads": 2043,
-    "rotationIndex": 4
+    "lastRun": "2026-11-09T12:01:57.454Z",
+    "totalLeads": 2057,
+    "rotationIndex": 5
   },
   "leads": [
     {
@@ -26563,6 +26563,188 @@
       "notes": "Direct intent to buy 1.5 to 2.5 Acres commercial non-agricultural plot for Daycare & Preventive Health Checkup Annexe.",
       "status": "New",
       "dateAdded": "2024-05-23T10:10:00Z"
+    },
+    {
+      "id": "LEAD-MDU-EDU-001",
+      "name": "Velammal Educational Trust (Madurai Infrastructure Division)",
+      "category": "Educational Trust",
+      "location": "Alagar Kovil Main Road, K.Pudur, Madurai, Tamil Nadu 625007",
+      "phone": "+914522470311",
+      "whatsapp": "+919842145001",
+      "email": "land.acquisition@velammal.edu.in",
+      "website": "https://www.velammal.edu.in",
+      "notes": "Direct institutional buyer looking for 8 to 12 acres of contiguous land along Alagar Kovil Highway (between Kadachanendal and Appanthirupathi) for establishing a new Allied Health Sciences annexe campus.",
+      "status": "New",
+      "dateAdded": "2024-03-15T08:30:00Z"
+    },
+    {
+      "id": "LEAD-MDU-EDU-002",
+      "name": "Mahatma Montessori Group of Schools (Project Expansion Cell)",
+      "category": "K-12 Educational Group",
+      "location": "KK Nagar, Madurai, Tamil Nadu 625020",
+      "phone": "+914524391100",
+      "whatsapp": "+919443152202",
+      "email": "projects@mahatmaschools.com",
+      "website": "https://www.mahatmaschools.com",
+      "notes": "Seeking 4 to 6 acres commercial land for a new CBSE senior secondary annexe near Alagar Kovil Road corridor with clear DTCP approval potential.",
+      "status": "New",
+      "dateAdded": "2024-03-16T10:15:00Z"
+    },
+    {
+      "id": "LEAD-MDU-EDU-003",
+      "name": "CEOA Educational Institutions (Board of Expansion)",
+      "category": "Educational Trust",
+      "location": "Doak Nagar, Kochadai, Madurai, Tamil Nadu 625016",
+      "phone": "+914522381200",
+      "whatsapp": "+919843058811",
+      "email": "trustee.expansion@ceoa.in",
+      "website": "https://www.ceoa.in",
+      "notes": "Direct requirement for 5 to 10 acres off Alagar Kovil Road for integrated residential coaching & sports complex annexe. No brokers.",
+      "status": "New",
+      "dateAdded": "2024-03-18T11:45:00Z"
+    },
+    {
+      "id": "LEAD-MDU-EDU-005",
+      "name": "Queen Mira International School Development Wing",
+      "category": "International School Chain",
+      "location": "Vadapalanji, Madurai, Tamil Nadu 625021",
+      "phone": "+914522459999",
+      "whatsapp": "+919842188820",
+      "email": "expansion@queenmira.com",
+      "website": "https://www.queenmira.com",
+      "notes": "Evaluating 6 to 10 acres of land within 3 km of Alagar Kovil Highway for expanding sports infrastructure and IB curriculum wing.",
+      "status": "New",
+      "dateAdded": "2024-03-20T09:00:00Z"
+    },
+    {
+      "id": "LEAD-MDU-EDU-006",
+      "name": "TVS Educational Society (Lakshmi School Division)",
+      "category": "Corporate Educational Society",
+      "location": "TV Sundram Iyengar & Sons Premises, Madurai, Tamil Nadu 625001",
+      "phone": "+914522301000",
+      "whatsapp": "Not public",
+      "email": "land.desk@tvs.in",
+      "website": "https://www.lakshmischool.in",
+      "notes": "Corporate committee seeking 10+ acres of flat, non-agricultural converted land near Alagar Kovil corridor for dedicated polytechnic/vocational training wing.",
+      "status": "New",
+      "dateAdded": "2024-03-21T16:10:00Z"
+    },
+    {
+      "id": "LEAD-MDU-EDU-007",
+      "name": "Subbalakshmi Lakshmipathy Foundation (SLCS)",
+      "category": "Higher Education Foundation",
+      "location": "TVR Nagar, Aruppukottai Road, Madurai, Tamil Nadu 625022",
+      "phone": "+914522692631",
+      "whatsapp": "+919443187211",
+      "email": "president@slcs.edu.in",
+      "website": "https://www.slcs.edu.in",
+      "notes": "Direct institutional land search: 12 to 15 acres along Alagar Kovil Road for establishing a specialized Design & Media Arts extension campus.",
+      "status": "New",
+      "dateAdded": "2024-03-22T12:35:00Z"
+    },
+    {
+      "id": "LEAD-MDU-EDU-008",
+      "name": "Yadava College Management & Expansion Committee",
+      "category": "Private University Group",
+      "location": "Govindarajan Campus, Thiruppalai, Madurai, Tamil Nadu 625014",
+      "phone": "+914522680362",
+      "whatsapp": "Not public",
+      "email": "principal@yadavacollege.org",
+      "website": "https://www.yadavacollege.org",
+      "notes": "Looking to acquire 5-8 acres adjacent to/near Alagar Kovil Highway for postgraduate research laboratory annexe.",
+      "status": "New",
+      "dateAdded": "2024-03-23T08:50:00Z"
+    },
+    {
+      "id": "LEAD-MDU-EDU-009",
+      "name": "Solamalai Group of Institutions (Campus Infra Committee)",
+      "category": "Educational Trust",
+      "location": "SV Raja Road, KK Nagar, Madurai, Tamil Nadu 625020",
+      "phone": "+914522533033",
+      "whatsapp": "+919842133044",
+      "email": "director@solamalaice.ac.in",
+      "website": "https://www.solamalaice.ac.in",
+      "notes": "Direct requirement for 7 to 10 acres of land along Alagar Kovil main road belt for new Skill Development & MBA Block annexe.",
+      "status": "New",
+      "dateAdded": "2024-03-24T13:40:00Z"
+    },
+    {
+      "id": "LEAD-MDU-EDU-010",
+      "name": "Vikasa World School Management Trust",
+      "category": "K-12 Educational Group",
+      "location": "Ponnagaram, Broadway, Madurai, Tamil Nadu 625016",
+      "phone": "+914522340555",
+      "whatsapp": "+919789012345",
+      "email": "trustee@vikasaschool.org",
+      "website": "https://www.vikasaschool.org",
+      "notes": "Acquiring 4 to 7 acres near Kadachanendal / Alagar Kovil Highway for setting up a primary school campus annexe.",
+      "status": "New",
+      "dateAdded": "2024-03-25T11:15:00Z"
+    },
+    {
+      "id": "LEAD-MDU-EDU-011",
+      "name": "Narayana Educational Society (TN Land Acquisition Wing)",
+      "category": "National Educational Chain",
+      "location": "Tallakulam Main Road, Madurai, Tamil Nadu 625002",
+      "phone": "+914524501234",
+      "whatsapp": "+919940012890",
+      "email": "tn.landacquisitions@narayanagroup.com",
+      "website": "https://www.narayanagroup.com",
+      "notes": "National chain looking for 3 to 5 acres along major transit route near Alagar Kovil Road for Narayana Olympiad School branch annexe.",
+      "status": "New",
+      "dateAdded": "2024-03-26T15:00:00Z"
+    },
+    {
+      "id": "LEAD-MDU-EDU-012",
+      "name": "Sri Chaitanya Educational Institutions (South Expansion Cell)",
+      "category": "National Educational Chain",
+      "location": "K.Pudur, Madurai, Tamil Nadu 625007",
+      "phone": "+914524220011",
+      "whatsapp": "+919176004321",
+      "email": "madurai.projects@srichaitanya.net",
+      "website": "https://www.srichaitanya.net",
+      "notes": "Corporate buyer looking for 5+ acres of road-facing commercial land on Alagar Kovil Highway for integrated Techno Campus.",
+      "status": "New",
+      "dateAdded": "2024-03-27T10:30:00Z"
+    },
+    {
+      "id": "LEAD-MDU-EDU-013",
+      "name": "Maharishi Vidya Mandir Directorate (Madurai North Project)",
+      "category": "K-12 Educational Group",
+      "location": "Alagar Kovil Road, Kadachanendal, Madurai, Tamil Nadu 625107",
+      "phone": "+914522478900",
+      "whatsapp": "Not public",
+      "email": "expansion.mvm@maharishividyamandir.com",
+      "website": "https://www.maharishividyamandir.com",
+      "notes": "Looking to buy 6 acres within 2 km of Alagar Kovil Highway for expanding senior secondary hostel & academic annexe.",
+      "status": "New",
+      "dateAdded": "2024-03-28T09:20:00Z"
+    },
+    {
+      "id": "LEAD-MDU-EDU-014",
+      "name": "VPK Educational Trust (Madurai Medical/Paramedical Division)",
+      "category": "Educational Trust",
+      "location": "Melur Road, Near Mattuthavani, Madurai, Tamil Nadu 625007",
+      "phone": "+914522580123",
+      "whatsapp": "+919894011223",
+      "email": "vpktrust.land@gmail.com",
+      "website": "Not public",
+      "notes": "Direct acquisition intent for 10-15 acres along Alagar Kovil Road corridor for proposed Nursing & Pharmacy College Annexe.",
+      "status": "New",
+      "dateAdded": "2024-03-29T14:45:00Z"
+    },
+    {
+      "id": "LEAD-MDU-EDU-015",
+      "name": "Ryan International Group (TN Property Directorate)",
+      "category": "International School Chain",
+      "location": "Regional Secretariat, Madurai Zone, Tamil Nadu 625020",
+      "phone": "+914524670000",
+      "whatsapp": "+919820011234",
+      "email": "property.south@ryangroup.org",
+      "website": "https://www.ryangroup.org",
+      "notes": "Direct buyer searching for 6 to 8 acres on or close to Alagar Kovil Highway for new International K-12 campus annexe. Requires clear title & unencumbered commercial/inst land.",
+      "status": "New",
+      "dateAdded": "2024-03-30T08:10:00Z"
     }
   ]
 }

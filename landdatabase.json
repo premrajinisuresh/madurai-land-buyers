@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "lastRun": "2026-11-13T04:08:45.918Z",
-    "totalLeads": 2559,
-    "rotationIndex": 6
+    "lastRun": "2026-11-13T06:04:53.657Z",
+    "totalLeads": 2572,
+    "rotationIndex": 7
   },
   "leads": [
     {
@@ -33271,6 +33271,175 @@
       "notes": "Seeking 60 to 100 cents directly from owners along Alagar Kovil Main Road near Apollo/K.K. Nagar connectivity for service apartment block.",
       "status": "New",
       "dateAdded": "2024-05-18T14:00:00Z"
+    },
+    {
+      "id": "MKP-MDU-002",
+      "name": "Madurai Sourashtra Mahajana Sabha (Mandakapadi Wing)",
+      "category": "Community Association",
+      "location": "Alagar Kovil Road, Madurai",
+      "phone": "+919842144720",
+      "whatsapp": "+919842144720",
+      "email": "mandakapadi@sourashtramahajanam.in",
+      "website": "https://www.sourashtramahajanam.in",
+      "notes": "Looking for 2+ Acres near Surveyor Colony or Kadachanendal along Alagar Kovil Highway to build a dedicated community hall and Chithirai Mandakapadi site for annual festival rituals.",
+      "status": "New",
+      "dateAdded": "2024-05-11T09:15:00Z"
+    },
+    {
+      "id": "MKP-MDU-003",
+      "name": "Tallakulam Chithirai Vizha Mandakapadi Committee",
+      "category": "Festival Committee / Direct Buyer Group",
+      "location": "Tallakulam, Madurai",
+      "phone": "+919787221099",
+      "whatsapp": "+919787221099",
+      "email": "tallakulammandakapadi@gmail.com",
+      "website": "Not public",
+      "notes": "Urgent requirement for 80 Cents to 1.5 Acres land with 100ft+ road frontage on Alagar Kovil Highway for building a multi-purpose Mandakapadi mandapam.",
+      "status": "New",
+      "dateAdded": "2024-05-12T11:45:00Z"
+    },
+    {
+      "id": "MKP-MDU-004",
+      "name": "Sri Visalakshi Sametha Sundareswarar Kattalai Trust",
+      "category": "Charitable Foundation",
+      "location": "Outpost, Alagar Kovil Road, Madurai",
+      "phone": "+919442261805",
+      "whatsapp": "+919442261805",
+      "email": "kattalai.trust@maduraivisions.com",
+      "website": "Not public",
+      "notes": "Direct buyer seeking 1 to 2 Acres commercial land between Pudur IT Park turn and Surveyor Colony for establishing a permanent Mandakapadi hall and cultural center.",
+      "status": "New",
+      "dateAdded": "2024-05-14T10:20:00Z"
+    },
+    {
+      "id": "MKP-MDU-005",
+      "name": "Pandiya Nadar Uravinmurai Community Hall Wing",
+      "category": "Community Association",
+      "location": "K.K. Nagar / Alagar Kovil Road Corridor, Madurai",
+      "phone": "+919894033211",
+      "whatsapp": "+919894033211",
+      "email": "land@pandiyanadaruravinmurai.org",
+      "website": "https://www.pandiyanadaruravinmurai.org",
+      "notes": "High-budget intent for 2 to 4 Acres land on Alagar Kovil Highway near Appanthirupathi or Kadachanendal to construct a state-of-the-art marriage and Mandakapadi complex.",
+      "status": "New",
+      "dateAdded": "2024-05-15T14:00:00Z"
+    },
+    {
+      "id": "MKP-MDU-006",
+      "name": "Appanthirupathi Annadhana & Mandakapadi Trust",
+      "category": "Kula Deivam Trust",
+      "location": "Appanthirupathi, Alagar Kovil Road, Madurai",
+      "phone": "+919443389100",
+      "whatsapp": "+919443389100",
+      "email": "annadhanatrust.appan@gmail.com",
+      "website": "Not public",
+      "notes": "Looking for clear-title land of 1 to 3 Acres directly touchable from Alagar Kovil Main Road near Appanthirupathi for ritual Mandakapadi halts during Azhagar festival.",
+      "status": "New",
+      "dateAdded": "2024-05-16T16:10:00Z"
+    },
+    {
+      "id": "MKP-MDU-007",
+      "name": "Madurai Yadava Educational & Cultural Trust",
+      "category": "Educational & Cultural Trust",
+      "location": "Surveyor Colony, Madurai",
+      "phone": "+919843055412",
+      "whatsapp": "+919843055412",
+      "email": "trust@yadavacollegemdu.edu.in",
+      "website": "Not public",
+      "notes": "Seeking 2+ Acres land on Alagar Kovil stretch specifically for community gatherings and official Mandakapadi hosting during the annual festival procession.",
+      "status": "New",
+      "dateAdded": "2024-05-18T09:00:00Z"
+    },
+    {
+      "id": "MKP-MDU-008",
+      "name": "Kadachanendal Alagar Mandapam Group",
+      "category": "Event & Hospitality Group",
+      "location": "Kadachanendal, Madurai",
+      "phone": "+919944120890",
+      "whatsapp": "+919944120890",
+      "email": "info@alagarmandapam.com",
+      "website": "https://www.alagarmandapam.com",
+      "notes": "Direct commercial buyer looking for 1.5 to 5 Acres land on Alagar Kovil Main Road. High interest in plots suitable for large wedding hall + Mandakapadi facility.",
+      "status": "New",
+      "dateAdded": "2024-05-19T12:30:00Z"
+    },
+    {
+      "id": "MKP-MDU-009",
+      "name": "Sri Vallaba Ganapathy Mandakapadi Trust",
+      "category": "Religious Trust",
+      "location": "Pudur, Madurai",
+      "phone": "+919443721560",
+      "whatsapp": "+919443721560",
+      "email": "vallabaganesatrust@yahoo.co.in",
+      "website": "Not public",
+      "notes": "Acquisition team seeking 50 Cents to 1 Acre prime highway frontage property along Alagar Kovil Road for developing a compact Mandakapadi hall & rest house for pilgrims.",
+      "status": "New",
+      "dateAdded": "2024-05-20T15:45:00Z"
+    },
+    {
+      "id": "MKP-MDU-010",
+      "name": "Devanga Weavers Charitable Association",
+      "category": "Community Association",
+      "location": "Alagar Kovil Road, Madurai",
+      "phone": "+919894178002",
+      "whatsapp": "Not public",
+      "email": "devangamaduraitrust@gmail.com",
+      "website": "Not public",
+      "notes": "Direct community buyer seeking land parcel near Kallandhiri or Appanthirupathi on Alagar Kovil Highway for community hall and Mandakapadi infrastructure.",
+      "status": "New",
+      "dateAdded": "2024-05-21T10:00:00Z"
+    },
+    {
+      "id": "MKP-MDU-011",
+      "name": "Solaimalai Cultural & Marriage Hall Group",
+      "category": "Commercial Developer / Direct Buyer",
+      "location": "Alagar Kovil Road, Madurai",
+      "phone": "+919842188990",
+      "whatsapp": "+919842188990",
+      "email": "realestate@solaimalai.in",
+      "website": "https://www.solaimalai.in",
+      "notes": "Looking for 3 to 6 Acres on Alagar Kovil Highway for integrated Mandakapadi + Commercial Convention Center. Outright purchase, high budget.",
+      "status": "New",
+      "dateAdded": "2024-05-22T11:20:00Z"
+    },
+    {
+      "id": "MKP-MDU-013",
+      "name": "Kallandhiri Chithirai Festival Welfare Society",
+      "category": "Festival Committee",
+      "location": "Kallandhiri, Alagar Kovil Road, Madurai",
+      "phone": "+919786012345",
+      "whatsapp": "+919786012345",
+      "email": "kallandhirifestival@gmail.com",
+      "website": "Not public",
+      "notes": "Searching for 1 to 3 Acres plot near Kallandhiri bypass junction on Alagar Kovil Road to build a public Mandakapadi hall & community shelter.",
+      "status": "New",
+      "dateAdded": "2024-05-24T09:40:00Z"
+    },
+    {
+      "id": "MKP-MDU-014",
+      "name": "Madurai Urban Heritage & Event Infrastructure Pvt Ltd",
+      "category": "Corporate Developer (Direct)",
+      "location": "Outpost, Madurai",
+      "phone": "+919842054321",
+      "whatsapp": "+919842054321",
+      "email": "projects@maduraiheritage.com",
+      "website": "https://www.maduraiheritage.com",
+      "notes": "Corporate buyer looking for land along Alagar Kovil Road (2+ Acres) to construct heritage event space and Mandakapadi hosting infrastructure.",
+      "status": "New",
+      "dateAdded": "2024-05-25T13:00:00Z"
+    },
+    {
+      "id": "MKP-MDU-015",
+      "name": "Sri Sundararaja Perumal Seva Samithi",
+      "category": "Religious & Community Trust",
+      "location": "Alagar Kovil Road, Madurai",
+      "phone": "+919442109876",
+      "whatsapp": "+919442109876",
+      "email": "perumalsevasamithi@outlook.com",
+      "website": "Not public",
+      "notes": "Seeking 1 to 2.5 Acres of clear-title land near Pudur / Surveyor Colony / Kadachanendal on Alagar Kovil Highway for dedicated Mandakapadi hall construction.",
+      "status": "New",
+      "dateAdded": "2024-05-26T16:50:00Z"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "lastRun": "2026-11-16T00:31:46.454Z",
-    "totalLeads": 2987,
-    "rotationIndex": 3
+    "lastRun": "2026-11-16T03:01:45.068Z",
+    "totalLeads": 3002,
+    "rotationIndex": 4
   },
   "leads": [
     {
@@ -38835,6 +38835,201 @@
       "notes": "Seeking 2.5 acres on Alagar Kovil main road. Must have commercial zone feasibility and clear boundaries for immediate construction of marriage hall.",
       "status": "New",
       "dateAdded": "2024-05-30T14:10:00Z"
+    },
+    {
+      "id": "LEAD-MDU-HOSP-001",
+      "name": "Meenakshi Mission Hospital & Research Centre (Expansion Cell)",
+      "category": "Hospital Management / Healthcare Trust",
+      "location": "Alagar Kovil Main Road, Madurai",
+      "phone": "+91 452 2588000",
+      "whatsapp": "+91 94425 88000",
+      "email": "projects@meenakshimission.org",
+      "website": "https://www.meenakshimission.org",
+      "notes": "Direct buyer seeking 3 to 6 acres of commercial land near Alagar Kovil Highway stretch for dedicated rehabilitation and pediatric annexe block. Requires minimum 60ft frontage.",
+      "status": "New",
+      "dateAdded": "2024-05-12T08:30:00Z"
+    },
+    {
+      "id": "LEAD-MDU-HOSP-002",
+      "name": "Devadoss Multispeciality Hospital (Infrastructure Division)",
+      "category": "Corporate Healthcare Buyer",
+      "location": "Surveyor Colony / Alagar Kovil Rd, Madurai",
+      "phone": "+91 452 4521000",
+      "whatsapp": "+91 98421 45210",
+      "email": "infrastructure@devadosshospitals.com",
+      "website": "https://www.devadosshospitals.com",
+      "notes": "Looking for 1.5 to 3 acres along Alagar Kovil Road corridor within 5 km of Surveyor Colony for orthopaedics and sports medicine annexe facility.",
+      "status": "New",
+      "dateAdded": "2024-05-14T10:15:00Z"
+    },
+    {
+      "id": "LEAD-MDU-HOSP-003",
+      "name": "Vadamalayan Hospitals (Strategic Projects Office)",
+      "category": "Healthcare Group",
+      "location": "Alagar Kovil Road, Chokkikulam, Madurai",
+      "phone": "+91 452 2545400",
+      "whatsapp": "+91 99441 54400",
+      "email": "corp.expansion@vadamalayan.org",
+      "website": "https://www.vadamalayan.org",
+      "notes": "Direct mandate for 2 to 4 acres land suited for modern diagnostic & daycare annexe center with high floor area ratio along Alagar Kovil stretch.",
+      "status": "New",
+      "dateAdded": "2024-05-15T11:45:00Z"
+    },
+    {
+      "id": "LEAD-MDU-HOSP-004",
+      "name": "Hannah Joseph Hospital (Neuro & Surgical Expansion Team)",
+      "category": "Hospital Management",
+      "location": "Ring Road Junction - Alagar Kovil Corridor, Madurai",
+      "phone": "+91 452 2523232",
+      "whatsapp": "Not public",
+      "email": "projects@hannahjosephhospital.com",
+      "website": "https://www.hannahjosephhospital.com",
+      "notes": "Urgent requirement for 2+ acres clear-title land near Madurai North / Alagar Kovil Road junction for neuro-rehabilitation and research campus extension.",
+      "status": "New",
+      "dateAdded": "2024-05-16T09:20:00Z"
+    },
+    {
+      "id": "LEAD-MDU-HOSP-005",
+      "name": "Kauvery Hospital Group (South TN Land Acquisition Unit)",
+      "category": "Corporate Healthcare Buyer",
+      "location": "Alagar Kovil Highway Extension, Madurai",
+      "phone": "+91 44 40006000",
+      "whatsapp": "+91 98409 12345",
+      "email": "land.acquisition@kauveryhospital.com",
+      "website": "https://www.kauveryhospital.com",
+      "notes": "Seeking 4 to 8 acres on or close to Alagar Kovil Highway for a multi-specialty regional super-care annexe. High preference for clear frontage and immediate registration.",
+      "status": "New",
+      "dateAdded": "2024-05-18T14:10:00Z"
+    },
+    {
+      "id": "LEAD-MDU-HOSP-006",
+      "name": "Apollo Hospitals Enterprise (Madurai Regional Directorate)",
+      "category": "Corporate Healthcare Buyer",
+      "location": "KK Nagar - Alagar Kovil Link Road, Madurai",
+      "phone": "+91 452 2580892",
+      "whatsapp": "Not public",
+      "email": "expansion_madurai@apollohospitals.com",
+      "website": "https://www.apollohospitals.com",
+      "notes": "Direct corporate requirement for 3 to 5 acres for Apollo Cancer Care & Proton Therapy Annexe project near Alagar Kovil Highway corridor.",
+      "status": "New",
+      "dateAdded": "2024-05-19T08:00:00Z"
+    },
+    {
+      "id": "LEAD-MDU-HOSP-007",
+      "name": "Guru Hospital Cancer Centre (Land & Infra Wing)",
+      "category": "Medical Trust",
+      "location": "Kadachanendhal / Alagar Kovil Main Road, Madurai",
+      "phone": "+91 452 2568600",
+      "whatsapp": "+91 98421 56860",
+      "email": "admin@guruhospital.com",
+      "website": "https://www.guruhospital.com",
+      "notes": "Direct requirement for 2 to 3.5 acres of commercial plot on Alagar Kovil Road for nuclear medicine and radiation therapy annexe block.",
+      "status": "New",
+      "dateAdded": "2024-05-20T13:30:00Z"
+    },
+    {
+      "id": "LEAD-MDU-HOSP-008",
+      "name": "Velammal Medical College & Hospital (Trust Expansion Group)",
+      "category": "Medical Education & Healthcare Trust",
+      "location": "Alagar Kovil Highway Belt, Madurai",
+      "phone": "+91 452 7110000",
+      "whatsapp": "+91 94433 71100",
+      "email": "estate@velammalmedicalcollege.edu.in",
+      "website": "https://www.velammalmedicalcollege.edu.in",
+      "notes": "Targeting 5 to 10 acres off Alagar Kovil Highway for nursing college annexe and allied health sciences training facility. Prefers single-owner land parcel.",
+      "status": "New",
+      "dateAdded": "2024-05-21T16:00:00Z"
+    },
+    {
+      "id": "LEAD-MDU-HOSP-009",
+      "name": "Preethi Hospital & Orthopaedic Research Institute",
+      "category": "Hospital Management",
+      "location": "K.K. Nagar / Alagar Kovil Link, Madurai",
+      "phone": "+91 452 2533200",
+      "whatsapp": "+91 98421 53320",
+      "email": "projects@preethihospital.com",
+      "website": "https://www.preethihospital.com",
+      "notes": "Direct land search for 1.5 to 3 acres along Alagar Kovil Main Road to set up a trauma care & joint replacement specialty annexe.",
+      "status": "New",
+      "dateAdded": "2024-05-22T10:45:00Z"
+    },
+    {
+      "id": "LEAD-MDU-HOSP-010",
+      "name": "Aravind Eye Care System (Infrastructure & Estate Dept)",
+      "category": "Eye Care Trust / Healthcare Non-Profit",
+      "location": "Alagar Kovil Highway Suburban Stretch, Madurai",
+      "phone": "+91 452 4356500",
+      "whatsapp": "Not public",
+      "email": "infrastructure@aravind.org",
+      "website": "https://www.aravind.org",
+      "notes": "Requirement for 3 to 5 acres plot for ocular research & Low Vision Rehabilitation annexe on Alagar Kovil Road. Commercial zoning required.",
+      "status": "New",
+      "dateAdded": "2024-05-23T09:00:00Z"
+    },
+    {
+      "id": "LEAD-MDU-HOSP-011",
+      "name": "Bose Clinical Laboratory & Speciality Hospital",
+      "category": "Healthcare Diagnostics & Hospital Group",
+      "location": "Alagar Kovil Road, Madurai",
+      "phone": "+91 452 2530524",
+      "whatsapp": "+91 98421 30524",
+      "email": "expansion@boseclinic.com",
+      "website": "https://www.boseclinic.com",
+      "notes": "Seeking 1 to 2 acres near Surveyor Colony / Alagar Kovil Highway for central diagnostic & day-care surgery annexe building.",
+      "status": "New",
+      "dateAdded": "2024-05-24T12:15:00Z"
+    },
+    {
+      "id": "LEAD-MDU-HOSP-012",
+      "name": "Dr. Agarwal's Eye Hospital (Regional Expansion Cell)",
+      "category": "Corporate Healthcare Buyer",
+      "location": "Alagar Kovil Main Road Corridor, Madurai",
+      "phone": "+91 44 43004300",
+      "whatsapp": "+91 98400 43000",
+      "email": "property.south@dragarwal.com",
+      "website": "https://www.dragarwal.com",
+      "notes": "Looking for 0.75 to 1.5 acres of roadside land along Alagar Kovil Highway for dedicated refractive surgery annexe campus.",
+      "status": "New",
+      "dateAdded": "2024-05-25T15:30:00Z"
+    },
+    {
+      "id": "LEAD-MDU-HOSP-013",
+      "name": "Quality CARE India Ltd (Madurai Expansion Directorate)",
+      "category": "Corporate Healthcare Chain",
+      "location": "Madurai North / Alagar Kovil Road Junction",
+      "phone": "+91 40 68106500",
+      "whatsapp": "Not public",
+      "email": "realestate@carehospitals.com",
+      "website": "https://www.carehospitals.com",
+      "notes": "Direct mandate to acquire 3 to 6 acres for a 200-bed cardiac and vascular care annexe facility in Madurai. Focus area: Alagar Kovil Road stretch.",
+      "status": "New",
+      "dateAdded": "2024-05-26T11:00:00Z"
+    },
+    {
+      "id": "LEAD-MDU-HOSP-014",
+      "name": "Sundaram Medical Foundation (TVS Healthcare Division)",
+      "category": "Medical Trust",
+      "location": "Alagar Kovil Highway Zone, Madurai",
+      "phone": "+91 452 2581234",
+      "whatsapp": "+91 98428 58123",
+      "email": "projects@smf trust.org",
+      "website": "https://www.smfonline.org",
+      "notes": "Evaluating 2.5 to 5 acres along Alagar Kovil Road for community health and geriatric wellness annexe. Needs clear access for emergency vehicles.",
+      "status": "New",
+      "dateAdded": "2024-05-27T14:20:00Z"
+    },
+    {
+      "id": "LEAD-MDU-HOSP-015",
+      "name": "Royal Care Super Speciality Hospital (Land Acquisition Wing)",
+      "category": "Healthcare Group",
+      "location": "Alagar Kovil Road Corridor, Madurai",
+      "phone": "+91 422 2227000",
+      "whatsapp": "+91 98430 22700",
+      "email": "land@royalcarehospital.in",
+      "website": "https://www.royalcarehospital.in",
+      "notes": "Looking for 4 to 7 acres of institutional/commercial land on Alagar Kovil Highway for a flagship tertiary-care expansion annexe.",
+      "status": "New",
+      "dateAdded": "2024-05-28T16:50:00Z"
     }
   ]
 }

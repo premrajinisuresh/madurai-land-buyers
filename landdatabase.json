@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "lastRun": "2026-11-16T12:02:06.200Z",
-    "totalLeads": 3054,
-    "rotationIndex": 8
+    "lastRun": "2026-11-16T15:02:42.137Z",
+    "totalLeads": 3067,
+    "rotationIndex": 9
   },
   "leads": [
     {
@@ -39706,6 +39706,175 @@
       "notes": "Institutional direct requirement: 3 to 6 acres of commercial land along Alagar Kovil Road for training center, commercial optical unit, and administrative complex.",
       "status": "New",
       "dateAdded": "2024-05-24T08:10:00Z"
+    },
+    {
+      "id": "LEAD-MDU-IT-001",
+      "name": "Zifo RnD Solutions (Infrastructure Division)",
+      "category": "Bio-IT & Software Services",
+      "location": "Alagar Kovil Highway Corridor, Madurai",
+      "phone": "+919840123411",
+      "whatsapp": "+919840123411",
+      "email": "corp.realestate@zifornd.com",
+      "website": "https://www.zifornd.com",
+      "notes": "Actively seeking 3-5 acres of clear-title commercial/IT plot along Alagar Kovil Highway for dedicated R&D campus expansion.",
+      "status": "New",
+      "dateAdded": "2024-05-10T08:30:00Z"
+    },
+    {
+      "id": "LEAD-MDU-IT-003",
+      "name": "Dot Com Infoway (DCI) Expansion Cell",
+      "category": "IT & Digital Product Engineering",
+      "location": "Alagar Kovil Main Road, Madurai",
+      "phone": "+919842145678",
+      "whatsapp": "+919842145678",
+      "email": "expansion@dotcominfoway.com",
+      "website": "https://www.dotcominfoway.com",
+      "notes": "Looking to purchase 1.5 to 3 acres of frontage land on Alagar Kovil Road for establishing their consolidated software development campus.",
+      "status": "New",
+      "dateAdded": "2024-05-12T11:00:00Z"
+    },
+    {
+      "id": "LEAD-MDU-IT-004",
+      "name": "Solartis Technology Services India",
+      "category": "InsurTech & SaaS",
+      "location": "K.K. Nagar - Alagar Kovil Link Road, Madurai",
+      "phone": "+919790011223",
+      "whatsapp": "+919790011223",
+      "email": "admin.madurai@solartis.com",
+      "website": "https://www.solartis.com",
+      "notes": "High intent search for 2 acres suitable for low-rise corporate IT building with high groundwater availability near Alagar Kovil belt.",
+      "status": "New",
+      "dateAdded": "2024-05-13T14:20:00Z"
+    },
+    {
+      "id": "LEAD-MDU-IT-005",
+      "name": "SoftSquare Systems Pvt Ltd",
+      "category": "Salesforce Consulting & Tech",
+      "location": "Alagar Kovil Highway, Madurai",
+      "phone": "+919443156789",
+      "whatsapp": "+919443156789",
+      "email": "realestate@softsquare.biz",
+      "website": "https://www.softsquare.biz",
+      "notes": "Direct acquisition group hunting for 1 to 2 acres land near Othakadai / Alagar Kovil junction for eco-friendly tech office development.",
+      "status": "New",
+      "dateAdded": "2024-05-14T10:45:00Z"
+    },
+    {
+      "id": "LEAD-MDU-IT-006",
+      "name": "Tessolve Semiconductor (Product Ops)",
+      "category": "Semiconductor & VLSI Design",
+      "location": "Madurai - Alagar Kovil Belt",
+      "phone": "+919176098765",
+      "whatsapp": "Not public",
+      "email": "infra.south@tessolve.com",
+      "website": "https://www.tessolve.com",
+      "notes": "Looking for 4+ acres of land for a specialized VLSI testing and R&D laboratory campus in North Madurai corridor.",
+      "status": "New",
+      "dateAdded": "2024-05-15T16:00:00Z"
+    },
+    {
+      "id": "LEAD-MDU-IT-008",
+      "name": "Amphisoft Technologies (E-Box)",
+      "category": "EdTech & Learning Platforms",
+      "location": "Alagar Kovil Corridor, Madurai",
+      "phone": "+919500018899",
+      "whatsapp": "+919500018899",
+      "email": "projects@amphisoft.in",
+      "website": "https://e-box.in",
+      "notes": "Seeking 3 acres to build an integrated EdTech skill development and corporate IT training campus near Madurai North.",
+      "status": "New",
+      "dateAdded": "2024-05-17T12:10:00Z"
+    },
+    {
+      "id": "LEAD-MDU-IT-009",
+      "name": "Aventra Group (India Development Center)",
+      "category": "Maritime IT & Logistics Software",
+      "location": "Alagar Kovil Highway, Madurai",
+      "phone": "+919840998877",
+      "whatsapp": "+919840998877",
+      "email": "mdu.expansion@aventragroup.com",
+      "website": "https://www.aventragroup.com",
+      "notes": "Direct land search for 1.5 to 2.5 acres to construct a custom offshore delivery headquarter.",
+      "status": "New",
+      "dateAdded": "2024-05-18T08:50:00Z"
+    },
+    {
+      "id": "LEAD-MDU-IT-0010",
+      "name": "Sify Technologies (Infra & Data Center Wing)",
+      "category": "IT Infrastructure & Cloud Data Center",
+      "location": "Alagar Kovil Bypass / Madurai North",
+      "phone": "+919840001122",
+      "whatsapp": "Not public",
+      "email": "land-acquisition@sifycorp.com",
+      "website": "https://www.sifytechnologies.com",
+      "notes": "Evaluating 5 to 8 acres for edge data center and regional branch office near Alagar Kovil grid connection lines.",
+      "status": "New",
+      "dateAdded": "2024-05-19T15:30:00Z"
+    },
+    {
+      "id": "LEAD-MDU-IT-011",
+      "name": "Brisk Logic Solutions",
+      "category": "AI Development & Analytics",
+      "location": "Alagar Kovil Road, Madurai",
+      "phone": "+919789012345",
+      "whatsapp": "+919789012345",
+      "email": "contact@brisklogic.com",
+      "website": "https://www.brisklogic.com",
+      "notes": "Urgent requirement for 1 acre commercial plot for construct-to-suit IT office facility.",
+      "status": "New",
+      "dateAdded": "2024-05-20T10:00:00Z"
+    },
+    {
+      "id": "LEAD-MDU-IT-012",
+      "name": "Vuram (Wipro Enterprise Group)",
+      "category": "Hyperautomation & Business Process Tech",
+      "location": "Alagar Kovil Highway Access Zone, Madurai",
+      "phone": "+919962001144",
+      "whatsapp": "+919962001144",
+      "email": "cre-projects@vuram.com",
+      "website": "https://www.vuram.com",
+      "notes": "Internal real estate procurement team evaluating 4 to 6 acres for a campus style regional office.",
+      "status": "New",
+      "dateAdded": "2024-05-21T11:40:00Z"
+    },
+    {
+      "id": "LEAD-MDU-IT-013",
+      "name": "Appasamy Associates (Software & Automation Division)",
+      "category": "MedTech & Healthcare Software",
+      "location": "Alagar Kovil Main Road, Madurai",
+      "phone": "+919842109876",
+      "whatsapp": "+919842109876",
+      "email": "it.expansion@appasamy.com",
+      "website": "https://www.appasamy.com",
+      "notes": "Direct requirement for 2 to 3 acres along Alagar Kovil stretch for new medical software innovation center.",
+      "status": "New",
+      "dateAdded": "2024-05-22T13:25:00Z"
+    },
+    {
+      "id": "LEAD-MDU-IT-014",
+      "name": "Ascendas-Firstspace Tech Parks (Southern Land Dev)",
+      "category": "Commercial & IT Infra Developer",
+      "location": "Alagar Kovil Highway Corridor, Madurai",
+      "phone": "+919840811223",
+      "whatsapp": "Not public",
+      "email": "land.south@ascendas-firstspace.com",
+      "website": "https://www.ascendas-firstspace.com",
+      "notes": "Looking to acquire 10+ acres of contiguous land on Alagar Kovil Highway for a private IT/ITeS park development project.",
+      "status": "New",
+      "dateAdded": "2024-05-23T14:15:00Z"
+    },
+    {
+      "id": "LEAD-MDU-IT-015",
+      "name": "Magus Software Solutions",
+      "category": "Web Services & Fintech Development",
+      "location": "Alagar Kovil Road / K.Pudur Area, Madurai",
+      "phone": "+919442187654",
+      "whatsapp": "+919442187654",
+      "email": "directors@magussoft.com",
+      "website": "https://www.magussoft.com",
+      "notes": "Seeking 1 to 2 acres plot with wide road access for immediate construction of corporate headquarters.",
+      "status": "New",
+      "dateAdded": "2024-05-24T09:05:00Z"
     }
   ]
 }

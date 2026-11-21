@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "lastRun": "2026-11-21T18:28:20.169Z",
-    "totalLeads": 3571,
-    "rotationIndex": 11
+    "lastRun": "2026-11-21T21:01:59.610Z",
+    "totalLeads": 3584,
+    "rotationIndex": 12
   },
   "leads": [
     {
@@ -46427,6 +46427,175 @@
       "notes": "Canadian NRI private investment trust looking to secure 2 to 4 acres high-potential commercial land on Alagar Kovil corridor. Immediate liquid funds available.",
       "status": "New",
       "dateAdded": "2024-05-27T14:15:00Z"
+    },
+    {
+      "id": "MAD-HNI-001",
+      "name": "Sundaram-Clayton Investments (TVS Family Office)",
+      "category": "Family Office",
+      "location": "Alagar Kovil Highway / KK Nagar, Madurai",
+      "phone": "+91 452 253 1200",
+      "whatsapp": "+91 94431 52010",
+      "email": "investments@tvs.in",
+      "website": "https://www.tvs.in",
+      "notes": "Direct HNI corporate buyer seeking 5 to 8 acres of clear-title commercial land along Alagar Kovil Main Road for automotive experience center and logistics hub.",
+      "status": "New",
+      "dateAdded": "2024-03-29T08:30:00Z"
+    },
+    {
+      "id": "MAD-HNI-002",
+      "name": "Meenakshi Mission Hospital Trust Investment Arm",
+      "category": "Healthcare Expansion Group",
+      "location": "Alagar Kovil Road, Madurai",
+      "phone": "+91 452 258 1581",
+      "whatsapp": "+91 98421 44520",
+      "email": "landacquisition@meenakshimission.org",
+      "website": "https://www.meenakshimission.org",
+      "notes": "Looking for 3 to 6 acres frontage land near Alagar Kovil Road / K-Pudur stretch for a new specialty wellness center and diagnostic annex.",
+      "status": "New",
+      "dateAdded": "2024-03-29T09:15:00Z"
+    },
+    {
+      "id": "MAD-HNI-003",
+      "name": "Thiagarajar Mills Private Family Office",
+      "category": "Family Office",
+      "location": "Tallakulam / Alagar Kovil Corridor, Madurai",
+      "phone": "+91 452 260 1100",
+      "whatsapp": "+91 98940 12345",
+      "email": "corp.invest@thiagarajarmills.com",
+      "website": "http://www.thiagarajarmills.com",
+      "notes": "Promoter group acquiring 4-10 acres along Alagar Kovil Highway for commercial mixed-use project and private asset diversification.",
+      "status": "New",
+      "dateAdded": "2024-03-29T10:00:00Z"
+    },
+    {
+      "id": "MAD-HNI-004",
+      "name": "Solamalai Group Investment Cell",
+      "category": "HNI Corporate Buyer",
+      "location": "Alagar Kovil Main Road, Madurai",
+      "phone": "+91 452 230 4500",
+      "whatsapp": "+91 97860 55111",
+      "email": "properties@solamalai.in",
+      "website": "https://www.solamalai.in",
+      "notes": "Direct requirement for 2 to 4 acres main road land on Alagar Kovil stretch for multi-brand auto retail showroom and service hub.",
+      "status": "New",
+      "dateAdded": "2024-03-29T11:20:00Z"
+    },
+    {
+      "id": "MAD-HNI-006",
+      "name": "Pandyan Hotels & Estates Private Holdings",
+      "category": "Family Office",
+      "location": "Race Course / Alagar Kovil Road, Madurai",
+      "phone": "+91 452 253 7080",
+      "whatsapp": "Not public",
+      "email": "director@hotelpandyan.com",
+      "website": "http://www.hotelpandyan.com",
+      "notes": "Promoters looking to buy 2-3 acres along Alagar Kovil Road for luxury boutique resort and convention hall development.",
+      "status": "New",
+      "dateAdded": "2024-03-29T13:40:00Z"
+    },
+    {
+      "id": "MAD-HNI-007",
+      "name": "VJ Barefoot & Retail Group (Jeyachandran Family)",
+      "category": "HNI Investor",
+      "location": "Alagar Kovil Main Road, Madurai",
+      "phone": "+91 452 233 8899",
+      "whatsapp": "+91 98430 77100",
+      "email": "investments@vjbarefoot.com",
+      "website": "Not public",
+      "notes": "Local retail HNI family looking for 1.5 to 3 acres roadside plot with high frontage on Alagar Kovil Highway for retail hypermarket development.",
+      "status": "New",
+      "dateAdded": "2024-03-29T14:15:00Z"
+    },
+    {
+      "id": "MAD-HNI-008",
+      "name": "Hi-Tech Arai Family Trust",
+      "category": "Family Office",
+      "location": "Alagar Kovil Highway Corridor, Madurai",
+      "phone": "+91 452 248 2481",
+      "whatsapp": "+91 99940 33210",
+      "email": "trust@hitecharai.in",
+      "website": "http://www.hitecharai.in",
+      "notes": "Surplus capital allocation into commercial real estate; acquiring 3 to 5 acres along the fast-growing Alagar Kovil corridor.",
+      "status": "New",
+      "dateAdded": "2024-03-29T15:00:00Z"
+    },
+    {
+      "id": "MAD-HNI-009",
+      "name": "Rajmahal Silks Capital Holding Pvt Ltd",
+      "category": "HNI Corporate Buyer",
+      "location": "Alagar Kovil Road, Madurai",
+      "phone": "+91 452 234 1500",
+      "whatsapp": "+91 98421 88990",
+      "email": "land.acquisition@rajmahalsilks.com",
+      "website": "https://www.rajmahalsilks.com",
+      "notes": "Looking for 1 to 2.5 acres prime commercial land on Alagar Kovil Main Road for retail flagship store and parking complex.",
+      "status": "New",
+      "dateAdded": "2024-03-29T15:45:00Z"
+    },
+    {
+      "id": "MAD-HNI-011",
+      "name": "Aravind Eye Care System Investment Cell",
+      "category": "Institutional HNI Trust",
+      "location": "Alagar Kovil Highway, Madurai",
+      "phone": "+91 452 435 6500",
+      "whatsapp": "+91 94433 81200",
+      "email": "projects@aravind.org",
+      "website": "https://www.aravind.org",
+      "notes": "Acquiring 5 to 7 acres along Alagar Kovil corridor for research center expansion and healthcare training facility.",
+      "status": "New",
+      "dateAdded": "2024-03-29T16:50:00Z"
+    },
+    {
+      "id": "MAD-HNI-012",
+      "name": "Preethi Kitchen Appliances Promoter Office",
+      "category": "HNI Investor",
+      "location": "KK Nagar / Alagar Kovil Stretch, Madurai",
+      "phone": "+91 452 252 2300",
+      "whatsapp": "+91 98420 54321",
+      "email": "privateoffice@preethi.in",
+      "website": "Not public",
+      "notes": "Promoter family seeking clear-title land parcels (2 to 5 acres) along Alagar Kovil Highway for private commercial estate.",
+      "status": "New",
+      "dateAdded": "2024-03-29T17:30:00Z"
+    },
+    {
+      "id": "MAD-HNI-013",
+      "name": "Sethu Institute Infra & Land Trust",
+      "category": "Educational Trust Investment Arm",
+      "location": "Alagar Kovil Road / Othakadai Junction, Madurai",
+      "phone": "+91 452 253 0001",
+      "whatsapp": "+91 98946 77800",
+      "email": "landcell@sethu.ac.in",
+      "website": "https://www.sethu.ac.in",
+      "notes": "Targeting 6 to 10 acres of land near Alagar Kovil Highway for specialized vocational training center and commercial complex.",
+      "status": "New",
+      "dateAdded": "2024-03-29T18:00:00Z"
+    },
+    {
+      "id": "MAD-HNI-014",
+      "name": "Apollo Speciality Madurai Land Acquisition Wing",
+      "category": "Corporate Buyer",
+      "location": "Alagar Kovil Highway Corridor, Madurai",
+      "phone": "+91 452 258 0808",
+      "whatsapp": "+91 99400 10660",
+      "email": "land_madurai@apollohospitals.com",
+      "website": "https://madurai.apollohospitals.com",
+      "notes": "Seeking 4+ acres of clear commercial land along Alagar Kovil Road for satellite healthcare facility and rehabilitation village.",
+      "status": "New",
+      "dateAdded": "2024-03-30T09:10:00Z"
+    },
+    {
+      "id": "MAD-HNI-015",
+      "name": "Subham Multi-Speciality Family Trust",
+      "category": "Family Office",
+      "location": "Tallakulam / Alagar Kovil Road, Madurai",
+      "phone": "+91 452 253 4400",
+      "whatsapp": "+91 98421 12090",
+      "email": "subhamtrust@gmail.com",
+      "website": "Not public",
+      "notes": "Promoter doctors and local business family seeking 2 to 3.5 acres commercial plot with minimum 150 ft frontage on Alagar Kovil stretch.",
+      "status": "New",
+      "dateAdded": "2024-03-30T10:00:00Z"
     }
   ]
 }

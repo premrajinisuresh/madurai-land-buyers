@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "lastRun": "2026-11-22T03:01:42.218Z",
-    "totalLeads": 3627,
-    "rotationIndex": 15
+    "lastRun": "2026-11-22T06:01:47.590Z",
+    "totalLeads": 3639,
+    "rotationIndex": 16
   },
   "leads": [
     {
@@ -47155,6 +47155,162 @@
       "notes": "Direct strategic mandate to acquire 1 to 2 acres of prime commercial plot on Alagar Kovil Highway for constructing TMB Madurai Regional Office & Training Hub.",
       "status": "New",
       "dateAdded": "2024-10-24T19:00:00Z"
+    },
+    {
+      "id": "LEAD-MDU-001",
+      "name": "Sundaram Family Office (TVS Group Affiliate)",
+      "category": "Industrialist Family Office",
+      "location": "Madurai / Chennai, Tamil Nadu",
+      "phone": "+91 452 230 1100",
+      "whatsapp": "+91 94431 20110",
+      "email": "investments@sundaramholdings.co.in",
+      "website": "https://www.tvs.in",
+      "notes": "Seeking 5-10 acres of prime commercial land on Alagar Kovil Road for mixed-use corporate hub and distribution asset.",
+      "status": "New",
+      "dateAdded": "2025-02-22T09:30:00Z"
+    },
+    {
+      "id": "LEAD-MDU-002",
+      "name": "Thiagarajar Legacy Holdings",
+      "category": "Industrialist Family Office",
+      "location": "Madurai, Tamil Nadu",
+      "phone": "+91 452 245 8201",
+      "whatsapp": "Not public",
+      "email": "realestate@thiagarajar.com",
+      "website": "https://www.loyaltextiles.com",
+      "notes": "Textile industrialist family office seeking 3+ acres road-frontage land near Kadachanendal/Alagar Kovil Road for commercial footprint expansion.",
+      "status": "New",
+      "dateAdded": "2025-02-22T10:15:00Z"
+    },
+    {
+      "id": "LEAD-MDU-003",
+      "name": "Idhayam Group Promoter Office (V.V.V. & Sons)",
+      "category": "Industrialist Family Office",
+      "location": "Virudhunagar / Madurai, Tamil Nadu",
+      "phone": "+91 4562 243 505",
+      "whatsapp": "+91 98421 43505",
+      "email": "corporate@idhayam.com",
+      "website": "https://www.idhayam.com",
+      "notes": "Targeting 2-5 acres on Alagar Kovil Highway for regional corporate administration offices and central logistics hub.",
+      "status": "New",
+      "dateAdded": "2025-02-22T11:00:00Z"
+    },
+    {
+      "id": "LEAD-MDU-004",
+      "name": "Kaliswari Group Family Office",
+      "category": "Industrialist Family Office",
+      "location": "Sivakasi / Madurai, Tamil Nadu",
+      "phone": "+91 4562 274 201",
+      "whatsapp": "+91 94422 74201",
+      "email": "land.acquisition@kaliswari.com",
+      "website": "https://www.kaliswari.com",
+      "notes": "High-net-worth Sivakasi industrial group seeking 10+ acres along Alagar Kovil corridor for commercial land banking and institutional development.",
+      "status": "New",
+      "dateAdded": "2025-02-22T11:45:00Z"
+    },
+    {
+      "id": "LEAD-MDU-005",
+      "name": "Solamalai Group Commercial Division",
+      "category": "Corporate Conglomerate",
+      "location": "Madurai, Tamil Nadu",
+      "phone": "+91 452 438 8888",
+      "whatsapp": "+91 98424 38888",
+      "email": "projects@solamalai.in",
+      "website": "https://www.solamalai.in",
+      "notes": "Direct corporate buyer looking for commercial parcels (2-6 acres) near Alagar Kovil Highway for auto experience center and commercial plaza.",
+      "status": "New",
+      "dateAdded": "2025-02-22T12:20:00Z"
+    },
+    {
+      "id": "LEAD-MDU-007",
+      "name": "Hi-Tech Arai Promoter Investment Arm",
+      "category": "Industrialist Corporate",
+      "location": "Madurai, Tamil Nadu",
+      "phone": "+91 452 242 0400",
+      "whatsapp": "Not public",
+      "email": "investment@hitecharai.in",
+      "website": "https://www.hitecharai.in",
+      "notes": "Automotive component industrialist group looking for 4-6 acres commercial/light-industrial parcel near Alagar Kovil bypass.",
+      "status": "New",
+      "dateAdded": "2025-02-22T13:40:00Z"
+    },
+    {
+      "id": "LEAD-MDU-008",
+      "name": "Pandyan Hotels & Hospitality Group",
+      "category": "Commercial Buyer",
+      "location": "Madurai, Tamil Nadu",
+      "phone": "+91 452 253 7091",
+      "whatsapp": "+91 98430 53709",
+      "email": "expansion@pandyanhotel.com",
+      "website": "https://www.pandyanhotel.com",
+      "notes": "Acquiring 2-4 acres of prime road frontage on Alagar Kovil Road for a boutique resort and event convention complex.",
+      "status": "New",
+      "dateAdded": "2025-02-22T14:15:00Z"
+    },
+    {
+      "id": "LEAD-MDU-009",
+      "name": "Sitalakshmi Mills Legacy Family Office (Subburaj Family)",
+      "category": "Industrialist Family Office",
+      "location": "Madurai, Tamil Nadu",
+      "phone": "+91 452 267 0211",
+      "whatsapp": "Not public",
+      "email": "familyoffice@sitalakshmimills.com",
+      "website": "Not public",
+      "notes": "Industrialist family office seeking capital deployment in 5+ acres commercial land in North Madurai / Alagar Kovil highway area.",
+      "status": "New",
+      "dateAdded": "2025-02-22T14:50:00Z"
+    },
+    {
+      "id": "LEAD-MDU-010",
+      "name": "KLN Industrial Group Investment Trust",
+      "category": "Industrialist / Institutional",
+      "location": "Madurai, Tamil Nadu",
+      "phone": "+91 452 269 8971",
+      "whatsapp": "+91 94433 69897",
+      "email": "landbank@kln.ac.in",
+      "website": "https://www.klnce.ac.in",
+      "notes": "Seeking 6-12 acres commercial/mixed-use plot along Alagar Kovil Road for tech park and corporate training institution.",
+      "status": "New",
+      "dateAdded": "2025-02-22T15:30:00Z"
+    },
+    {
+      "id": "LEAD-MDU-012",
+      "name": "Pioneer Asia Group Family Office",
+      "category": "Industrialist Family Office",
+      "location": "Sivakasi / Madurai, Tamil Nadu",
+      "phone": "+91 4562 220 541",
+      "whatsapp": "+91 94431 20541",
+      "email": "corporate@pioneerasia.com",
+      "website": "https://www.pioneerasia.com",
+      "notes": "Prominent match and wind energy industrialist group seeking 5+ acres commercial land near Madurai-Alagar Kovil Road for long-term investment.",
+      "status": "New",
+      "dateAdded": "2025-02-22T16:45:00Z"
+    },
+    {
+      "id": "LEAD-MDU-014",
+      "name": "V.S. Enterprises & Cold Chain Logistics",
+      "category": "Logistics / Industrial Buyer",
+      "location": "Madurai, Tamil Nadu",
+      "phone": "+91 452 248 1190",
+      "whatsapp": "+91 98432 48119",
+      "email": "expansion@vslogistics.co.in",
+      "website": "Not public",
+      "notes": "Requires 3-5 acres roadside commercial land for cold storage and agro-product distribution hub near Alagar Kovil Highway.",
+      "status": "New",
+      "dateAdded": "2025-02-22T17:50:00Z"
+    },
+    {
+      "id": "LEAD-MDU-015",
+      "name": "Meenakshi Mission Hospital Expansion Division",
+      "category": "Healthcare Corporate",
+      "location": "Madurai, Tamil Nadu",
+      "phone": "+91 452 258 0580",
+      "whatsapp": "Not public",
+      "email": "landbank@mmhrc.in",
+      "website": "https://www.melurmeenakshi.com",
+      "notes": "Looking to acquire 4-7 acres commercial land on Alagar Kovil Highway for auxiliary healthcare facility and wellness center.",
+      "status": "New",
+      "dateAdded": "2025-02-22T18:30:00Z"
     }
   ]
 }

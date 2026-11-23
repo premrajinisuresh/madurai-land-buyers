@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "lastRun": "2026-11-23T11:33:56.533Z",
-    "totalLeads": 3817,
-    "rotationIndex": 28
+    "lastRun": "2026-11-23T12:02:14.363Z",
+    "totalLeads": 3831,
+    "rotationIndex": 29
   },
   "leads": [
     {
@@ -49625,6 +49625,188 @@
       "notes": "Direct Gulf investor looking to buy 4 acres frontage land on Alagar Kovil Road, Madurai for building a multiplex and commercial shopping complex.",
       "status": "New",
       "dateAdded": "2024-10-23T17:00:00Z"
+    },
+    {
+      "id": "MDU-HNI-101",
+      "name": "Pandian Family Office & Capital Investments",
+      "category": "Family Office / Retail HNI",
+      "location": "K.K. Nagar, Madurai, Tamil Nadu",
+      "phone": "+91 452 253 4100",
+      "whatsapp": "+91 94431 52890",
+      "email": "investments@pandianholdings.in",
+      "website": "https://www.pandianholdings.in",
+      "notes": "Direct family office seeking 3 to 5 acres of commercial frontage land along Alagar Kovil Road (Pudur to Othakadai stretch) for a Grade-A mixed-use commercial complex and retail anchor. Zero broker involvement.",
+      "status": "New",
+      "dateAdded": "2024-05-18T09:30:00Z"
+    },
+    {
+      "id": "MDU-HNI-102",
+      "name": "Aravind Regional Healthcare Holdings",
+      "category": "Healthcare Enterprise / HNI",
+      "location": "Tallakulam, Madurai, Tamil Nadu",
+      "phone": "+91 452 435 6000",
+      "whatsapp": "+91 98421 11450",
+      "email": "land.acquisitions@aravindhealth.org",
+      "website": "https://www.aravindhealth.org",
+      "notes": "Private expansion wing seeking 2 to 4 acres along Alagar Kovil Highway within 8 km of Tallakulam for a new specialized rehabilitation and wellness hospital campus.",
+      "status": "New",
+      "dateAdded": "2024-05-18T09:45:00Z"
+    },
+    {
+      "id": "MDU-HNI-103",
+      "name": "VAA Granites & Infra Family Office",
+      "category": "Industrial HNI Family Office",
+      "location": "Melur Road, Madurai, Tamil Nadu",
+      "phone": "+91 452 242 1890",
+      "whatsapp": "+91 94433 78120",
+      "email": "capital@vaagranites.com",
+      "website": "https://www.vaagranites.com",
+      "notes": "Single-family office looking to deploy surplus capital into 5+ acres of commercial road-facing land near Alagar Kovil road junction for long-term commercial land banking and hotel development.",
+      "status": "New",
+      "dateAdded": "2024-05-18T10:15:00Z"
+    },
+    {
+      "id": "MDU-HNI-104",
+      "name": "Meenakshi Agro-Exports HNI Trust",
+      "category": "Agro-Business HNI",
+      "location": "Alagar Kovil Road, Madurai, Tamil Nadu",
+      "phone": "+91 452 256 7711",
+      "whatsapp": "+91 97877 44300",
+      "email": "directors@meenakshiagro.co.in",
+      "website": "Not public",
+      "notes": "Local business family looking for 1.5 to 3 acres along Alagar Kovil Main Road near Kadachanendal for constructing their corporate headquarters and premium private event center.",
+      "status": "New",
+      "dateAdded": "2024-05-18T10:30:00Z"
+    },
+    {
+      "id": "MDU-HNI-105",
+      "name": "Sundaram Institutional Land Procurement Wing",
+      "category": "Educational & Commercial HNI",
+      "location": "Race Course Road, Madurai, Tamil Nadu",
+      "phone": "+91 452 253 9200",
+      "whatsapp": "+91 94426 33900",
+      "email": "realestate@sundaramtrust.org",
+      "website": "https://www.sundaramtrust.org",
+      "notes": "Direct acquisition wing of institutional trust looking for 6+ acres on Alagar Kovil Highway corridor towards Appanthirupathi for an executive management campus and commercial facility.",
+      "status": "New",
+      "dateAdded": "2024-05-18T11:00:00Z"
+    },
+    {
+      "id": "MDU-HNI-106",
+      "name": "Thangamayil Commercial Development Division",
+      "category": "Retail Conglomerate Family Office",
+      "location": "West Tower Street, Madurai, Tamil Nadu",
+      "phone": "+91 452 234 5560",
+      "whatsapp": "+91 98430 55100",
+      "email": "property@thangamayil.com",
+      "website": "https://www.thangamayil.com",
+      "notes": "Corporate real estate division acquiring corner plots (min 1 acre) on main arterial roads. High interest in Alagar Kovil Highway due to high-density residential expansion.",
+      "status": "New",
+      "dateAdded": "2024-05-18T11:20:00Z"
+    },
+    {
+      "id": "MDU-HNI-107",
+      "name": "Velammal Infra & Commercial Asset Management",
+      "category": "Institutional HNI Group",
+      "location": "Ring Road, Madurai, Tamil Nadu",
+      "phone": "+91 452 246 5211",
+      "whatsapp": "+91 99444 82100",
+      "email": "assets@velammal.edu.in",
+      "website": "https://www.velammal.edu.in",
+      "notes": "Direct corporate entity acquiring land along Madurai northeast quadrant, specifically requesting 4 to 8 acres on Alagar Kovil Highway for commercial asset development.",
+      "status": "New",
+      "dateAdded": "2024-05-18T11:45:00Z"
+    },
+    {
+      "id": "MDU-HNI-108",
+      "name": "TVS Iyengar Heritage Asset Management",
+      "category": "Automotive & Infra HNI",
+      "location": "West Veli Street, Madurai, Tamil Nadu",
+      "phone": "+91 452 230 1000",
+      "whatsapp": "Not public",
+      "email": "heritage.assets@tvs.in",
+      "website": "https://www.tvs.in",
+      "notes": "Private wealth management arm evaluating 2 to 5 acres of commercial land near Pudur / Alagar Kovil Road corridor for automobile experience center and commercial hub.",
+      "status": "New",
+      "dateAdded": "2024-05-18T12:15:00Z"
+    },
+    {
+      "id": "MDU-HNI-109",
+      "name": "Sethu Family Office & Commercial Investments",
+      "category": "Family Office",
+      "location": "Pudur, Madurai, Tamil Nadu",
+      "phone": "+91 452 255 1200",
+      "whatsapp": "+91 94431 89001",
+      "email": "fo@sethuinvestments.com",
+      "website": "Not public",
+      "notes": "Prominent Madurai business family looking to buy 2 to 3 acres clear-title commercial land along Alagar Kovil Road for developing a boutique commercial complex and private club.",
+      "status": "New",
+      "dateAdded": "2024-05-18T12:40:00Z"
+    },
+    {
+      "id": "MDU-HNI-110",
+      "name": "Madura Coats Alumni Syndicate (MCAS)",
+      "category": "Private HNI Syndicate",
+      "location": "Tallakulam, Madurai, Tamil Nadu",
+      "phone": "+91 452 253 1188",
+      "whatsapp": "+91 98421 77650",
+      "email": "syndicate@maduracoatsalumni.org",
+      "website": "Not public",
+      "notes": "Syndicate of high-net-worth former industrial executives targeting high-street commercial land (1 to 2.5 acres) along Alagar Kovil Road for joint commercial lease options.",
+      "status": "New",
+      "dateAdded": "2024-05-18T13:00:00Z"
+    },
+    {
+      "id": "MDU-HNI-111",
+      "name": "Sri Mookambika Commercial Holdings",
+      "category": "Direct Developer / HNI",
+      "location": "Anna Nagar, Madurai, Tamil Nadu",
+      "phone": "+91 452 420 8899",
+      "whatsapp": "+91 94432 11980",
+      "email": "projects@mookambikaholdings.com",
+      "website": "https://www.mookambikaholdings.com",
+      "notes": "Direct acquisition group seeking land plots suitable for commercial IT/ITES park or retail space along the Alagar Kovil Highway corridor. Prefers outright purchase.",
+      "status": "New",
+      "dateAdded": "2024-05-18T13:30:00Z"
+    },
+    {
+      "id": "MDU-HNI-112",
+      "name": "Hotel Supreme Hospitality Group",
+      "category": "Hospitality HNI",
+      "location": "West Perumal Maistry Street, Madurai, Tamil Nadu",
+      "phone": "+91 452 234 3151",
+      "whatsapp": "+91 97900 12340",
+      "email": "expansion@hotelsupreme.in",
+      "website": "https://www.hotelsupreme.in",
+      "notes": "Local hotel chain looking for 2+ acres along the Alagar Kovil scenic stretch to construct a luxury resort and convention hall complex catering to temple tourism.",
+      "status": "New",
+      "dateAdded": "2024-05-18T14:10:00Z"
+    },
+    {
+      "id": "MDU-HNI-113",
+      "name": "Rajapalayam Mills Syndicate Family Office",
+      "category": "Textile HNI Group",
+      "location": "K.K. Nagar, Madurai, Tamil Nadu",
+      "phone": "+91 452 258 0900",
+      "whatsapp": "+91 94433 00987",
+      "email": "secretariat@rajapalayammills.co.in",
+      "website": "https://www.rajapalayammills.co.in",
+      "notes": "Textile conglomerate family office seeking prime land (3 to 6 acres) along Alagar Kovil road for corporate diversification into commercial real estate development.",
+      "status": "New",
+      "dateAdded": "2024-05-18T14:45:00Z"
+    },
+    {
+      "id": "MDU-HNI-115",
+      "name": "Apollo Hospitals Group - Land Acquisition Unit",
+      "category": "Healthcare Direct Buyer",
+      "location": "K.K. Nagar, Madurai, Tamil Nadu",
+      "phone": "+91 452 258 0888",
+      "whatsapp": "Not public",
+      "email": "land_madurai@apollohospitals.com",
+      "website": "https://www.apollohospitals.com",
+      "notes": "Direct acquisition team searching for 2.5 to 5 acres along Alagar Kovil Road corridor for constructing a modern satellite clinic, diagnostic hub, and staff quarter complex.",
+      "status": "New",
+      "dateAdded": "2024-05-18T15:45:00Z"
     }
   ]
 }
